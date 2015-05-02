@@ -1,0 +1,17 @@
+auction_id,auction_description,round,item_name,item_description,pwb_amount,net_pwb_amount,pw_bidder,round_of_pwb,previous_pw_bidder,round_of_previous_pwb,previous_pwb_amount,previous_net_pwb_amount
+92,700 MHz Band,30,WY-BEA052-A,Wheeling WV-OH,"427,000","320,250",Big Wave Ventures LLC,14,"McCotter, James E",13,"371,000","278,250"
+92,700 MHz Band,30,WY-BEA137-A,Lubbock TX,"1,915,000","1,436,250",Big Wave Ventures LLC,12,"7 C's Holdings 1, Inc",10,"1,511,000","1,133,250"
+92,700 MHz Band,30,WY-CMA147-B,"Ponce, PR","3,065,000","3,065,000","Puerto Rico Telephone Company, Inc.",21,Ganadores LLC,20,"2,554,000","1,915,500"
+92,700 MHz Band,30,WY-CMA169-B,"Mayaguez, PR","2,599,000","2,599,000","Puerto Rico Telephone Company, Inc.",21,Ganadores LLC,20,"2,166,000","1,624,500"
+92,700 MHz Band,30,WY-CMA202-B,"Arecibo, PR","800,000","800,000","Puerto Rico Telephone Company, Inc.",29,Ganadores LLC,28,"681,000","510,750"
+92,700 MHz Band,30,WY-CMA204-B,"Aguadilla, PR","1,281,000","1,281,000","Puerto Rico Telephone Company, Inc.",29,Ganadores LLC,28,"1,091,000","818,250"
+92,700 MHz Band,30,WY-CMA221-B,"Fargo-Moorehead, ND-MN","1,435,000","1,435,000","CenturyTel Broadband Wireless, LLC",13,Big Wave Ventures LLC,12,"1,123,000","842,250"
+92,700 MHz Band,30,WY-CMA276-B,"Grand Forks, ND-MN","926,000","926,000","CenturyTel Broadband Wireless, LLC",13,Big Wave Ventures LLC,12,"774,000","580,500"
+92,700 MHz Band,30,WY-CMA298-B,"Bismarck, ND","1,265,000","1,265,000","CenturyTel Broadband Wireless, LLC",13,Big Wave Ventures LLC,12,"1,054,000","790,500"
+92,700 MHz Band,30,WY-CMA566-B,North Carolina 2 - Yancey,"1,606,000","1,606,000","USCC AUCTION 92, LLC",17,Big Wave Ventures LLC,16,"1,352,000","1,014,000"
+92,700 MHz Band,30,WY-CMA625-B,South Carolina 1 - Oconee,"103,000","103,000",Allied Wireless Communications Corporation,13,"Miller, David",12,"82,000","61,500"
+92,700 MHz Band,30,WY-CMA630-B,South Carolina 6 - Clarendon,"1,345,000","1,345,000","FTC Management Group, Inc.",8,"McCotter, James E",7,"1,089,000","816,750"
+92,700 MHz Band,30,WY-CMA663-B,Texas 12 - Hudspeth,"42,000","31,500","Miller, David",8,Big Wave Ventures LLC,6,"37,000","27,750"
+92,700 MHz Band,30,WY-CMA681-B,Virginia 1 - Lee,"143,000","107,250",Big Wave Ventures LLC,2,0,0,0,0
+92,700 MHz Band,30,WY-CMA724-B,Puerto Rico 2 - Adjuntas,"2,913,000","2,913,000","Puerto Rico Telephone Company, Inc.",26,Ganadores LLC,25,"2,440,000","1,830,000"
+92,700 MHz Band,30,WY-CMA725-B,Puerto Rico 3 - Ciales,"537,000","537,000","Puerto Rico Telephone Company, Inc.",24,Ganadores LLC,23,"457,000","342,750"

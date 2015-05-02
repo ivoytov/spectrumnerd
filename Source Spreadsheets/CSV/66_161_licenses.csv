@@ -1,0 +1,1123 @@
+Auction_id,Auction_Desc,round_num,bip_name,bip_desc,price,prov_winner,pw_bid_rnd_num,prev_prov_winner,prev_pw_bid_rnd_num
+66,Advanced Wireless Services,161,AW-CMA001-A,"New York-Newark, NY-NJ",396232000,T-Mobile License LLC,23,T-Mobile License LLC,23
+66,Advanced Wireless Services,161,AW-CMA002-A,"Los Angeles-Anaheim, CA",179161000,"Cingular AWS, LLC",33,"Cingular AWS, LLC",33
+66,Advanced Wireless Services,161,AW-CMA003-A,"Chicago, IL",254821000,T-Mobile License LLC,51,T-Mobile License LLC,51
+66,Advanced Wireless Services,161,AW-CMA004-A,"Philadelphia, PA",82565000,"Cricket Licensee (Reauction), Inc.",48,"Cricket Licensee (Reauction), Inc.",48
+66,Advanced Wireless Services,161,AW-CMA005-A,"Detroit-Ann Arbor, MI",65187000,T-Mobile License LLC,52,T-Mobile License LLC,52
+66,Advanced Wireless Services,161,AW-CMA006-A,"Boston-Brockton-Lowell, MA-NH",36787000,T-Mobile License LLC,32,T-Mobile License LLC,32
+66,Advanced Wireless Services,161,AW-CMA007-A,"San Francisco-Oakland, CA",26963000,T-Mobile License LLC,26,T-Mobile License LLC,26
+66,Advanced Wireless Services,161,AW-CMA008-A,"Washington, DC-MD-VA",133150000,"Cricket Licensee (Reauction), Inc.",38,"Cricket Licensee (Reauction), Inc.",38
+66,Advanced Wireless Services,161,AW-CMA009-A,"Dallas-Fort Worth, TX",50682000,"Cingular AWS, LLC",36,"Cingular AWS, LLC",36
+66,Advanced Wireless Services,161,AW-CMA010-A,"Houston, TX",25947000,T-Mobile License LLC,28,T-Mobile License LLC,28
+66,Advanced Wireless Services,161,AW-CMA011-A,"St. Louis, MO-IL",25089000,"Cricket Licensee (Reauction), Inc.",54,"Cricket Licensee (Reauction), Inc.",54
+66,Advanced Wireless Services,161,AW-CMA012-A,"Miami-Fort Lauderdale, FL",35633000,T-Mobile License LLC,32,T-Mobile License LLC,32
+66,Advanced Wireless Services,161,AW-CMA013-A,"Pittsburgh, PA",10718000,AWS Wireless Inc.,84,AWS Wireless Inc.,84
+66,Advanced Wireless Services,161,AW-CMA014-A,"Baltimore, MD",43657000,"Cricket Licensee (Reauction), Inc.",52,"Cricket Licensee (Reauction), Inc.",52
+66,Advanced Wireless Services,161,AW-CMA015-A,"Minneapolis-St. Paul, MN-WI",29096000,"Cricket Licensee (Reauction), Inc.",58,"Cricket Licensee (Reauction), Inc.",58
+66,Advanced Wireless Services,161,AW-CMA016-A,"Cleveland, OH",7206000,T-Mobile License LLC,29,T-Mobile License LLC,29
+66,Advanced Wireless Services,161,AW-CMA017-A,"Atlanta, GA",30048000,T-Mobile License LLC,33,T-Mobile License LLC,33
+66,Advanced Wireless Services,161,AW-CMA018-A,"San Diego, CA",18981000,T-Mobile License LLC,33,T-Mobile License LLC,33
+66,Advanced Wireless Services,161,AW-CMA019-A,"Denver-Boulder, CO",12955000,"Cingular AWS, LLC",29,"Cingular AWS, LLC",29
+66,Advanced Wireless Services,161,AW-CMA020-A,"Seattle-Everett, WA",27888000,"Cricket Licensee (Reauction), Inc.",52,"Cricket Licensee (Reauction), Inc.",52
+66,Advanced Wireless Services,161,AW-CMA021-A,"Milwaukee, WI",17833000,"Barat Wireless, L.P.",51,"Barat Wireless, L.P.",51
+66,Advanced Wireless Services,161,AW-CMA022-A,"Tampa-St. Petersburg, FL",25861000,T-Mobile License LLC,89,T-Mobile License LLC,89
+66,Advanced Wireless Services,161,AW-CMA023-A,"Cincinnati, OH-KY-IN",19451000,Cincinnati Bell Wireless LLC,43,Cincinnati Bell Wireless LLC,43
+66,Advanced Wireless Services,161,AW-CMA024-A,"Kansas City, MO-KS",14738000,"Cricket Licensee (Reauction), Inc.",41,"Cricket Licensee (Reauction), Inc.",41
+66,Advanced Wireless Services,161,AW-CMA025-A,"Buffalo, NY",1707000,American Cellular Corporation,45,American Cellular Corporation,45
+66,Advanced Wireless Services,161,AW-CMA026-A,"Phoenix, AZ",18439000,"Cingular AWS, LLC",34,"Cingular AWS, LLC",34
+66,Advanced Wireless Services,161,AW-CMA027-A,"San Jose, CA",12037000,T-Mobile License LLC,41,T-Mobile License LLC,41
+66,Advanced Wireless Services,161,AW-CMA028-A,"Indianapolis, IN",7018000,AWS Wireless Inc.,38,AWS Wireless Inc.,38
+66,Advanced Wireless Services,161,AW-CMA029-A,"New Orleans, LA",6016000,"Cricket Licensee (Reauction), Inc.",35,"Cricket Licensee (Reauction), Inc.",35
+66,Advanced Wireless Services,161,AW-CMA030-A,"Portland, OR-WA",13292000,"Cricket Licensee (Reauction), Inc.",41,"Cricket Licensee (Reauction), Inc.",41
+66,Advanced Wireless Services,161,AW-CMA031-A,"Columbus, OH",7369000,T-Mobile License LLC,45,T-Mobile License LLC,45
+66,Advanced Wireless Services,161,AW-CMA032-A,"Hartford-Bristol, CT",8505000,T-Mobile License LLC,33,T-Mobile License LLC,33
+66,Advanced Wireless Services,161,AW-CMA033-A,"San Antonio, TX",6819000,"Atlantic Wireless, L.P.",73,"Atlantic Wireless, L.P.",73
+66,Advanced Wireless Services,161,AW-CMA034-A,"Rochester, NY",5230000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA035-A,"Sacramento, CA",7722000,AWS Wireless Inc.,82,AWS Wireless Inc.,82
+66,Advanced Wireless Services,161,AW-CMA036-A,"Memphis, TN-AR-MS",21676000,"Cingular AWS, LLC",74,"Cingular AWS, LLC",74
+66,Advanced Wireless Services,161,AW-CMA037-A,"Louisville, KY-IN",4763000,AWS Wireless Inc.,70,AWS Wireless Inc.,70
+66,Advanced Wireless Services,161,AW-CMA038-A,"Providence-Warwick, RI",6544000,T-Mobile License LLC,71,T-Mobile License LLC,71
+66,Advanced Wireless Services,161,AW-CMA039-A,"Salt Lake City-Ogden, UT",7659000,T-Mobile License LLC,45,T-Mobile License LLC,45
+66,Advanced Wireless Services,161,AW-CMA040-A,"Dayton, OH",4431000,Cincinnati Bell Wireless LLC,53,Cincinnati Bell Wireless LLC,53
+66,Advanced Wireless Services,161,AW-CMA041-A,"Birmingham, AL",7523000,"Cricket Licensee (Reauction), Inc.",89,"Cricket Licensee (Reauction), Inc.",89
+66,Advanced Wireless Services,161,AW-CMA042-A,Bridgeport-Stamford-Danbury CT,6972000,T-Mobile License LLC,33,T-Mobile License LLC,33
+66,Advanced Wireless Services,161,AW-CMA043-A,"Norfolk-Virginia Beach, VA-NC",26586000,"Cingular AWS, LLC",55,"Cingular AWS, LLC",55
+66,Advanced Wireless Services,161,AW-CMA044-A,"Albany-Schenectady-Troy, NY",3596000,American Cellular Corporation,65,American Cellular Corporation,65
+66,Advanced Wireless Services,161,AW-CMA045-A,"Oklahoma City, OK",14431000,"Cingular AWS, LLC",59,"Cingular AWS, LLC",59
+66,Advanced Wireless Services,161,AW-CMA046-A,"Nashville-Davidson, TN",8546000,"Cellular South Licenses, Inc.",47,"Cellular South Licenses, Inc.",47
+66,Advanced Wireless Services,161,AW-CMA047-A,"Greensboro-Winston-Salem, NC",9112000,"Cingular AWS, LLC",42,"Cingular AWS, LLC",42
+66,Advanced Wireless Services,161,AW-CMA048-A,"Toledo, OH-MI",1337000,"Cingular AWS, LLC",51,"Cingular AWS, LLC",51
+66,Advanced Wireless Services,161,AW-CMA049-A,New Haven-Waterbury-Meriden CT,4133000,T-Mobile License LLC,64,T-Mobile License LLC,64
+66,Advanced Wireless Services,161,AW-CMA050-A,"Honolulu, HI",3583000,"Cingular AWS, LLC",114,"Cingular AWS, LLC",114
+66,Advanced Wireless Services,161,AW-CMA051-A,"Jacksonville, FL",9050000,"Cingular AWS, LLC",41,"Cingular AWS, LLC",41
+66,Advanced Wireless Services,161,AW-CMA052-A,"Akron, OH",1125000,T-Mobile License LLC,40,T-Mobile License LLC,40
+66,Advanced Wireless Services,161,AW-CMA053-A,"Syracuse, NY",2666000,"Cricket Licensee (Reauction), Inc.",66,"Cricket Licensee (Reauction), Inc.",66
+66,Advanced Wireless Services,161,AW-CMA054-A,"Gary-Hammond-East Chicago, IN",631000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA055-A,"Worchester-Leominster, MA",1705000,T-Mobile License LLC,79,T-Mobile License LLC,79
+66,Advanced Wireless Services,161,AW-CMA056-A,"Northeast Pennsylvania, PA",1746000,AWS Wireless Inc.,39,AWS Wireless Inc.,39
+66,Advanced Wireless Services,161,AW-CMA057-A,"Tulsa, OK",3103000,"Barat Wireless, L.P.",44,"Barat Wireless, L.P.",44
+66,Advanced Wireless Services,161,AW-CMA058-A,"Allentown-Bethlehem, PA-NJ",7638000,T-Mobile License LLC,44,T-Mobile License LLC,44
+66,Advanced Wireless Services,161,AW-CMA059-A,"Richmond, VA",5838000,"Cricket Licensee (Reauction), Inc.",34,"Cricket Licensee (Reauction), Inc.",34
+66,Advanced Wireless Services,161,AW-CMA060-A,"Orlando, FL",13999000,T-Mobile License LLC,35,T-Mobile License LLC,35
+66,Advanced Wireless Services,161,AW-CMA061-A,"Charlotte-Gastonia, NC",9191000,"Cingular AWS, LLC",46,"Cingular AWS, LLC",46
+66,Advanced Wireless Services,161,AW-CMA062-A,"New Brunswick-Perth Amboy, NJ",7292000,T-Mobile License LLC,45,T-Mobile License LLC,45
+66,Advanced Wireless Services,161,AW-CMA063-A,"Springfield-Holyoke, MA",1900000,AWS Wireless Inc.,39,AWS Wireless Inc.,39
+66,Advanced Wireless Services,161,AW-CMA064-A,"Grand Rapids, MI",7337000,Centennial Michiana License Company LLC,104,Centennial Michiana License Company LLC,104
+66,Advanced Wireless Services,161,AW-CMA065-A,"Omaha, NE-IA",2058000,"Barat Wireless, L.P.",49,"Barat Wireless, L.P.",49
+66,Advanced Wireless Services,161,AW-CMA066-A,"Youngstown-Warren, OH",545000,American Cellular Corporation,41,American Cellular Corporation,41
+66,Advanced Wireless Services,161,AW-CMA067-A,"Greenville-Spartanburg, SC",2954000,"Cavalier Wireless, LLC",89,"Cavalier Wireless, LLC",89
+66,Advanced Wireless Services,161,AW-CMA068-A,"Flint, MI",903000,T-Mobile License LLC,26,T-Mobile License LLC,26
+66,Advanced Wireless Services,161,AW-CMA069-A,"Wilmington, DE-NJ-MD",3783000,"Cricket Licensee (Reauction), Inc.",68,"Cricket Licensee (Reauction), Inc.",68
+66,Advanced Wireless Services,161,AW-CMA070-A,"Long Branch-Asbury Park, NJ",5460000,T-Mobile License LLC,45,T-Mobile License LLC,45
+66,Advanced Wireless Services,161,AW-CMA071-A,"Raleigh-Durham, NC",7434000,"Cingular AWS, LLC",51,"Cingular AWS, LLC",51
+66,Advanced Wireless Services,161,AW-CMA072-A,"West Palm Beach-Boca Raton, FL",6044000,T-Mobile License LLC,37,T-Mobile License LLC,37
+66,Advanced Wireless Services,161,AW-CMA073-A,"Oxnard-Simi Valley-Ventura, CA",3936000,T-Mobile License LLC,35,T-Mobile License LLC,35
+66,Advanced Wireless Services,161,AW-CMA074-A,"Fresno, CA",4142000,"Cingular AWS, LLC",66,"Cingular AWS, LLC",66
+66,Advanced Wireless Services,161,AW-CMA075-A,"Austin, TX",7337000,T-Mobile License LLC,41,T-Mobile License LLC,41
+66,Advanced Wireless Services,161,AW-CMA076-A,"New Bedford-Fall River, MA",735000,T-Mobile License LLC,33,T-Mobile License LLC,33
+66,Advanced Wireless Services,161,AW-CMA077-A,"Tucson, AZ",2215000,T-Mobile License LLC,80,T-Mobile License LLC,80
+66,Advanced Wireless Services,161,AW-CMA078-A,"Lansing-East Lansing, MI",1797000,Centennial Michiana License Company LLC,31,Centennial Michiana License Company LLC,31
+66,Advanced Wireless Services,161,AW-CMA079-A,"Knoxville, TN",2449000,AWS Wireless Inc.,63,AWS Wireless Inc.,63
+66,Advanced Wireless Services,161,AW-CMA080-A,"Baton Rouge, LA",2439000,"Cricket Licensee (Reauction), Inc.",86,"Cricket Licensee (Reauction), Inc.",86
+66,Advanced Wireless Services,161,AW-CMA081-A,"El Paso, TX",1159000,T-Mobile License LLC,45,T-Mobile License LLC,45
+66,Advanced Wireless Services,161,AW-CMA082-A,"Tacoma, WA",1097000,"Cricket Licensee (Reauction), Inc.",89,"Cricket Licensee (Reauction), Inc.",89
+66,Advanced Wireless Services,161,AW-CMA083-A,"Mobile, AL",6816000,"Cricket Licensee (Reauction), Inc.",80,"Cricket Licensee (Reauction), Inc.",80
+66,Advanced Wireless Services,161,AW-CMA084-A,"Harrisburg, PA",1203000,T-Mobile License LLC,55,T-Mobile License LLC,55
+66,Advanced Wireless Services,161,AW-CMA085-A,"Johnson City-Kingsport, TN-VA",1630000,"Carolina West Wireless, Inc.",55,"Carolina West Wireless, Inc.",55
+66,Advanced Wireless Services,161,AW-CMA086-A,"Albuquerque, NM",1228000,T-Mobile License LLC,52,T-Mobile License LLC,52
+66,Advanced Wireless Services,161,AW-CMA087-A,"Canton, OH",459000,T-Mobile License LLC,66,T-Mobile License LLC,66
+66,Advanced Wireless Services,161,AW-CMA088-A,"Chattanooga, TN-GA",1205000,AWS Wireless Inc.,59,AWS Wireless Inc.,59
+66,Advanced Wireless Services,161,AW-CMA089-A,"Wichita, KS",2984000,"Cingular AWS, LLC",62,"Cingular AWS, LLC",62
+66,Advanced Wireless Services,161,AW-CMA090-A,"Charleston, SC",3006000,"Palmetto Rural Telephone Cooperative, Inc.",59,"Palmetto Rural Telephone Cooperative, Inc.",59
+66,Advanced Wireless Services,161,AW-CMA091-A,"San Juan-Caguas, PR",2671000,"Cavalier Wireless, LLC",42,"Cavalier Wireless, LLC",42
+66,Advanced Wireless Services,161,AW-CMA092-A,"Little Rock, AR",2318000,"Cricket Licensee (Reauction), Inc.",86,"Cricket Licensee (Reauction), Inc.",86
+66,Advanced Wireless Services,161,AW-CMA093-A,"Las Vegas, NV",8486000,"Cricket Licensee (Reauction), Inc.",37,"Cricket Licensee (Reauction), Inc.",37
+66,Advanced Wireless Services,161,AW-CMA094-A,"Saginaw-Bay City-Midland, MI",1475000,"Cingular AWS, LLC",28,"Cingular AWS, LLC",28
+66,Advanced Wireless Services,161,AW-CMA095-A,"Columbia, SC",4146000,"Cricket Licensee (Reauction), Inc.",47,"Cricket Licensee (Reauction), Inc.",47
+66,Advanced Wireless Services,161,AW-CMA096-A,"Fort Wayne, IN",770000,"Cavalier Wireless, LLC",58,"Cavalier Wireless, LLC",58
+66,Advanced Wireless Services,161,AW-CMA097-A,"Bakersfield, CA",1763000,T-Mobile License LLC,31,T-Mobile License LLC,31
+66,Advanced Wireless Services,161,AW-CMA098-A,"Davenport-Rock Island, IA-IL",405000,"Iowa Telecommunications Services, Inc.",82,"Iowa Telecommunications Services, Inc.",82
+66,Advanced Wireless Services,161,AW-CMA099-A,"York, PA",473000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA100-A,"Shreveport, LA",1299000,Cellco Partnership d/b/a Verizon Wireless,126,Cellco Partnership d/b/a Verizon Wireless,126
+66,Advanced Wireless Services,161,AW-CMA101-A,"Beaumont-Port Arthur, TX",541000,"Command Connect, LLC",88,"Command Connect, LLC",88
+66,Advanced Wireless Services,161,AW-CMA102-A,"Des Moines, IA",3012000,"Barat Wireless, L.P.",58,"Barat Wireless, L.P.",58
+66,Advanced Wireless Services,161,AW-CMA103-A,"Peoria, IL",347000,Cincinnati Bell Wireless LLC,67,Cincinnati Bell Wireless LLC,67
+66,Advanced Wireless Services,161,AW-CMA104-A,"Newport News-Hampton, VA",5886000,"Cingular AWS, LLC",57,"Cingular AWS, LLC",57
+66,Advanced Wireless Services,161,AW-CMA105-A,"Lancaster, PA",2511000,T-Mobile License LLC,92,T-Mobile License LLC,92
+66,Advanced Wireless Services,161,AW-CMA106-A,"Jackson, MS",3027000,"Cingular AWS, LLC",76,"Cingular AWS, LLC",76
+66,Advanced Wireless Services,161,AW-CMA107-A,"Stockton, CA",2185000,AWS Wireless Inc.,43,AWS Wireless Inc.,43
+66,Advanced Wireless Services,161,AW-CMA108-A,"Augusta, GA-SC",453000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA109-A,"Spokane, WA",1464000,"Cavalier Wireless, LLC",118,"Cavalier Wireless, LLC",118
+66,Advanced Wireless Services,161,AW-CMA110-A,"Huntington-Ashland, WV-KY-OH",1331000,American Cellular Corporation,78,American Cellular Corporation,78
+66,Advanced Wireless Services,161,AW-CMA111-A,"Vallejo-Fairfield-Napa, CA",3315000,T-Mobile License LLC,66,T-Mobile License LLC,66
+66,Advanced Wireless Services,161,AW-CMA112-A,"Corpus Christi, TX",536000,"Cavalier Wireless, LLC",72,"Cavalier Wireless, LLC",72
+66,Advanced Wireless Services,161,AW-CMA113-A,"Madison, WI",846000,"Barat Wireless, L.P.",36,"Barat Wireless, L.P.",36
+66,Advanced Wireless Services,161,AW-CMA114-A,"Lakeland-Winter Haven, FL",2482000,T-Mobile License LLC,65,T-Mobile License LLC,65
+66,Advanced Wireless Services,161,AW-CMA115-A,"Utica-Rome, NY",847000,American Cellular Corporation,69,American Cellular Corporation,69
+66,Advanced Wireless Services,161,AW-CMA116-A,"Lexington-Fayette, KY",4054000,American Cellular Corporation,77,American Cellular Corporation,77
+66,Advanced Wireless Services,161,AW-CMA117-A,"Colorado Springs, CO",564000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA118-A,"Reading, PA",2191000,T-Mobile License LLC,92,T-Mobile License LLC,92
+66,Advanced Wireless Services,161,AW-CMA119-A,"Evansville, IN-KY",345000,AWS Wireless Inc.,66,AWS Wireless Inc.,66
+66,Advanced Wireless Services,161,AW-CMA120-A,"Huntsville, AL",2553000,"Cricket Licensee (Reauction), Inc.",78,"Cricket Licensee (Reauction), Inc.",78
+66,Advanced Wireless Services,161,AW-CMA121-A,"Trenton, NJ",6730000,T-Mobile License LLC,89,T-Mobile License LLC,89
+66,Advanced Wireless Services,161,AW-CMA122-A,"Binghamton, NY",649000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA123-A,"Santa Rosa-Petaluma, CA",1113000,AWS Wireless Inc.,39,AWS Wireless Inc.,39
+66,Advanced Wireless Services,161,AW-CMA124-A,"Santa Barbara, CA",2024000,T-Mobile License LLC,35,T-Mobile License LLC,35
+66,Advanced Wireless Services,161,AW-CMA125-A,"Appleton-Oshkosh-Neenah, WI",853000,"NSIGHTTEL WIRELESS, LLC",62,"NSIGHTTEL WIRELESS, LLC",62
+66,Advanced Wireless Services,161,AW-CMA126-A,"Salinas-Seaside-Monterey, CA",974000,AWS Wireless Inc.,39,AWS Wireless Inc.,39
+66,Advanced Wireless Services,161,AW-CMA127-A,"Pensacola, FL",2474000,"Cellular South Licenses, Inc.",52,"Cellular South Licenses, Inc.",52
+66,Advanced Wireless Services,161,AW-CMA128-A,"McAllen-Edinburg-Mission, TX",725000,T-Mobile License LLC,46,T-Mobile License LLC,46
+66,Advanced Wireless Services,161,AW-CMA129-A,"South Bend-Mishawaka, IN",0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA130-A,"Erie, PA",310000,American Cellular Corporation,71,American Cellular Corporation,71
+66,Advanced Wireless Services,161,AW-CMA131-A,"Rockford, IL",320000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA132-A,"Kalamazoo, MI",458000,"Cingular AWS, LLC",43,"Cingular AWS, LLC",43
+66,Advanced Wireless Services,161,AW-CMA133-A,"Manchester-Nashua, NH",1681000,T-Mobile License LLC,38,T-Mobile License LLC,38
+66,Advanced Wireless Services,161,AW-CMA134-A,"Atlantic City, NJ",1559000,"Cricket Licensee (Reauction), Inc.",62,"Cricket Licensee (Reauction), Inc.",62
+66,Advanced Wireless Services,161,AW-CMA135-A,"Eugene-Springfield, OR",412000,T-Mobile License LLC,37,T-Mobile License LLC,37
+66,Advanced Wireless Services,161,AW-CMA136-A,"Lorain-Elyria, OH",349000,T-Mobile License LLC,23,T-Mobile License LLC,23
+66,Advanced Wireless Services,161,AW-CMA137-A,"Melbourne-Titusville, FL",2657000,T-Mobile License LLC,67,T-Mobile License LLC,67
+66,Advanced Wireless Services,161,AW-CMA138-A,"Macon-Warner Robins, GA",364000,"Public Service Wireless Services, Inc.",54,"Public Service Wireless Services, Inc.",54
+66,Advanced Wireless Services,161,AW-CMA139-A,"Montgomery, AL",1055000,"Cellular South Licenses, Inc.",81,"Cellular South Licenses, Inc.",81
+66,Advanced Wireless Services,161,AW-CMA140-A,"Charleston, WV",725000,American Cellular Corporation,60,American Cellular Corporation,60
+66,Advanced Wireless Services,161,AW-CMA141-A,"Duluth, MN-WI",1173000,"Chequamegon Communications Cooperative, Inc.",56,"Chequamegon Communications Cooperative, Inc.",56
+66,Advanced Wireless Services,161,AW-CMA142-A,"Modesto, CA",2620000,"Cricket Licensee (Reauction), Inc.",72,"Cricket Licensee (Reauction), Inc.",72
+66,Advanced Wireless Services,161,AW-CMA143-A,"Johnstown, PA",433000,AWS Wireless Inc.,100,AWS Wireless Inc.,100
+66,Advanced Wireless Services,161,AW-CMA144-A,"Orange County, NY",1389000,American Cellular Corporation,39,American Cellular Corporation,39
+66,Advanced Wireless Services,161,AW-CMA145-A,"Hamilton-Middletown, OH",1510000,Cincinnati Bell Wireless LLC,58,Cincinnati Bell Wireless LLC,58
+66,Advanced Wireless Services,161,AW-CMA146-A,"Daytona Beach, FL",2319000,T-Mobile License LLC,51,T-Mobile License LLC,51
+66,Advanced Wireless Services,161,AW-CMA147-A,"Ponce, PR",265000,"Cavalier Wireless, LLC",89,"Cavalier Wireless, LLC",89
+66,Advanced Wireless Services,161,AW-CMA148-A,"Salem, OR",391000,Stayton Cooperative Telephone Company,64,Stayton Cooperative Telephone Company,64
+66,Advanced Wireless Services,161,AW-CMA149-A,"Fayetteville, NC",303000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA150-A,"Visalia-Tulare-Porterville, CA",1197000,"Cricket Licensee (Reauction), Inc.",67,"Cricket Licensee (Reauction), Inc.",67
+66,Advanced Wireless Services,161,AW-CMA151-A,"Poughkeepsie, NY",1702000,American Cellular Corporation,39,American Cellular Corporation,39
+66,Advanced Wireless Services,161,AW-CMA152-A,"Portland, ME",2339000,AWS Wireless Inc.,87,AWS Wireless Inc.,87
+66,Advanced Wireless Services,161,AW-CMA153-A,"Columbus, GA-AL",665000,"Public Service Wireless Services, Inc.",128,"Public Service Wireless Services, Inc.",128
+66,Advanced Wireless Services,161,AW-CMA154-A,"New London-Norwich, CT",559000,AWS Wireless Inc.,39,AWS Wireless Inc.,39
+66,Advanced Wireless Services,161,AW-CMA155-A,"Savannah, GA",1008000,"Cricket Licensee (Reauction), Inc.",36,"Cricket Licensee (Reauction), Inc.",36
+66,Advanced Wireless Services,161,AW-CMA156-A,"Portsmouth-Rochester, NH-ME",683000,AWS Wireless Inc.,70,AWS Wireless Inc.,70
+66,Advanced Wireless Services,161,AW-CMA157-A,"Roanoke, VA",592000,NTELOS Inc.,104,NTELOS Inc.,104
+66,Advanced Wireless Services,161,AW-CMA158-A,"Lima, OH",247000,"Triad AWS, Inc.",100,"Triad AWS, Inc.",100
+66,Advanced Wireless Services,161,AW-CMA159-A,"Provo-Orem, UT",592000,T-Mobile License LLC,69,T-Mobile License LLC,69
+66,Advanced Wireless Services,161,AW-CMA160-A,"Killeen-Temple, TX",472000,AWS Wireless Inc.,42,AWS Wireless Inc.,42
+66,Advanced Wireless Services,161,AW-CMA161-A,"Lubbock, TX",359000,Daredevil Communications LLC,67,Daredevil Communications LLC,67
+66,Advanced Wireless Services,161,AW-CMA162-A,"Brownsville-Harlingen, TX",427000,T-Mobile License LLC,74,T-Mobile License LLC,74
+66,Advanced Wireless Services,161,AW-CMA163-A,"Springfield, MO",477000,Fidelity Communications Company,57,Fidelity Communications Company,57
+66,Advanced Wireless Services,161,AW-CMA164-A,"Fort Myers, FL",1767000,T-Mobile License LLC,59,T-Mobile License LLC,59
+66,Advanced Wireless Services,161,AW-CMA165-A,Fort Smith AR-OK,313000,CROSS TELEPHONE COMPANY,33,CROSS TELEPHONE COMPANY,33
+66,Advanced Wireless Services,161,AW-CMA166-A,"Hickory, NC",631000,"Carolina West Wireless, Inc.",58,"Carolina West Wireless, Inc.",58
+66,Advanced Wireless Services,161,AW-CMA167-A,"Sarasota, FL",1500000,T-Mobile License LLC,70,T-Mobile License LLC,70
+66,Advanced Wireless Services,161,AW-CMA168-A,"Tallahassee, FL",954000,T-Mobile License LLC,37,T-Mobile License LLC,37
+66,Advanced Wireless Services,161,AW-CMA169-A,"Mayaguez, PR",227000,"Cavalier Wireless, LLC",89,"Cavalier Wireless, LLC",89
+66,Advanced Wireless Services,161,AW-CMA170-A,"Galveston-Texas City, TX",330000,T-Mobile License LLC,38,T-Mobile License LLC,38
+66,Advanced Wireless Services,161,AW-CMA171-A,"Reno, NV",734000,"Cricket Licensee (Reauction), Inc.",79,"Cricket Licensee (Reauction), Inc.",79
+66,Advanced Wireless Services,161,AW-CMA172-A,"Lincoln, NE",263000,"Barat Wireless, L.P.",74,"Barat Wireless, L.P.",74
+66,Advanced Wireless Services,161,AW-CMA173-A,"Biloxi-Gulfport, MS",2920000,"Cable One, Inc.",74,"Cable One, Inc.",74
+66,Advanced Wireless Services,161,AW-CMA174-A,"Lafayette, LA",284000,"Cricket Licensee (Reauction), Inc.",35,"Cricket Licensee (Reauction), Inc.",35
+66,Advanced Wireless Services,161,AW-CMA175-A,"Santa Cruz, CA",609000,AWS Wireless Inc.,72,AWS Wireless Inc.,72
+66,Advanced Wireless Services,161,AW-CMA176-A,"Springfield, IL",227000,T-Mobile License LLC,85,T-Mobile License LLC,85
+66,Advanced Wireless Services,161,AW-CMA177-A,"Battle Creek, MI",301000,"Cingular AWS, LLC",43,"Cingular AWS, LLC",43
+66,Advanced Wireless Services,161,AW-CMA178-A,"Wheeling, WV-OH",153000,American Cellular Corporation,24,American Cellular Corporation,24
+66,Advanced Wireless Services,161,AW-CMA179-A,"Topeka, KS",464000,"Barat Wireless, L.P.",128,"Barat Wireless, L.P.",128
+66,Advanced Wireless Services,161,AW-CMA180-A,"Springfield, OH",385000,Cincinnati Bell Wireless LLC,83,Cincinnati Bell Wireless LLC,83
+66,Advanced Wireless Services,161,AW-CMA181-A,"Muskegon, MI",858000,American Cellular Corporation,49,American Cellular Corporation,49
+66,Advanced Wireless Services,161,AW-CMA182-A,"Fayetteville-Springdale, AR",555000,CROSS TELEPHONE COMPANY,37,CROSS TELEPHONE COMPANY,37
+66,Advanced Wireless Services,161,AW-CMA183-A,"Asheville, NC",794000,"Carolina West Wireless, Inc.",58,"Carolina West Wireless, Inc.",58
+66,Advanced Wireless Services,161,AW-CMA184-A,"Houma-Thibodaux, LA",194000,"Cricket Licensee (Reauction), Inc.",37,"Cricket Licensee (Reauction), Inc.",37
+66,Advanced Wireless Services,161,AW-CMA185-A,"Terre Haute, IN",180000,AWS Wireless Inc.,41,AWS Wireless Inc.,41
+66,Advanced Wireless Services,161,AW-CMA186-A,"Green Bay, WI",685000,T-Mobile License LLC,54,T-Mobile License LLC,54
+66,Advanced Wireless Services,161,AW-CMA187-A,"Anchorage, AK",539000,"MTA Communications, Inc.",4,"MTA Communications, Inc.",4
+66,Advanced Wireless Services,161,AW-CMA188-A,"Amarillo, TX",327000,Daredevil Communications LLC,73,Daredevil Communications LLC,73
+66,Advanced Wireless Services,161,AW-CMA189-A,"Racine, WI",189000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA190-A,"Boise City, ID",1126000,"Cable One, Inc.",92,"Cable One, Inc.",92
+66,Advanced Wireless Services,161,AW-CMA191-A,"Yakima, WA",306000,"Red Rock Spectrum Holdings, LLC",39,"Red Rock Spectrum Holdings, LLC",39
+66,Advanced Wireless Services,161,AW-CMA192-A,"Gainesville, FL",970000,T-Mobile License LLC,31,T-Mobile License LLC,31
+66,Advanced Wireless Services,161,AW-CMA193-A,"Benton Harbor, MI",162000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA194-A,"Waco, TX",765000,AWS Wireless Inc.,45,AWS Wireless Inc.,45
+66,Advanced Wireless Services,161,AW-CMA195-A,"Cedar Rapids, IA",1834000,"Iowa Telecommunications Services, Inc.",61,"Iowa Telecommunications Services, Inc.",61
+66,Advanced Wireless Services,161,AW-CMA196-A,"Champaign-Urbana-Rantoul, IL",203000,T-Mobile License LLC,70,T-Mobile License LLC,70
+66,Advanced Wireless Services,161,AW-CMA197-A,"Lake Charles, LA",1917000,"Cricket Licensee (Reauction), Inc.",115,"Cricket Licensee (Reauction), Inc.",115
+66,Advanced Wireless Services,161,AW-CMA198-A,"St. Cloud, MN",395000,"Cricket Licensee (Reauction), Inc.",64,"Cricket Licensee (Reauction), Inc.",64
+66,Advanced Wireless Services,161,AW-CMA199-A,"Steubenville-Weirton, OH-WV",132000,American Cellular Corporation,22,American Cellular Corporation,22
+66,Advanced Wireless Services,161,AW-CMA200-A,"Parkersburg-Marietta, OH-WV",157000,American Cellular Corporation,54,American Cellular Corporation,54
+66,Advanced Wireless Services,161,AW-CMA201-A,"Waterloo-Cedar Falls, IA",303000,"Iowa Telecommunications Services, Inc.",108,"Iowa Telecommunications Services, Inc.",108
+66,Advanced Wireless Services,161,AW-CMA202-A,"Arecibo, PR",200000,"Cavalier Wireless, LLC",89,"Cavalier Wireless, LLC",89
+66,Advanced Wireless Services,161,AW-CMA203-A,"Lynchburg, VA",162000,NTELOS Inc.,1,NTELOS Inc.,1
+66,Advanced Wireless Services,161,AW-CMA204-A,"Aguadilla, PR",191000,"Cavalier Wireless, LLC",89,"Cavalier Wireless, LLC",89
+66,Advanced Wireless Services,161,AW-CMA205-A,"Alexandria, LA",145000,"Command Connect, LLC",90,"Command Connect, LLC",90
+66,Advanced Wireless Services,161,AW-CMA206-A,"Longview-Marshall, TX",757000,AWS Wireless Inc.,50,AWS Wireless Inc.,50
+66,Advanced Wireless Services,161,AW-CMA207-A,"Jackson, MI",0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA208-A,"Fort Pierce, FL",1876000,T-Mobile License LLC,36,T-Mobile License LLC,36
+66,Advanced Wireless Services,161,AW-CMA209-A,Clarksville-Hopkinsville TN-KY,207000,AWS Wireless Inc.,44,AWS Wireless Inc.,44
+66,Advanced Wireless Services,161,AW-CMA210-A,"Fort Collins-Loveland, CO",251000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA211-A,"Bradenton, FL",1120000,T-Mobile License LLC,70,T-Mobile License LLC,70
+66,Advanced Wireless Services,161,AW-CMA212-A,"Bremerton, WA",244000,"Cricket Licensee (Reauction), Inc.",40,"Cricket Licensee (Reauction), Inc.",40
+66,Advanced Wireless Services,161,AW-CMA213-A,"Pittsfield, MA",135000,AWS Wireless Inc.,31,AWS Wireless Inc.,31
+66,Advanced Wireless Services,161,AW-CMA214-A,"Richland-Kennewick-Pasco, WA",192000,"Red Rock Spectrum Holdings, LLC",34,"Red Rock Spectrum Holdings, LLC",34
+66,Advanced Wireless Services,161,AW-CMA215-A,"Chico, CA",203000,AWS Wireless Inc.,39,AWS Wireless Inc.,39
+66,Advanced Wireless Services,161,AW-CMA216-A,"Janesville-Beloit, WI",152000,T-Mobile License LLC,18,T-Mobile License LLC,18
+66,Advanced Wireless Services,161,AW-CMA217-A,"Anderson, IN",629000,Hancock Rural Telephone Corporation,69,Hancock Rural Telephone Corporation,69
+66,Advanced Wireless Services,161,AW-CMA218-A,"Wilmington, NC",1477000,"Atlantic Seawinds Communications, LLC",120,"Atlantic Seawinds Communications, LLC",120
+66,Advanced Wireless Services,161,AW-CMA219-A,"Monroe, LA",241000,Cellco Partnership d/b/a Verizon Wireless,119,Cellco Partnership d/b/a Verizon Wireless,119
+66,Advanced Wireless Services,161,AW-CMA220-A,"Abilene, TX",273000,"Central Texas Telephone Investments, LP",69,"Central Texas Telephone Investments, LP",69
+66,Advanced Wireless Services,161,AW-CMA221-A,"Fargo-Moorehead, ND-MN",533000,"Cable One, Inc.",29,"Cable One, Inc.",29
+66,Advanced Wireless Services,161,AW-CMA222-A,"Tuscaloosa, AL",902000,"Cricket Licensee (Reauction), Inc.",86,"Cricket Licensee (Reauction), Inc.",86
+66,Advanced Wireless Services,161,AW-CMA223-A,"Elkhart-Goshen, IN",206000,"Ligtel Communications, Inc.",72,"Ligtel Communications, Inc.",72
+66,Advanced Wireless Services,161,AW-CMA224-A,"Bangor, ME",152000,"Barat Wireless, L.P.",74,"Barat Wireless, L.P.",74
+66,Advanced Wireless Services,161,AW-CMA225-A,"Altoona, PA",264000,AWS Wireless Inc.,84,AWS Wireless Inc.,84
+66,Advanced Wireless Services,161,AW-CMA226-A,"Florence, AL",380000,"Cricket Licensee (Reauction), Inc.",63,"Cricket Licensee (Reauction), Inc.",63
+66,Advanced Wireless Services,161,AW-CMA227-A,"Anderson, SC",408000,West Carolina Piedmont Bidding Consortium,69,West Carolina Piedmont Bidding Consortium,69
+66,Advanced Wireless Services,161,AW-CMA228-A,"Vineland-Millville, NJ",146000,AWS Wireless Inc.,33,AWS Wireless Inc.,33
+66,Advanced Wireless Services,161,AW-CMA229-A,"Medford, OR",181000,"18th Street Spectrum, LLC",69,"18th Street Spectrum, LLC",69
+66,Advanced Wireless Services,161,AW-CMA230-A,"Decatur, IL",115000,Daredevil Communications LLC,90,Daredevil Communications LLC,90
+66,Advanced Wireless Services,161,AW-CMA231-A,"Mansfield, OH",196000,"Triad AWS, Inc.",100,"Triad AWS, Inc.",100
+66,Advanced Wireless Services,161,AW-CMA232-A,"Eau Claire, WI",1193000,American Cellular Corporation,65,American Cellular Corporation,65
+66,Advanced Wireless Services,161,AW-CMA233-A,"Wichita Falls, TX",167000,AWS Wireless Inc.,60,AWS Wireless Inc.,60
+66,Advanced Wireless Services,161,AW-CMA234-A,"Athens, GA",1113000,T-Mobile License LLC,55,T-Mobile License LLC,55
+66,Advanced Wireless Services,161,AW-CMA235-A,"Petersburg-Hopewell, VA",445000,"Cricket Licensee (Reauction), Inc.",83,"Cricket Licensee (Reauction), Inc.",83
+66,Advanced Wireless Services,161,AW-CMA236-A,"Muncie, IN",364000,AWS Wireless Inc.,41,AWS Wireless Inc.,41
+66,Advanced Wireless Services,161,AW-CMA237-A,"Tyler, TX",729000,AWS Wireless Inc.,50,AWS Wireless Inc.,50
+66,Advanced Wireless Services,161,AW-CMA238-A,"Sharon, PA",589000,American Cellular Corporation,69,American Cellular Corporation,69
+66,Advanced Wireless Services,161,AW-CMA239-A,"Joplin, MO",693000,"Cable One, Inc.",14,"Cable One, Inc.",14
+66,Advanced Wireless Services,161,AW-CMA240-A,"Texarkana, AR-TX",722000,"Cable One, Inc.",75,"Cable One, Inc.",75
+66,Advanced Wireless Services,161,AW-CMA241-A,"Pueblo, CO",225000,"Red Rock Spectrum Holdings, LLC",106,"Red Rock Spectrum Holdings, LLC",106
+66,Advanced Wireless Services,161,AW-CMA242-A,"Olympia, WA",329000,"Cricket Licensee (Reauction), Inc.",79,"Cricket Licensee (Reauction), Inc.",79
+66,Advanced Wireless Services,161,AW-CMA243-A,"Greeley, CO",181000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA244-A,"Kenosha, WI",150000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA245-A,"Ocala, FL",517000,AWS Wireless Inc.,35,AWS Wireless Inc.,35
+66,Advanced Wireless Services,161,AW-CMA246-A,"Dothan, AL",631000,"Cellular South Licenses, Inc.",135,"Cellular South Licenses, Inc.",135
+66,Advanced Wireless Services,161,AW-CMA247-A,"Lafayette, IN",156000,AWS Wireless Inc.,41,AWS Wireless Inc.,41
+66,Advanced Wireless Services,161,AW-CMA248-A,"Burlington, VT",922000,"Vermont Telephone Company, Inc.",143,"Vermont Telephone Company, Inc.",143
+66,Advanced Wireless Services,161,AW-CMA249-A,"Anniston, AL",477000,"Cable One, Inc.",58,"Cable One, Inc.",58
+66,Advanced Wireless Services,161,AW-CMA250-A,"Bloomington-Normal, IL",150000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA251-A,"Williamsport, PA",433000,American Cellular Corporation,91,American Cellular Corporation,91
+66,Advanced Wireless Services,161,AW-CMA252-A,"Pascagoula, MS",599000,"Cable One, Inc.",60,"Cable One, Inc.",60
+66,Advanced Wireless Services,161,AW-CMA253-A,"Sioux City, IA-NE",1322000,"Cable One, Inc.",108,"Cable One, Inc.",108
+66,Advanced Wireless Services,161,AW-CMA254-A,"Redding, CA",163000,AWS Wireless Inc.,63,AWS Wireless Inc.,63
+66,Advanced Wireless Services,161,AW-CMA255-A,"Odessa, TX",523000,"Cable One, Inc.",44,"Cable One, Inc.",44
+66,Advanced Wireless Services,161,AW-CMA256-A,"Charlottesville, VA",873000,NTELOS Inc.,79,NTELOS Inc.,79
+66,Advanced Wireless Services,161,AW-CMA257-A,"Hagerstown, MD",460000,American Cellular Corporation,62,American Cellular Corporation,62
+66,Advanced Wireless Services,161,AW-CMA258-A,"Jacksonville, NC",0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA259-A,"State College, PA",712000,T-Mobile License LLC,84,T-Mobile License LLC,84
+66,Advanced Wireless Services,161,AW-CMA260-A,"Lawton, OK",188000,American Cellular Corporation,75,American Cellular Corporation,75
+66,Advanced Wireless Services,161,AW-CMA261-A,"Albany, GA",137000,"Public Service Wireless Services, Inc.",74,"Public Service Wireless Services, Inc.",74
+66,Advanced Wireless Services,161,AW-CMA262-A,"Danville, VA",110000,AWS Wireless Inc.,64,AWS Wireless Inc.,64
+66,Advanced Wireless Services,161,AW-CMA263-A,"Wausau, WI",786000,American Cellular Corporation,64,American Cellular Corporation,64
+66,Advanced Wireless Services,161,AW-CMA264-A,"Florence, SC",714000,"FTC Management Group, Inc.",113,"FTC Management Group, Inc.",113
+66,Advanced Wireless Services,161,AW-CMA265-A,"Fort Walton Beach, FL",373000,"Cellular South Licenses, Inc.",52,"Cellular South Licenses, Inc.",52
+66,Advanced Wireless Services,161,AW-CMA266-A,"Glens Falls, NY",166000,American Cellular Corporation,63,American Cellular Corporation,63
+66,Advanced Wireless Services,161,AW-CMA267-A,"Sioux Falls, SD",568000,KTC AWS Limited Partnership,58,KTC AWS Limited Partnership,58
+66,Advanced Wireless Services,161,AW-CMA268-A,"Billings, MT",186000,"Blackfoot Telephone Cooperative, Inc.",3,"Blackfoot Telephone Cooperative, Inc.",3
+66,Advanced Wireless Services,161,AW-CMA269-A,"Cumberland, MD-WV",442000,American Cellular Corporation,62,American Cellular Corporation,62
+66,Advanced Wireless Services,161,AW-CMA270-A,"Bellingham, WA",167000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA271-A,"Kokomo, IN",107000,AWS Wireless Inc.,52,AWS Wireless Inc.,52
+66,Advanced Wireless Services,161,AW-CMA272-A,"Gadsden, AL",103000,"Cavalier Wireless, LLC",81,"Cavalier Wireless, LLC",81
+66,Advanced Wireless Services,161,AW-CMA273-A,"Kankakee, IL",104000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA274-A,"Yuba City, CA",146000,AWS Wireless Inc.,62,AWS Wireless Inc.,62
+66,Advanced Wireless Services,161,AW-CMA275-A,"St. Joseph, MO",125000,T-Mobile License LLC,23,T-Mobile License LLC,23
+66,Advanced Wireless Services,161,AW-CMA276-A,"Grand Forks, ND-MN",120000,Paul Bunyan Rural Telephone Cooperative,24,Paul Bunyan Rural Telephone Cooperative,24
+66,Advanced Wireless Services,161,AW-CMA277-A,"Sheboygan, WI",868000,"NSIGHTTEL WIRELESS, LLC",75,"NSIGHTTEL WIRELESS, LLC",75
+66,Advanced Wireless Services,161,AW-CMA278-A,"Columbia, MO",337000,Fidelity Communications Company,10,Fidelity Communications Company,10
+66,Advanced Wireless Services,161,AW-CMA279-A,"Lewiston-Auburn, ME",104000,"Barat Wireless, L.P.",74,"Barat Wireless, L.P.",74
+66,Advanced Wireless Services,161,AW-CMA280-A,"Burlington, NC",138000,AWS Wireless Inc.,74,AWS Wireless Inc.,74
+66,Advanced Wireless Services,161,AW-CMA281-A,"Laredo, TX",819000,"Cricket Licensee (Reauction), Inc.",49,"Cricket Licensee (Reauction), Inc.",49
+66,Advanced Wireless Services,161,AW-CMA282-A,"Bloomington, IN",544000,AWS Wireless Inc.,58,AWS Wireless Inc.,58
+66,Advanced Wireless Services,161,AW-CMA283-A,"Panama City, FL",175000,T-Mobile License LLC,82,T-Mobile License LLC,82
+66,Advanced Wireless Services,161,AW-CMA284-A,"Elmira, NY",101000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA285-A,"Las Cruces, NM",673000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA286-A,"Dubuque, IA",349000,"Iowa Telecommunications Services, Inc.",124,"Iowa Telecommunications Services, Inc.",124
+66,Advanced Wireless Services,161,AW-CMA287-A,"Bryan-College Station, TX",418000,T-Mobile License LLC,41,T-Mobile License LLC,41
+66,Advanced Wireless Services,161,AW-CMA288-A,"Rochester, MN",124000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA289-A,"Rapid City, SD",156000,KTC AWS Limited Partnership,15,KTC AWS Limited Partnership,15
+66,Advanced Wireless Services,161,AW-CMA290-A,"La Crosse, WI",631000,"NEIT Wireless, LLC",123,"NEIT Wireless, LLC",123
+66,Advanced Wireless Services,161,AW-CMA291-A,"Pine Bluff, AR",84000,"Cricket Licensee (Reauction), Inc.",37,"Cricket Licensee (Reauction), Inc.",37
+66,Advanced Wireless Services,161,AW-CMA292-A,"Sherman-Denison, TX",580000,"Cable One, Inc.",82,"Cable One, Inc.",82
+66,Advanced Wireless Services,161,AW-CMA293-A,"Owensboro, KY",92000,AWS Wireless Inc.,71,AWS Wireless Inc.,71
+66,Advanced Wireless Services,161,AW-CMA294-A,"San Angelo, TX",437000,"Alenco Communications, Inc.",50,"Alenco Communications, Inc.",50
+66,Advanced Wireless Services,161,AW-CMA295-A,"Midland, TX",146000,"Red Rock Spectrum Holdings, LLC",41,"Red Rock Spectrum Holdings, LLC",41
+66,Advanced Wireless Services,161,AW-CMA296-A,"Iowa City, IA",2164000,"Iowa Telecommunications Services, Inc.",67,"Iowa Telecommunications Services, Inc.",67
+66,Advanced Wireless Services,161,AW-CMA297-A,"Great Falls, MT",234000,"3 Rivers Telephone Cooperative, Inc.",8,"3 Rivers Telephone Cooperative, Inc.",8
+66,Advanced Wireless Services,161,AW-CMA298-A,"Bismarck, ND",220000,BEK COMMUNICATIONS COOPERATIVE,19,BEK COMMUNICATIONS COOPERATIVE,19
+66,Advanced Wireless Services,161,AW-CMA299-A,"Casper, WY",156000,Union Telephone Company,46,Union Telephone Company,46
+66,Advanced Wireless Services,161,AW-CMA300-A,"Victoria, TX",273000,"La Ward Cellular Telephone Company, Inc.",43,"La Ward Cellular Telephone Company, Inc.",43
+66,Advanced Wireless Services,161,AW-CMA301-A,"Lawrence, KS",113000,"Red Rock Spectrum Holdings, LLC",121,"Red Rock Spectrum Holdings, LLC",121
+66,Advanced Wireless Services,161,AW-CMA302-A,"Enid, OK",117000,American Cellular Corporation,71,American Cellular Corporation,71
+66,Advanced Wireless Services,161,AW-CMA303-A,"Aurora-Elgin, IL",55000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA304-A,"Joliet, IL",38000,T-Mobile License LLC,31,T-Mobile License LLC,31
+66,Advanced Wireless Services,161,AW-CMA305-A,"Alton-Granite City, IL",128000,"Cricket Licensee (Reauction), Inc.",105,"Cricket Licensee (Reauction), Inc.",105
+66,Advanced Wireless Services,161,AW-CMA306-A,Gulf of Mexico,40000,"Cricket Licensee (Reauction), Inc.",83,"Cricket Licensee (Reauction), Inc.",83
+66,Advanced Wireless Services,161,AW-CMA307-A,Alabama 1 - Franklin,251000,"Cricket Licensee (Reauction), Inc.",41,"Cricket Licensee (Reauction), Inc.",41
+66,Advanced Wireless Services,161,AW-CMA308-A,Alabama 2 - Jackson,85000,"Farmers Telecommunications Cooperative, Inc.",1,"Farmers Telecommunications Cooperative, Inc.",1
+66,Advanced Wireless Services,161,AW-CMA309-A,Alabama 3 - Lamar,125000,"Cricket Licensee (Reauction), Inc.",99,"Cricket Licensee (Reauction), Inc.",99
+66,Advanced Wireless Services,161,AW-CMA310-A,Alabama 4 - Bibb,179000,"Cricket Licensee (Reauction), Inc.",58,"Cricket Licensee (Reauction), Inc.",58
+66,Advanced Wireless Services,161,AW-CMA311-A,Alabama 5 - Cleburne,639000,AWS Wireless Inc.,61,AWS Wireless Inc.,61
+66,Advanced Wireless Services,161,AW-CMA312-A,Alabama 6 - Washington,78000,AWS Wireless Inc.,48,AWS Wireless Inc.,48
+66,Advanced Wireless Services,161,AW-CMA313-A,Alabama 7 - Butler,116000,CenturyTel Broadband Wireless LLC,23,CenturyTel Broadband Wireless LLC,23
+66,Advanced Wireless Services,161,AW-CMA314-A,Alabama 8 - Lee,1625000,"Public Service Wireless Services, Inc.",53,"Public Service Wireless Services, Inc.",53
+66,Advanced Wireless Services,161,AW-CMA315-A,Alaska 1 - Wade Hampton,733000,"Space Data Spectrum Holdings, LLC",159,"Space Data Spectrum Holdings, LLC",159
+66,Advanced Wireless Services,161,AW-CMA316-A,Alaska 2 - Bethel,525000,"MTA Communications, Inc.",160,"MTA Communications, Inc.",160
+66,Advanced Wireless Services,161,AW-CMA317-A,Alaska 3 - Haines,157000,City of Ketchikan dba Ketchikan Public Utilities,150,City of Ketchikan dba Ketchikan Public Utilities,150
+66,Advanced Wireless Services,161,AW-CMA318-A,Arizona 1 - Mohave,574000,"Cricket Licensee (Reauction), Inc.",84,"Cricket Licensee (Reauction), Inc.",84
+66,Advanced Wireless Services,161,AW-CMA319-A,Arizona 2 - Coconino,702000,"Cable One, Inc.",82,"Cable One, Inc.",82
+66,Advanced Wireless Services,161,AW-CMA320-A,Arizona 3 - Navajo,419000,"Cable One, Inc.",82,"Cable One, Inc.",82
+66,Advanced Wireless Services,161,AW-CMA321-A,Arizona 4 - Yuma,119000,"Red Rock Spectrum Holdings, LLC",90,"Red Rock Spectrum Holdings, LLC",90
+66,Advanced Wireless Services,161,AW-CMA322-A,Arizona 5 - Gila,204000,"Red Rock Spectrum Holdings, LLC",68,"Red Rock Spectrum Holdings, LLC",68
+66,Advanced Wireless Services,161,AW-CMA323-A,Arizona 6 - Graham,709000,"Cable One, Inc.",97,"Cable One, Inc.",97
+66,Advanced Wireless Services,161,AW-CMA324-A,Arkansas 1 - Madison,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA325-A,Arkansas 2 - Marion,60000,CenturyTel Broadband Wireless LLC,1,CenturyTel Broadband Wireless LLC,1
+66,Advanced Wireless Services,161,AW-CMA326-A,Arkansas 3 - Sharp,74000,"Cricket Licensee (Reauction), Inc.",93,"Cricket Licensee (Reauction), Inc.",93
+66,Advanced Wireless Services,161,AW-CMA327-A,Arkansas 4 - Clay,153000,"Cricket Licensee (Reauction), Inc.",93,"Cricket Licensee (Reauction), Inc.",93
+66,Advanced Wireless Services,161,AW-CMA328-A,Arkansas 5 - Cross,75000,AWS Wireless Inc.,42,AWS Wireless Inc.,42
+66,Advanced Wireless Services,161,AW-CMA329-A,Arkansas 6 - Cleburne,66000,CenturyTel Broadband Wireless LLC,1,CenturyTel Broadband Wireless LLC,1
+66,Advanced Wireless Services,161,AW-CMA330-A,Arkansas 7 - Pope,77000,"Cricket Licensee (Reauction), Inc.",37,"Cricket Licensee (Reauction), Inc.",37
+66,Advanced Wireless Services,161,AW-CMA331-A,Arkansas 8 - Franklin,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA332-A,Arkansas 9 - Polk,92000,"Pine Cellular Phones, Inc.",50,"Pine Cellular Phones, Inc.",50
+66,Advanced Wireless Services,161,AW-CMA333-A,Arkansas 10 - Garland,101000,"Cricket Licensee (Reauction), Inc.",37,"Cricket Licensee (Reauction), Inc.",37
+66,Advanced Wireless Services,161,AW-CMA334-A,Arkansas 11 - Hempstead,41000,Cellco Partnership d/b/a Verizon Wireless,127,Cellco Partnership d/b/a Verizon Wireless,127
+66,Advanced Wireless Services,161,AW-CMA335-A,Arkansas 12 - Ouachita,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA336-A,California 1 - Del Norte,127000,AWS Wireless Inc.,37,AWS Wireless Inc.,37
+66,Advanced Wireless Services,161,AW-CMA337-A,California 2 - Modoc,38000,AWS Wireless Inc.,63,AWS Wireless Inc.,63
+66,Advanced Wireless Services,161,AW-CMA338-A,California 3 - Alpine,105000,Volcano Internet Provider,82,Volcano Internet Provider,82
+66,Advanced Wireless Services,161,AW-CMA339-A,California 4 - Madera,454000,"Cricket Licensee (Reauction), Inc.",66,"Cricket Licensee (Reauction), Inc.",66
+66,Advanced Wireless Services,161,AW-CMA340-A,California 5 - San Luis Obispo,184000,AWS Wireless Inc.,82,AWS Wireless Inc.,82
+66,Advanced Wireless Services,161,AW-CMA341-A,California 6 - Mono,18000,Daredevil Communications LLC,82,Daredevil Communications LLC,82
+66,Advanced Wireless Services,161,AW-CMA342-A,California 7 - Imperial,85000,Daredevil Communications LLC,73,Daredevil Communications LLC,73
+66,Advanced Wireless Services,161,AW-CMA343-A,California 8 - Tehama,61000,AWS Wireless Inc.,63,AWS Wireless Inc.,63
+66,Advanced Wireless Services,161,AW-CMA344-A,California 9 - Mendocino,128000,AWS Wireless Inc.,39,AWS Wireless Inc.,39
+66,Advanced Wireless Services,161,AW-CMA345-A,California 10 - Sierra,60000,AWS Wireless Inc.,89,AWS Wireless Inc.,89
+66,Advanced Wireless Services,161,AW-CMA346-A,California 11 - El Dorado,94000,AWS Wireless Inc.,37,AWS Wireless Inc.,37
+66,Advanced Wireless Services,161,AW-CMA347-A,California 12 - Kings,153000,"Cricket Licensee (Reauction), Inc.",66,"Cricket Licensee (Reauction), Inc.",66
+66,Advanced Wireless Services,161,AW-CMA348-A,Colorado 1 - Moffat,129000,Union Telephone Company,74,Union Telephone Company,74
+66,Advanced Wireless Services,161,AW-CMA349-A,Colorado 2 - Logan,91000,"Red Rock Spectrum Holdings, LLC",76,"Red Rock Spectrum Holdings, LLC",76
+66,Advanced Wireless Services,161,AW-CMA350-A,Colorado 3 - Garfield,1001000,"Red Rock Spectrum Holdings, LLC",79,"Red Rock Spectrum Holdings, LLC",79
+66,Advanced Wireless Services,161,AW-CMA351-A,Colorado 4 - Park,162000,"Red Rock Spectrum Holdings, LLC",68,"Red Rock Spectrum Holdings, LLC",68
+66,Advanced Wireless Services,161,AW-CMA352-A,Colorado 5 - Elbert,50000,"Red Rock Spectrum Holdings, LLC",76,"Red Rock Spectrum Holdings, LLC",76
+66,Advanced Wireless Services,161,AW-CMA353-A,Colorado 6 - San Miguel,142000,"Red Rock Spectrum Holdings, LLC",65,"Red Rock Spectrum Holdings, LLC",65
+66,Advanced Wireless Services,161,AW-CMA354-A,Colorado 7 - Saguache,165000,"Red Rock Spectrum Holdings, LLC",79,"Red Rock Spectrum Holdings, LLC",79
+66,Advanced Wireless Services,161,AW-CMA355-A,Colorado 8 - Kiowa,44000,"Red Rock Spectrum Holdings, LLC",54,"Red Rock Spectrum Holdings, LLC",54
+66,Advanced Wireless Services,161,AW-CMA356-A,Colorado 9 - Costilla,23000,"Red Rock Spectrum Holdings, LLC",75,"Red Rock Spectrum Holdings, LLC",75
+66,Advanced Wireless Services,161,AW-CMA357-A,Connecticut 1 - Litchfield,109000,AWS Wireless Inc.,33,AWS Wireless Inc.,33
+66,Advanced Wireless Services,161,AW-CMA358-A,Connecticut 2 - Windham,65000,AWS Wireless Inc.,33,AWS Wireless Inc.,33
+66,Advanced Wireless Services,161,AW-CMA359-A,Delaware 1 - Kent,531000,"Cricket Licensee (Reauction), Inc.",62,"Cricket Licensee (Reauction), Inc.",62
+66,Advanced Wireless Services,161,AW-CMA360-A,Florida 1 - Collier,249000,AWS Wireless Inc.,66,AWS Wireless Inc.,66
+66,Advanced Wireless Services,161,AW-CMA361-A,Florida 2 - Glades,250000,AWS Wireless Inc.,66,AWS Wireless Inc.,66
+66,Advanced Wireless Services,161,AW-CMA362-A,Florida 3 - Hardee,202000,AWS Wireless Inc.,66,AWS Wireless Inc.,66
+66,Advanced Wireless Services,161,AW-CMA363-A,Florida 4 - Citrus,680000,AWS Wireless Inc.,68,AWS Wireless Inc.,68
+66,Advanced Wireless Services,161,AW-CMA364-A,Florida 5 - Putnam,86000,AWS Wireless Inc.,82,AWS Wireless Inc.,82
+66,Advanced Wireless Services,161,AW-CMA365-A,Florida 6 - Dixie,38000,"Cavalier Wireless, LLC",61,"Cavalier Wireless, LLC",61
+66,Advanced Wireless Services,161,AW-CMA366-A,Florida 7 - Hamilton,71000,"Cavalier Wireless, LLC",61,"Cavalier Wireless, LLC",61
+66,Advanced Wireless Services,161,AW-CMA367-A,Florida 8 - Jefferson,35000,"Cavalier Wireless, LLC",61,"Cavalier Wireless, LLC",61
+66,Advanced Wireless Services,161,AW-CMA368-A,Florida 9 - Calhoun,27000,"Cavalier Wireless, LLC",61,"Cavalier Wireless, LLC",61
+66,Advanced Wireless Services,161,AW-CMA369-A,Florida 10 -  Walton,202000,"Cellular South Licenses, Inc.",52,"Cellular South Licenses, Inc.",52
+66,Advanced Wireless Services,161,AW-CMA370-A,Florida 11 - Monroe,48000,AWS Wireless Inc.,32,AWS Wireless Inc.,32
+66,Advanced Wireless Services,161,AW-CMA371-A,Georgia 1 - Whitfield,966000,AWS Wireless Inc.,55,AWS Wireless Inc.,55
+66,Advanced Wireless Services,161,AW-CMA372-A,Georgia 2 - Dawson,212000,AWS Wireless Inc.,32,AWS Wireless Inc.,32
+66,Advanced Wireless Services,161,AW-CMA373-A,Georgia 3 - Chattooga,153000,AWS Wireless Inc.,78,AWS Wireless Inc.,78
+66,Advanced Wireless Services,161,AW-CMA374-A,Georgia 4 - Jasper,82000,AWS Wireless Inc.,32,AWS Wireless Inc.,32
+66,Advanced Wireless Services,161,AW-CMA375-A,Georgia 5 - Haralson,1464000,"Public Service Wireless Services, Inc.",55,"Public Service Wireless Services, Inc.",55
+66,Advanced Wireless Services,161,AW-CMA376-A,Georgia 6 - Spalding,1151000,"Public Service Wireless Services, Inc.",55,"Public Service Wireless Services, Inc.",55
+66,Advanced Wireless Services,161,AW-CMA377-A,Georgia 7 - Hancock,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA378-A,Georgia 8 - Warren,100000,"Cricket Licensee (Reauction), Inc.",40,"Cricket Licensee (Reauction), Inc.",40
+66,Advanced Wireless Services,161,AW-CMA379-A,Georgia 9 - Marion,74000,"Public Service Wireless Services, Inc.",1,"Public Service Wireless Services, Inc.",1
+66,Advanced Wireless Services,161,AW-CMA380-A,Georgia 10 - Bleckley,108000,Daredevil Communications LLC,139,Daredevil Communications LLC,139
+66,Advanced Wireless Services,161,AW-CMA381-A,Georgia 11 - Toombs,108000,Daredevil Communications LLC,139,Daredevil Communications LLC,139
+66,Advanced Wireless Services,161,AW-CMA382-A,Georgia 12 - Liberty,450000,"Cricket Licensee (Reauction), Inc.",101,"Cricket Licensee (Reauction), Inc.",101
+66,Advanced Wireless Services,161,AW-CMA383-A,Georgia 13 - Early,94000,"Cavalier Wireless, LLC",136,"Cavalier Wireless, LLC",136
+66,Advanced Wireless Services,161,AW-CMA384-A,Georgia 14 - Worth,179000,Daredevil Communications LLC,139,Daredevil Communications LLC,139
+66,Advanced Wireless Services,161,AW-CMA385-A,Hawaii 1 - Kauai,35000,"Cavalier Wireless, LLC",81,"Cavalier Wireless, LLC",81
+66,Advanced Wireless Services,161,AW-CMA386-A,Hawaii 2 - Maui,77000,"Cavalier Wireless, LLC",81,"Cavalier Wireless, LLC",81
+66,Advanced Wireless Services,161,AW-CMA387-A,Hawaii 3 - Hawaii,89000,"Cavalier Wireless, LLC",81,"Cavalier Wireless, LLC",81
+66,Advanced Wireless Services,161,AW-CMA388-A,Idaho 1 - Boundary,930000,"Blackfoot Telephone Cooperative, Inc.",68,"Blackfoot Telephone Cooperative, Inc.",68
+66,Advanced Wireless Services,161,AW-CMA389-A,Idaho 2 - Idaho,224000,"Cable One, Inc.",92,"Cable One, Inc.",92
+66,Advanced Wireless Services,161,AW-CMA390-A,Idaho 3 - Lemhi,12000,AWS Wireless Inc.,82,AWS Wireless Inc.,82
+66,Advanced Wireless Services,161,AW-CMA391-A,Idaho 4 - Elmore,387000,"Cable One, Inc.",92,"Cable One, Inc.",92
+66,Advanced Wireless Services,161,AW-CMA392-A,Idaho 5 - Butte,191000,"Cable One, Inc.",82,"Cable One, Inc.",82
+66,Advanced Wireless Services,161,AW-CMA393-A,Idaho 6 - Clark,1095000,"Cable One, Inc.",82,"Cable One, Inc.",82
+66,Advanced Wireless Services,161,AW-CMA394-A,Illinois 1 - Jo Daviess,220000,T-Mobile License LLC,82,T-Mobile License LLC,82
+66,Advanced Wireless Services,161,AW-CMA395-A,Illinois 2 - Bureau,175000,T-Mobile License LLC,82,T-Mobile License LLC,82
+66,Advanced Wireless Services,161,AW-CMA396-A,Illinois 3 - Mercer,320000,Mediapolis Telephone Company,50,Mediapolis Telephone Company,50
+66,Advanced Wireless Services,161,AW-CMA397-A,Illinois 4 - Adams,217000,"Cricket Licensee (Reauction), Inc.",97,"Cricket Licensee (Reauction), Inc.",97
+66,Advanced Wireless Services,161,AW-CMA398-A,Illinois 5 - Mason,57000,Daredevil Communications LLC,90,Daredevil Communications LLC,90
+66,Advanced Wireless Services,161,AW-CMA399-A,Illinois 6 - Montgomery,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA400-A,Illinois 7 - Vermilion,141000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA401-A,Illinois 8 - Washington,227000,"Mt. Vernon. Net, Inc.",58,"Mt. Vernon. Net, Inc.",58
+66,Advanced Wireless Services,161,AW-CMA402-A,Illinois 9 - Clay,175000,AWS Wireless Inc.,73,AWS Wireless Inc.,73
+66,Advanced Wireless Services,161,AW-CMA403-A,Indiana 1 - Newton,130000,T-Mobile License LLC,31,T-Mobile License LLC,31
+66,Advanced Wireless Services,161,AW-CMA404-A,Indiana 2 - Kosciusko,113000,"Ligtel Communications, Inc.",1,"Ligtel Communications, Inc.",1
+66,Advanced Wireless Services,161,AW-CMA405-A,Indiana 3 - Huntington,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA406-A,Indiana 4 - Miami,118000,AWS Wireless Inc.,52,AWS Wireless Inc.,52
+66,Advanced Wireless Services,161,AW-CMA407-A,Indiana 5 - Warren,107000,AWS Wireless Inc.,59,AWS Wireless Inc.,59
+66,Advanced Wireless Services,161,AW-CMA408-A,Indiana 6 - Randolph,669000,AWS Wireless Inc.,68,AWS Wireless Inc.,68
+66,Advanced Wireless Services,161,AW-CMA409-A,Indiana 7 - Owen,1071000,"Smithville Spectrum, LLC",59,"Smithville Spectrum, LLC",59
+66,Advanced Wireless Services,161,AW-CMA410-A,Indiana 8 - Brown,940000,"Smithville Spectrum, LLC",61,"Smithville Spectrum, LLC",61
+66,Advanced Wireless Services,161,AW-CMA411-A,Indiana 9 - Decatur,658000,"Southeastern Indiana Rural Telephone Coop., Inc.",58,"Southeastern Indiana Rural Telephone Coop., Inc.",58
+66,Advanced Wireless Services,161,AW-CMA412-A,Iowa 1 - Mills,351000,"Iowa Telecommunications Services, Inc.",63,"Iowa Telecommunications Services, Inc.",63
+66,Advanced Wireless Services,161,AW-CMA413-A,Iowa 2 - Union,248000,"Iowa Telecommunications Services, Inc.",89,"Iowa Telecommunications Services, Inc.",89
+66,Advanced Wireless Services,161,AW-CMA414-A,Iowa 3 - Monroe,584000,"Iowa Telecommunications Services, Inc.",13,"Iowa Telecommunications Services, Inc.",13
+66,Advanced Wireless Services,161,AW-CMA415-A,Iowa 4 - Muscatine,2072000,Mediapolis Telephone Company,60,Mediapolis Telephone Company,60
+66,Advanced Wireless Services,161,AW-CMA416-A,Iowa 5 - Jackson,1182000,"Iowa Telecommunications Services, Inc.",54,"Iowa Telecommunications Services, Inc.",54
+66,Advanced Wireless Services,161,AW-CMA417-A,Iowa 6 - Iowa,900000,"Iowa Telecommunications Services, Inc.",52,"Iowa Telecommunications Services, Inc.",52
+66,Advanced Wireless Services,161,AW-CMA418-A,Iowa 7 - Audubon,642000,"Iowa Telecommunications Services, Inc.",72,"Iowa Telecommunications Services, Inc.",72
+66,Advanced Wireless Services,161,AW-CMA419-A,Iowa 8 - Monona,635000,"LL License Holdings II, LLC",60,"LL License Holdings II, LLC",60
+66,Advanced Wireless Services,161,AW-CMA420-A,Iowa 9 - Ida,653000,"LL License Holdings II, LLC",56,"LL License Holdings II, LLC",56
+66,Advanced Wireless Services,161,AW-CMA421-A,Iowa 10 - Humboldt,776000,"Iowa Telecommunications Services, Inc.",12,"Iowa Telecommunications Services, Inc.",12
+66,Advanced Wireless Services,161,AW-CMA422-A,Iowa 11 - Hardin,424000,"Iowa Telecommunications Services, Inc.",25,"Iowa Telecommunications Services, Inc.",25
+66,Advanced Wireless Services,161,AW-CMA423-A,Iowa 12 - Winneshiek,836000,"Iowa Telecommunications Services, Inc.",116,"Iowa Telecommunications Services, Inc.",116
+66,Advanced Wireless Services,161,AW-CMA424-A,Iowa 13 - Mitchell,1388000,"FMTC Wireless, Inc.",122,"FMTC Wireless, Inc.",122
+66,Advanced Wireless Services,161,AW-CMA425-A,Iowa 14 - Kossuth,809000,"FMTC Wireless, Inc.",54,"FMTC Wireless, Inc.",54
+66,Advanced Wireless Services,161,AW-CMA426-A,Iowa 15 - Dickinson,475000,"Iowa Telecommunications Services, Inc.",37,"Iowa Telecommunications Services, Inc.",37
+66,Advanced Wireless Services,161,AW-CMA427-A,Iowa 16 - Lyon,312000,Mutual Telephone Company,24,Mutual Telephone Company,24
+66,Advanced Wireless Services,161,AW-CMA428-A,Kansas 1 - Cheyenne,40000,"The S&T Telephone Cooperative Association, Inc.",84,"The S&T Telephone Cooperative Association, Inc.",84
+66,Advanced Wireless Services,161,AW-CMA429-A,Kansas 2 - Norton,35000,"Red Rock Spectrum Holdings, LLC",83,"Red Rock Spectrum Holdings, LLC",83
+66,Advanced Wireless Services,161,AW-CMA430-A,Kansas 3 - Jewell,224000,"Blue Valley Tele-Communications, Inc.",83,"Blue Valley Tele-Communications, Inc.",83
+66,Advanced Wireless Services,161,AW-CMA431-A,Kansas 4 - Marshall,487000,"Blue Valley Tele-Communications, Inc.",11,"Blue Valley Tele-Communications, Inc.",11
+66,Advanced Wireless Services,161,AW-CMA432-A,Kansas 5 - Brown,191000,"Cricket Licensee (Reauction), Inc.",67,"Cricket Licensee (Reauction), Inc.",67
+66,Advanced Wireless Services,161,AW-CMA433-A,Kansas 6 - Wallace,32000,"The S&T Telephone Cooperative Association, Inc.",84,"The S&T Telephone Cooperative Association, Inc.",84
+66,Advanced Wireless Services,161,AW-CMA434-A,Kansas 7 - Trego,95000,"Red Rock Spectrum Holdings, LLC",83,"Red Rock Spectrum Holdings, LLC",83
+66,Advanced Wireless Services,161,AW-CMA435-A,Kansas 8 - Ellsworth,328000,"Red Rock Spectrum Holdings, LLC",83,"Red Rock Spectrum Holdings, LLC",83
+66,Advanced Wireless Services,161,AW-CMA436-A,Kansas 9 - Morris,355000,"Cable One, Inc.",36,"Cable One, Inc.",36
+66,Advanced Wireless Services,161,AW-CMA437-A,Kansas 10 - Franklin,239000,"Cricket Licensee (Reauction), Inc.",62,"Cricket Licensee (Reauction), Inc.",62
+66,Advanced Wireless Services,161,AW-CMA438-A,Kansas 11 - Hamilton,146000,"Red Rock Spectrum Holdings, LLC",83,"Red Rock Spectrum Holdings, LLC",83
+66,Advanced Wireless Services,161,AW-CMA439-A,Kansas 12 - Hodgeman,150000,"Red Rock Spectrum Holdings, LLC",83,"Red Rock Spectrum Holdings, LLC",83
+66,Advanced Wireless Services,161,AW-CMA440-A,Kansas 13 - Edwards,117000,"Red Rock Spectrum Holdings, LLC",83,"Red Rock Spectrum Holdings, LLC",83
+66,Advanced Wireless Services,161,AW-CMA441-A,Kansas 14 - Reno,774000,"SKT, Inc.",80,"SKT, Inc.",80
+66,Advanced Wireless Services,161,AW-CMA442-A,Kansas 15 - Elk,655000,"Cable One, Inc.",41,"Cable One, Inc.",41
+66,Advanced Wireless Services,161,AW-CMA443-A,Kentucky 1 - Fulton,116000,Daredevil Communications LLC,90,Daredevil Communications LLC,90
+66,Advanced Wireless Services,161,AW-CMA444-A,Kentucky 2 - Union,78000,AWS Wireless Inc.,71,AWS Wireless Inc.,71
+66,Advanced Wireless Services,161,AW-CMA445-A,Kentucky 3 - Meade,451000,AWS Wireless Inc.,68,AWS Wireless Inc.,68
+66,Advanced Wireless Services,161,AW-CMA446-A,Kentucky 4 - Spencer,1056000,American Cellular Corporation,62,American Cellular Corporation,62
+66,Advanced Wireless Services,161,AW-CMA447-A,Kentucky 5 - Barren,400000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA448-A,Kentucky 6 - Madison,252000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA449-A,Kentucky 7 - Trimble,878000,American Cellular Corporation,58,American Cellular Corporation,58
+66,Advanced Wireless Services,161,AW-CMA450-A,Kentucky 8 - Mason,173000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA451-A,Kentucky 9 - Elliott,118000,American Cellular Corporation,74,American Cellular Corporation,74
+66,Advanced Wireless Services,161,AW-CMA452-A,Kentucky 10 - Powell,100000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA453-A,Kentucky 11 - Clay,112000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA454-A,Louisiana 1 - Claiborne,68000,Cellco Partnership d/b/a Verizon Wireless,125,Cellco Partnership d/b/a Verizon Wireless,125
+66,Advanced Wireless Services,161,AW-CMA455-A,Louisiana 2 - Morehouse,69000,Cellco Partnership d/b/a Verizon Wireless,127,Cellco Partnership d/b/a Verizon Wireless,127
+66,Advanced Wireless Services,161,AW-CMA456-A,Louisiana 3 - De Soto,251000,Cellco Partnership d/b/a Verizon Wireless,132,Cellco Partnership d/b/a Verizon Wireless,132
+66,Advanced Wireless Services,161,AW-CMA457-A,Louisiana 4 - Caldwell,44000,Cellco Partnership d/b/a Verizon Wireless,123,Cellco Partnership d/b/a Verizon Wireless,123
+66,Advanced Wireless Services,161,AW-CMA458-A,Louisiana 5 - Beauregard,1377000,"Cricket Licensee (Reauction), Inc.",115,"Cricket Licensee (Reauction), Inc.",115
+66,Advanced Wireless Services,161,AW-CMA459-A,Louisiana 6 - Iberville,110000,"Cricket Licensee (Reauction), Inc.",41,"Cricket Licensee (Reauction), Inc.",41
+66,Advanced Wireless Services,161,AW-CMA460-A,Louisiana 7 - West Feliciana,115000,"Cricket Licensee (Reauction), Inc.",37,"Cricket Licensee (Reauction), Inc.",37
+66,Advanced Wireless Services,161,AW-CMA461-A,Louisiana 8 - St. James,67000,"Cricket Licensee (Reauction), Inc.",37,"Cricket Licensee (Reauction), Inc.",37
+66,Advanced Wireless Services,161,AW-CMA462-A,Louisiana 9 - Plaquemines,16000,"Cricket Licensee (Reauction), Inc.",37,"Cricket Licensee (Reauction), Inc.",37
+66,Advanced Wireless Services,161,AW-CMA463-A,Maine 1 - Oxford,51000,AWS Wireless Inc.,89,AWS Wireless Inc.,89
+66,Advanced Wireless Services,161,AW-CMA464-A,Maine 2 - Somerset,85000,AWS Wireless Inc.,89,AWS Wireless Inc.,89
+66,Advanced Wireless Services,161,AW-CMA465-A,Maine 3 - Kennebec,217000,AWS Wireless Inc.,72,AWS Wireless Inc.,72
+66,Advanced Wireless Services,161,AW-CMA466-A,Maine 4 - Washington,51000,"Barat Wireless, L.P.",85,"Barat Wireless, L.P.",85
+66,Advanced Wireless Services,161,AW-CMA467-A,Maryland 1 - Garrett,56000,American Cellular Corporation,62,American Cellular Corporation,62
+66,Advanced Wireless Services,161,AW-CMA468-A,Maryland 2 - Kent,501000,"Cricket Licensee (Reauction), Inc.",61,"Cricket Licensee (Reauction), Inc.",61
+66,Advanced Wireless Services,161,AW-CMA469-A,Maryland 3 - Frederick,1162000,"Cricket Licensee (Reauction), Inc.",78,"Cricket Licensee (Reauction), Inc.",78
+66,Advanced Wireless Services,161,AW-CMA470-A,Massachusetts 1 - Franklin,43000,AWS Wireless Inc.,31,AWS Wireless Inc.,31
+66,Advanced Wireless Services,161,AW-CMA471-A,Massachusetts 2 - Barnstable,148000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA472-A,Michigan 1 - Gogebic,785000,American Cellular Corporation,64,American Cellular Corporation,64
+66,Advanced Wireless Services,161,AW-CMA473-A,Michigan 2 - Alger,179000,"Dakota Wireless Group, LLC",80,"Dakota Wireless Group, LLC",80
+66,Advanced Wireless Services,161,AW-CMA474-A,Michigan 3 - Emmet,105000,"AGRI-VALLEY COMMUNICATIONS, INC.",1,"AGRI-VALLEY COMMUNICATIONS, INC.",1
+66,Advanced Wireless Services,161,AW-CMA475-A,Michigan 4 - Cheboygan,89000,Wittenberg Telephone Company,65,Wittenberg Telephone Company,65
+66,Advanced Wireless Services,161,AW-CMA476-A,Michigan 5 - Manistee,199000,"AGRI-VALLEY COMMUNICATIONS, INC.",72,"AGRI-VALLEY COMMUNICATIONS, INC.",72
+66,Advanced Wireless Services,161,AW-CMA477-A,Michigan 6 - Roscommon,635000,American Cellular Corporation,64,American Cellular Corporation,64
+66,Advanced Wireless Services,161,AW-CMA478-A,Michigan 7 - Newaygo,439000,"AGRI-VALLEY COMMUNICATIONS, INC.",43,"AGRI-VALLEY COMMUNICATIONS, INC.",43
+66,Advanced Wireless Services,161,AW-CMA479-A,Michigan 8 - Allegan,63000,"AGRI-VALLEY COMMUNICATIONS, INC.",3,"AGRI-VALLEY COMMUNICATIONS, INC.",3
+66,Advanced Wireless Services,161,AW-CMA480-A,Michigan 9 - Cass,192000,Cincinnati Bell Wireless LLC,74,Cincinnati Bell Wireless LLC,74
+66,Advanced Wireless Services,161,AW-CMA481-A,Michigan 10 - Tuscola,239000,"AGRI-VALLEY COMMUNICATIONS, INC.",43,"AGRI-VALLEY COMMUNICATIONS, INC.",43
+66,Advanced Wireless Services,161,AW-CMA482-A,Minnesota 1 - Kittson,43000,"Dakota Wireless Group, LLC",29,"Dakota Wireless Group, LLC",29
+66,Advanced Wireless Services,161,AW-CMA483-A,Minnesota 2 - Lake of the Woods,44000,Paul Bunyan Rural Telephone Cooperative,33,Paul Bunyan Rural Telephone Cooperative,33
+66,Advanced Wireless Services,161,AW-CMA484-A,Minnesota 3 - Koochiching,165000,Paul Bunyan Rural Telephone Cooperative,56,Paul Bunyan Rural Telephone Cooperative,56
+66,Advanced Wireless Services,161,AW-CMA485-A,Minnesota 4 - Lake,11000,"Chequamegon Communications Cooperative, Inc.",56,"Chequamegon Communications Cooperative, Inc.",56
+66,Advanced Wireless Services,161,AW-CMA486-A,Minnesota 5 - Wilkin,828000,American Cellular Corporation,52,American Cellular Corporation,52
+66,Advanced Wireless Services,161,AW-CMA487-A,Minnesota 6 - Hubbard,733000,American Cellular Corporation,38,American Cellular Corporation,38
+66,Advanced Wireless Services,161,AW-CMA488-A,Minnesota 7 - Chippewa,152000,T-Mobile License LLC,25,T-Mobile License LLC,25
+66,Advanced Wireless Services,161,AW-CMA489-A,Minnesota 8 - Lac qui Parle,189000,"LL License Holdings II, LLC",14,"LL License Holdings II, LLC",14
+66,Advanced Wireless Services,161,AW-CMA490-A,Minnesota 9 - Pipestone,454000,"LL License Holdings II, LLC",14,"LL License Holdings II, LLC",14
+66,Advanced Wireless Services,161,AW-CMA491-A,Minnesota 10 - Le Sueur,514000,LCDW Wireless Limited Partnership,26,LCDW Wireless Limited Partnership,26
+66,Advanced Wireless Services,161,AW-CMA492-A,Minnesota 11 - Goodhue,489000,Midwest AWS Limited Partnership,32,Midwest AWS Limited Partnership,32
+66,Advanced Wireless Services,161,AW-CMA493-A,Mississippi 1 - Tunica,597000,"Cable One, Inc.",82,"Cable One, Inc.",82
+66,Advanced Wireless Services,161,AW-CMA494-A,Mississippi 2 - Benton,155000,AWS Wireless Inc.,42,AWS Wireless Inc.,42
+66,Advanced Wireless Services,161,AW-CMA495-A,Mississippi 3 - Bolivar,178000,"Cable One, Inc.",101,"Cable One, Inc.",101
+66,Advanced Wireless Services,161,AW-CMA496-A,Mississippi 4 - Yalobusha,340000,"Cable One, Inc.",69,"Cable One, Inc.",69
+66,Advanced Wireless Services,161,AW-CMA497-A,Mississippi 5 - Washington,101000,Daredevil Communications LLC,90,Daredevil Communications LLC,90
+66,Advanced Wireless Services,161,AW-CMA498-A,Mississippi 6 - Montgomery,113000,"Cable One, Inc.",1,"Cable One, Inc.",1
+66,Advanced Wireless Services,161,AW-CMA499-A,Mississippi 7 - Leake,206000,Telephone Electronics Coporation,91,Telephone Electronics Coporation,91
+66,Advanced Wireless Services,161,AW-CMA500-A,Mississippi 8 - Claiborne,464000,"Cable One, Inc.",82,"Cable One, Inc.",82
+66,Advanced Wireless Services,161,AW-CMA501-A,Mississippi 9 - Copiah,75000,AWS Wireless Inc.,77,AWS Wireless Inc.,77
+66,Advanced Wireless Services,161,AW-CMA502-A,Mississippi 10 - Smith,154000,Telephone Electronics Coporation,82,Telephone Electronics Coporation,82
+66,Advanced Wireless Services,161,AW-CMA503-A,Mississippi 11 - Lamar,199000,Telephone Electronics Coporation,82,Telephone Electronics Coporation,82
+66,Advanced Wireless Services,161,AW-CMA504-A,Missouri 1 - Atchison,26000,Northwest Missouri Cellular Limited Partnership,1,Northwest Missouri Cellular Limited Partnership,1
+66,Advanced Wireless Services,161,AW-CMA505-A,Missouri 2 - Harrison,28000,Northeast Missouri Rural Telephone Company,40,Northeast Missouri Rural Telephone Company,40
+66,Advanced Wireless Services,161,AW-CMA506-A,Missouri 3 - Schuyler,209000,"Cable One, Inc.",33,"Cable One, Inc.",33
+66,Advanced Wireless Services,161,AW-CMA507-A,Missouri 4 - De Kalb,213000,"Green Hills Area Cellular Telephone, Inc.",11,"Green Hills Area Cellular Telephone, Inc.",11
+66,Advanced Wireless Services,161,AW-CMA508-A,Missouri 5 - Linn,206000,"Chariton Valley Communication Corporation, Inc.",11,"Chariton Valley Communication Corporation, Inc.",11
+66,Advanced Wireless Services,161,AW-CMA509-A,Missouri 6 - Marion,62000,"Chariton Valley Communication Corporation, Inc.",91,"Chariton Valley Communication Corporation, Inc.",91
+66,Advanced Wireless Services,161,AW-CMA510-A,Missouri 7 - Saline,103000,"Grand River Communications, Inc.",1,"Grand River Communications, Inc.",1
+66,Advanced Wireless Services,161,AW-CMA511-A,Missouri 8 - Callaway,468000,"Cricket Licensee (Reauction), Inc.",64,"Cricket Licensee (Reauction), Inc.",64
+66,Advanced Wireless Services,161,AW-CMA512-A,Missouri 9 - Bates,69000,CenturyTel Broadband Wireless LLC,82,CenturyTel Broadband Wireless LLC,82
+66,Advanced Wireless Services,161,AW-CMA513-A,Missouri 10 - Benton,63000,Fidelity Communications Company,1,Fidelity Communications Company,1
+66,Advanced Wireless Services,161,AW-CMA514-A,Missouri 11 - Moniteau,114000,Fidelity Communications Company,2,Fidelity Communications Company,2
+66,Advanced Wireless Services,161,AW-CMA515-A,Missouri 12 - Maries,138000,Fidelity Communications Company,10,Fidelity Communications Company,10
+66,Advanced Wireless Services,161,AW-CMA516-A,Missouri 13 - Washington,58000,"Big River Telephone Company, LLC",1,"Big River Telephone Company, LLC",1
+66,Advanced Wireless Services,161,AW-CMA517-A,Missouri 14 - Barton,124000,CenturyTel Broadband Wireless LLC,78,CenturyTel Broadband Wireless LLC,78
+66,Advanced Wireless Services,161,AW-CMA518-A,Missouri 15 - Stone,186000,Fidelity Communications Company,34,Fidelity Communications Company,34
+66,Advanced Wireless Services,161,AW-CMA519-A,Missouri 16 - Laclede,186000,Fidelity Communications Company,34,Fidelity Communications Company,34
+66,Advanced Wireless Services,161,AW-CMA520-A,Missouri 17 - Shannon,33000,CenturyTel Broadband Wireless LLC,1,CenturyTel Broadband Wireless LLC,1
+66,Advanced Wireless Services,161,AW-CMA521-A,Missouri 18 - Perry,185000,"Big River Telephone Company, LLC",5,"Big River Telephone Company, LLC",5
+66,Advanced Wireless Services,161,AW-CMA522-A,Missouri 19 - Stoddard,228000,BPS Telephone Company,6,BPS Telephone Company,6
+66,Advanced Wireless Services,161,AW-CMA523-A,Montana 1 - Lincoln,457000,"Blackfoot Telephone Cooperative, Inc.",12,"Blackfoot Telephone Cooperative, Inc.",12
+66,Advanced Wireless Services,161,AW-CMA524-A,Montana 2 - Toole,33000,CCTN BIDDING CONSORTIUM,8,CCTN BIDDING CONSORTIUM,8
+66,Advanced Wireless Services,161,AW-CMA525-A,Montana 3 - Phillips,13000,CCTN BIDDING CONSORTIUM,9,CCTN BIDDING CONSORTIUM,9
+66,Advanced Wireless Services,161,AW-CMA526-A,Montana 4 - Daniels,44000,CCTN BIDDING CONSORTIUM,9,CCTN BIDDING CONSORTIUM,9
+66,Advanced Wireless Services,161,AW-CMA527-A,Montana 5 - Mineral,225000,"Blackfoot Telephone Cooperative, Inc.",8,"Blackfoot Telephone Cooperative, Inc.",8
+66,Advanced Wireless Services,161,AW-CMA528-A,Montana 6 - Deer Lodge,287000,"3 Rivers Telephone Cooperative, Inc.",12,"3 Rivers Telephone Cooperative, Inc.",12
+66,Advanced Wireless Services,161,AW-CMA529-A,Montana 7 - Fergus,28000,CCTN BIDDING CONSORTIUM,8,CCTN BIDDING CONSORTIUM,8
+66,Advanced Wireless Services,161,AW-CMA530-A,Montana 8 - Beaverhead,109000,"3 Rivers Telephone Cooperative, Inc.",10,"3 Rivers Telephone Cooperative, Inc.",10
+66,Advanced Wireless Services,161,AW-CMA531-A,Montana 9 - Carbon,71000,CCTN BIDDING CONSORTIUM,14,CCTN BIDDING CONSORTIUM,14
+66,Advanced Wireless Services,161,AW-CMA532-A,Montana 10 - Prairie,39000,CCTN BIDDING CONSORTIUM,14,CCTN BIDDING CONSORTIUM,14
+66,Advanced Wireless Services,161,AW-CMA533-A,Nebraska 1 - Sioux,202000,Hemingford Cooperative Telephone Company,54,Hemingford Cooperative Telephone Company,54
+66,Advanced Wireless Services,161,AW-CMA534-A,Nebraska 2 - Cherry,72000,Three River Telco,29,Three River Telco,29
+66,Advanced Wireless Services,161,AW-CMA535-A,Nebraska 3 - Knox,1940000,"Cable One, Inc.",94,"Cable One, Inc.",94
+66,Advanced Wireless Services,161,AW-CMA536-A,Nebraska 4 - Grant,21000,Hemingford Cooperative Telephone Company,1,Hemingford Cooperative Telephone Company,1
+66,Advanced Wireless Services,161,AW-CMA537-A,Nebraska 5 - Boone,617000,"LL License Holdings II, LLC",44,"LL License Holdings II, LLC",44
+66,Advanced Wireless Services,161,AW-CMA538-A,Nebraska 6 - Keith,293000,Hemingford Cooperative Telephone Company,58,Hemingford Cooperative Telephone Company,58
+66,Advanced Wireless Services,161,AW-CMA539-A,Nebraska 7 - Hall,461000,Hemingford Cooperative Telephone Company,58,Hemingford Cooperative Telephone Company,58
+66,Advanced Wireless Services,161,AW-CMA540-A,Nebraska 8 - Chase,52000,Hemingford Cooperative Telephone Company,108,Hemingford Cooperative Telephone Company,108
+66,Advanced Wireless Services,161,AW-CMA541-A,Nebraska 9 - Adams,306000,Hemingford Cooperative Telephone Company,58,Hemingford Cooperative Telephone Company,58
+66,Advanced Wireless Services,161,AW-CMA542-A,Nebraska 10 - Cass,286000,"Barat Wireless, L.P.",91,"Barat Wireless, L.P.",91
+66,Advanced Wireless Services,161,AW-CMA543-A,Nevada 1 - Humboldt,28000,Churchill County Telephone d/b/a CC Communications,1,Churchill County Telephone d/b/a CC Communications,1
+66,Advanced Wireless Services,161,AW-CMA544-A,Nevada 2 - Lander,32000,Churchill County Telephone d/b/a CC Communications,1,Churchill County Telephone d/b/a CC Communications,1
+66,Advanced Wireless Services,161,AW-CMA545-A,Nevada 3 - Storey,89000,"Cricket Licensee (Reauction), Inc.",66,"Cricket Licensee (Reauction), Inc.",66
+66,Advanced Wireless Services,161,AW-CMA546-A,Nevada 4 - Mineral,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA547-A,Nevada 5 - White Pine,8000,WUE INC,1,WUE INC,1
+66,Advanced Wireless Services,161,AW-CMA548-A,New Hampshire 1 - Coos,919000,"Vermont Telephone Company, Inc.",118,"Vermont Telephone Company, Inc.",118
+66,Advanced Wireless Services,161,AW-CMA549-A,New Hampshire 2 - Carroll,210000,AWS Wireless Inc.,92,AWS Wireless Inc.,92
+66,Advanced Wireless Services,161,AW-CMA550-A,New Jersey 1 - Hunterdon,73000,AWS Wireless Inc.,31,AWS Wireless Inc.,31
+66,Advanced Wireless Services,161,AW-CMA551-A,New Jersey 2 - Ocean,2154000,"Cingular AWS, LLC",44,"Cingular AWS, LLC",44
+66,Advanced Wireless Services,161,AW-CMA552-A,New Jersey 3 - Sussex,264000,AWS Wireless Inc.,39,AWS Wireless Inc.,39
+66,Advanced Wireless Services,161,AW-CMA553-A,New Mexico 1 - San Juan,191000,"Red Rock Spectrum Holdings, LLC",70,"Red Rock Spectrum Holdings, LLC",70
+66,Advanced Wireless Services,161,AW-CMA554-A,New Mexico 2 - Colfax,145000,"Plateau Telecommunications, Inc.",44,"Plateau Telecommunications, Inc.",44
+66,Advanced Wireless Services,161,AW-CMA555-A,New Mexico 3 - Catron,99000,"Red Rock Spectrum Holdings, LLC",70,"Red Rock Spectrum Holdings, LLC",70
+66,Advanced Wireless Services,161,AW-CMA556-A,New Mexico 4 - Santa Fe,2078000,"Plateau Telecommunications, Inc.",78,"Plateau Telecommunications, Inc.",78
+66,Advanced Wireless Services,161,AW-CMA557-A,New Mexico 5 - Grant,37000,"Red Rock Spectrum Holdings, LLC",1,"Red Rock Spectrum Holdings, LLC",1
+66,Advanced Wireless Services,161,AW-CMA558-A,New Mexico 6 - Lincoln,1427000,"Plateau Telecommunications, Inc.",44,"Plateau Telecommunications, Inc.",44
+66,Advanced Wireless Services,161,AW-CMA559-A,New York 1 - Jefferson,166000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA560-A,New York 2 - Franklin,138000,American Cellular Corporation,57,American Cellular Corporation,57
+66,Advanced Wireless Services,161,AW-CMA561-A,New York 3 - Chautauqua,286000,American Cellular Corporation,19,American Cellular Corporation,19
+66,Advanced Wireless Services,161,AW-CMA562-A,New York 4 - Yates,1312000,American Cellular Corporation,89,American Cellular Corporation,89
+66,Advanced Wireless Services,161,AW-CMA563-A,New York 5 - Otsego,354000,American Cellular Corporation,82,American Cellular Corporation,82
+66,Advanced Wireless Services,161,AW-CMA564-A,New York 6 - Columbia,105000,American Cellular Corporation,66,American Cellular Corporation,66
+66,Advanced Wireless Services,161,AW-CMA565-A,North Carolina 1 - Cherokee,238000,"Carolina West Wireless, Inc.",83,"Carolina West Wireless, Inc.",83
+66,Advanced Wireless Services,161,AW-CMA566-A,North Carolina 2 - Yancey,107000,"Carolina West Wireless, Inc.",58,"Carolina West Wireless, Inc.",58
+66,Advanced Wireless Services,161,AW-CMA567-A,North Carolina 3 - Ashe,108000,"Carolina West Wireless, Inc.",58,"Carolina West Wireless, Inc.",58
+66,Advanced Wireless Services,161,AW-CMA568-A,North Carolina 4 - Henderson,256000,"Carolina West Wireless, Inc.",58,"Carolina West Wireless, Inc.",58
+66,Advanced Wireless Services,161,AW-CMA569-A,North Carolina 5 - Anson,283000,"ETCOM, LLC",83,"ETCOM, LLC",83
+66,Advanced Wireless Services,161,AW-CMA570-A,North Carolina 6 - Chatham,104000,AWS Wireless Inc.,78,AWS Wireless Inc.,78
+66,Advanced Wireless Services,161,AW-CMA571-A,North Carolina 7 - Rockingham,186000,AWS Wireless Inc.,74,AWS Wireless Inc.,74
+66,Advanced Wireless Services,161,AW-CMA572-A,North Carolina 8 - Northampton,178000,"18th Street Spectrum, LLC",69,"18th Street Spectrum, LLC",69
+66,Advanced Wireless Services,161,AW-CMA573-A,North Carolina 9 - Camden,72000,"Route 66 Wireless, LLC",1,"Route 66 Wireless, LLC",1
+66,Advanced Wireless Services,161,AW-CMA574-A,North Carolina 10 - Harnett,237000,"18th Street Spectrum, LLC",67,"18th Street Spectrum, LLC",67
+66,Advanced Wireless Services,161,AW-CMA575-A,North Carolina 11 - Hoke,146000,AWS Wireless Inc.,93,AWS Wireless Inc.,93
+66,Advanced Wireless Services,161,AW-CMA576-A,North Carolina 12 - Sampson,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA577-A,North Carolina 13 - Greene,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA578-A,North Carolina 14 - Pitt,155000,"18th Street Spectrum, LLC",64,"18th Street Spectrum, LLC",64
+66,Advanced Wireless Services,161,AW-CMA579-A,North Carolina 15 - Cabarrus,848000,AWS Wireless Inc.,68,AWS Wireless Inc.,68
+66,Advanced Wireless Services,161,AW-CMA580-A,North Dakota 1 - Divide,61000,North Dakota Network Company,1,North Dakota Network Company,1
+66,Advanced Wireless Services,161,AW-CMA581-A,North Dakota 2 - Bottineau,63000,North Dakota Network Company,7,North Dakota Network Company,7
+66,Advanced Wireless Services,161,AW-CMA582-A,North Dakota 3 - Barnes,53000,North Dakota Network Company,1,North Dakota Network Company,1
+66,Advanced Wireless Services,161,AW-CMA583-A,North Dakota 4 - McKenzie,92000,"Reservation Telephone Cooperative, Inc.",6,"Reservation Telephone Cooperative, Inc.",6
+66,Advanced Wireless Services,161,AW-CMA584-A,North Dakota 5 - Kidder,92000,BEK COMMUNICATIONS COOPERATIVE,28,BEK COMMUNICATIONS COOPERATIVE,28
+66,Advanced Wireless Services,161,AW-CMA585-A,Ohio 1 - Williams,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA586-A,Ohio 2 - Sandusky,156000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA587-A,Ohio 3 - Ashtabula,494000,American Cellular Corporation,79,American Cellular Corporation,79
+66,Advanced Wireless Services,161,AW-CMA588-A,Ohio 4 - Mercer,185000,Cincinnati Bell Wireless LLC,83,Cincinnati Bell Wireless LLC,83
+66,Advanced Wireless Services,161,AW-CMA589-A,Ohio 5 - Hancock,162000,"Triad AWS, Inc.",100,"Triad AWS, Inc.",100
+66,Advanced Wireless Services,161,AW-CMA590-A,Ohio 6 - Morrow,417000,AWS Wireless Inc.,46,AWS Wireless Inc.,46
+66,Advanced Wireless Services,161,AW-CMA591-A,Ohio 7 - Tuscarawas,203000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA592-A,Ohio 8 - Clinton,218000,Cincinnati Bell Wireless LLC,85,Cincinnati Bell Wireless LLC,85
+66,Advanced Wireless Services,161,AW-CMA593-A,Ohio 9 - Ross,544000,AWS Wireless Inc.,52,AWS Wireless Inc.,52
+66,Advanced Wireless Services,161,AW-CMA594-A,Ohio 10 - Perry,253000,AWS Wireless Inc.,81,AWS Wireless Inc.,81
+66,Advanced Wireless Services,161,AW-CMA595-A,Ohio 11 - Columbiana,67000,American Cellular Corporation,54,American Cellular Corporation,54
+66,Advanced Wireless Services,161,AW-CMA596-A,Oklahoma 1 - Cimarron,120000,AWS Wireless Inc.,76,AWS Wireless Inc.,76
+66,Advanced Wireless Services,161,AW-CMA597-A,Oklahoma 2 - Harper,90000,American Cellular Corporation,71,American Cellular Corporation,71
+66,Advanced Wireless Services,161,AW-CMA598-A,Oklahoma 3 - Grant,854000,American Cellular Corporation,71,American Cellular Corporation,71
+66,Advanced Wireless Services,161,AW-CMA599-A,Oklahoma 4 - Nowata,1984000,"Cable One, Inc.",93,"Cable One, Inc.",93
+66,Advanced Wireless Services,161,AW-CMA600-A,Oklahoma 5 - Roger Mills,320000,American Cellular Corporation,96,American Cellular Corporation,96
+66,Advanced Wireless Services,161,AW-CMA601-A,Oklahoma 6 - Seminole,1582000,CROSS TELEPHONE COMPANY,90,CROSS TELEPHONE COMPANY,90
+66,Advanced Wireless Services,161,AW-CMA602-A,Oklahoma 7 - Beckham,994000,American Cellular Corporation,96,American Cellular Corporation,96
+66,Advanced Wireless Services,161,AW-CMA603-A,Oklahoma 8 - Jackson,584000,"Cable One, Inc.",43,"Cable One, Inc.",43
+66,Advanced Wireless Services,161,AW-CMA604-A,Oklahoma 9 - Garvin,1010000,"Cable One, Inc.",42,"Cable One, Inc.",42
+66,Advanced Wireless Services,161,AW-CMA605-A,Oklahoma 10 - Haskell,509000,"Pine Cellular Phones, Inc.",43,"Pine Cellular Phones, Inc.",43
+66,Advanced Wireless Services,161,AW-CMA606-A,Oregon 1 - Clatsop,210000,"Cricket Licensee (Reauction), Inc.",67,"Cricket Licensee (Reauction), Inc.",67
+66,Advanced Wireless Services,161,AW-CMA607-A,Oregon 2 - Hood River,145000,"Bend Cable Communications, LLC",7,"Bend Cable Communications, LLC",7
+66,Advanced Wireless Services,161,AW-CMA608-A,Oregon 3 - Umatilla,235000,"Red Rock Spectrum Holdings, LLC",86,"Red Rock Spectrum Holdings, LLC",86
+66,Advanced Wireless Services,161,AW-CMA609-A,Oregon 4 - Lincoln,518000,"Cricket Licensee (Reauction), Inc.",68,"Cricket Licensee (Reauction), Inc.",68
+66,Advanced Wireless Services,161,AW-CMA610-A,Oregon 5 - Coos,156000,"Red Rock Spectrum Holdings, LLC",129,"Red Rock Spectrum Holdings, LLC",129
+66,Advanced Wireless Services,161,AW-CMA611-A,Oregon 6 - Crook,383000,"Bend Cable Communications, LLC",6,"Bend Cable Communications, LLC",6
+66,Advanced Wireless Services,161,AW-CMA612-A,Pennsylvania 1 - Crawford,118000,American Cellular Corporation,36,American Cellular Corporation,36
+66,Advanced Wireless Services,161,AW-CMA613-A,Pennsylvania 2 - McKean,58000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA614-A,Pennsylvania 3 - Potter,64000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA615-A,Pennsylvania 4 - Bradford,64000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA616-A,Pennsylvania 5 - Wayne,56000,AWS Wireless Inc.,33,AWS Wireless Inc.,33
+66,Advanced Wireless Services,161,AW-CMA617-A,Pennsylvania 6 - Lawrence,1850000,American Cellular Corporation,63,American Cellular Corporation,63
+66,Advanced Wireless Services,161,AW-CMA618-A,Pennsylvania 7 - Jefferson,438000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA619-A,Pennsylvania 8 - Union,244000,AWS Wireless Inc.,33,AWS Wireless Inc.,33
+66,Advanced Wireless Services,161,AW-CMA620-A,Pennsylvania 9 - Greene,579000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA621-A,Pennsylvania 10 - Bedford,160000,AWS Wireless Inc.,81,AWS Wireless Inc.,81
+66,Advanced Wireless Services,161,AW-CMA622-A,Pennsylvania 11 - Huntingdon,95000,AWS Wireless Inc.,81,AWS Wireless Inc.,81
+66,Advanced Wireless Services,161,AW-CMA623-A,Pennsylvania 12 - Lebanon,72000,AWS Wireless Inc.,110,AWS Wireless Inc.,110
+66,Advanced Wireless Services,161,AW-CMA624-A,Rhode Island 1 - Newport,51000,T-Mobile License LLC,21,T-Mobile License LLC,21
+66,Advanced Wireless Services,161,AW-CMA625-A,South Carolina 1 - Oconee,48000,West Carolina Piedmont Bidding Consortium,33,West Carolina Piedmont Bidding Consortium,33
+66,Advanced Wireless Services,161,AW-CMA626-A,South Carolina 2 - Laurens,1186000,West Carolina Piedmont Bidding Consortium,75,West Carolina Piedmont Bidding Consortium,75
+66,Advanced Wireless Services,161,AW-CMA627-A,South Carolina 3 - Cherokee,1100000,Chester Telephone Company,81,Chester Telephone Company,81
+66,Advanced Wireless Services,161,AW-CMA628-A,South Carolina 4 - Chesterfield,1179000,"Sandhill Communications, LLC",75,"Sandhill Communications, LLC",75
+66,Advanced Wireless Services,161,AW-CMA629-A,South Carolina 5 - Georgetown,925000,"Horry Telephone Cooperative, Inc.",120,"Horry Telephone Cooperative, Inc.",120
+66,Advanced Wireless Services,161,AW-CMA630-A,South Carolina 6 - Clarendon,666000,"FTC Management Group, Inc.",70,"FTC Management Group, Inc.",70
+66,Advanced Wireless Services,161,AW-CMA631-A,South Carolina 7 - Calhoun,165000,"Cricket Licensee (Reauction), Inc.",70,"Cricket Licensee (Reauction), Inc.",70
+66,Advanced Wireless Services,161,AW-CMA632-A,South Carolina 8 - Hampton,1477000,"Palmetto Rural Telephone Cooperative, Inc.",71,"Palmetto Rural Telephone Cooperative, Inc.",71
+66,Advanced Wireless Services,161,AW-CMA633-A,South Carolina 9 - Lancaster,295000,"Comporium Wireless, LLC",83,"Comporium Wireless, LLC",83
+66,Advanced Wireless Services,161,AW-CMA634-A,South Dakota 1 - Harding,21000,KTC AWS Limited Partnership,1,KTC AWS Limited Partnership,1
+66,Advanced Wireless Services,161,AW-CMA635-A,South Dakota 2 - Corson,14000,KTC AWS Limited Partnership,1,KTC AWS Limited Partnership,1
+66,Advanced Wireless Services,161,AW-CMA636-A,South Dakota 3 - McPherson,32000,KTC AWS Limited Partnership,1,KTC AWS Limited Partnership,1
+66,Advanced Wireless Services,161,AW-CMA637-A,South Dakota 4 - Marshall,953000,KTC AWS Limited Partnership,102,KTC AWS Limited Partnership,102
+66,Advanced Wireless Services,161,AW-CMA638-A,South Dakota 5 - Custer,16000,KTC AWS Limited Partnership,1,KTC AWS Limited Partnership,1
+66,Advanced Wireless Services,161,AW-CMA639-A,South Dakota 6 - Haakon,59000,KTC AWS Limited Partnership,6,KTC AWS Limited Partnership,6
+66,Advanced Wireless Services,161,AW-CMA640-A,South Dakota 7 - Sully,405000,KTC AWS Limited Partnership,46,KTC AWS Limited Partnership,46
+66,Advanced Wireless Services,161,AW-CMA641-A,South Dakota 8 - Kingsbury,238000,KTC AWS Limited Partnership,58,KTC AWS Limited Partnership,58
+66,Advanced Wireless Services,161,AW-CMA642-A,South Dakota 9 - Hanson,646000,KTC AWS Limited Partnership,105,KTC AWS Limited Partnership,105
+66,Advanced Wireless Services,161,AW-CMA643-A,Tennessee 1 - Lake,478000,AWS Wireless Inc.,53,AWS Wireless Inc.,53
+66,Advanced Wireless Services,161,AW-CMA644-A,Tennessee 2 - Cannon,106000,AWS Wireless Inc.,44,AWS Wireless Inc.,44
+66,Advanced Wireless Services,161,AW-CMA645-A,Tennessee 3 - Macon,220000,AWS Wireless Inc.,44,AWS Wireless Inc.,44
+66,Advanced Wireless Services,161,AW-CMA646-A,Tennessee 4 - Hamblen,811000,"Carolina West Wireless, Inc.",83,"Carolina West Wireless, Inc.",83
+66,Advanced Wireless Services,161,AW-CMA647-A,Tennessee 5 - Fayette,222000,AWS Wireless Inc.,42,AWS Wireless Inc.,42
+66,Advanced Wireless Services,161,AW-CMA648-A,Tennessee 6 - Giles,495000,"Cricket Licensee (Reauction), Inc.",79,"Cricket Licensee (Reauction), Inc.",79
+66,Advanced Wireless Services,161,AW-CMA649-A,Tennessee 7 - Bledsoe,170000,AWS Wireless Inc.,64,AWS Wireless Inc.,64
+66,Advanced Wireless Services,161,AW-CMA650-A,Tennessee 8 - Johnson,46000,"Carolina West Wireless, Inc.",83,"Carolina West Wireless, Inc.",83
+66,Advanced Wireless Services,161,AW-CMA651-A,Tennessee 9 - Maury,54000,"Cellular South Licenses, Inc.",79,"Cellular South Licenses, Inc.",79
+66,Advanced Wireless Services,161,AW-CMA652-A,Texas 1 - Dallam,143000,"Red Rock Spectrum Holdings, LLC",86,"Red Rock Spectrum Holdings, LLC",86
+66,Advanced Wireless Services,161,AW-CMA653-A,Texas 2 - Hansford,497000,"Cable One, Inc.",80,"Cable One, Inc.",80
+66,Advanced Wireless Services,161,AW-CMA654-A,Texas 3 - Parmer,550000,"Plateau Telecommunications, Inc.",48,"Plateau Telecommunications, Inc.",48
+66,Advanced Wireless Services,161,AW-CMA655-A,Texas 4 - Briscoe,33000,"Red Rock Spectrum Holdings, LLC",45,"Red Rock Spectrum Holdings, LLC",45
+66,Advanced Wireless Services,161,AW-CMA656-A,Texas 5 - Hardeman,322000,"Red Rock Spectrum Holdings, LLC",43,"Red Rock Spectrum Holdings, LLC",43
+66,Advanced Wireless Services,161,AW-CMA657-A,Texas 6 - Jack,348000,AWS Wireless Inc.,46,AWS Wireless Inc.,46
+66,Advanced Wireless Services,161,AW-CMA658-A,Texas 7 - Fannin,290000,AWS Wireless Inc.,44,AWS Wireless Inc.,44
+66,Advanced Wireless Services,161,AW-CMA659-A,Texas 8 - Gaines,217000,"Red Rock Spectrum Holdings, LLC",41,"Red Rock Spectrum Holdings, LLC",41
+66,Advanced Wireless Services,161,AW-CMA660-A,Texas 9 - Runnels,2799000,"Central Texas Telephone Investments, LP",62,"Central Texas Telephone Investments, LP",62
+66,Advanced Wireless Services,161,AW-CMA661-A,Texas 10 - Navarro,1600000,American Cellular Corporation,61,American Cellular Corporation,61
+66,Advanced Wireless Services,161,AW-CMA662-A,Texas 11 - Cherokee,483000,AWS Wireless Inc.,46,AWS Wireless Inc.,46
+66,Advanced Wireless Services,161,AW-CMA663-A,Texas 12 - Hudspeth,45000,"Big Bend Telecom, LTD",13,"Big Bend Telecom, LTD",13
+66,Advanced Wireless Services,161,AW-CMA664-A,Texas 13 - Reeves,84000,"Big Bend Telecom, LTD",45,"Big Bend Telecom, LTD",45
+66,Advanced Wireless Services,161,AW-CMA665-A,Texas 14 - Loving,116000,"Central Texas Telephone Investments, LP",44,"Central Texas Telephone Investments, LP",44
+66,Advanced Wireless Services,161,AW-CMA666-A,Texas 15 - Concho,2849000,"Hill Country Telephone Cooperative, Inc.",45,"Hill Country Telephone Cooperative, Inc.",45
+66,Advanced Wireless Services,161,AW-CMA667-A,Texas 16 - Burleson,4350000,American Cellular Corporation,55,American Cellular Corporation,55
+66,Advanced Wireless Services,161,AW-CMA668-A,Texas 17 - Newton,183000,"Red Rock Spectrum Holdings, LLC",26,"Red Rock Spectrum Holdings, LLC",26
+66,Advanced Wireless Services,161,AW-CMA669-A,Texas 18 - Edwards,1851000,"Hill Country Telephone Cooperative, Inc.",52,"Hill Country Telephone Cooperative, Inc.",52
+66,Advanced Wireless Services,161,AW-CMA670-A,Texas 19 - Atascosa,226000,C&W Enterprises INC.,107,C&W Enterprises INC.,107
+66,Advanced Wireless Services,161,AW-CMA671-A,Texas 20 - Wilson,314000,"Red Rock Spectrum Holdings, LLC",43,"Red Rock Spectrum Holdings, LLC",43
+66,Advanced Wireless Services,161,AW-CMA672-A,Texas 21 - Chambers,20000,"Command Connect, LLC",43,"Command Connect, LLC",43
+66,Advanced Wireless Services,161,AW-CMA673-A,Utah 1 - Box Elder,213000,AWS Wireless Inc.,68,AWS Wireless Inc.,68
+66,Advanced Wireless Services,161,AW-CMA674-A,Utah 2 - Morgan,557000,Manti Telephone Company,47,Manti Telephone Company,47
+66,Advanced Wireless Services,161,AW-CMA675-A,Utah 3 - Juab,160000,AWS Wireless Inc.,46,AWS Wireless Inc.,46
+66,Advanced Wireless Services,161,AW-CMA676-A,Utah 4 - Beaver,272000,Manti Telephone Company,50,Manti Telephone Company,50
+66,Advanced Wireless Services,161,AW-CMA677-A,Utah 5 - Carbon,729000,Manti Telephone Company,47,Manti Telephone Company,47
+66,Advanced Wireless Services,161,AW-CMA678-A,Utah 6 - Piute,29000,Manti Telephone Company,4,Manti Telephone Company,4
+66,Advanced Wireless Services,161,AW-CMA679-A,Vermont 1 - Franklin,175000,AWS Wireless Inc.,109,AWS Wireless Inc.,109
+66,Advanced Wireless Services,161,AW-CMA680-A,Vermont 2 - Addison,2149000,AWS Wireless Inc.,133,AWS Wireless Inc.,133
+66,Advanced Wireless Services,161,AW-CMA681-A,Virginia 1 - Lee,94000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA682-A,Virginia 2 - Tazewell,269000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-CMA683-A,Virginia 3 - Giles,237000,NTELOS Inc.,85,NTELOS Inc.,85
+66,Advanced Wireless Services,161,AW-CMA684-A,Virginia 4 - Bedford,112000,NTELOS Inc.,79,NTELOS Inc.,79
+66,Advanced Wireless Services,161,AW-CMA685-A,Virginia 5 - Bath,38000,NTELOS Inc.,79,NTELOS Inc.,79
+66,Advanced Wireless Services,161,AW-CMA686-A,Virginia 6 - Highland,281000,NTELOS Inc.,42,NTELOS Inc.,42
+66,Advanced Wireless Services,161,AW-CMA687-A,Virginia 7 - Buckingham,57000,AWS Wireless Inc.,72,AWS Wireless Inc.,72
+66,Advanced Wireless Services,161,AW-CMA688-A,Virginia 8 - Amelia,55000,AWS Wireless Inc.,72,AWS Wireless Inc.,72
+66,Advanced Wireless Services,161,AW-CMA689-A,Virginia 9 - Greensville,55000,AWS Wireless Inc.,72,AWS Wireless Inc.,72
+66,Advanced Wireless Services,161,AW-CMA690-A,Virginia 10 - Frederick,880000,AWS Wireless Inc.,51,AWS Wireless Inc.,51
+66,Advanced Wireless Services,161,AW-CMA691-A,Virginia 11 - Madison,832000,"Cricket Licensee (Reauction), Inc.",71,"Cricket Licensee (Reauction), Inc.",71
+66,Advanced Wireless Services,161,AW-CMA692-A,Virginia 12 - Caroline,695000,"Cricket Licensee (Reauction), Inc.",71,"Cricket Licensee (Reauction), Inc.",71
+66,Advanced Wireless Services,161,AW-CMA693-A,Washington 1 - Clallam,430000,"Cricket Licensee (Reauction), Inc.",67,"Cricket Licensee (Reauction), Inc.",67
+66,Advanced Wireless Services,161,AW-CMA694-A,Washington 2 - Okanogan,83000,"Red Rock Spectrum Holdings, LLC",34,"Red Rock Spectrum Holdings, LLC",34
+66,Advanced Wireless Services,161,AW-CMA695-A,Washington 3 - Ferry,42000,"Red Rock Spectrum Holdings, LLC",82,"Red Rock Spectrum Holdings, LLC",82
+66,Advanced Wireless Services,161,AW-CMA696-A,Washington 4 - Grays Harbor,235000,"Cricket Licensee (Reauction), Inc.",67,"Cricket Licensee (Reauction), Inc.",67
+66,Advanced Wireless Services,161,AW-CMA697-A,Washington 5 - Kittitas,91000,"Red Rock Spectrum Holdings, LLC",82,"Red Rock Spectrum Holdings, LLC",82
+66,Advanced Wireless Services,161,AW-CMA698-A,Washington 6 - Pacific,372000,"Cricket Licensee (Reauction), Inc.",67,"Cricket Licensee (Reauction), Inc.",67
+66,Advanced Wireless Services,161,AW-CMA699-A,Washington 7 - Skamania,17000,"Red Rock Spectrum Holdings, LLC",43,"Red Rock Spectrum Holdings, LLC",43
+66,Advanced Wireless Services,161,AW-CMA700-A,Washington 8 - Whitman,247000,"Red Rock Spectrum Holdings, LLC",82,"Red Rock Spectrum Holdings, LLC",82
+66,Advanced Wireless Services,161,AW-CMA701-A,West Virginia 1 - Mason,46000,American Cellular Corporation,54,American Cellular Corporation,54
+66,Advanced Wireless Services,161,AW-CMA702-A,West Virginia 2 - Wetzel,51000,American Cellular Corporation,54,American Cellular Corporation,54
+66,Advanced Wireless Services,161,AW-CMA703-A,West Virginia 3 - Monongalia,1606000,American Cellular Corporation,60,American Cellular Corporation,60
+66,Advanced Wireless Services,161,AW-CMA704-A,West Virginia 4 - Grant,493000,American Cellular Corporation,62,American Cellular Corporation,62
+66,Advanced Wireless Services,161,AW-CMA705-A,West Virginia 5 - Tucker,275000,American Cellular Corporation,71,American Cellular Corporation,71
+66,Advanced Wireless Services,161,AW-CMA706-A,West Virginia 6 - Lincoln,100000,American Cellular Corporation,54,American Cellular Corporation,54
+66,Advanced Wireless Services,161,AW-CMA707-A,West Virginia 7 - Raleigh,151000,American Cellular Corporation,25,American Cellular Corporation,25
+66,Advanced Wireless Services,161,AW-CMA708-A,Wisconsin 1 - Burnett,1407000,"CTC Telcom, Inc.",79,"CTC Telcom, Inc.",79
+66,Advanced Wireless Services,161,AW-CMA709-A,Wisconsin 2 - Bayfield,1235000,"Chequamegon Communications Cooperative, Inc.",66,"Chequamegon Communications Cooperative, Inc.",66
+66,Advanced Wireless Services,161,AW-CMA710-A,Wisconsin 3 - Vilas,621000,American Cellular Corporation,70,American Cellular Corporation,70
+66,Advanced Wireless Services,161,AW-CMA711-A,Wisconsin 4 - Marinette,674000,American Cellular Corporation,55,American Cellular Corporation,55
+66,Advanced Wireless Services,161,AW-CMA712-A,Wisconsin 5 - Pierce,748000,"Cricket Licensee (Reauction), Inc.",66,"Cricket Licensee (Reauction), Inc.",66
+66,Advanced Wireless Services,161,AW-CMA713-A,Wisconsin 6 - Trempealeau,263000,American Cellular Corporation,51,American Cellular Corporation,51
+66,Advanced Wireless Services,161,AW-CMA714-A,Wisconsin 7 - Wood,446000,Wittenberg Telephone Company,40,Wittenberg Telephone Company,40
+66,Advanced Wireless Services,161,AW-CMA715-A,Wisconsin 8 - Vernon,270000,"NEIT Wireless, LLC",34,"NEIT Wireless, LLC",34
+66,Advanced Wireless Services,161,AW-CMA716-A,Wisconsin 9 - Columbia,566000,T-Mobile License LLC,64,T-Mobile License LLC,64
+66,Advanced Wireless Services,161,AW-CMA717-A,Wisconsin 10 - Door,311000,T-Mobile License LLC,30,T-Mobile License LLC,30
+66,Advanced Wireless Services,161,AW-CMA718-A,Wyoming 1 - Park,36000,Union Telephone Company,2,Union Telephone Company,2
+66,Advanced Wireless Services,161,AW-CMA719-A,Wyoming 2 - Sheridan,422000,Union Telephone Company,35,Union Telephone Company,35
+66,Advanced Wireless Services,161,AW-CMA720-A,Wyoming 3 - Lincoln,834000,Manti Telephone Company,27,Manti Telephone Company,27
+66,Advanced Wireless Services,161,AW-CMA721-A,Wyoming 4 - Niobrara,82000,Union Telephone Company,1,Union Telephone Company,1
+66,Advanced Wireless Services,161,AW-CMA722-A,Wyoming 5 - Converse,7200,Union Telephone Company,1,Union Telephone Company,1
+66,Advanced Wireless Services,161,AW-CMA723-A,Puerto Rico 1 - Rincon,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA724-A,Puerto Rico 2 - Adjuntas,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA725-A,Puerto Rico 3 - Ciales,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA726-A,Puerto Rico 4 - Aibonito,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA727-A,Puerto Rico 5 - Ceiba,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA728-A,Puerto Rico 6 - Vieques,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA729-A,Puerto Rico 7 - Culebra,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA730-A,Virgin Islands 1 - St. Thomas,93000,Innovative Communication Corporation,128,Innovative Communication Corporation,128
+66,Advanced Wireless Services,161,AW-CMA731-A,Virgin Islands 2 - St. Croix,91000,Innovative Communication Corporation,128,Innovative Communication Corporation,128
+66,Advanced Wireless Services,161,AW-CMA732-A,Guam,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-CMA733-A,American Samoa,34000,"AST Telecom, LLC",1,"AST Telecom, LLC",1
+66,Advanced Wireless Services,161,AW-CMA734-A,Northern Mariana Islands,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-BEA001-B,Bangor ME,437000,SpectrumCo LLC,40,SpectrumCo LLC,40
+66,Advanced Wireless Services,161,AW-BEA001-C,Bangor ME,316000,T-Mobile License LLC,115,T-Mobile License LLC,115
+66,Advanced Wireless Services,161,AW-BEA002-B,Portland ME,3513000,SpectrumCo LLC,52,SpectrumCo LLC,52
+66,Advanced Wireless Services,161,AW-BEA002-C,Portland ME,2229000,T-Mobile License LLC,85,T-Mobile License LLC,85
+66,Advanced Wireless Services,161,AW-BEA003-B,Boston-Worcester MA-NH-RI-VT,76849000,SpectrumCo LLC,48,SpectrumCo LLC,48
+66,Advanced Wireless Services,161,AW-BEA003-C,Boston-Worcester MA-NH-RI-VT,30470000,"Cingular AWS, LLC",35,"Cingular AWS, LLC",35
+66,Advanced Wireless Services,161,AW-BEA004-B,Burlington VT-NY,1533000,SpectrumCo LLC,107,SpectrumCo LLC,107
+66,Advanced Wireless Services,161,AW-BEA004-C,Burlington VT-NY,1070000,"Vermont Telephone Company, Inc.",141,"Vermont Telephone Company, Inc.",141
+66,Advanced Wireless Services,161,AW-BEA005-B,Albany-Schenectady-Troy NY,2915000,SpectrumCo LLC,50,SpectrumCo LLC,50
+66,Advanced Wireless Services,161,AW-BEA005-C,Albany-Schenectady-Troy NY,2962000,AWS Wireless Inc.,85,AWS Wireless Inc.,85
+66,Advanced Wireless Services,161,AW-BEA006-B,Syracuse NY-PA,5812000,SpectrumCo LLC,49,SpectrumCo LLC,49
+66,Advanced Wireless Services,161,AW-BEA006-C,Syracuse NY-PA,5618000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-BEA007-B,Rochester NY-PA,5803000,SpectrumCo LLC,59,SpectrumCo LLC,59
+66,Advanced Wireless Services,161,AW-BEA007-C,Rochester NY-PA,3706000,"Cricket Licensee (Reauction), Inc.",65,"Cricket Licensee (Reauction), Inc.",65
+66,Advanced Wireless Services,161,AW-BEA008-B,Buffalo-Niagara Falls NY-PA,1693000,"Cingular AWS, LLC",24,"Cingular AWS, LLC",24
+66,Advanced Wireless Services,161,AW-BEA008-C,Buffalo-Niagara Falls NY-PA,1206000,"Cricket Licensee (Reauction), Inc.",74,"Cricket Licensee (Reauction), Inc.",74
+66,Advanced Wireless Services,161,AW-BEA009-B,State College PA,4997000,SpectrumCo LLC,77,SpectrumCo LLC,77
+66,Advanced Wireless Services,161,AW-BEA009-C,State College PA,1282000,American Cellular Corporation,91,American Cellular Corporation,91
+66,Advanced Wireless Services,161,AW-BEA010-B,NYC-Long Is. NY-NJ-CT-PA-MA-VT,468178000,SpectrumCo LLC,20,SpectrumCo LLC,20
+66,Advanced Wireless Services,161,AW-BEA010-C,NYC-Long Is. NY-NJ-CT-PA-MA-VT,363945000,"MetroPCS AWS, LLC",41,"MetroPCS AWS, LLC",41
+66,Advanced Wireless Services,161,AW-BEA011-B,Harrisburg-Lebanon-Carlisle PA,2373000,SpectrumCo LLC,87,SpectrumCo LLC,87
+66,Advanced Wireless Services,161,AW-BEA011-C,Harrisburg-Lebanon-Carlisle PA,1935000,Spotlight Media Corp,92,Spotlight Media Corp,92
+66,Advanced Wireless Services,161,AW-BEA012-B,Phil.-Atl. City PA-NJ-DE-MD,77838000,SpectrumCo LLC,37,SpectrumCo LLC,37
+66,Advanced Wireless Services,161,AW-BEA012-C,Phil.-Atl. City PA-NJ-DE-MD,56092000,T-Mobile License LLC,51,T-Mobile License LLC,51
+66,Advanced Wireless Services,161,AW-BEA013-B,Wash.-Balt. DC-MD-VA-WV-PA,148708000,SpectrumCo LLC,47,SpectrumCo LLC,47
+66,Advanced Wireless Services,161,AW-BEA013-C,Wash.-Balt. DC-MD-VA-WV-PA,76066000,"Cingular AWS, LLC",36,"Cingular AWS, LLC",36
+66,Advanced Wireless Services,161,AW-BEA014-B,Salisbury MD-DE-VA,246000,SpectrumCo LLC,40,SpectrumCo LLC,40
+66,Advanced Wireless Services,161,AW-BEA014-C,Salisbury MD-DE-VA,109000,AWS Wireless Inc.,62,AWS Wireless Inc.,62
+66,Advanced Wireless Services,161,AW-BEA015-B,Richmond-Petersburg VA,8842000,SpectrumCo LLC,37,SpectrumCo LLC,37
+66,Advanced Wireless Services,161,AW-BEA015-C,Richmond-Petersburg VA,4213000,"Cingular AWS, LLC",66,"Cingular AWS, LLC",66
+66,Advanced Wireless Services,161,AW-BEA016-B,Staunton VA-WV,200000,SpectrumCo LLC,31,SpectrumCo LLC,31
+66,Advanced Wireless Services,161,AW-BEA016-C,Staunton VA-WV,113000,AWS Wireless Inc.,56,AWS Wireless Inc.,56
+66,Advanced Wireless Services,161,AW-BEA017-B,Roanoke VA-NC-WV,1221000,SpectrumCo LLC,35,SpectrumCo LLC,35
+66,Advanced Wireless Services,161,AW-BEA017-C,Roanoke VA-NC-WV,951000,AWS Wireless Inc.,94,AWS Wireless Inc.,94
+66,Advanced Wireless Services,161,AW-BEA018-B,Greensboro-Winston-Salem NC-VA,13986000,SpectrumCo LLC,37,SpectrumCo LLC,37
+66,Advanced Wireless Services,161,AW-BEA018-C,Greensboro-Winston-Salem NC-VA,9638000,"Cricket Licensee (Reauction), Inc.",50,"Cricket Licensee (Reauction), Inc.",50
+66,Advanced Wireless Services,161,AW-BEA019-B,Raleigh-Durham-Chapel Hill NC,10519000,SpectrumCo LLC,48,SpectrumCo LLC,48
+66,Advanced Wireless Services,161,AW-BEA019-C,Raleigh-Durham-Chapel Hill NC,7463000,"Cricket Licensee (Reauction), Inc.",46,"Cricket Licensee (Reauction), Inc.",46
+66,Advanced Wireless Services,161,AW-BEA020-B,Norfolk-Virginia Beach VA-NC,28628000,SpectrumCo LLC,48,SpectrumCo LLC,48
+66,Advanced Wireless Services,161,AW-BEA020-C,Norfolk-Virginia Beach VA-NC,7025000,"Cricket Licensee (Reauction), Inc.",56,"Cricket Licensee (Reauction), Inc.",56
+66,Advanced Wireless Services,161,AW-BEA021-B,Greenville NC,706000,SpectrumCo LLC,88,SpectrumCo LLC,88
+66,Advanced Wireless Services,161,AW-BEA021-C,Greenville NC,422000,AWS Wireless Inc.,61,AWS Wireless Inc.,61
+66,Advanced Wireless Services,161,AW-BEA022-B,Fayetteville NC,438000,"Cingular AWS, LLC",22,"Cingular AWS, LLC",22
+66,Advanced Wireless Services,161,AW-BEA022-C,Fayetteville NC,293000,AWS Wireless Inc.,61,AWS Wireless Inc.,61
+66,Advanced Wireless Services,161,AW-BEA023-B,Charlotte-Gastonia NC-SC,13690000,SpectrumCo LLC,46,SpectrumCo LLC,46
+66,Advanced Wireless Services,161,AW-BEA023-C,Charlotte-Gastonia NC-SC,8318000,"Cricket Licensee (Reauction), Inc.",50,"Cricket Licensee (Reauction), Inc.",50
+66,Advanced Wireless Services,161,AW-BEA024-B,Columbia SC,5034000,SpectrumCo LLC,46,SpectrumCo LLC,46
+66,Advanced Wireless Services,161,AW-BEA024-C,Columbia SC,2402000,AWS Wireless Inc.,50,AWS Wireless Inc.,50
+66,Advanced Wireless Services,161,AW-BEA025-B,Wilmington NC-SC,7658000,SpectrumCo LLC,121,SpectrumCo LLC,121
+66,Advanced Wireless Services,161,AW-BEA025-C,Wilmington NC-SC,1362000,AWS Wireless Inc.,131,AWS Wireless Inc.,131
+66,Advanced Wireless Services,161,AW-BEA026-B,Charleston-North Charleston SC,3067000,SpectrumCo LLC,58,SpectrumCo LLC,58
+66,Advanced Wireless Services,161,AW-BEA026-C,Charleston-North Charleston SC,1796000,"Cricket Licensee (Reauction), Inc.",76,"Cricket Licensee (Reauction), Inc.",76
+66,Advanced Wireless Services,161,AW-BEA027-B,Augusta-Aiken GA-SC,656000,SpectrumCo LLC,28,SpectrumCo LLC,28
+66,Advanced Wireless Services,161,AW-BEA027-C,Augusta-Aiken GA-SC,475000,AWS Wireless Inc.,61,AWS Wireless Inc.,61
+66,Advanced Wireless Services,161,AW-BEA028-B,Savannah GA-SC,1502000,SpectrumCo LLC,73,SpectrumCo LLC,73
+66,Advanced Wireless Services,161,AW-BEA028-C,Savannah GA-SC,1500000,AWS Wireless Inc.,81,AWS Wireless Inc.,81
+66,Advanced Wireless Services,161,AW-BEA029-B,Jacksonville FL-GA,13555000,SpectrumCo LLC,40,SpectrumCo LLC,40
+66,Advanced Wireless Services,161,AW-BEA029-C,Jacksonville FL-GA,5565000,T-Mobile License LLC,42,T-Mobile License LLC,42
+66,Advanced Wireless Services,161,AW-BEA030-B,Orlando FL,27191000,SpectrumCo LLC,37,SpectrumCo LLC,37
+66,Advanced Wireless Services,161,AW-BEA030-C,Orlando FL,16098000,"Cingular AWS, LLC",38,"Cingular AWS, LLC",38
+66,Advanced Wireless Services,161,AW-BEA031-B,Miami-Fort Lauderdale FL,61055000,SpectrumCo LLC,36,SpectrumCo LLC,36
+66,Advanced Wireless Services,161,AW-BEA031-C,Miami-Fort Lauderdale FL,21314000,"Cingular AWS, LLC",37,"Cingular AWS, LLC",37
+66,Advanced Wireless Services,161,AW-BEA032-B,Fort Myers-Cape Coral FL,1765000,SpectrumCo LLC,61,SpectrumCo LLC,61
+66,Advanced Wireless Services,161,AW-BEA032-C,Fort Myers-Cape Coral FL,1109000,AWS Wireless Inc.,119,AWS Wireless Inc.,119
+66,Advanced Wireless Services,161,AW-BEA033-B,Sarasota-Bradenton FL,2194000,SpectrumCo LLC,52,SpectrumCo LLC,52
+66,Advanced Wireless Services,161,AW-BEA033-C,Sarasota-Bradenton FL,1807000,AWS Wireless Inc.,77,AWS Wireless Inc.,77
+66,Advanced Wireless Services,161,AW-BEA034-B,Tampa-St. Petersburg FL,28522000,SpectrumCo LLC,87,SpectrumCo LLC,87
+66,Advanced Wireless Services,161,AW-BEA034-C,Tampa-St. Petersburg FL,25888000,"Cingular AWS, LLC",90,"Cingular AWS, LLC",90
+66,Advanced Wireless Services,161,AW-BEA035-B,Tallahassee FL-GA,1781000,SpectrumCo LLC,84,SpectrumCo LLC,84
+66,Advanced Wireless Services,161,AW-BEA035-C,Tallahassee FL-GA,1435000,"Cavalier Wireless, LLC",81,"Cavalier Wireless, LLC",81
+66,Advanced Wireless Services,161,AW-BEA036-B,Dothan AL-FL-GA,605000,SpectrumCo LLC,37,SpectrumCo LLC,37
+66,Advanced Wireless Services,161,AW-BEA036-C,Dothan AL-FL-GA,316000,AWS Wireless Inc.,72,AWS Wireless Inc.,72
+66,Advanced Wireless Services,161,AW-BEA037-B,Albany GA,855000,SpectrumCo LLC,36,SpectrumCo LLC,36
+66,Advanced Wireless Services,161,AW-BEA037-C,Albany GA,581000,AWS Wireless Inc.,53,AWS Wireless Inc.,53
+66,Advanced Wireless Services,161,AW-BEA038-B,Macon GA,1752000,SpectrumCo LLC,33,SpectrumCo LLC,33
+66,Advanced Wireless Services,161,AW-BEA038-C,Macon GA,1008000,AWS Wireless Inc.,44,AWS Wireless Inc.,44
+66,Advanced Wireless Services,161,AW-BEA039-B,Columbus GA-AL,1140000,"Cellular South Licenses, Inc.",81,"Cellular South Licenses, Inc.",81
+66,Advanced Wireless Services,161,AW-BEA039-C,Columbus GA-AL,1175000,"Cricket Licensee (Reauction), Inc.",82,"Cricket Licensee (Reauction), Inc.",82
+66,Advanced Wireless Services,161,AW-BEA040-B,Atlanta GA-AL-NC,35313000,SpectrumCo LLC,22,SpectrumCo LLC,22
+66,Advanced Wireless Services,161,AW-BEA040-C,Atlanta GA-AL-NC,22651000,"Cingular AWS, LLC",34,"Cingular AWS, LLC",34
+66,Advanced Wireless Services,161,AW-BEA041-B,Greenville-Spartanburg SC-NC,5247000,"Cricket Licensee (Reauction), Inc.",90,"Cricket Licensee (Reauction), Inc.",90
+66,Advanced Wireless Services,161,AW-BEA041-C,Greenville-Spartanburg SC-NC,2285000,AWS Wireless Inc.,67,AWS Wireless Inc.,67
+66,Advanced Wireless Services,161,AW-BEA042-B,Asheville NC,3366000,SpectrumCo LLC,56,SpectrumCo LLC,56
+66,Advanced Wireless Services,161,AW-BEA042-C,Asheville NC,942000,AWS Wireless Inc.,67,AWS Wireless Inc.,67
+66,Advanced Wireless Services,161,AW-BEA043-B,Chattanooga TN-GA,1289000,SpectrumCo LLC,57,SpectrumCo LLC,57
+66,Advanced Wireless Services,161,AW-BEA043-C,Chattanooga TN-GA,1191000,"Cricket Licensee (Reauction), Inc.",58,"Cricket Licensee (Reauction), Inc.",58
+66,Advanced Wireless Services,161,AW-BEA044-B,Knoxville TN,4595000,SpectrumCo LLC,56,SpectrumCo LLC,56
+66,Advanced Wireless Services,161,AW-BEA044-C,Knoxville TN,2606000,"Cricket Licensee (Reauction), Inc.",59,"Cricket Licensee (Reauction), Inc.",59
+66,Advanced Wireless Services,161,AW-BEA045-B,Johnson City-Kingsport TN-VA,4361000,SpectrumCo LLC,53,SpectrumCo LLC,53
+66,Advanced Wireless Services,161,AW-BEA045-C,Johnson City-Kingsport TN-VA,1363000,AWS Wireless Inc.,56,AWS Wireless Inc.,56
+66,Advanced Wireless Services,161,AW-BEA046-B,Hickory-Morganton NC-TN,1085000,SpectrumCo LLC,48,SpectrumCo LLC,48
+66,Advanced Wireless Services,161,AW-BEA046-C,Hickory-Morganton NC-TN,601000,AWS Wireless Inc.,66,AWS Wireless Inc.,66
+66,Advanced Wireless Services,161,AW-BEA047-B,Lexington KY-TN-VA-WV,9214000,SpectrumCo LLC,53,SpectrumCo LLC,53
+66,Advanced Wireless Services,161,AW-BEA047-C,Lexington KY-TN-VA-WV,5075000,"Cricket Licensee (Reauction), Inc.",80,"Cricket Licensee (Reauction), Inc.",80
+66,Advanced Wireless Services,161,AW-BEA048-B,Charleston WV-KY-OH,3370000,SpectrumCo LLC,53,SpectrumCo LLC,53
+66,Advanced Wireless Services,161,AW-BEA048-C,Charleston WV-KY-OH,1723000,AWS Wireless Inc.,68,AWS Wireless Inc.,68
+66,Advanced Wireless Services,161,AW-BEA049-B,Cincinnati-Hamilton OH-KY-IN,21894000,"Cingular AWS, LLC",44,"Cingular AWS, LLC",44
+66,Advanced Wireless Services,161,AW-BEA049-C,Cincinnati-Hamilton OH-KY-IN,6833000,"Atlantic Wireless, L.P.",45,"Atlantic Wireless, L.P.",45
+66,Advanced Wireless Services,161,AW-BEA050-B,Dayton-Springfield OH,6644000,SpectrumCo LLC,73,SpectrumCo LLC,73
+66,Advanced Wireless Services,161,AW-BEA050-C,Dayton-Springfield OH,5430000,"Cingular AWS, LLC",68,"Cingular AWS, LLC",68
+66,Advanced Wireless Services,161,AW-BEA051-B,Columbus OH,12431000,SpectrumCo LLC,39,SpectrumCo LLC,39
+66,Advanced Wireless Services,161,AW-BEA051-C,Columbus OH,7945000,"Atlantic Wireless, L.P.",46,"Atlantic Wireless, L.P.",46
+66,Advanced Wireless Services,161,AW-BEA052-B,Wheeling WV-OH,311000,SpectrumCo LLC,31,SpectrumCo LLC,31
+66,Advanced Wireless Services,161,AW-BEA052-C,Wheeling WV-OH,208000,AWS Wireless Inc.,52,AWS Wireless Inc.,52
+66,Advanced Wireless Services,161,AW-BEA053-B,Pittsburgh PA-WV,14822000,SpectrumCo LLC,44,SpectrumCo LLC,44
+66,Advanced Wireless Services,161,AW-BEA053-C,Pittsburgh PA-WV,8173000,"Atlantic Wireless, L.P.",36,"Atlantic Wireless, L.P.",36
+66,Advanced Wireless Services,161,AW-BEA054-B,Erie PA,520000,SpectrumCo LLC,35,SpectrumCo LLC,35
+66,Advanced Wireless Services,161,AW-BEA054-C,Erie PA,212000,American Cellular Corporation,50,American Cellular Corporation,50
+66,Advanced Wireless Services,161,AW-BEA055-B,Cleveland-Akron OH-PA,16006000,SpectrumCo LLC,32,SpectrumCo LLC,32
+66,Advanced Wireless Services,161,AW-BEA055-C,Cleveland-Akron OH-PA,10197000,"Atlantic Wireless, L.P.",47,"Atlantic Wireless, L.P.",47
+66,Advanced Wireless Services,161,AW-BEA056-B,Toledo OH,1663000,SpectrumCo LLC,36,SpectrumCo LLC,36
+66,Advanced Wireless Services,161,AW-BEA056-C,Toledo OH,1929000,"Atlantic Wireless, L.P.",58,"Atlantic Wireless, L.P.",58
+66,Advanced Wireless Services,161,AW-BEA057-B,Detroit-Ann Arbor-Flint MI,78988000,SpectrumCo LLC,50,SpectrumCo LLC,50
+66,Advanced Wireless Services,161,AW-BEA057-C,Detroit-Ann Arbor-Flint MI,50317000,"MetroPCS AWS, LLC",46,"MetroPCS AWS, LLC",46
+66,Advanced Wireless Services,161,AW-BEA058-B,Northern Michigan MI,162000,American Cellular Corporation,24,American Cellular Corporation,24
+66,Advanced Wireless Services,161,AW-BEA058-C,Northern Michigan MI,85000,"NSIGHTTEL WIRELESS, LLC",52,"NSIGHTTEL WIRELESS, LLC",52
+66,Advanced Wireless Services,161,AW-BEA059-B,Green Bay WI-MI,1217000,"Cingular AWS, LLC",51,"Cingular AWS, LLC",51
+66,Advanced Wireless Services,161,AW-BEA059-C,Green Bay WI-MI,984000,Wittenberg Telephone Company,53,Wittenberg Telephone Company,53
+66,Advanced Wireless Services,161,AW-BEA060-B,Appleton-Oshkosh-Neenah WI,929000,"Cingular AWS, LLC",61,"Cingular AWS, LLC",61
+66,Advanced Wireless Services,161,AW-BEA060-C,Appleton-Oshkosh-Neenah WI,683000,T-Mobile License LLC,66,T-Mobile License LLC,66
+66,Advanced Wireless Services,161,AW-BEA061-B,Traverse City MI,195000,American Cellular Corporation,40,American Cellular Corporation,40
+66,Advanced Wireless Services,161,AW-BEA061-C,Traverse City MI,86000,"NSIGHTTEL WIRELESS, LLC",37,"NSIGHTTEL WIRELESS, LLC",37
+66,Advanced Wireless Services,161,AW-BEA062-B,Grand Rapids-Muskegon MI,9348000,SpectrumCo LLC,48,SpectrumCo LLC,48
+66,Advanced Wireless Services,161,AW-BEA062-C,Grand Rapids-Muskegon MI,7920000,"MetroPCS AWS, LLC",95,"MetroPCS AWS, LLC",95
+66,Advanced Wireless Services,161,AW-BEA063-B,Milwaukee-Racine WI,22390000,SpectrumCo LLC,55,SpectrumCo LLC,55
+66,Advanced Wireless Services,161,AW-BEA063-C,Milwaukee-Racine WI,15822000,"Cricket Licensee (Reauction), Inc.",61,"Cricket Licensee (Reauction), Inc.",61
+66,Advanced Wireless Services,161,AW-BEA064-B,Chicago-Gary-Kenosha IL-IN-WI,228041000,SpectrumCo LLC,43,SpectrumCo LLC,43
+66,Advanced Wireless Services,161,AW-BEA064-C,Chicago-Gary-Kenosha IL-IN-WI,162082000,"Cingular AWS, LLC",53,"Cingular AWS, LLC",53
+66,Advanced Wireless Services,161,AW-BEA065-B,Elkhart-Goshen IN-MI,930000,SpectrumCo LLC,80,SpectrumCo LLC,80
+66,Advanced Wireless Services,161,AW-BEA065-C,Elkhart-Goshen IN-MI,455000,"Atlantic Wireless, L.P.",46,"Atlantic Wireless, L.P.",46
+66,Advanced Wireless Services,161,AW-BEA066-B,Fort Wayne IN,1308000,SpectrumCo LLC,80,SpectrumCo LLC,80
+66,Advanced Wireless Services,161,AW-BEA066-C,Fort Wayne IN,327000,"Atlantic Wireless, L.P.",46,"Atlantic Wireless, L.P.",46
+66,Advanced Wireless Services,161,AW-BEA067-B,Indianapolis IN-IL,12675000,SpectrumCo LLC,35,SpectrumCo LLC,35
+66,Advanced Wireless Services,161,AW-BEA067-C,Indianapolis IN-IL,10352000,Cincinnati Bell Wireless LLC,39,Cincinnati Bell Wireless LLC,39
+66,Advanced Wireless Services,161,AW-BEA068-B,Champaign-Urbana IL,650000,SpectrumCo LLC,78,SpectrumCo LLC,78
+66,Advanced Wireless Services,161,AW-BEA068-C,Champaign-Urbana IL,289000,"Cavalier Wireless, LLC",62,"Cavalier Wireless, LLC",62
+66,Advanced Wireless Services,161,AW-BEA069-B,Evansville-Henderson IN-KY-IL,1048000,SpectrumCo LLC,56,SpectrumCo LLC,56
+66,Advanced Wireless Services,161,AW-BEA069-C,Evansville-Henderson IN-KY-IL,659000,"Cavalier Wireless, LLC",62,"Cavalier Wireless, LLC",62
+66,Advanced Wireless Services,161,AW-BEA070-B,Louisville KY-IN,12301000,SpectrumCo LLC,51,SpectrumCo LLC,51
+66,Advanced Wireless Services,161,AW-BEA070-C,Louisville KY-IN,5112000,"Cricket Licensee (Reauction), Inc.",60,"Cricket Licensee (Reauction), Inc.",60
+66,Advanced Wireless Services,161,AW-BEA071-B,Nashville TN-KY,11896000,SpectrumCo LLC,36,SpectrumCo LLC,36
+66,Advanced Wireless Services,161,AW-BEA071-C,Nashville TN-KY,8952000,"Cricket Licensee (Reauction), Inc.",49,"Cricket Licensee (Reauction), Inc.",49
+66,Advanced Wireless Services,161,AW-BEA072-B,Paducah KY-IL,206000,SpectrumCo LLC,84,SpectrumCo LLC,84
+66,Advanced Wireless Services,161,AW-BEA072-C,Paducah KY-IL,76000,AWS Wireless Inc.,78,AWS Wireless Inc.,78
+66,Advanced Wireless Services,161,AW-BEA073-B,Memphis TN-AR-MS-KY,18878000,SpectrumCo LLC,68,SpectrumCo LLC,68
+66,Advanced Wireless Services,161,AW-BEA073-C,Memphis TN-AR-MS-KY,16538000,"Cricket Licensee (Reauction), Inc.",69,"Cricket Licensee (Reauction), Inc.",69
+66,Advanced Wireless Services,161,AW-BEA074-B,Huntsville AL-TN,3320000,SpectrumCo LLC,53,SpectrumCo LLC,53
+66,Advanced Wireless Services,161,AW-BEA074-C,Huntsville AL-TN,2554000,"Cellular South Licenses, Inc.",79,"Cellular South Licenses, Inc.",79
+66,Advanced Wireless Services,161,AW-BEA075-B,Tupelo MS-AL-TN,610000,SpectrumCo LLC,39,SpectrumCo LLC,39
+66,Advanced Wireless Services,161,AW-BEA075-C,Tupelo MS-AL-TN,321000,AWS Wireless Inc.,59,AWS Wireless Inc.,59
+66,Advanced Wireless Services,161,AW-BEA076-B,Greenville MS,297000,SpectrumCo LLC,82,SpectrumCo LLC,82
+66,Advanced Wireless Services,161,AW-BEA076-C,Greenville MS,113000,AWS Wireless Inc.,40,AWS Wireless Inc.,40
+66,Advanced Wireless Services,161,AW-BEA077-B,Jackson MS-AL-LA,4212000,SpectrumCo LLC,39,SpectrumCo LLC,39
+66,Advanced Wireless Services,161,AW-BEA077-C,Jackson MS-AL-LA,3258000,"Cellular South Licenses, Inc.",53,"Cellular South Licenses, Inc.",53
+66,Advanced Wireless Services,161,AW-BEA078-B,Birmingham AL,10761000,SpectrumCo LLC,85,SpectrumCo LLC,85
+66,Advanced Wireless Services,161,AW-BEA078-C,Birmingham AL,7207000,"Cellular South Licenses, Inc.",87,"Cellular South Licenses, Inc.",87
+66,Advanced Wireless Services,161,AW-BEA079-B,Montgomery AL,1029000,SpectrumCo LLC,37,SpectrumCo LLC,37
+66,Advanced Wireless Services,161,AW-BEA079-C,Montgomery AL,782000,AWS Wireless Inc.,80,AWS Wireless Inc.,80
+66,Advanced Wireless Services,161,AW-BEA080-B,Mobile AL,8646000,SpectrumCo LLC,80,SpectrumCo LLC,80
+66,Advanced Wireless Services,161,AW-BEA080-C,Mobile AL,5531000,"Cellular South Licenses, Inc.",82,"Cellular South Licenses, Inc.",82
+66,Advanced Wireless Services,161,AW-BEA081-B,Pensacola FL,3561000,SpectrumCo LLC,54,SpectrumCo LLC,54
+66,Advanced Wireless Services,161,AW-BEA081-C,Pensacola FL,1460000,T-Mobile License LLC,84,T-Mobile License LLC,84
+66,Advanced Wireless Services,161,AW-BEA082-B,Biloxi-Gulfport-Pascagoula MS,3264000,SpectrumCo LLC,72,SpectrumCo LLC,72
+66,Advanced Wireless Services,161,AW-BEA082-C,Biloxi-Gulfport-Pascagoula MS,443000,"Cricket Licensee (Reauction), Inc.",82,"Cricket Licensee (Reauction), Inc.",82
+66,Advanced Wireless Services,161,AW-BEA083-B,New Orleans LA-MS,6854000,SpectrumCo LLC,33,SpectrumCo LLC,33
+66,Advanced Wireless Services,161,AW-BEA083-C,New Orleans LA-MS,3210000,AWS Wireless Inc.,31,AWS Wireless Inc.,31
+66,Advanced Wireless Services,161,AW-BEA084-B,Baton Rouge LA-MS,2554000,SpectrumCo LLC,48,SpectrumCo LLC,48
+66,Advanced Wireless Services,161,AW-BEA084-C,Baton Rouge LA-MS,2032000,"Cavalier Wireless, LLC",85,"Cavalier Wireless, LLC",85
+66,Advanced Wireless Services,161,AW-BEA085-B,Lafayette LA,1710000,SpectrumCo LLC,42,SpectrumCo LLC,42
+66,Advanced Wireless Services,161,AW-BEA085-C,Lafayette LA,647000,AWS Wireless Inc.,89,AWS Wireless Inc.,89
+66,Advanced Wireless Services,161,AW-BEA086-B,Lake Charles LA,3594000,Cellco Partnership d/b/a Verizon Wireless,116,Cellco Partnership d/b/a Verizon Wireless,116
+66,Advanced Wireless Services,161,AW-BEA086-C,Lake Charles LA,1320000,"Command Connect, LLC",86,"Command Connect, LLC",86
+66,Advanced Wireless Services,161,AW-BEA087-B,Beaumont-Port Arthur TX,496000,SpectrumCo LLC,39,SpectrumCo LLC,39
+66,Advanced Wireless Services,161,AW-BEA087-C,Beaumont-Port Arthur TX,595000,"Cricket Licensee (Reauction), Inc.",87,"Cricket Licensee (Reauction), Inc.",87
+66,Advanced Wireless Services,161,AW-BEA088-B,Shreveport-Bossier City LA-AR,2875000,SpectrumCo LLC,118,SpectrumCo LLC,118
+66,Advanced Wireless Services,161,AW-BEA088-C,Shreveport-Bossier City LA-AR,622000,"MetroPCS AWS, LLC",108,"MetroPCS AWS, LLC",108
+66,Advanced Wireless Services,161,AW-BEA089-B,Monroe LA,1293000,SpectrumCo LLC,118,SpectrumCo LLC,118
+66,Advanced Wireless Services,161,AW-BEA089-C,Monroe LA,147000,AWS Wireless Inc.,60,AWS Wireless Inc.,60
+66,Advanced Wireless Services,161,AW-BEA090-B,Little Rock AR,4066000,SpectrumCo LLC,103,SpectrumCo LLC,103
+66,Advanced Wireless Services,161,AW-BEA090-C,Little Rock AR,3069000,AWS Wireless Inc.,61,AWS Wireless Inc.,61
+66,Advanced Wireless Services,161,AW-BEA091-B,Fort Smith AR-OK,369000,SpectrumCo LLC,34,SpectrumCo LLC,34
+66,Advanced Wireless Services,161,AW-BEA091-C,Fort Smith AR-OK,356000,AWS Wireless Inc.,60,AWS Wireless Inc.,60
+66,Advanced Wireless Services,161,AW-BEA092-B,Fayetteville AR-MO-OK,1361000,SpectrumCo LLC,68,SpectrumCo LLC,68
+66,Advanced Wireless Services,161,AW-BEA092-C,Fayetteville AR-MO-OK,580000,AWS Wireless Inc.,60,AWS Wireless Inc.,60
+66,Advanced Wireless Services,161,AW-BEA093-B,Joplin MO-KS-OK,315000,SpectrumCo LLC,38,SpectrumCo LLC,38
+66,Advanced Wireless Services,161,AW-BEA093-C,Joplin MO-KS-OK,147000,American Cellular Corporation,58,American Cellular Corporation,58
+66,Advanced Wireless Services,161,AW-BEA094-B,Springfield MO,1129000,SpectrumCo LLC,39,SpectrumCo LLC,39
+66,Advanced Wireless Services,161,AW-BEA094-C,Springfield MO,604000,T-Mobile License LLC,88,T-Mobile License LLC,88
+66,Advanced Wireless Services,161,AW-BEA095-B,Jonesboro AR-MO,191000,SpectrumCo LLC,38,SpectrumCo LLC,38
+66,Advanced Wireless Services,161,AW-BEA095-C,Jonesboro AR-MO,197000,AWS Wireless Inc.,43,AWS Wireless Inc.,43
+66,Advanced Wireless Services,161,AW-BEA096-B,St. Louis MO-IL,31331000,"Barat Wireless, L.P.",53,"Barat Wireless, L.P.",53
+66,Advanced Wireless Services,161,AW-BEA096-C,St. Louis MO-IL,11229000,Daredevil Communications LLC,63,Daredevil Communications LLC,63
+66,Advanced Wireless Services,161,AW-BEA097-B,Springfield IL-MO,705000,SpectrumCo LLC,78,SpectrumCo LLC,78
+66,Advanced Wireless Services,161,AW-BEA097-C,Springfield IL-MO,300000,"Cavalier Wireless, LLC",138,"Cavalier Wireless, LLC",138
+66,Advanced Wireless Services,161,AW-BEA098-B,Columbia MO,432000,SpectrumCo LLC,103,SpectrumCo LLC,103
+66,Advanced Wireless Services,161,AW-BEA098-C,Columbia MO,184000,"Cavalier Wireless, LLC",138,"Cavalier Wireless, LLC",138
+66,Advanced Wireless Services,161,AW-BEA099-B,Kansas City MO-KS,23778000,SpectrumCo LLC,54,SpectrumCo LLC,54
+66,Advanced Wireless Services,161,AW-BEA099-C,Kansas City MO-KS,10858000,"Cingular AWS, LLC",43,"Cingular AWS, LLC",43
+66,Advanced Wireless Services,161,AW-BEA100-B,Des Moines IA-IL-MO,9657000,SpectrumCo LLC,43,SpectrumCo LLC,43
+66,Advanced Wireless Services,161,AW-BEA100-C,Des Moines IA-IL-MO,5754000,T-Mobile License LLC,85,T-Mobile License LLC,85
+66,Advanced Wireless Services,161,AW-BEA101-B,Peoria-Pekin IL,515000,SpectrumCo LLC,76,SpectrumCo LLC,76
+66,Advanced Wireless Services,161,AW-BEA101-C,Peoria-Pekin IL,228000,Daredevil Communications LLC,43,Daredevil Communications LLC,43
+66,Advanced Wireless Services,161,AW-BEA102-B,Davenport-Moline IA-IL,1394000,SpectrumCo LLC,48,SpectrumCo LLC,48
+66,Advanced Wireless Services,161,AW-BEA102-C,Davenport-Moline IA-IL,1193000,T-Mobile License LLC,89,T-Mobile License LLC,89
+66,Advanced Wireless Services,161,AW-BEA103-B,Cedar Rapids IA,1495000,"Barat Wireless, L.P.",102,"Barat Wireless, L.P.",102
+66,Advanced Wireless Services,161,AW-BEA103-C,Cedar Rapids IA,1359000,T-Mobile License LLC,105,T-Mobile License LLC,105
+66,Advanced Wireless Services,161,AW-BEA104-B,Madison WI-IL-IA,1388000,"Barat Wireless, L.P.",34,"Barat Wireless, L.P.",34
+66,Advanced Wireless Services,161,AW-BEA104-C,Madison WI-IL-IA,486000,T-Mobile License LLC,37,T-Mobile License LLC,37
+66,Advanced Wireless Services,161,AW-BEA105-B,La Crosse WI-MN,1114000,"Barat Wireless, L.P.",105,"Barat Wireless, L.P.",105
+66,Advanced Wireless Services,161,AW-BEA105-C,La Crosse WI-MN,207000,"NSIGHTTEL WIRELESS, LLC",118,"NSIGHTTEL WIRELESS, LLC",118
+66,Advanced Wireless Services,161,AW-BEA106-B,Rochester MN-IA-WI,308000,SpectrumCo LLC,34,SpectrumCo LLC,34
+66,Advanced Wireless Services,161,AW-BEA106-C,Rochester MN-IA-WI,414000,"NEIT Wireless, LLC",104,"NEIT Wireless, LLC",104
+66,Advanced Wireless Services,161,AW-BEA107-B,Minneapolis-St. Paul MN-WI-IA,41813000,SpectrumCo LLC,45,SpectrumCo LLC,45
+66,Advanced Wireless Services,161,AW-BEA107-C,Minneapolis-St. Paul MN-WI-IA,29996000,"Cingular AWS, LLC",57,"Cingular AWS, LLC",57
+66,Advanced Wireless Services,161,AW-BEA108-B,Wausau WI,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-BEA108-C,Wausau WI,2289000,"Cingular AWS, LLC",51,"Cingular AWS, LLC",51
+66,Advanced Wireless Services,161,AW-BEA109-B,Duluth-Superior MN-WI,1293000,American Cellular Corporation,57,American Cellular Corporation,57
+66,Advanced Wireless Services,161,AW-BEA109-C,Duluth-Superior MN-WI,566000,"Cingular AWS, LLC",49,"Cingular AWS, LLC",49
+66,Advanced Wireless Services,161,AW-BEA110-B,Grand Forks ND-MN,369000,"Cingular AWS, LLC",32,"Cingular AWS, LLC",32
+66,Advanced Wireless Services,161,AW-BEA110-C,Grand Forks ND-MN,89000,"LL License Holdings II, LLC",7,"LL License Holdings II, LLC",7
+66,Advanced Wireless Services,161,AW-BEA111-B,Minot ND,173000,"MTPCS License Co., LLC",41,"MTPCS License Co., LLC",41
+66,Advanced Wireless Services,161,AW-BEA111-C,Minot ND,36000,"Red Rock Spectrum Holdings, LLC",129,"Red Rock Spectrum Holdings, LLC",129
+66,Advanced Wireless Services,161,AW-BEA112-B,Bismarck ND-MT-SD,535000,"MTPCS License Co., LLC",41,"MTPCS License Co., LLC",41
+66,Advanced Wireless Services,161,AW-BEA112-C,Bismarck ND-MT-SD,128000,"Red Rock Spectrum Holdings, LLC",129,"Red Rock Spectrum Holdings, LLC",129
+66,Advanced Wireless Services,161,AW-BEA113-B,Fargo-Moorhead ND-MN,522000,"Cingular AWS, LLC",29,"Cingular AWS, LLC",29
+66,Advanced Wireless Services,161,AW-BEA113-C,Fargo-Moorhead ND-MN,146000,"LL License Holdings II, LLC",7,"LL License Holdings II, LLC",7
+66,Advanced Wireless Services,161,AW-BEA114-B,Aberdeen SD,373000,James Valley,42,James Valley,42
+66,Advanced Wireless Services,161,AW-BEA114-C,Aberdeen SD,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-BEA115-B,Rapid City SD-MT-NE-ND,447000,"MTPCS License Co., LLC",41,"MTPCS License Co., LLC",41
+66,Advanced Wireless Services,161,AW-BEA115-C,Rapid City SD-MT-NE-ND,137000,"Red Rock Spectrum Holdings, LLC",129,"Red Rock Spectrum Holdings, LLC",129
+66,Advanced Wireless Services,161,AW-BEA116-B,Sioux Falls SD-IA-MN-NE,940000,SpectrumCo LLC,43,SpectrumCo LLC,43
+66,Advanced Wireless Services,161,AW-BEA116-C,Sioux Falls SD-IA-MN-NE,404000,"Cingular AWS, LLC",52,"Cingular AWS, LLC",52
+66,Advanced Wireless Services,161,AW-BEA117-B,Sioux City IA-NE-SD,703000,SpectrumCo LLC,89,SpectrumCo LLC,89
+66,Advanced Wireless Services,161,AW-BEA117-C,Sioux City IA-NE-SD,652000,"LL License Holdings II, LLC",104,"LL License Holdings II, LLC",104
+66,Advanced Wireless Services,161,AW-BEA118-B,Omaha NE-IA-MO,6735000,SpectrumCo LLC,48,SpectrumCo LLC,48
+66,Advanced Wireless Services,161,AW-BEA118-C,Omaha NE-IA-MO,1737000,"Cingular AWS, LLC",62,"Cingular AWS, LLC",62
+66,Advanced Wireless Services,161,AW-BEA119-B,Lincoln NE,411000,SpectrumCo LLC,34,SpectrumCo LLC,34
+66,Advanced Wireless Services,161,AW-BEA119-C,Lincoln NE,185000,"Barat Wireless, L.P.",122,"Barat Wireless, L.P.",122
+66,Advanced Wireless Services,161,AW-BEA120-B,Grand Island NE,1040000,SpectrumCo LLC,46,SpectrumCo LLC,46
+66,Advanced Wireless Services,161,AW-BEA120-C,Grand Island NE,86000,Hemingford Cooperative Telephone Company,1,Hemingford Cooperative Telephone Company,1
+66,Advanced Wireless Services,161,AW-BEA121-B,North Platte NE-CO,68000,Hemingford Cooperative Telephone Company,40,Hemingford Cooperative Telephone Company,40
+66,Advanced Wireless Services,161,AW-BEA121-C,North Platte NE-CO,19000,Hemingford Cooperative Telephone Company,1,Hemingford Cooperative Telephone Company,1
+66,Advanced Wireless Services,161,AW-BEA122-B,Wichita KS-OK,4295000,SpectrumCo LLC,52,SpectrumCo LLC,52
+66,Advanced Wireless Services,161,AW-BEA122-C,Wichita KS-OK,2368000,T-Mobile License LLC,61,T-Mobile License LLC,61
+66,Advanced Wireless Services,161,AW-BEA123-B,Topeka KS,1204000,SpectrumCo LLC,40,SpectrumCo LLC,40
+66,Advanced Wireless Services,161,AW-BEA123-C,Topeka KS,485000,Lynch AWS Corporation,127,Lynch AWS Corporation,127
+66,Advanced Wireless Services,161,AW-BEA124-B,Tulsa OK-KS,7727000,SpectrumCo LLC,50,SpectrumCo LLC,50
+66,Advanced Wireless Services,161,AW-BEA124-C,Tulsa OK-KS,2248000,AWS Wireless Inc.,43,AWS Wireless Inc.,43
+66,Advanced Wireless Services,161,AW-BEA125-B,Oklahoma City OK,20224000,SpectrumCo LLC,50,SpectrumCo LLC,50
+66,Advanced Wireless Services,161,AW-BEA125-C,Oklahoma City OK,10099000,"Cricket Licensee (Reauction), Inc.",57,"Cricket Licensee (Reauction), Inc.",57
+66,Advanced Wireless Services,161,AW-BEA126-B,Western Oklahoma OK,954000,SpectrumCo LLC,70,SpectrumCo LLC,70
+66,Advanced Wireless Services,161,AW-BEA126-C,Western Oklahoma OK,50000,AWS Wireless Inc.,70,AWS Wireless Inc.,70
+66,Advanced Wireless Services,161,AW-BEA127-B,Dallas-Fort Worth TX-AR-OK,76806000,SpectrumCo LLC,52,SpectrumCo LLC,52
+66,Advanced Wireless Services,161,AW-BEA127-C,Dallas-Fort Worth TX-AR-OK,49766000,"MetroPCS AWS, LLC",39,"MetroPCS AWS, LLC",39
+66,Advanced Wireless Services,161,AW-BEA128-B,Abilene TX,343000,American Cellular Corporation,61,American Cellular Corporation,61
+66,Advanced Wireless Services,161,AW-BEA128-C,Abilene TX,200000,AWS Wireless Inc.,63,AWS Wireless Inc.,63
+66,Advanced Wireless Services,161,AW-BEA129-B,San Angelo TX,757000,"Central Texas Telephone Investments, LP",62,"Central Texas Telephone Investments, LP",62
+66,Advanced Wireless Services,161,AW-BEA129-C,San Angelo TX,431000,American Cellular Corporation,68,American Cellular Corporation,68
+66,Advanced Wireless Services,161,AW-BEA130-B,Austin-San Marcos TX,11173000,SpectrumCo LLC,46,SpectrumCo LLC,46
+66,Advanced Wireless Services,161,AW-BEA130-C,Austin-San Marcos TX,4789000,"Atlantic Wireless, L.P.",96,"Atlantic Wireless, L.P.",96
+66,Advanced Wireless Services,161,AW-BEA131-B,Houston-Galveston-Brazoria TX,41092000,SpectrumCo LLC,18,SpectrumCo LLC,18
+66,Advanced Wireless Services,161,AW-BEA131-C,Houston-Galveston-Brazoria TX,18536000,SpectrumCo LLC,29,SpectrumCo LLC,29
+66,Advanced Wireless Services,161,AW-BEA132-B,Corpus Christi TX,921000,SpectrumCo LLC,48,SpectrumCo LLC,48
+66,Advanced Wireless Services,161,AW-BEA132-C,Corpus Christi TX,701000,"Cricket Licensee (Reauction), Inc.",45,"Cricket Licensee (Reauction), Inc.",45
+66,Advanced Wireless Services,161,AW-BEA133-B,McAllen-Edinburg-Mission TX,1542000,"Cavalier Wireless, LLC",96,"Cavalier Wireless, LLC",96
+66,Advanced Wireless Services,161,AW-BEA133-C,McAllen-Edinburg-Mission TX,1174000,"Cricket Licensee (Reauction), Inc.",47,"Cricket Licensee (Reauction), Inc.",47
+66,Advanced Wireless Services,161,AW-BEA134-B,San Antonio TX,7911000,SpectrumCo LLC,31,SpectrumCo LLC,31
+66,Advanced Wireless Services,161,AW-BEA134-C,San Antonio TX,5654000,T-Mobile License LLC,84,T-Mobile License LLC,84
+66,Advanced Wireless Services,161,AW-BEA135-B,Odessa-Midland TX,995000,"Central Texas Telephone Investments, LP",65,"Central Texas Telephone Investments, LP",65
+66,Advanced Wireless Services,161,AW-BEA135-C,Odessa-Midland TX,781000,AWS Wireless Inc.,66,AWS Wireless Inc.,66
+66,Advanced Wireless Services,161,AW-BEA136-B,Hobbs NM-TX,296000,"Red Rock Spectrum Holdings, LLC",59,"Red Rock Spectrum Holdings, LLC",59
+66,Advanced Wireless Services,161,AW-BEA136-C,Hobbs NM-TX,148000,AWS Wireless Inc.,63,AWS Wireless Inc.,63
+66,Advanced Wireless Services,161,AW-BEA137-B,Lubbock TX,605000,"Red Rock Spectrum Holdings, LLC",52,"Red Rock Spectrum Holdings, LLC",52
+66,Advanced Wireless Services,161,AW-BEA137-C,Lubbock TX,441000,AWS Wireless Inc.,63,AWS Wireless Inc.,63
+66,Advanced Wireless Services,161,AW-BEA138-B,Amarillo TX-NM,870000,American Cellular Corporation,85,American Cellular Corporation,85
+66,Advanced Wireless Services,161,AW-BEA138-C,Amarillo TX-NM,674000,AWS Wireless Inc.,48,AWS Wireless Inc.,48
+66,Advanced Wireless Services,161,AW-BEA139-B,Santa Fe NM,1180000,SpectrumCo LLC,74,SpectrumCo LLC,74
+66,Advanced Wireless Services,161,AW-BEA139-C,Santa Fe NM,654000,AWS Wireless Inc.,91,AWS Wireless Inc.,91
+66,Advanced Wireless Services,161,AW-BEA140-B,Pueblo CO-NM,503000,SpectrumCo LLC,39,SpectrumCo LLC,39
+66,Advanced Wireless Services,161,AW-BEA140-C,Pueblo CO-NM,184000,"Command Connect, LLC",58,"Command Connect, LLC",58
+66,Advanced Wireless Services,161,AW-BEA141-B,Denver-Boulder CO-KS-NE,24159000,SpectrumCo LLC,53,SpectrumCo LLC,53
+66,Advanced Wireless Services,161,AW-BEA141-C,Denver-Boulder CO-KS-NE,9878000,"Atlantic Wireless, L.P.",33,"Atlantic Wireless, L.P.",33
+66,Advanced Wireless Services,161,AW-BEA142-B,Scottsbluff NE-WY,124000,Hemingford Cooperative Telephone Company,40,Hemingford Cooperative Telephone Company,40
+66,Advanced Wireless Services,161,AW-BEA142-C,Scottsbluff NE-WY,28000,Hemingford Cooperative Telephone Company,1,Hemingford Cooperative Telephone Company,1
+66,Advanced Wireless Services,161,AW-BEA143-B,Casper WY-ID-UT,1193000,"MTPCS License Co., LLC",48,"MTPCS License Co., LLC",48
+66,Advanced Wireless Services,161,AW-BEA143-C,Casper WY-ID-UT,355000,Union Telephone Company,46,Union Telephone Company,46
+66,Advanced Wireless Services,161,AW-BEA144-B,Billings MT-WY,528000,"Cavalier Wireless, LLC",47,"Cavalier Wireless, LLC",47
+66,Advanced Wireless Services,161,AW-BEA144-C,Billings MT-WY,639000,AWS Wireless Inc.,41,AWS Wireless Inc.,41
+66,Advanced Wireless Services,161,AW-BEA145-B,Great Falls MT,436000,"3 Rivers Telephone Cooperative, Inc.",39,"3 Rivers Telephone Cooperative, Inc.",39
+66,Advanced Wireless Services,161,AW-BEA145-C,Great Falls MT,349000,AWS Wireless Inc.,48,AWS Wireless Inc.,48
+66,Advanced Wireless Services,161,AW-BEA146-B,Missoula MT,406000,"Cavalier Wireless, LLC",32,"Cavalier Wireless, LLC",32
+66,Advanced Wireless Services,161,AW-BEA146-C,Missoula MT,341000,AWS Wireless Inc.,45,AWS Wireless Inc.,45
+66,Advanced Wireless Services,161,AW-BEA147-B,Spokane WA-ID,2753000,SpectrumCo LLC,77,SpectrumCo LLC,77
+66,Advanced Wireless Services,161,AW-BEA147-C,Spokane WA-ID,1863000,"Cricket Licensee (Reauction), Inc.",55,"Cricket Licensee (Reauction), Inc.",55
+66,Advanced Wireless Services,161,AW-BEA148-B,Idaho Falls ID-WY,809000,SpectrumCo LLC,54,SpectrumCo LLC,54
+66,Advanced Wireless Services,161,AW-BEA148-C,Idaho Falls ID-WY,761000,Union Telephone Company,78,Union Telephone Company,78
+66,Advanced Wireless Services,161,AW-BEA149-B,Twin Falls ID,190000,SpectrumCo LLC,39,SpectrumCo LLC,39
+66,Advanced Wireless Services,161,AW-BEA149-C,Twin Falls ID,95000,"Cavalier Wireless, LLC",73,"Cavalier Wireless, LLC",73
+66,Advanced Wireless Services,161,AW-BEA150-B,Boise City ID-OR,2280000,"Atlantic Wireless, L.P.",81,"Atlantic Wireless, L.P.",81
+66,Advanced Wireless Services,161,AW-BEA150-C,Boise City ID-OR,626000,AWS Wireless Inc.,119,AWS Wireless Inc.,119
+66,Advanced Wireless Services,161,AW-BEA151-B,Reno NV-CA,3261000,SpectrumCo LLC,82,SpectrumCo LLC,82
+66,Advanced Wireless Services,161,AW-BEA151-C,Reno NV-CA,993000,"Cavalier Wireless, LLC",97,"Cavalier Wireless, LLC",97
+66,Advanced Wireless Services,161,AW-BEA152-B,Salt Lake City-Ogden UT-ID,16155000,SpectrumCo LLC,80,SpectrumCo LLC,80
+66,Advanced Wireless Services,161,AW-BEA152-C,Salt Lake City-Ogden UT-ID,7312000,"Cricket Licensee (Reauction), Inc.",72,"Cricket Licensee (Reauction), Inc.",72
+66,Advanced Wireless Services,161,AW-BEA153-B,Las Vegas NV-AZ-UT,17173000,SpectrumCo LLC,78,SpectrumCo LLC,78
+66,Advanced Wireless Services,161,AW-BEA153-C,Las Vegas NV-AZ-UT,10420000,"MetroPCS AWS, LLC",91,"MetroPCS AWS, LLC",91
+66,Advanced Wireless Services,161,AW-BEA154-B,Flagstaff AZ-UT,534000,SpectrumCo LLC,89,SpectrumCo LLC,89
+66,Advanced Wireless Services,161,AW-BEA154-C,Flagstaff AZ-UT,257000,Spotlight Media Corp,91,Spotlight Media Corp,91
+66,Advanced Wireless Services,161,AW-BEA155-B,Farmington NM-CO,234000,SpectrumCo LLC,39,SpectrumCo LLC,39
+66,Advanced Wireless Services,161,AW-BEA155-C,Farmington NM-CO,88000,AWS Wireless Inc.,41,AWS Wireless Inc.,41
+66,Advanced Wireless Services,161,AW-BEA156-B,Albuquerque NM-AZ,2894000,SpectrumCo LLC,39,SpectrumCo LLC,39
+66,Advanced Wireless Services,161,AW-BEA156-C,Albuquerque NM-AZ,1633000,"Cavalier Wireless, LLC",89,"Cavalier Wireless, LLC",89
+66,Advanced Wireless Services,161,AW-BEA157-B,El Paso TX-NM,2548000,SpectrumCo LLC,68,SpectrumCo LLC,68
+66,Advanced Wireless Services,161,AW-BEA157-C,El Paso TX-NM,1721000,AWS Wireless Inc.,48,AWS Wireless Inc.,48
+66,Advanced Wireless Services,161,AW-BEA158-B,Phoenix-Mesa AZ-NM,27095000,SpectrumCo LLC,45,SpectrumCo LLC,45
+66,Advanced Wireless Services,161,AW-BEA158-C,Phoenix-Mesa AZ-NM,14012000,T-Mobile License LLC,37,T-Mobile License LLC,37
+66,Advanced Wireless Services,161,AW-BEA159-B,Tucson AZ,4735000,SpectrumCo LLC,82,SpectrumCo LLC,82
+66,Advanced Wireless Services,161,AW-BEA159-C,Tucson AZ,2082000,"Cingular AWS, LLC",81,"Cingular AWS, LLC",81
+66,Advanced Wireless Services,161,AW-BEA160-B,LA-Riverside-Orange Cnty CA-AZ,215620000,SpectrumCo LLC,32,SpectrumCo LLC,32
+66,Advanced Wireless Services,161,AW-BEA160-C,LA-Riverside-Orange Cnty CA-AZ,114816000,T-Mobile License LLC,34,T-Mobile License LLC,34
+66,Advanced Wireless Services,161,AW-BEA161-B,San Diego CA,21930000,SpectrumCo LLC,35,SpectrumCo LLC,35
+66,Advanced Wireless Services,161,AW-BEA161-C,San Diego CA,15587000,"Cricket Licensee (Reauction), Inc.",34,"Cricket Licensee (Reauction), Inc.",34
+66,Advanced Wireless Services,161,AW-BEA162-B,Fresno CA,4658000,SpectrumCo LLC,31,SpectrumCo LLC,31
+66,Advanced Wireless Services,161,AW-BEA162-C,Fresno CA,3194000,"Atlantic Wireless, L.P.",49,"Atlantic Wireless, L.P.",49
+66,Advanced Wireless Services,161,AW-BEA163-B,San Fran.-Oakland-San Jose CA,80834000,SpectrumCo LLC,46,SpectrumCo LLC,46
+66,Advanced Wireless Services,161,AW-BEA163-C,San Fran.-Oakland-San Jose CA,30704000,"Atlantic Wireless, L.P.",44,"Atlantic Wireless, L.P.",44
+66,Advanced Wireless Services,161,AW-BEA164-B,Sacramento-Yolo CA,8878000,SpectrumCo LLC,31,SpectrumCo LLC,31
+66,Advanced Wireless Services,161,AW-BEA164-C,Sacramento-Yolo CA,6614000,"Atlantic Wireless, L.P.",36,"Atlantic Wireless, L.P.",36
+66,Advanced Wireless Services,161,AW-BEA165-B,Redding CA-OR,358000,SpectrumCo LLC,62,SpectrumCo LLC,62
+66,Advanced Wireless Services,161,AW-BEA165-C,Redding CA-OR,255000,"Atlantic Wireless, L.P.",68,"Atlantic Wireless, L.P.",68
+66,Advanced Wireless Services,161,AW-BEA166-B,Eugene-Springfield OR-CA,764000,SpectrumCo LLC,42,SpectrumCo LLC,42
+66,Advanced Wireless Services,161,AW-BEA166-C,Eugene-Springfield OR-CA,377000,"Cricket Licensee (Reauction), Inc.",38,"Cricket Licensee (Reauction), Inc.",38
+66,Advanced Wireless Services,161,AW-BEA167-B,Portland-Salem OR-WA,15880000,SpectrumCo LLC,36,SpectrumCo LLC,36
+66,Advanced Wireless Services,161,AW-BEA167-C,Portland-Salem OR-WA,11108000,"Cingular AWS, LLC",42,"Cingular AWS, LLC",42
+66,Advanced Wireless Services,161,AW-BEA168-B,Pendleton OR-WA,226000,SpectrumCo LLC,82,SpectrumCo LLC,82
+66,Advanced Wireless Services,161,AW-BEA168-C,Pendleton OR-WA,180000,AWS Wireless Inc.,48,AWS Wireless Inc.,48
+66,Advanced Wireless Services,161,AW-BEA169-B,Richland-Kennewick-Pasco WA,1067000,SpectrumCo LLC,39,SpectrumCo LLC,39
+66,Advanced Wireless Services,161,AW-BEA169-C,Richland-Kennewick-Pasco WA,411000,Daredevil Communications LLC,81,Daredevil Communications LLC,81
+66,Advanced Wireless Services,161,AW-BEA170-B,Seattle-Tacoma-Bremerton WA,33276000,SpectrumCo LLC,35,SpectrumCo LLC,35
+66,Advanced Wireless Services,161,AW-BEA170-C,Seattle-Tacoma-Bremerton WA,15801000,T-Mobile License LLC,39,T-Mobile License LLC,39
+66,Advanced Wireless Services,161,AW-BEA171-B,Anchorage AK,1809000,AWS Wireless Inc.,114,AWS Wireless Inc.,114
+66,Advanced Wireless Services,161,AW-BEA171-C,Anchorage AK,1111000,T-Mobile License LLC,149,T-Mobile License LLC,149
+66,Advanced Wireless Services,161,AW-BEA172-B,Honolulu HI,4254000,Cellco Partnership d/b/a Verizon Wireless,115,Cellco Partnership d/b/a Verizon Wireless,115
+66,Advanced Wireless Services,161,AW-BEA172-C,Honolulu HI,2440000,SpectrumCo LLC,105,SpectrumCo LLC,105
+66,Advanced Wireless Services,161,AW-BEA173-B,Guam-Northern Mariana Islands,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-BEA173-C,Guam-Northern Mariana Islands,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-BEA174-B,Puerto Rico-US Virgin Islands,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-BEA174-C,Puerto Rico-US Virgin Islands,2521000,"Triad AWS, Inc.",61,"Triad AWS, Inc.",61
+66,Advanced Wireless Services,161,AW-BEA175-B,American Samoa,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-BEA175-C,American Samoa,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-BEA176-B,Gulf of Mexico,40000,PetroCom License Corporation,1,PetroCom License Corporation,1
+66,Advanced Wireless Services,161,AW-BEA176-C,Gulf of Mexico,30000,PetroCom License Corporation,84,PetroCom License Corporation,84
+66,Advanced Wireless Services,161,AW-REA001-D,Northeast,552694000,"MetroPCS AWS, LLC",18,"MetroPCS AWS, LLC",18
+66,Advanced Wireless Services,161,AW-REA001-E,Northeast,472553000,T-Mobile License LLC,17,T-Mobile License LLC,17
+66,Advanced Wireless Services,161,AW-REA001-F,Northeast,1335374000,Cellco Partnership d/b/a Verizon Wireless,16,Cellco Partnership d/b/a Verizon Wireless,16
+66,Advanced Wireless Services,161,AW-REA002-D,Southeast,236549000,T-Mobile License LLC,15,T-Mobile License LLC,15
+66,Advanced Wireless Services,161,AW-REA002-E,Southeast,310995000,T-Mobile License LLC,19,T-Mobile License LLC,19
+66,Advanced Wireless Services,161,AW-REA002-F,Southeast,572446000,Cellco Partnership d/b/a Verizon Wireless,14,Cellco Partnership d/b/a Verizon Wireless,14
+66,Advanced Wireless Services,161,AW-REA003-D,Great Lakes,365445000,"Denali Spectrum License, LLC",20,"Denali Spectrum License, LLC",20
+66,Advanced Wireless Services,161,AW-REA003-E,Great Lakes,356780000,T-Mobile License LLC,19,T-Mobile License LLC,19
+66,Advanced Wireless Services,161,AW-REA003-F,Great Lakes,615923000,Cellco Partnership d/b/a Verizon Wireless,14,Cellco Partnership d/b/a Verizon Wireless,14
+66,Advanced Wireless Services,161,AW-REA004-D,Mississippi Valley,110586000,T-Mobile License LLC,15,T-Mobile License LLC,15
+66,Advanced Wireless Services,161,AW-REA004-E,Mississippi Valley,105835000,"Barat Wireless, L.P.",16,"Barat Wireless, L.P.",16
+66,Advanced Wireless Services,161,AW-REA004-F,Mississippi Valley,274995000,Cellco Partnership d/b/a Verizon Wireless,14,Cellco Partnership d/b/a Verizon Wireless,14
+66,Advanced Wireless Services,161,AW-REA005-D,Central,134954000,"Cingular AWS, LLC",12,"Cingular AWS, LLC",12
+66,Advanced Wireless Services,161,AW-REA005-E,Central,122284000,"Cricket Licensee (Reauction), Inc.",21,"Cricket Licensee (Reauction), Inc.",21
+66,Advanced Wireless Services,161,AW-REA005-F,Central,470290000,T-Mobile License LLC,15,T-Mobile License LLC,15
+66,Advanced Wireless Services,161,AW-REA006-D,West,355726000,"MetroPCS AWS, LLC",14,"MetroPCS AWS, LLC",14
+66,Advanced Wireless Services,161,AW-REA006-E,West,362757000,"Cingular AWS, LLC",15,"Cingular AWS, LLC",15
+66,Advanced Wireless Services,161,AW-REA006-F,West,894590000,T-Mobile License LLC,15,T-Mobile License LLC,15
+66,Advanced Wireless Services,161,AW-REA007-D,Alaska,1096000,American Cellular Corporation,147,American Cellular Corporation,147
+66,Advanced Wireless Services,161,AW-REA007-E,Alaska,1098000,American Cellular Corporation,152,American Cellular Corporation,152
+66,Advanced Wireless Services,161,AW-REA007-F,Alaska,1187000,"MTA Communications, Inc.",119,"MTA Communications, Inc.",119
+66,Advanced Wireless Services,161,AW-REA008-D,Hawaii,1433000,SpectrumCo LLC,97,SpectrumCo LLC,97
+66,Advanced Wireless Services,161,AW-REA008-E,Hawaii,1919000,T-Mobile License LLC,117,T-Mobile License LLC,117
+66,Advanced Wireless Services,161,AW-REA008-F,Hawaii,6107000,T-Mobile License LLC,108,T-Mobile License LLC,108
+66,Advanced Wireless Services,161,AW-REA009-D,"Guam, Northern Mariana Islands",0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-REA009-E,"Guam, Northern Mariana Islands",67000,"Triad AWS, Inc.",134,"Triad AWS, Inc.",134
+66,Advanced Wireless Services,161,AW-REA009-F,"Guam, Northern Mariana Islands",0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-REA010-D,"Puerto Rico, US Virgin Islands",2521000,"Cingular AWS, LLC",58,"Cingular AWS, LLC",58
+66,Advanced Wireless Services,161,AW-REA010-E,"Puerto Rico, US Virgin Islands",2726000,AWS Wireless Inc.,60,AWS Wireless Inc.,60
+66,Advanced Wireless Services,161,AW-REA010-F,"Puerto Rico, US Virgin Islands",3574000,T-Mobile License LLC,1,T-Mobile License LLC,1
+66,Advanced Wireless Services,161,AW-REA011-D,American Samoa,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-REA011-E,American Samoa,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-REA011-F,American Samoa,0,FCC,0,FCC,0
+66,Advanced Wireless Services,161,AW-REA012-D,Gulf of Mexico,22000,"Space Data Spectrum Holdings, LLC",1,"Space Data Spectrum Holdings, LLC",1
+66,Advanced Wireless Services,161,AW-REA012-E,Gulf of Mexico,22000,"Space Data Spectrum Holdings, LLC",155,"Space Data Spectrum Holdings, LLC",155
+66,Advanced Wireless Services,161,AW-REA012-F,Gulf of Mexico,0,FCC,0,FCC,0
