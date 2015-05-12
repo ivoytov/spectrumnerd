@@ -16,6 +16,7 @@ function countyPopBldr(marketCode, lic) {
 		if(err) console.error(err)
 
 		var population = 0
+		lic.counties.length = 0	
 		
 		for (var i=0; i<counties.length; ++i) {
 			var cty = counties[i]

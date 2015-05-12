@@ -1,6 +1,7 @@
-var mongoose = require( 'mongoose' );
+var mongoose = require( 'mongoose' ),
+    Schema = mongoose.Schema
 
-var licenseSchema = mongoose.Schema({
+var licenseSchema = Schema({
     id: Number,
     commonName: String,
     callSign: String,
@@ -12,11 +13,17 @@ var licenseSchema = mongoose.Schema({
     channel: String,
     channelBlock: Array,
     radioServiceCode: String,
-    radioServiceDesc: String
+    radioServiceDesc: String,
+    bid: Object
 })
 
 licenseSchema.virtual('MHzPOPs').get(function() {
     return this.population * this.MHz
+})
+
+licenseSchema.virtual('pricePerPOP').get(function(argument) {
+    if(this.bid == null) return null
+    return this.bid.amount.net / this.MHzPOPs
 })
 
 licenseSchema.methods.list = function () {
@@ -30,4 +37,6 @@ licenseSchema.methods.list = function () {
 licenseSchema.set('toJSON', { virtuals : true })
 
 var License = module.exports = mongoose.model('License', licenseSchema)
+
+
 

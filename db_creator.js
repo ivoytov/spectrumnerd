@@ -23,7 +23,7 @@ fs.readFile('output.json', 'utf8', function doneReading (err, data) {
             marketCode: src.marketCode,
             marketDesc: src.marketDesc,
             radioServiceCode: src.radioServiceCode,
-            radioServiceDesc: src.radioServiceDes
+            radioServiceDesc: src.radioServiceDesc
         }) 
 
         // create Channel Block for those licenses that have them

@@ -13,13 +13,15 @@ License.find(function(err, licenses) {
 
 		for (var j=0; j<lic.channelBlock.length; ++j) {
 			var cb = lic.channelBlock[j]
-			MHz += (cb.upperBand - cb.lowerBand)
+			// MHz += (cb.upperBand - cb.lowerBand)
+			cb.lowerBand = parseInt(cb.lowerBand, 10)
+			cb.upperBand = parseInt(cb.upperBand, 10)
 		}
 		
 		console.log('license with call sign ' + lic.callSign + ' controls ' + MHz + ' MHz')
+		// lic.MHz = MHz
 
-		lic.MHz = MHz
-
+		lic.markModified('channelBlock')
 		lic.save(function (err) {
 			if (err) console.error(err)
 		})
