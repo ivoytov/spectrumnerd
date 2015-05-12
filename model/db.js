@@ -5,7 +5,7 @@ var uriUtil = require('mongodb-uri')
 // Build the connection string
 // var dbURI = 'mongodb://localhost/my_database';
 var mongodbUri = process.env.MONGOLAB_URI
-var dbURI = uriUtil.formatMongoose(mongodbUri)
+var dbURI = uriUtil.formatMongoose(mongodbUri) || 'mongodb://localhost/my_database';
 
 // Create the database connection
 mongoose.connect(dbURI);

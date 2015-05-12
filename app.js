@@ -5,4 +5,4 @@ var http = require('http'),
 http.createServer(function (req, res) {
   	pages.index(req, res);
 
-}).listen(8080, 'localhost');
+}).listen(process.env.PORT || 8080);
