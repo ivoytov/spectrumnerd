@@ -1,8 +1,11 @@
 // Bring Mongoose into the app
-var mongoose = require( 'mongoose' );
+var mongoose = require( 'mongoose' )
+var uriUtil = require('mongodb-uri')
 
 // Build the connection string
-var dbURI = 'mongodb://localhost/my_database';
+// var dbURI = 'mongodb://localhost/my_database';
+var mongodbUri = process.env.MONGOLAB_URI
+var dbURI = uriUtil.formatMongoose(mongodbUri)
 
 // Create the database connection
 mongoose.connect(dbURI);
@@ -32,8 +35,7 @@ process.on('SIGINT', function() {
 });
 
 
-// BRING IN YOUR SCHEMAS & MODELS
-// For example
+// BRING IN SCHEMAS & MODELS
 require('./license')
 require('./county')
 require('./bid')
