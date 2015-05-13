@@ -1,4 +1,4 @@
-var http = require('http'),,
+var http = require('http'),
 	express = require('express'),
 	db = require('./model/db'),
 	pages = require('./pages'),
