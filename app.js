@@ -7,7 +7,7 @@ var http = require('http'),
 app.set('port', (process.env.PORT || 5000));
 app.use(express.static(__dirname + '/html'));
 
-app.get('/', function(request, response) {
+app.get('/api*', function(request, response) {
   pages.index(request, response);
 });
 

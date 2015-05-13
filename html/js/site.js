@@ -1,4 +1,4 @@
-var api_url = 'https://morning-headland-1853.herokuapp.com/api'
+var api_url = '/api'
 
 var carrier = $('#carriers')
 var auction = $('#auctions')

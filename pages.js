@@ -6,8 +6,7 @@ var mongoose = require('mongoose'),
 
 // close connection
 function closeConnection(res, output) {
-	res.write(output)
-	res.end()
+	res.send(output)
 }
 
 
@@ -133,7 +132,6 @@ function marketCode(res, marketCode) {
 // FIXME replace this case switch with polymorphic code
 function marketCode(res, marketCode) {
     var jsonOutput
-    console.log(marketCode)
 
     var letters = marketCode.substring(0,3)
     var numbers = Number(marketCode.substring(3))
@@ -176,8 +174,8 @@ function marketCode(res, marketCode) {
 exports.index = function (req, res) {
 	var qry = url.parse(req.url, true)
 
-	res.setHeader('Access-Control-Allow-Origin', '*')
-	res.writeHead(200, { 'Content-Type': 'application/json' })
+	// res.setHeader('Access-Control-Allow-Origin', '*')
+	res.type('application/json')
 
 	if(qry.pathname === '/api/getCarriers') {
 		getCarriers(res)
