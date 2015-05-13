@@ -1,8 +1,16 @@
-var http = require('http'),
+var http = require('http'),,
+	express = require('express'),
 	db = require('./model/db'),
-	pages = require('./pages');
+	pages = require('./pages'),
+	app = express();
 
-http.createServer(function (req, res) {
-  	pages.index(req, res);
+app.set('port', (process.env.PORT || 5000));
+app.use(express.static(__dirname + '/html'));
 
-}).listen(process.env.PORT || 8080);
+app.get('/', function(request, response) {
+  pages.index(request, response);
+});
+
+app.listen(app.get('port'), function() {
+  console.log('Node app is running on port', app.get('port'));
+});

@@ -12,7 +12,8 @@
     "bl": "^0.9.4",
     "nice-json2csv": "^0.2.0",
     "xml2js": "^0.4.6",
-    "mongodb-uri": "^0.9.7"
+    "mongodb-uri": "^0.9.7",
+    "express": "^4.12.3"
   },
   "devDependencies": {},
   "scripts": {
