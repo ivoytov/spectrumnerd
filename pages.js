@@ -91,10 +91,9 @@ function summaryQuery(res, api) {
 		, counties:1, MHz:1, bid:1}},
 	// FIXME: see if you can replace the $unwind and $addToSet with a $group
 	{$unwind: '$counties'},
-	{$group: {_id: { carrier: '$commonName', cb: '$channelBlock', bid: '$bid.amount.net', MHz: '$MHz'}
-		, allcounties: {$addToSet: '$counties'}}},
-	{$unwind:'$allcounties'},
-	{$group: {_id: {cb: '$_id.cb', price: '$_id.bid', MHz: '$_id.MHz'}, pops: {$sum: '$allcounties.population'}}},
+	{$group: {_id: { carrier: '$commonName', cb: '$channelBlock', bid: '$bid.amount.net'
+		, MHz: '$MHz', allcounties: '$counties'}}},
+	{$group: {_id: {cb: '$_id.cb', price: '$_id.bid', MHz: '$_id.MHz'}, pops: {$sum: '$_id.allcounties.population'}}},
 	{$group: {_id: '$_id.cb', price: {$sum: '$_id.price'}, pops: {$sum: '$pops'}, MHz: {$avg: '$_id.MHz'}}},
 	{$match: { '_id.lowerBand': {$gte: parseInt(api.frequencyFrom,10)}, 
 		'_id.upperBand': {$lte: parseInt(api.frequencyTo,10)}}},
