@@ -24,7 +24,7 @@ function auction_id() {
       range: true,
       min: 0,
       max: 4000,
-      values: [ 700, 800 ],
+      values: [ 500, 3000 ],
       slide: function( event, ui ) {
         $( "#amount" ).val( ui.values[ 0 ] + " MHz - " + ui.values[ 1 ] + " MHz" )
         getCarrier(carrier.find(':selected').text(), 

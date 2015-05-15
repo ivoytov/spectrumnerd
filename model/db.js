@@ -39,3 +39,4 @@ process.on('SIGINT', function() {
 require('./license')
 require('./county')
 require('./bid')
+require('./band')
