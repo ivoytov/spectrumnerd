@@ -104,3 +104,8 @@ body {
   border-radius: 50%;
 }
 
+.clickable-row:hover {
+  cursor: pointer;
+  background: yellow;
+}
+

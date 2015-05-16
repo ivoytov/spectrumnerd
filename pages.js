@@ -4,40 +4,27 @@ var mongoose = require('mongoose'),
 	County = mongoose.model('County'),
 	url = require('url')
 
-// close connection
-function closeConnection(res, output) {
-	res.send(output)
-}
 
 
 // list all unique carriers. no inputs required. returns an array of unique carrier names
-function getCarriers(res) {
-	var jsonOutput = ""
+function getCarriers(callback) {
 	License.distinct("commonName", function(err, carriers) {
-		if (err) console.error(err)
-
-		jsonOutput = JSON.stringify(carriers)
-		closeConnection(res, jsonOutput)
+		callback(err, JSON.stringify(carriers))
 	})
 }
 
 // list all unique auctions. returns an array of auction id and auction desc
-function getAuctions(res) {
-	var jsonOutput = ""
+function getAuctions(callback) {
 	Bid.distinct('auction', function (err, auctions) {
-		if (err) return console.error(err)
 
-		jsonOutput = JSON.stringify(auctions)
-		closeConnection(res, jsonOutput)
+		callback(err, JSON.stringify(auctions))
 	})
 }
 
 // returns all licenses matching query submitted via the api. 
-function licenseQuery(res, api) {
+function licenseQuery(api, callback) {
 	var query = License.find( {} )
-	// .populate('bid')
 	.sort('-population')
-	.limit(150)
 
 	// add "commonName=Verizon" to only see Verizon licenses
 	if(api.commonName)
@@ -67,41 +54,29 @@ function licenseQuery(res, api) {
 
 		console.log(api.commonName + ' and freq ' + api.frequencyFrom
 			+ '-' + api.frequencyTo + ' and auction ' + api.auction)
-		var jsonOutput
-
-		if (err) return console.error(err)
 		
-		jsonOutput = JSON.stringify(lic)
+		callback(err, JSON.stringify(lic))
 		
-		closeConnection(res, jsonOutput)
 	})
 
 }
 
 // returns summary statistics on licenses matching a query
 
-function summaryQuery(res, api) {
+function summaryQuery(api, callback) {
 	License.aggregate([
-
-
-
 	{$match: { commonName: api.commonName}},
 	// eliminate unneeded fields. Specifically the freqId since it makes CBs look different when the same
 	{$project: { commonName:1, 'channelBlock.lowerBand':1, 'channelBlock.upperBand':1
 		, counties:1, MHz:1, bid:1}},
-	// FIXME: see if you can replace the $unwind and $addToSet with a $group
 	{$unwind: '$counties'},
 	{$group: {_id: { carrier: '$commonName', cb: '$channelBlock', bid: '$bid.amount.net'
 		, MHz: '$MHz', allcounties: '$counties'}}},
 	{$group: {_id: {cb: '$_id.cb', price: '$_id.bid', MHz: '$_id.MHz'}, pops: {$sum: '$_id.allcounties.population'}}},
 	{$group: {_id: '$_id.cb', price: {$sum: '$_id.price'}, pops: {$sum: '$pops'}, MHz: {$avg: '$_id.MHz'}}},
-	{$match: { '_id.lowerBand': {$gte: parseInt(api.frequencyFrom,10)}, 
-		'_id.upperBand': {$lte: parseInt(api.frequencyTo,10)}}},
 	{$sort: { '_id.lowerBand':1, pops: -1}}
 	], function (err, result) {
-		if (err) return console.error(err)
-
-		closeConnection(res, JSON.stringify(result)	)
+		callback(err, JSON.stringify(result))
 	})
 }
 
@@ -109,27 +84,17 @@ function summaryQuery(res, api) {
 
 // helper function that takes a type of Market Code and 'res'
 // outputs the list of counties and closes the connection
-function countyFinder(marketCode, res) {
+function countyFinder(marketCode, callback) {
+	console.log("looking for counties in " + marketCode)
 	County.find(marketCode, function (err, cty) {
-		if(err) console.error(err)
-		closeConnection(res, JSON.stringify(cty))
+		callback(err, JSON.stringify(cty))
 	})
 } 
 
-// find all counties making up a market code, requires a market code
-// FIXME replace this case switch with polymorphic code
-function marketCode(res, marketCode) {
-	County.byMarket(marketCode, function (err, counties) {
-		// early exit if error
-		if (err) console.error(err)
-
-		closeConnection(res, counties)
-	})
-}
 
 // find all counties making up a market code, requires a market code
 // FIXME replace this case switch with polymorphic code
-function marketCode(res, marketCode) {
+function marketCode(marketCode, callback) {
     var jsonOutput
 
     var letters = marketCode.substring(0,3)
@@ -137,34 +102,34 @@ function marketCode(res, marketCode) {
 
     switch(letters) {
         case "CMA":
-            countyFinder({ cma: numbers }, res)
+            countyFinder({ cma: numbers }, callback)
         	break
         case "BTA":
-            countyFinder({ bta : numbers }, res)
+            countyFinder({ bta : numbers }, callback)
             break
         case "MTA":
-            countyFinder({ mta : numbers }, res)
+            countyFinder({ mta : numbers }, callback)
             break
         case "RPC":
-            countyFinder({ rpc : numbers }, res)
+            countyFinder({ rpc : numbers }, callback)
             break
         case "BEA":
-            countyFinder({ bea : numbers }, res)
+            countyFinder({ bea : numbers }, callback)
             break
         case "MEA":
-            countyFinder({ mea : numbers }, res)
+            countyFinder({ mea : numbers }, callback)
             break
         case "REA":
-            countyFinder({ rea : numbers }, res)
+            countyFinder({ rea : numbers }, callback)
             break
         case "EAG":
-            countyFinder({ eag : numbers }, res)
+            countyFinder({ eag : numbers }, callback)
             break
         case "VPC":
-            countyFinder({ vpc : numbers }, res)
+            countyFinder({ vpc : numbers }, callback)
             break
         case "PSR":
-            countyFinder({ psr : numbers }, res)
+            countyFinder({ psr : numbers }, callback)
             break
     }
 
@@ -177,14 +142,29 @@ exports.index = function (req, res) {
 	res.type('application/json')
 
 	if(qry.pathname === '/api/getCarriers') {
-		getCarriers(res)
+		getCarriers(function(err, result) {
+			if(err) return console.error(err)
+			res.send(result)
+		})
 	} else if(qry.pathname === '/api/marketCodes') {
-		marketCode(res, qry.query.marketCode)
+		marketCode(qry.query.marketCode, function(err, result) {
+			if(err) return console.error(err)
+			res.send(result)
+		})
 	} else if(qry.pathname === '/api/getAuctions') {
-		getAuctions(res)
+		getAuctions(function(err, result) {
+			if(err) return console.error(err)
+			res.send(result)
+		})
 	} else if(qry.pathname === '/api/summarize') {
-		summaryQuery(res, qry.query)
+		summaryQuery(qry.query, function(err, result) {
+			if (err) return console.error(err)
+			res.send(result)
+		})
 	} else {
-		licenseQuery(res, qry.query)
+		licenseQuery(qry.query, function(err, result) {
+			if (err) return console.error(err)
+			res.send(result)
+		})
 	}
 }

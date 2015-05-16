@@ -4,7 +4,6 @@ var carrier = $('#carriers')
 var auction = $('#auctions')
 var showBids = $('#bidsonly')
 var frequency = $('#slider-range')
-var showAll = 'Show All'
 
 // helper function, formats #,##0.0 numbers
 function numberWithCommas(x) {
@@ -15,34 +14,8 @@ function currency(x) {
     if(x) return '$' + x.toFixed(2).toString()
 }
 
-function auction_id() {
-    return $("#auctions option:selected").text()
-}
-
-  $(function() {
-    frequency.slider({
-      range: true,
-      min: 0,
-      max: 4000,
-      values: [ 500, 3000 ],
-      slide: function( event, ui ) {
-        $( "#amount" ).val( ui.values[ 0 ] + " MHz - " + ui.values[ 1 ] + " MHz" )
-        getCarrier(carrier.find(':selected').text(), 
-            [ui.values[ 0 ] , ui.values[ 1 ]],
-            showBids.prop('checked'),
-            auction_id() )
-      }
-    })
-    $( "#amount" ).val(frequency.slider( "values", 0 ) +
-      " MHz - " + frequency.slider( "values", 1 ) + " MHz" )
-  })
-
 
 $(document).ready(function() {
-    // create default option ALL
-    auction.append($('<option>').text(showAll))
-    carrier.append($('<option>').text(showAll))
-
 
     // create the drop down list of carriers
     $.getJSON(api_url + "/getCarriers", function(carriers) {
@@ -53,90 +26,40 @@ $(document).ready(function() {
          })       
     })
 
-    // create drop down list of auctions
-    $.getJSON(api_url + "/getAuctions", function(auctions) {
-        $.each(auctions, function (i) {
-            var selectElement = $('<option>')
-            selectElement.text(auctions[i].id + ': ' + auctions[i].desc)
-            auction.append(selectElement)
-        })
+    $("#clickable-row").click(function() {
+        console.log("in click")
+        clickBand($(this).data.freq)
     })
 
-    showBids.click(function () {
-        // checkbox changed
-        if($(this).prop("checked")) {
-            // console.log("checkbox checked")
-            getCarrier(carrier.find(':selected').text(),
-                [frequency.slider( "values", 0 ),
-                 frequency.slider( "values", 1 )],
-                 1)
-        } else {
-            getCarrier(carrier.find(':selected').text(),
-                [frequency.slider( "values", 0 ),
-                 frequency.slider( "values", 1 )],
-                 0)
-        }
-
-    })
 
 })
+
+
+
+
 
 var licenseList = $('#licenses')
 var summaryList = $('#summary')
 
 carrier.change(function() {
-    var car = "",
-        auc = ""
+    var car = ""
 
     $("#carriers option:selected").each(function() {
         car = $( this ).text()
     })
 
-    getCarrier(car, 
-        [ frequency.slider("values", 0),
-          frequency.slider("values", 1) ],
-        showBids.prop('checked'),
-        auction_id())
-})
-.change()
-
-auction.change(function() {
-    var str = ""
-
-    $("#auctions option:selected").each(function() {
-        str = $( this ).text()
-    })
-    console.log("auction " + str)
-
-    getCarrier($("#carriers option:selected").text(),
-        [ frequency.slider("values", 0),
-          frequency.slider('values', 1) ],
-          showBids.prop('checked'),
-          str )
-
+    getCarrier(car)
 })
 .change()
 
 
-function getCarrier(name, freq, isBids, auction) {
+function getCarrier(name) {
     // create URI sanitized query variables
-    var nameURI = encodeURIComponent(name),
-        freqLowURI = encodeURIComponent(freq[0]),
-        freqHighURI = encodeURIComponent(freq[1]),
-        auctionURI
-
-    // check for the special 'Show all' option
-    if(auction === showAll) {
-        auctionURI = null
-    } else {
-        auctionURI = auction.split(':')[0]
-    }
-    if(name === showAll) nameURI = null
+    var nameURI = encodeURIComponent(name)
 
     // get summary of licenses and pops covered for the selected carrier
     var query = "?" + (nameURI ? "commonName=" + nameURI + "&" : "")
-     + "frequencyFrom=" + freqLowURI
-     + "&frequencyTo=" + freqHighURI
+ 
 
      console.log(api_url + '/summarize' + query)
 
@@ -146,7 +69,8 @@ function getCarrier(name, freq, isBids, auction) {
 
         //get data
         $.each(band, function (key, data) {
-            var summaryElement = $('<tr>')
+
+            var summaryElement = $('<tr class=\'clickable-row\' data-freq=\'' + data._id[0].lowerBand + '\'>')
 
             iterBlocks(data._id, summaryElement)
 
@@ -163,22 +87,23 @@ function getCarrier(name, freq, isBids, auction) {
             pricePerPOPElement.text( pricePerPOP )
 
             summaryElement.append(MHzElement)
-            summaryElement.append(popsElement)
-            summaryElement.append(priceElement)
-            summaryElement.append(pricePerPOPElement)
+                .append(popsElement)
+                .append(priceElement)
+                .append(pricePerPOPElement)
 
             // add row to table
             summaryList.append(summaryElement)
         })
      })
+     
+}
 
 
-    // get licenses for the new carrier selected
-    query += (isBids ? "&showBids=1" : "")
-     + (auctionURI ? '&auction=' + auctionURI : "")
+function clickBand(freq) {
+    
 
-     console.log(api_url + query)
-    $.getJSON(api_url + query, function(licenses) {
+    console.log('in clickBand' + api_url)
+    $.getJSON(api_url, function(licenses) {
         // clear existing table
         $("#licenses tbody").empty()
         
