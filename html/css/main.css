@@ -104,8 +104,8 @@ body {
   border-radius: 50%;
 }
 
-.clickable-row:hover {
+.clickable-row tbody tr:hover td, .table-hover tbody tr:hover th {
   cursor: pointer;
-  background: yellow;
+  background: LightGray;
 }
 

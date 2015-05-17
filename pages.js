@@ -2,22 +2,36 @@ var mongoose = require('mongoose'),
 	License = mongoose.model('License'),
 	Bid = mongoose.model('Bid'),
 	County = mongoose.model('County'),
+	Band = mongoose.model('Band'),
 	url = require('url')
 
 
 
-// list all unique carriers. no inputs required. returns an array of unique carrier names
-function getCarriers(callback) {
-	License.distinct("commonName", function(err, carriers) {
-		callback(err, JSON.stringify(carriers))
+// list all unique carriers. no inputs required. 
+// returns an array of unique carrier names, sorted by population covered
+getCarriers = function(callback) {
+	Band.aggregate([
+	{$group: { _id: '$carrier', maxpopulation: {$max: '$population'}}},
+	{$sort: {maxpopulation:-1}},
+	{$project: {_id: 1}}
+	], function(err, result) {
+		var sortedcarriers = []
+		for (var key in result) {
+			sortedcarriers.push(result[key]._id)
+		}
+		callback(err, sortedcarriers)
 	})
+
+	// Primitive way of doing this - not sorted in any way
+	// License.distinct("commonName", function(err, carriers) {
+	// 	callback(err, carriers)
+	// })
 }
 
 // list all unique auctions. returns an array of auction id and auction desc
 function getAuctions(callback) {
 	Bid.distinct('auction', function (err, auctions) {
-
-		callback(err, JSON.stringify(auctions))
+		callback(err, auctions)
 	})
 }
 
@@ -55,39 +69,25 @@ function licenseQuery(api, callback) {
 		console.log(api.commonName + ' and freq ' + api.frequencyFrom
 			+ '-' + api.frequencyTo + ' and auction ' + api.auction)
 		
-		callback(err, JSON.stringify(lic))
+		callback(err, lic)
 		
 	})
 
 }
 
-// returns summary statistics on licenses matching a query
-
-function summaryQuery(api, callback) {
-	License.aggregate([
-	{$match: { commonName: api.commonName}},
-	// eliminate unneeded fields. Specifically the freqId since it makes CBs look different when the same
-	{$project: { commonName:1, 'channelBlock.lowerBand':1, 'channelBlock.upperBand':1
-		, counties:1, MHz:1, bid:1}},
-	{$unwind: '$counties'},
-	{$group: {_id: { carrier: '$commonName', cb: '$channelBlock', bid: '$bid.amount.net'
-		, MHz: '$MHz', allcounties: '$counties'}}},
-	{$group: {_id: {cb: '$_id.cb', price: '$_id.bid', MHz: '$_id.MHz'}, pops: {$sum: '$_id.allcounties.population'}}},
-	{$group: {_id: '$_id.cb', price: {$sum: '$_id.price'}, pops: {$sum: '$pops'}, MHz: {$avg: '$_id.MHz'}}},
-	{$sort: { '_id.lowerBand':1, pops: -1}}
-	], function (err, result) {
-		callback(err, JSON.stringify(result))
-	})
-}
-
-
-
-// helper function that takes a type of Market Code and 'res'
-// outputs the list of counties and closes the connection
+// helper function that takes a type of Market Code
 function countyFinder(marketCode, callback) {
 	console.log("looking for counties in " + marketCode)
 	County.find(marketCode, function (err, cty) {
-		callback(err, JSON.stringify(cty))
+		callback(err, cty)
+	})
+} 
+
+
+// Takes a carrier name and returns the frequency bands controlled by them
+function getBands(name, callback) {
+	Band.find({carrier: name}).sort('channelBlock.lowerBand').exec(function (err, bands) {
+		callback(err, bands)
 	})
 } 
 
@@ -95,7 +95,6 @@ function countyFinder(marketCode, callback) {
 // find all counties making up a market code, requires a market code
 // FIXME replace this case switch with polymorphic code
 function marketCode(marketCode, callback) {
-    var jsonOutput
 
     var letters = marketCode.substring(0,3)
     var numbers = Number(marketCode.substring(3))
@@ -138,33 +137,32 @@ function marketCode(marketCode, callback) {
 exports.index = function (req, res) {
 	var qry = url.parse(req.url, true)
 
-	// res.setHeader('Access-Control-Allow-Origin', '*')
 	res.type('application/json')
 
 	if(qry.pathname === '/api/getCarriers') {
 		getCarriers(function(err, result) {
 			if(err) return console.error(err)
-			res.send(result)
+			res.send(JSON.stringify(result))
 		})
 	} else if(qry.pathname === '/api/marketCodes') {
 		marketCode(qry.query.marketCode, function(err, result) {
 			if(err) return console.error(err)
-			res.send(result)
+			res.send(JSON.stringify(result))
 		})
 	} else if(qry.pathname === '/api/getAuctions') {
 		getAuctions(function(err, result) {
 			if(err) return console.error(err)
-			res.send(result)
+			res.send(JSON.stringify(result))
 		})
-	} else if(qry.pathname === '/api/summarize') {
-		summaryQuery(qry.query, function(err, result) {
+	} else if(qry.pathname === '/api/getBands') {
+		getBands(qry.query.commonName, function(err, result) {
 			if (err) return console.error(err)
-			res.send(result)
+			res.send(JSON.stringify(result))
 		})
 	} else {
 		licenseQuery(qry.query, function(err, result) {
 			if (err) return console.error(err)
-			res.send(result)
+			res.send(JSON.stringify(result))
 		})
 	}
 }

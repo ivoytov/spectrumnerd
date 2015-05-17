@@ -11,7 +11,6 @@
 		
 				<!-- Bootstrap core CSS -->
 				<link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
-				<link rel="stylesheet" href="bootstrap-table.css">
 
 				<!-- Custom styles for this template -->
 				<link href="css/main.css" rel="stylesheet">
@@ -41,7 +40,7 @@
 						</div>
 						<div id="navbar" class="navbar-collapse collapse">
 							<ul class="nav navbar-nav navbar-right">
-								<li><a href="#">About</a></li>
+								<li><a href="about.html">About</a></li>
 							</ul>
 						</div>
 					</div>
@@ -50,48 +49,19 @@
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col-sm-3 col-md-3 sidebar">
-							<ul class="nav nav-sidebar">
-								<li class="active">Carrier:
-									<select name="commonName" id="carriers"></select>
-
-								</li>
+							<ul id="carriers_list" class="nav nav-sidebar">
 							</ul>
-<!-- 							<ul class="nav nav-sidebar">
-								<li>
-									<div id="slider-range"></div>
-										<label for="amount">Frequency range:</label>
-										<input type="text" id="amount" readonly style="	border:0; color:#f6931f; font-weight:bold;">
-								</li>
-							</ul> -->
-							<!-- <ul class="nav nav-sidebar">
-								<li>
-									<select name="auctions" id="auctions"></select>
-								</li>
-							</ul>
-							<ul class="nav nav-sidebar">
-								<li>
-									<input type="checkbox" id="bidsonly">
-									<label for="bidsonly">Only show licenses with prices</label>
-								</li>
-							</ul> -->
 						</div>
 					</div>
 				</div>
 
 
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-3 main">
-        	<h1 class="page-header">Dashboard of Spectrum Licenses</h1>
+        	<h1 id="carrier_name" class="page-header"></h1>
 
-        	<table id="summary" class="summary table table-striped">
+        	<table id="summary" class="summary table table-striped clickable-row">
         		<thead>
-					<th>Start</th>
-					<th>End</th>
-					<th>Start</th>
-					<th>End</th>
-					<th>Start</th>
-					<th>End</th>
-					<th>Start</th>
-					<th>End</th>
+					<th>Spectrum Band</th>
 					<th>MHz</th>
 					<th>Population Covered</th>
 					<th>Price Paid</th>
@@ -103,18 +73,17 @@
 
 					
 				
-				 
-        	<h2 class="sub-header">Largest licenses by population</h2>
+        	<div id="licenses_div">
+        		<h2 id="licenses_title" class="sub-header"></h2>
 				<div class="table-responsive">
 				<table id="licenses" class="licenses table table-striped">
 					<thead>
-						<th>Carrier</th>
+						<th>Spectrum</th>
 						<th>Call Sign</th>
 						<th>Market Code</th>
 						<th>Market Description</th>
 						<th>Population</th>
 						<th>MHz</th>
-						<!-- <th>MHz POPs</th> -->
 						<th>Price</th>
 						<th>$/MHz POP</th>
 						<th>Buyer</th>
@@ -122,18 +91,10 @@
 						<th>Radio Code</th>
 						<th>Radio Desc</th>
 						<th>Channel</th>
-						<!-- <th>Frequency Blocks</th> -->
-						<th>Start</th>
-						<th>End</th>
-						<th>Start</th>
-						<th>End</th>
-						<th>Start</th>
-						<th>End</th>
-						<th>Start</th>
-						<th>End</th>
 						</thead>
 						<tbody></tbody>
 				</table>
+			</div>
 				
 				
 				<!-- load scripts at the bottom of your page -->

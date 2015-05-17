@@ -1,9 +1,11 @@
 var api_url = '/api'
 
-var carrier = $('#carriers')
 var auction = $('#auctions')
 var showBids = $('#bidsonly')
 var frequency = $('#slider-range')
+
+var car = "Verizon"
+
 
 // helper function, formats #,##0.0 numbers
 function numberWithCommas(x) {
@@ -20,37 +22,49 @@ $(document).ready(function() {
     // create the drop down list of carriers
     $.getJSON(api_url + "/getCarriers", function(carriers) {
          $.each(carriers, function (i) {
-            var selectElement = $('<option>')
-            selectElement.text(carriers[i])
-            carrier.append(selectElement)
-         })       
+
+            var liElement = $('<li>')
+            var hrefElement = $('<a>')
+            hrefElement.text(carriers[i])
+
+            $('#carriers_list').append(liElement.append(hrefElement))
+
+         })      
+
+        getCarrier(car)
+        $("#carrier_name").text(car)
+
+        $("#licenses_div").hide()
+ 
     })
 
-    $("#clickable-row").click(function() {
-        console.log("in click")
-        clickBand($(this).data.freq)
+
+    // handle band row clicks
+    $("#summary tbody").on("click", "tr", function(event) {
+        $("#licenses_div").show()
+        clickBand($(this).data('channelBlock'))
+    })
+
+    // handle clicks on carrier names in left hand column
+    $("#carriers_list").on("click", "li", function(event) {
+        // hide the license table at the bottom - moving to new carrier
+        $("#licenses_div").hide()
+        $("#licenses tbody").empty()
+
+        car = $(this).text()
+
+        $("#carrier_name").text(car)
+        getCarrier(car)
     })
 
 
 })
-
-
 
 
 
 var licenseList = $('#licenses')
 var summaryList = $('#summary')
 
-carrier.change(function() {
-    var car = ""
-
-    $("#carriers option:selected").each(function() {
-        car = $( this ).text()
-    })
-
-    getCarrier(car)
-})
-.change()
 
 
 function getCarrier(name) {
@@ -58,35 +72,38 @@ function getCarrier(name) {
     var nameURI = encodeURIComponent(name)
 
     // get summary of licenses and pops covered for the selected carrier
-    var query = "?" + (nameURI ? "commonName=" + nameURI + "&" : "")
+    var query = "/getBands?" + (nameURI ? "commonName=" + nameURI + "&" : "")
  
 
-     console.log(api_url + '/summarize' + query)
+     console.log(api_url + query)
 
-     $.getJSON(api_url + "/summarize" + query, function(band) {
+     $.getJSON(api_url + query, function(band) {
         // clear existing table
         $('#summary tbody').empty()
+
 
         //get data
         $.each(band, function (key, data) {
 
-            var summaryElement = $('<tr class=\'clickable-row\' data-freq=\'' + data._id[0].lowerBand + '\'>')
+            var summaryElement = $('<tr>')
+            summaryElement.data('channelBlock', data.channelBlock)
 
-            iterBlocks(data._id, summaryElement)
-
+            var cbElement = $('<td>')
             var MHzElement = $('<td>')
             var popsElement = $('<td>')
             var priceElement = $('<td>')
             var pricePerPOPElement = $('<td>')
 
+            cbElement.text(iterBlocks(data.channelBlock))
             MHzElement.text(data.MHz)
-            popsElement.text(numberWithCommas(data.pops))
+            popsElement.text(numberWithCommas(data.population))
             priceElement.text(data.price ? ('$' + numberWithCommas(data.price)) : "N/A")
 
-            var pricePerPOP = (data.price ? (currency(data.price / (data.MHz * data.pops))) : "N/A")
+            var pricePerPOP = (data.price ? (currency(data.price / (data.MHz * data.population))) : "N/A")
             pricePerPOPElement.text( pricePerPOP )
 
-            summaryElement.append(MHzElement)
+            summaryElement.append(cbElement)
+                .append(MHzElement)
                 .append(popsElement)
                 .append(priceElement)
                 .append(pricePerPOPElement)
@@ -99,27 +116,39 @@ function getCarrier(name) {
 }
 
 
-function clickBand(freq) {
-    
+function clickBand(channelBlock) {
+    var query_url = '?commonName=' + encodeURIComponent(car) + '&frequencyFrom='
+        + encodeURIComponent(channelBlock[0].lowerBand) + '&frequencyTo=' 
+        + encodeURIComponent(channelBlock[channelBlock.length-1].upperBand)
 
-    console.log('in clickBand' + api_url)
-    $.getJSON(api_url, function(licenses) {
+    console.log(api_url + query_url)
+    $.getJSON(api_url +  query_url,function(licenses) {
         // clear existing table
         $("#licenses tbody").empty()
+
+        // set title of the section 
+        $('#licenses_title').text('Licenses in Spectrum Range '
+            + channelBlock[0].lowerBand + '-' 
+            + channelBlock[channelBlock.length-1].upperBand + ' MHz')
+
+        // jump to relevant section
+        $("body, html").animate({ 
+            scrollTop: $('#licenses_title').offset().top 
+        }, 600);
         
         //Get data
         $.each(licenses, function (key, data) {
-            var freqBlocks = Object.keys(data.channelBlock).length
             
             // create elements
             var licenseElement = $('<tr>')
+
+            var cbElement = $('<td>')
             var carrierElement = $("<td>")
             var callSignElement = $("<td>")
             var marketCodeElement = $("<td>")
             var marketDescElement = $("<td>")
             var populationElement = $("<td>")
             var MHzElement = $("<td>")
-            // var MHzPOPsElement = $("<td>")
             var priceElement = $("<td>")
             var pricePerPOPElement = $("<td>")
             var buyerElement = $("<td>")
@@ -127,15 +156,14 @@ function clickBand(freq) {
             var radioServiceCodeElement = $("<td>")
             var radioServiceDescElement = $("<td>")
             var channelElement = $("<td>")
-            var freqBlocksElement = $("<td>")
         
+            cbElement.text(iterBlocks(data.channelBlock))
             carrierElement.text(data.commonName || data.licenseeName)
             callSignElement.text(data.callSign)
             marketCodeElement.text(data.marketCode || "none")
             marketDescElement.text(data.marketDesc)
             populationElement.text( numberWithCommas(data.population) )
             MHzElement.text(data.MHz)
-            // MHzPOPsElement.text( numberWithCommas(data.MHzPOPs) )
             
             // if bid data exists, fill in elements. otherwise, "N/A"
             var price, pricePerPOP, bidder, auction
@@ -158,18 +186,16 @@ function clickBand(freq) {
             radioServiceCodeElement.text(data.radioServiceCode)
             radioServiceDescElement.text(data.radioServiceDesc)
             channelElement.text(data.channel)
-            freqBlocksElement.text(freqBlocks)
             
             
             // prepare table row
             licenseElement.text("")
-                .append(carrierElement)
+                .append(cbElement)
                 .append(callSignElement)
                 .append(marketCodeElement)
                 .append(marketDescElement)
                 .append(populationElement)
                 .append(MHzElement)
-                // .append(MHzPOPsElement)
                 .append(priceElement)
                 .append(pricePerPOPElement)
                 .append(buyerElement)
@@ -177,9 +203,8 @@ function clickBand(freq) {
                 .append(radioServiceCodeElement)
                 .append(radioServiceDescElement)
                 .append(channelElement)
-                // .append(freqBlocksElement)
         
-            iterBlocks(data.channelBlock, licenseElement)
+            // iterBlocks(data.channelBlock, licenseElement)
             // add license to the list
             licenseList.append(licenseElement)
         })
@@ -187,20 +212,12 @@ function clickBand(freq) {
 }
 
 // iterates over the frequency channels (up to 4) and inserts columns
-function iterBlocks(cb, licenseElement) {
+function iterBlocks(cb) {
+    var formatted = ""
     
-    for(var i=0; i<4; ++i) {
-
-        var blockLowerElement = $("<td>")
-        var blockUpperElement = $("<td>")
-        
-
-        blockLowerElement.text(cb[i] != null ? cb[i].lowerBand : "none")
-        blockUpperElement.text(cb[i] != null ? cb[i].upperBand : "none")
-
-        
-        licenseElement
-            .append(blockLowerElement)
-            .append(blockUpperElement)
+    for(var i=0; i<cb.length; ++i) {
+        formatted += cb[i].lowerBand + '-' + cb[i].upperBand
+        if(i<cb.length-1) formatted += ', '
     }
+    return formatted
 }
