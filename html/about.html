@@ -15,11 +15,6 @@
 				<!-- Custom styles for this template -->
 				<link href="css/main.css" rel="stylesheet">
 
-				<!-- the chloropleth script -->
-				<script src="http://d3js.org/d3.v3.min.js"></script>
-				<script src="http://d3js.org/queue.v1.min.js"></script>
-				<script src="http://d3js.org/topojson.v1.min.js"></script>
-
 				<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
 				<!--[if lt IE 9]><script src="http://getbootstrap.com/assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
 				<script src="http://getbootstrap.com/assets/js/ie-emulation-modes-warning.js"></script>
@@ -41,7 +36,7 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#">FCC Wireless Spectrum License View</a>
+							<a class="navbar-brand" href="index.html">FCC Wireless Spectrum License View</a>
 						</div>
 						<div id="navbar" class="navbar-collapse collapse">
 							<ul class="nav navbar-nav navbar-right">
@@ -51,57 +46,31 @@
 					</div>
 				</nav>
 
-				<div class="container-fluid">
-					<div class="row">
-						<div class="col-sm-3 col-md-3 sidebar">
-							<ul id="carriers_list" class="nav nav-sidebar">
-							</ul>
-						</div>
-					</div>
-				</div>
+			<div class="container">
 
+			    <div class="starter-template">
+			        <h1>About Spectrum Nerd</h1>
+			        <p class="lead">
+			        My name is Ilya Voytov and I created this tool after being frustrated digging through FCC wireless spectrum licenses. Use this tool to see how much population a carrier's spectrum portfolio covers. If there are overlapping licenses covering the same region, this tool will avoid double counting the population that lives in that region. For example, look up Ntelos and click on the 1,870 MHz band - there are 3 different spectrum licenses listed, all with different call signs but 2 of them actually cover the exact same population living in Richmond, VA (MTA023 market area). Where available, I also included price paid data from past spectrum auctions and calculated the price per population covered by 1 MHz (number of MHz times population covered by the license or $/MHz-POP).<br> This database is compiled from FCC's public spectrum API and combined with auction results from FCC's administered auctions. 
+			        </p>
+			     	<p class="lead">
+			     		Contact info: <br>
+			     		<a href="mailto:ilya@voytov.com">ilya@vectorcapital.com</a><br>
+			     		<a href="https://www.linkedin.com/in/ilyavoytov">LinkedIn</a>
+			     	</p>
+			     	<p class="lead">
+			     		Technical info: <br>
+			     		Spectrum licenses updated as of July 7, 2014 (last time FCC updated their centralized database)<br>
+			     		Population estimates are current as of 2013 per US census.<br>
+			     		Auction Data included: 4, 5, 66, 73, 92, 95, 96
+			     	</p>
+			    </div>
 
-        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-3 main">
-        	<h1 id="carrier_name" class="page-header"></h1>
-
-        	<ul id="map"></ul>
-
-        	<table id="summary" class="summary table table-striped clickable-row">
-        		<thead>
-					<th>Spectrum Band</th>
-					<th>MHz</th>
-					<th>Population Covered</th>
-					<th>Price Paid</th>
-					<th>$ / MHz-POP</th>
-				</thead>
-				<tbody>
-				</tbody>
-        	</table>
+    		</div><!-- /.container -->
 
 					
 				
-        	<div id="licenses_div">
-        		<h2 id="licenses_title" class="sub-header"></h2>
-				<div class="table-responsive">
-				<table id="licenses" class="licenses table table-striped">
-					<thead>
-						<th>Spectrum</th>
-						<th>Call Sign</th>
-						<th>Market Code</th>
-						<th>Market Description</th>
-						<th>Population</th>
-						<th>MHz</th>
-						<th>Price</th>
-						<th>$/MHz POP</th>
-						<th>Buyer</th>
-						<th>Auction</th>
-						<th>Radio Code</th>
-						<th>Radio Desc</th>
-						<th>Channel</th>
-						</thead>
-						<tbody></tbody>
-				</table>
-			</div>
+        
 				
 				
 				<!-- load scripts at the bottom of your page -->
@@ -113,7 +82,5 @@
 				<script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
 				<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 				<script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
-
-
 		</body>
 </html>

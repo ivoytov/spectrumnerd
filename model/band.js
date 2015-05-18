@@ -6,7 +6,8 @@ var bandSchema = mongoose.Schema({
     channelBlock: Array,
     price: Number,
     population: Number,
-    MHz: Number
+    MHz: Number,
+    counties: Array
 })
 
 var Band = module.exports = mongoose.model('Band', bandSchema)

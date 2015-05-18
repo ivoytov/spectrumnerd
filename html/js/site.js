@@ -81,7 +81,6 @@ function getCarrier(name) {
         // clear existing table
         $('#summary tbody').empty()
 
-
         //get data
         $.each(band, function (key, data) {
 
@@ -111,31 +110,88 @@ function getCarrier(name) {
             // add row to table
             summaryList.append(summaryElement)
         })
+        
+        // make map
+        //makeMap(MHzbyCounty)
+
      })
      
 }
 
+function makeMap(MHzbyCounty) {
+    var countyElement = $('<li>')
+    console.log( JSON.stringify(MHzbyCounty))
+    $("#map").append(countyElement)
+
+    // var width = 960,
+    // height = 600;
+
+    // var rateById = d3.map();
+
+    // var quantize = d3.scale.quantize()
+    //     .domain([0, 0.15])
+    //     .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
+
+    // var projection = d3.geo.albersUsa()
+    //     .scale(1280)
+    //     .translate([width / 2, height / 2]);
+
+    // var path = d3.geo.path()
+    //     .projection(projection);
+
+    // var svg = d3.select("#map").append("svg")
+    //     .attr("width", width)
+    //     .attr("height", height);
+
+    // queue()
+    //     .defer(d3.json, "us.json")
+    //     .defer(d3.tsv, "js/unemployment.tsv", function(d) { rateById.set(d.id, +d.rate); })
+    //     .await(ready);
+
+    // function ready(error, us) {
+    //   svg.append("g")
+    //       .attr("class", "counties")
+    //     .selectAll("path")
+    //       .data(topojson.feature(us, us.objects.counties).features)
+    //     .enter().append("path")
+    //       .attr("class", function(d) { return quantize(rateById.get(d.id)); })
+    //       .attr("d", path);
+
+    //   svg.append("path")
+    //       .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+    //       .attr("class", "states")
+    //       .attr("d", path);
+    // }
+
+    // d3.select(self.frameElement).style("height", height + "px");
+}
+
+
+
+
 
 function clickBand(channelBlock) {
-    var query_url = '?commonName=' + encodeURIComponent(car) + '&frequencyFrom='
-        + encodeURIComponent(channelBlock[0].lowerBand) + '&frequencyTo=' 
-        + encodeURIComponent(channelBlock[channelBlock.length-1].upperBand)
+    var query_url = '?commonName=' + encodeURIComponent(car) 
+        // + '&frequencyFrom=' + encodeURIComponent(channelBlock[0].lowerBand) 
+        // + '&frequencyTo=' + encodeURIComponent(channelBlock[channelBlock.length-1].upperBand)
+        + '&channelBlock=' + encodeURIComponent(JSON.stringify(channelBlock))
 
     console.log(api_url + query_url)
-    $.getJSON(api_url +  query_url,function(licenses) {
-        // clear existing table
-        $("#licenses tbody").empty()
 
-        // set title of the section 
-        $('#licenses_title').text('Licenses in Spectrum Range '
-            + channelBlock[0].lowerBand + '-' 
-            + channelBlock[channelBlock.length-1].upperBand + ' MHz')
+    // clear existing table
+    $("#licenses tbody").empty()
 
-        // jump to relevant section
-        $("body, html").animate({ 
-            scrollTop: $('#licenses_title').offset().top 
-        }, 600);
-        
+    // set title of the section 
+    $('#licenses_title').text('Licenses in Spectrum Band ' + iterBlocks(channelBlock) + ' MHz')
+        // + channelBlock[0].lowerBand + '-' 
+        // + channelBlock[1].upperBand + ' MHz')
+
+    // jump to relevant section
+    $("body, html").animate({ 
+        scrollTop: $('#licenses_title').offset().top 
+    }, 600);
+
+    $.getJSON(api_url + query_url, function(licenses) {
         //Get data
         $.each(licenses, function (key, data) {
             

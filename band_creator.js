@@ -17,8 +17,11 @@ function summaryQuery(name, callback) {
 	{$unwind: '$counties'},
 	{$group: {_id: { carrier: '$commonName', cb: '$channelBlock', bid: '$bid.amount.net'
 		, MHz: '$MHz', allcounties: '$counties'}}},
-	{$group: {_id: { carrier: '$_id.carrier', cb: '$_id.cb', price: '$_id.bid', MHz: '$_id.MHz'}, pops: {$sum: '$_id.allcounties.population'}}},
-	{$group: {_id: '$_id.cb', carrier: {$first: '$_id.carrier'}, price: {$sum: '$_id.price'}, pops: {$sum: '$pops'}, MHz: {$avg: '$_id.MHz'}}},
+	{$group: {_id: { carrier: '$_id.carrier', cb: '$_id.cb', price: '$_id.bid'
+		, MHz: '$_id.MHz'}, pops: {$sum: '$_id.allcounties.population'}
+		, counties: {$addToSet: '$_id.allcounties.id'}}},
+	{$group: {_id: '$_id.cb', carrier: {$first: '$_id.carrier'}, price: {$sum: '$_id.price'}
+		, pops: {$sum: '$pops'}, MHz: {$avg: '$_id.MHz'}, counties: {$first: '$counties'}}},
 	{$sort: { '_id.lowerBand':1, pops: -1}}
 	], function (err, result) {
 		callback(err, result)
@@ -43,7 +46,8 @@ License.distinct("commonName", function(err, carriers) {
 					channelBlock: item._id,
 					price: item.price,
 					population: item.pops,
-					MHz: item.MHz
+					MHz: item.MHz,
+					counties: item.counties
 				})
 
 	            console.log('Saved band for ' + band.carrier + ' at ' + JSON.stringify(band.channelBlock))

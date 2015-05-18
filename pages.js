@@ -52,6 +52,17 @@ function licenseQuery(api, callback) {
 	if(api.frequencyTo)
 		query.where('channelBlock.upperBand').lt(parseInt(api.frequencyTo, 10))
 
+	if(api.channelBlock) {
+		var json = JSON.parse(decodeURIComponent(api.channelBlock))
+		// FIXME current iteration identifies all licenses with matching lower downlink. 
+		// no comparison is done for other items in channelBlock (just the first one)
+		console.log(JSON.stringify(json))
+
+
+		query.where('channelBlock.lowerBand').equals(json[0].lowerBand)
+		query.where('channelBlock.upperBand').equals(json[0].upperBand)
+	}
+			
 	// add "showBids=1" to only see lots with auction data
 	if(api.showBids)
 		query.where('bid').exists()
@@ -60,15 +71,12 @@ function licenseQuery(api, callback) {
 	if(api.auction)
 		query.where('bid.auction.id').equals(parseInt(api.auction))
 
-	// remove county list since it gets huge
-	query.select('-counties')
+	// remove most of the county list since it gets huge
+	query.select('-counties.population -counties.psr -counties.vpc -counties.eag -counties.rea -counties.mea -counties.bea -counties.rpc -counties.mta -counties.bta -counties.cma -counties._id -counties.__v')
 
 	// get data
 	query.exec(function (err, lic) {
-
-		console.log(api.commonName + ' and freq ' + api.frequencyFrom
-			+ '-' + api.frequencyTo + ' and auction ' + api.auction)
-		
+		console.log(api.commonName)
 		callback(err, lic)
 		
 	})
