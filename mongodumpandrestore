@@ -1,0 +1,2 @@
+mongodump -o ../dump
+mongorestore -h ds031551.mongolab.com:31551 -d heroku_app36469845 -u heroku_app36469845 -p lb05jpst7nohis664veej0gbiv ../dump/my_database/
