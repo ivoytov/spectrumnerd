@@ -73,6 +73,10 @@ function getCarrier(name) {
 
     // get summary of licenses and pops covered for the selected carrier
     var query = "/getBands?" + (nameURI ? "commonName=" + nameURI + "&" : "")
+
+    // clear map and chart
+    $("#map").empty()
+    $("#chart").empty()
  
 
      console.log(api_url + query)
@@ -81,7 +85,10 @@ function getCarrier(name) {
         // clear existing table
         $('#summary tbody').empty()
 
-        //get data
+        // setup county list for map
+        var MHzbyCounty = []
+
+        //create table for each band in data
         $.each(band, function (key, data) {
 
             var summaryElement = $('<tr>')
@@ -109,61 +116,149 @@ function getCarrier(name) {
 
             // add row to table
             summaryList.append(summaryElement)
+
+            // add counties in the band to county map
+            data.counties.forEach(function(id) {
+                MHzbyCounty[id] =+ data.MHz
+
+            })
         })
         
         // make map
-        //makeMap(MHzbyCounty)
+        makeMap(MHzbyCounty)
+
+        // make chart
+        makeChart(band)
 
      })
      
 }
 
 function makeMap(MHzbyCounty) {
-    var countyElement = $('<li>')
-    console.log( JSON.stringify(MHzbyCounty))
-    $("#map").append(countyElement)
 
-    // var width = 960,
-    // height = 600;
 
-    // var rateById = d3.map();
+    var width = 960*0.50,
+    height = 600*0.50;
 
-    // var quantize = d3.scale.quantize()
-    //     .domain([0, 0.15])
-    //     .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
+    var rateById = d3.map(MHzbyCounty);
 
-    // var projection = d3.geo.albersUsa()
-    //     .scale(1280)
-    //     .translate([width / 2, height / 2]);
+    var quantize = d3.scale.quantize()
+        .domain([0, 50])
+        .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
 
-    // var path = d3.geo.path()
-    //     .projection(projection);
+    var projection = d3.geo.albersUsa()
+        .scale(1280*0.5)
+        .translate([width / 2, height / 2]);
 
-    // var svg = d3.select("#map").append("svg")
-    //     .attr("width", width)
-    //     .attr("height", height);
+    var path = d3.geo.path()
+        .projection(projection);
 
-    // queue()
-    //     .defer(d3.json, "us.json")
-    //     .defer(d3.tsv, "js/unemployment.tsv", function(d) { rateById.set(d.id, +d.rate); })
-    //     .await(ready);
+    var svg = d3.select("#map").append("svg")
+        .attr("width", width)
+        .attr("height", height);
 
-    // function ready(error, us) {
-    //   svg.append("g")
-    //       .attr("class", "counties")
-    //     .selectAll("path")
-    //       .data(topojson.feature(us, us.objects.counties).features)
-    //     .enter().append("path")
-    //       .attr("class", function(d) { return quantize(rateById.get(d.id)); })
-    //       .attr("d", path);
+    queue()
+        .defer(d3.json, "us.json")
+        .await(ready);
 
-    //   svg.append("path")
-    //       .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
-    //       .attr("class", "states")
-    //       .attr("d", path);
+    function ready(error, us) {
+    // d3.json("us.json", function (error, us) {
+        if(error) console.error(error)
+
+        svg.append("g")
+          .attr("class", "counties")
+        .selectAll("path")
+          .data(topojson.feature(us, us.objects.counties).features)
+        .enter().append("path")
+          .attr("class", function(d) { 
+                if(rateById.get(d.id) == null) return quantize(0)
+                return quantize(rateById.get(d.id)); 
+            })
+          .attr("d", path);
+
+        svg.append("path")
+          .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+          .attr("class", "states")
+          .attr("d", path);
+    // })
+    }
+
+    d3.select("#map").style("height", height + "px");
+}
+
+function makeChart(bands) {
+    var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 960*0.8 - margin.left - margin.right,
+    height = 500*0.8 - margin.top - margin.bottom;
+
+    var x = d3.scale.ordinal()
+        .rangeRoundBands([0, width], .1);
+
+    var y = d3.scale.linear()
+        .range([height, 0]);
+
+    var xAxis = d3.svg.axis()
+        .scale(x)
+        .orient("bottom");
+
+    var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient("left")
+        .ticks(10, "MM");
+
+    var svg = d3.select("#chart").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    // d3.tsv("data.tsv", type, function(error, data) {
+    //   x.domain(data.map(function(d) { return d.letter; }));
+    //   y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
+
+    // create the frequency axis by looping through channelBlocks
+    var frequencies = []
+    bands.forEach(function(b) {
+        b.channelBlock.forEach(function(cb) {
+            frequencies.push({start: cb.lowerBand, end: cb.upperBand
+                , population: b.population / 1000000})
+        })
+    })
+    x.domain(frequencies.map(function(d) { return d.start }))
+    y.domain([0, 330])
+    
+
+
+      svg.append("g")
+          .attr("class", "x axis")
+          .attr("transform", "translate(0," + height + ")")
+          .call(xAxis);
+
+      svg.append("g")
+          .attr("class", "y axis")
+          .call(yAxis)
+        .append("text")
+          .attr("transform", "rotate(-90)")
+          .attr("y", 6)
+          .attr("dy", ".71em")
+          .style("text-anchor", "end")
+          .text("Population");
+
+      svg.selectAll(".bar")
+          .data(frequencies)
+        .enter().append("rect")
+          .attr("class", "bar")
+          .attr("x", function(d) { return x(d.start); })
+          .attr("width", x.rangeBand())
+          .attr("y", function(d) { return y(d.population); })
+          .attr("height", function(d) { return height - y(d.population); });
+
+    // });
+
+    // function type(d) {
+    //   d.frequency = +d.frequency;
+    //   return d;
     // }
-
-    // d3.select(self.frameElement).style("height", height + "px");
 }
 
 
