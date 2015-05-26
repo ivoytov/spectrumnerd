@@ -141,9 +141,10 @@ function makeMap(MHzbyCounty) {
     height = 600*0.50;
 
     var rateById = d3.map(MHzbyCounty);
+    var FIPS;
 
     var quantize = d3.scale.quantize()
-        .domain([0, 50])
+        .domain([0, 70])
         .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
 
     var projection = d3.geo.albersUsa()
@@ -159,32 +160,64 @@ function makeMap(MHzbyCounty) {
 
     queue()
         .defer(d3.json, "us.json")
+        .defer(d3.json, "FIPS.json")
         .await(ready);
 
-    function ready(error, us) {
-    // d3.json("us.json", function (error, us) {
+    function mouseOver(d) {
+        d3.select("#tooltip").transition().duration(200).style("opacity", .9);
+
+        d3.select("#tooltip").html(toolTip(d.id, MHzbyCounty[d.id] || 'None')) 
+        .style("left", (d3.event.pageX) + "px") 
+        .style("top", (d3.event.pageY - 28) + "px");
+    }
+
+    function mouseOut() {
+        d3.select("#tooltip").transition().duration(500).style("opacity", 0);
+    }
+
+    function ready(error, us, f) {
         if(error) console.error(error)
 
+        FIPS = f
+
         svg.append("g")
-          .attr("class", "counties")
-        .selectAll("path")
-          .data(topojson.feature(us, us.objects.counties).features)
-        .enter().append("path")
-          .attr("class", function(d) { 
+           .attr("class", "counties")
+          .selectAll("path")
+           .data(topojson.feature(us, us.objects.counties).features)
+          .enter().append("path")
+           .attr("class", function(d) { 
                 if(rateById.get(d.id) == null) return quantize(0)
                 return quantize(rateById.get(d.id)); 
             })
-          .attr("d", path);
+          .attr("d", path)
+
+          .on("mouseover", mouseOver)
+          .on("mouseout", mouseOut)
 
         svg.append("path")
           .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
           .attr("class", "states")
           .attr("d", path);
-    // })
+
     }
 
     d3.select("#map").style("height", height + "px");
+
+
+
+
+    d3.select("#map").selectAll("path")
+        
+
+
 }
+
+
+function toolTip(n, d){ /* function to create html content string in tooltip div. */
+        return "<h4>"+n+"</h4><table>"+
+            "<tr><td>MHz</td><td>"+(d)+"</td></tr>"+
+            "</table>";
+    }
 
 function makeChart(bands) {
     var margin = {top: 20, right: 20, bottom: 30, left: 40},
