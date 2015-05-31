@@ -35,6 +35,9 @@ $(document).ready(function() {
         $("#carrier_name").text(car)
 
         $("#licenses_div").hide()
+
+        mixpanel.track("Spectrum page");
+
  
     })
 
@@ -42,6 +45,7 @@ $(document).ready(function() {
     // handle band row clicks
     $("#summary tbody").on("click", "tr", function(event) {
         clickBand($(this).data('channelBlock'))
+
     })
 
     // handle clicks on carrier names in left hand column
@@ -54,6 +58,9 @@ $(document).ready(function() {
 
         $("#carrier_name").text(car)
         getCarrier(car)
+
+        mixpanel.track("Changed carrier");
+
     })
 
 
@@ -469,6 +476,8 @@ function clickBand(channelBlock) {
             licenseList.append(licenseElement)
         })
     })
+    mixpanel.track("Clicked on band");
+
 }
 
 // iterates over the frequency channels (up to 4) and inserts columns
