@@ -19,9 +19,9 @@ fs.readFile('population.json', 'utf8', function doneReading (err, data) {
             name: { cname: src.Name, state: src.State },
             population: src.Population,
         }
-        output.push(cty)
+        output[src.FIPS] = cty
     })      
 
-    fs.writeFile('FIPS.json', JSON.stringify(output))
+    fs.writeFile('html/FIPS.json', JSON.stringify(output))
 })
 

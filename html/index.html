@@ -19,9 +19,17 @@
 				<script src="http://d3js.org/d3.v3.min.js"></script>
 				<script src="http://d3js.org/queue.v1.min.js"></script>
 				<script src="http://d3js.org/topojson.v1.min.js"></script>
+				<!-- <script src="http://d3js.org/colorbrewer.v1.min.js"></script> -->
 
-				<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-				<!--[if lt IE 9]><script src="http://getbootstrap.com/assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+				<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js'></script>
+				<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+
+
+				<script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
+				<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+				<script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+
 				<script src="http://getbootstrap.com/assets/js/ie-emulation-modes-warning.js"></script>
 
 				<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -70,9 +78,14 @@
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-3 main">
         	<h1 id="carrier_name" class="page-header"></h1>
 
-        	<div id="map"></div>
-        	<div id="tooltip"></div>
+        	<h2 class="sub-header">Population Covered by Spectrum Band</h2>
+        	<p>Click on the band to see full list of licenses below</p>
         	<div id="chart"></div>
+
+        	<h2 class="sub-header">Available Spectrum by County</h2>
+        	<div id="legend"></div>
+        	<div id="tooltip"></div>
+        	<div id="map"></div>
 
         	<table id="summary" class="summary table table-striped clickable-row">
         		<thead>
@@ -113,14 +126,7 @@
 				
 				
 				<!-- load scripts at the bottom of your page -->
-				<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js'></script>
-				<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-
 				<script src="js/site.js"></script>
-
-				<script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
-				<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-				<script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
 
 
 		</body>
