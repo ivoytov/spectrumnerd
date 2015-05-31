@@ -141,7 +141,7 @@ function makeMap(MHzbyCounty) {
     var FIPS;
 
     var quantize = d3.scale.quantize()
-        .domain([0, 150])
+        .domain([0, 170])
         .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
 
     var projection = d3.geo.albersUsa()
@@ -287,9 +287,9 @@ function makeChart(bands) {
         clickBand(pickBand(d).channelBlock)
     }
 
-    var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    var margin = {top: 20, right: 20, bottom: 40, left: 45},
     width = 768 - margin.left - margin.right,
-    height = 400 - margin.top - margin.bottom;
+    height = 300 - margin.top - margin.bottom;
 
     var x = d3.scale.linear()
         .range([0, width]);
@@ -299,7 +299,7 @@ function makeChart(bands) {
 
     var xAxis = d3.svg.axis()
         .scale(x)
-        .orient("bottom");
+        .orient("bottom")
 
     var yAxis = d3.svg.axis()
         .scale(y)
@@ -332,14 +332,20 @@ function makeChart(bands) {
       svg.append("g")
           .attr("class", "x axis")
           .attr("transform", "translate(0," + height + ")")
-          .call(xAxis);
+          .call(xAxis)
+        .append("text")
+          .attr("y", 30)
+          .attr("x", width / 2 - 10)
+          .attr("dx", ".71em")
+          .style("text-anchor","end")
+          .text("Frequency (MHz)")
 
       svg.append("g")
           .attr("class", "y axis")
           .call(yAxis)
         .append("text")
           .attr("transform", "rotate(-90)")
-          .attr("y", -36)
+          .attr("y", -40)
           .attr("x", -height / 2 + 50)
           .attr("dy", ".71em")
           .style("text-anchor", "end")
