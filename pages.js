@@ -35,14 +35,24 @@ function getAuctions(callback) {
 	})
 }
 
+function calcMHz(channelBlock) {
+	var val = 0;
+	for(var i=0;i<channelBlock.length;++i) {
+		val += channelBlock[i].upperBand - channelBlock[i].lowerBand
+	}
+	return val
+}
+
 // returns all licenses matching query submitted via the api. 
 function licenseQuery(api, callback) {
 	var query = License.find( {} )
-	.sort('-population')
 
 	// add "commonName=Verizon" to only see Verizon licenses
 	if(api.commonName)
 		query.where('commonName').equals(api.commonName)
+
+	// remove the county list since it gets huge
+	query.select('-counties -_id')
 
 	// add "frequencyFrom=345" to only see lots with at least one lowerBand above 345
 	if(api.frequencyFrom) 
@@ -58,7 +68,7 @@ function licenseQuery(api, callback) {
 		// no comparison is done for other items in channelBlock (just the first one)
 		console.log(JSON.stringify(json))
 
-
+		query.where('MHz').equals(calcMHz(json))
 		query.where('channelBlock.lowerBand').equals(json[0].lowerBand)
 		query.where('channelBlock.upperBand').equals(json[0].upperBand)
 	}
@@ -71,8 +81,8 @@ function licenseQuery(api, callback) {
 	if(api.auction)
 		query.where('bid.auction.id').equals(parseInt(api.auction))
 
-	// remove most of the county list since it gets huge
-	query.select('-counties.population -counties.psr -counties.vpc -counties.eag -counties.rea -counties.mea -counties.bea -counties.rpc -counties.mta -counties.bta -counties.cma -counties._id -counties.__v')
+	// sort by pops
+	query.sort('-population')
 
 	// get data
 	query.exec(function (err, lic) {
@@ -93,7 +103,7 @@ function countyFinder(marketCode, callback) {
 
 
 // Takes a carrier name and returns the frequency bands controlled by them
-function getBands(name, callback) {
+getBands = function(name, callback) {
 	Band.find({carrier: name}).sort('channelBlock.lowerBand').exec(function (err, bands) {
 		callback(err, bands)
 	})

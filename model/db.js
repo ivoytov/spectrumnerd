@@ -5,7 +5,7 @@ var uriUtil = require('mongodb-uri')
 // Build the connection string
 // var dbURI = 'mongodb://localhost/my_database';
 var mongodbUri = process.env.MONGOLAB_URI
-var dbURI = mongodbUri ? uriUtil.formatMongoose(mongodbUri) : 'mongodb://localhost/my_database';
+var dbURI = mongodbUri ? uriUtil.formatMongoose(mongodbUri) : 'mongodb://localhost/spectrumdb';
 
 // Create the database connection
 mongoose.connect(dbURI);

@@ -3,7 +3,7 @@ var mongoose = require( 'mongoose' );
 var countySchema = mongoose.Schema({
     id: Number,
     name: { cname: String, state: String},
-    population: Number,
+    population: {type: Number, default: 0},
     cma: Number,
     bta: Number,
     mta: Number,

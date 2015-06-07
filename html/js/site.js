@@ -126,7 +126,9 @@ function getCarrier(name) {
             // add counties in the band to county map
             data.counties.forEach(function(id) {
                 MHzbyCounty[id] = data.MHz + (MHzbyCounty[id] || 0)
-
+                if(id===38089) {
+                    console.log("in Stark, ND, with band: " + data.channelBlock[0].lowerBand + " adding MHz: " + data.MHz + "; current total: " + MHzbyCounty[id])
+                }
             })
         })
         
@@ -210,6 +212,8 @@ function makeMap(MHzbyCounty) {
           .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
           .attr("class", "states")
           .attr("d", path);
+
+        mixpanel.track("Loaded map");
 
     }
 
@@ -412,6 +416,11 @@ function clickBand(channelBlock) {
             var cbElement = $('<td>')
             var carrierElement = $("<td>")
             var callSignElement = $("<td>")
+            var callSignLink = $('<a>', {
+                text: data.callSign,
+                href: "http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=" + data.id,
+                title: "Link to FCC.gov"
+            })
             var marketCodeElement = $("<td>")
             var marketDescElement = $("<td>")
             var populationElement = $("<td>")
@@ -426,7 +435,7 @@ function clickBand(channelBlock) {
         
             cbElement.text(iterBlocks(data.channelBlock))
             carrierElement.text(data.commonName || data.licenseeName)
-            callSignElement.text(data.callSign)
+            callSignElement.append(callSignLink)
             marketCodeElement.text(data.marketCode || "none")
             marketDescElement.text(data.marketDesc)
             populationElement.text( numberWithCommas(data.population) )

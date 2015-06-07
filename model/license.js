@@ -7,7 +7,7 @@ var licenseSchema = Schema({
     callSign: String,
     marketCode: String,
     marketDesc: String,
-    population: Number,
+    population: {type: Number, index: true, default: 0},
     counties: Array,
     MHz: Number,
     channel: String,
