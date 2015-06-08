@@ -6,7 +6,7 @@ var mongoose = require('mongoose'),
 	ProgressBar = require('progress')
 
 var bar
-console.log("Step 3, (" + process.argv[2] + " out of 5): Matching licenses with population census")
+console.log("Step 3: Matching licenses with population census")
 
 // helper function, formats #,##0.0 numbers
 function numberWithCommas(x) {
@@ -47,11 +47,13 @@ License.find(function(err, licenses) {
 	if (err) return console.log(err)
 
 	// metering logic - otherwise we run out of memory
-	var quintile = process.argv[2],
-		start = Math.round((licenses.length / 5) * (quintile-1)),
-		end = Math.round((licenses.length / 5) * quintile)
+	// var quintile = process.argv[2],
+		// start = Math.round((licenses.length / 10) * (quintile-1)),
+		// end = Math.round((licenses.length / 10) * quintile)
 
-	console.log("Length: " + licenses.length + "; Processing quintile " + quintile + "; " + start + "-" + end)
+		 start = 0,
+		 end = licenses.length
+	// console.log("Length: " + licenses.length + "; Processing decile " + quintile + "; " + start + "-" + end)
 
 	var counter = end - start
 	bar = new ProgressBar(':bar', { total: counter })

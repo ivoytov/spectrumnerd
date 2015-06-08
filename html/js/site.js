@@ -150,7 +150,7 @@ function makeMap(MHzbyCounty) {
     var FIPS;
 
     var quantize = d3.scale.quantize()
-        .domain([0, 170])
+        .domain([0, 250])
         .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
 
     var projection = d3.geo.albersUsa()

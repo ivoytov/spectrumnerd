@@ -26,11 +26,24 @@ function summaryQuery(name, callback) {
 		, MHz: '$_id.MHz'}, pops: {$sum: '$_id.allcounties.population'}
 		, counties: {$addToSet: '$_id.allcounties.id'}}},
 	{$group: {_id: '$_id.cb', carrier: {$first: '$_id.carrier'}, price: {$sum: '$_id.price'}
-		, pops: {$sum: '$pops'}, MHz: {$avg: '$_id.MHz'}, counties: {$addToSet: '$counties'}}},
+		, pops: {$sum: '$pops'}, MHz: {$avg: '$_id.MHz'}, counties: {$first: '$counties'}}},
 	{$sort: { '_id.lowerBand':1, pops: -1}}
 	], function (err, result) {
 		callback(err, result)
 	})
+}
+
+function countyQuery(name, callback) {
+	License.aggregate([
+		{$match: {commonName: name}},
+		{$project: { _id:0, 'channelBlock.lowerBand':1, 'channelBlock.upperBand':1
+			, 'counties.id':1 }},
+		{$unwind: '$counties'},
+		{$group: { _id: '$channelBlock', counties: {$addToSet: '$counties.id'}}},
+		{$sort: { '_id.lowerBand':1}}
+		], function (err, result) {
+			callback(err, result)
+		})
 }
 
 // get list of carriers
@@ -46,55 +59,75 @@ License.distinct("commonName", function(err, carriers) {
 		summaryQuery(name, function(err, result) {
 			if (err) return console.error(err)
 
-			var key, counter = 0
-			if(name=="PRWireless") console.log(JSON.stringify(result))
-	        for(key in result) {
-	            if(result.hasOwnProperty(key)) {
-	                counter++
-	            }
-	        }
+			countyQuery(name, function(err, counties) {
+				if (err) return console.error(err)
+				var key, counter = 0
+				if(name=="PRWireless") {
+					console.log(JSON.stringify(result))
+					console.log(JSON.stringify(counties))
+				}
 
-	        var bar = new ProgressBar(':bar', { total: counter })
-	        if(counter == 0) {
-	        	// console.log("carrier " + name + "has zero bands")
-	        	carrier_bar.tick()
-	        	carrier_counter--
-	        	if(carrier_bar.complete) {
-                    console.log("Done with all carrier")
-                    process.exit()
-	            }
-	        }
+		        for(key in result) {
+		            if(result.hasOwnProperty(key)) {
+		                counter++
+		            }
+		        }
 
-			
-			// iterate through each band, saving it to the database
-			result.forEach(function (item) {
-				// create a new band table row
-				var band = new Band({
-					carrier: item.carrier,
-					channelBlock: item._id,
-					price: item.price,
-					population: item.pops,
-					MHz: item.MHz,
-					counties: item.counties
+		        var bar = new ProgressBar(':bar', { total: counter })
+		        if(counter == 0) {
+		        	// console.log("carrier " + name + "has zero bands")
+		        	carrier_bar.tick()
+		        	carrier_counter--
+		        	if(carrier_bar.complete) {
+	                    console.log("Done with all carrier")
+	                    process.exit()
+		            }
+		        }
+
+				
+				// iterate through each band, saving it to the database
+				result.forEach(function (item) {
+					// grab the county list from separate query
+					var band_county_list
+					for(var i=0; i<counties.length; ++i) {
+
+						if(JSON.stringify(counties[i]._id) === JSON.stringify(item._id)) {
+							band_county_list = counties[i].counties
+							console.log("Found " + JSON.stringify(item._id))
+						}
+					}
+
+					// create a new band table row
+					var band = new Band({
+						carrier: item.carrier,
+						channelBlock: item._id,
+						price: item.price,
+						population: item.pops,
+						MHz: item.MHz,
+						counties: band_county_list
+					})
+
+		            // console.log('Saved band for ' + band.carrier + ' at ' + JSON.stringify(band.channelBlock))
+
+					// save to the database       
+		            band.save(function (err) {
+		                if (err) return console.error(err)
+		                bar.tick()
+		                if(bar.complete) {
+		                    console.log("Done with carrier " + band.carrier + "; remaining: " + --carrier_counter)
+		                    carrier_bar.tick()
+
+		                    if(carrier_bar.complete) {
+		                        console.log("Done with all carrier")
+		                        process.exit()
+		                    }
+		                } 
+
+		            })
+
 				})
 
-	            // console.log('Saved band for ' + band.carrier + ' at ' + JSON.stringify(band.channelBlock))
-
-				// save to the database       
-	            band.save(function (err) {
-	                if (err) return console.error(err)
-	                bar.tick()
-	                if(bar.complete) {
-	                    console.log("Done with carrier " + band.carrier + "; remaining: " + --carrier_counter)
-	                    carrier_bar.tick()
-
-	                    if(carrier_bar.complete) {
-	                        console.log("Done with all carrier")
-	                        process.exit()
-	                    }
-	                } 
-
-	            })
+			
 			})
 			
 		})

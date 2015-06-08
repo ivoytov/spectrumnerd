@@ -3229,7 +3229,7 @@
 {"FIPS":72151,"Name":"Yabucoa","State":"PR","Population":35879,"cma":726,"bta":488,"mta":25,"rpc":2,"bea":174,"mea":50,"rea":10,"eag":3,"vpc":3,"psr":47},
 {"FIPS":72153,"Name":"Yauco","State":"PR","Population":38782,"cma":724,"bta":489,"mta":25,"rpc":2,"bea":174,"mea":50,"rea":10,"eag":3,"vpc":3,"psr":47},
 {"FIPS":78010,"Name":"St. Croix","State":"VI","Population":104000,"cma":731,"bta":491,"mta":25,"rpc":2,"bea":174,"mea":50,"rea":10,"eag":3,"vpc":3,"psr":48},
-{"FIPS":78020,"Name":"St. John","State":"VI","Population":0,"cma":730,"bta":491,"mta":25,"rpc":2,"bea":174,"mea":50,"rea":10,"eag":3,"vpc":3,"psr":48},
-{"FIPS":78030,"Name":"St. Thomas","State":"VI","Population":0,"cma":730,"bta":491,"mta":25,"rpc":2,"bea":174,"mea":50,"rea":10,"eag":3,"vpc":3,"psr":48},
-{"FIPS":99999,"Name":"Gulf of Mexico","State":"GM","Population":0,"cma":306,"bta":0,"mta":0,"rpc":0,"bea":176,"mea":52,"rea":12,"eag":0,"vpc":4,"psr":0}
+{"FIPS":78020,"Name":"St. John","State":"VI","Population":1,"cma":730,"bta":491,"mta":25,"rpc":2,"bea":174,"mea":50,"rea":10,"eag":3,"vpc":3,"psr":48},
+{"FIPS":78030,"Name":"St. Thomas","State":"VI","Population":1,"cma":730,"bta":491,"mta":25,"rpc":2,"bea":174,"mea":50,"rea":10,"eag":3,"vpc":3,"psr":48},
+{"FIPS":99999,"Name":"Gulf of Mexico","State":"GM","Population":1,"cma":306,"bta":0,"mta":0,"rpc":0,"bea":176,"mea":52,"rea":12,"eag":0,"vpc":4,"psr":0}
 ]
