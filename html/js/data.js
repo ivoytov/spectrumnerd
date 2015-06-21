@@ -1,10 +1,7 @@
 var api_url = '/api'
 
-var auction = $('#auctions')
-var showBids = $('#bidsonly')
-var frequency = $('#slider-range')
-
 var car = "Verizon Wireless"
+var maxSpectrumValue = 90
 
 
 // helper function, formats #,##0.0 numbers
@@ -123,12 +120,14 @@ function getCarrier(name) {
             // add row to table
             summaryList.append(summaryElement)
 
+            maxSpectrumValue = 90
+
             // add counties in the band to county map
             data.counties.forEach(function(id) {
                 MHzbyCounty[id] = data.MHz + (MHzbyCounty[id] || 0)
-                if(id===38089) {
-                    console.log("in Stark, ND, with band: " + data.channelBlock[0].lowerBand + " adding MHz: " + data.MHz + "; current total: " + MHzbyCounty[id])
-                }
+
+                // update the max value (used for colors in the map)
+                if (MHzbyCounty[id] > maxSpectrumValue) maxSpectrumValue = MHzbyCounty[id]
             })
         })
         
@@ -289,7 +288,7 @@ function makeMap(MHzbyCounty) {
     var FIPS;
 
     var quantize = d3.scale.quantize()
-        .domain([0, 180])
+        .domain([0, maxSpectrumValue])
         .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
 
     var projection = d3.geo.albersUsa()
@@ -499,3 +498,4 @@ function iterBlocks(cb) {
     }
     return formatted
 }
+

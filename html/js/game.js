@@ -2,7 +2,10 @@ var api_url = '/api'
 
 var guesses = [], 
 	carriers,
-	answer
+	answer,
+    score = { correct: 0, total: 0 }
+
+var maxSpectrumValue = 90
 
 
 
@@ -26,11 +29,12 @@ $(document).ready(function() {
     	var resultElement = $('<td>')
 
     	carrierElement.text(answer)
-
+        score.total++
 
     	if(answer == $(this).text()) {
 			newAlert('success', answer +' is correct')
 			resultElement.text("Correct")
+            score.correct++
     	}
     	else {
     		resultElement.text("Wrong")
@@ -39,9 +43,12 @@ $(document).ready(function() {
 
     	resultRowElement.append(carrierElement)
     					.append(resultElement)
-    	$('#score').append(resultRowElement)
+    	$('#reportcard').append(resultRowElement)
 
     	playGame()
+
+        mixpanel.track("Played a round of the game");
+
     }
 
     function newAlert (type, message) {
@@ -59,6 +66,8 @@ $(document).ready(function() {
 
 
 function playGame() {
+
+    $('#score').text(score.correct + ' points / ' + score.total + ' attempts')
 
 	guesses[0] = carriers[Math.floor(Math.random() * carriers.length + 1)]
     guesses[1] = carriers[Math.floor(Math.random() * carriers.length + 1)]
@@ -97,15 +106,18 @@ function getCarrier(name) {
         // setup county list for map
         var MHzbyCounty = []
 
+        maxSpectrumValue = 90
+
         //create table for each band in data
         $.each(band, function (key, data) {
 
             // add counties in the band to county map
             data.counties.forEach(function(id) {
                 MHzbyCounty[id] = data.MHz + (MHzbyCounty[id] || 0)
-                if(id===38089) {
-                    console.log("in Stark, ND, with band: " + data.channelBlock[0].lowerBand + " adding MHz: " + data.MHz + "; current total: " + MHzbyCounty[id])
-                }
+                
+                // update the max value (used for colors in the map)
+                if (MHzbyCounty[id] > maxSpectrumValue) maxSpectrumValue = MHzbyCounty[id]
+
             })
         })
         
@@ -126,7 +138,7 @@ function makeMap(MHzbyCounty) {
     var FIPS;
 
     var quantize = d3.scale.quantize()
-        .domain([0, 180])
+        .domain([0, maxSpectrumValue])
         .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
 
     var projection = d3.geo.albersUsa()
@@ -189,7 +201,6 @@ function makeMap(MHzbyCounty) {
           .attr("class", "states")
           .attr("d", path);
 
-        mixpanel.track("Loaded map");
 
     }
 
