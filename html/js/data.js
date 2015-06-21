@@ -142,105 +142,7 @@ function getCarrier(name) {
      
 }
 
-// create map of the USA with counties colored by amount of spectrum
-function makeMap(MHzbyCounty) {
-    var width = 640,
-    height = 400;
 
-    var FIPS;
-
-    var quantize = d3.scale.quantize()
-        .domain([0, 250])
-        .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
-
-    var projection = d3.geo.albersUsa()
-        .scale(640)
-        .translate([width / 2, height / 2]);
-
-    var path = d3.geo.path()
-        .projection(projection);
-
-    var svg = d3.select("#map").append("svg")
-        .attr("width", width)
-        .attr("height", height)
-
-    queue()
-        .defer(d3.json, "us.json")
-        .defer(d3.json, "FIPS.json")
-        .await(ready);
-
-    function toolTip(n, d){ /* function to create html content string in tooltip div. */
-        return "<h4>"+n.name.cname + ', ' + n.name.state +"</h4><table>" 
-            + "<tr><td>MHz</td><td>"+(d)+"</td></tr>"
-            + "<tr><td>Population</td><td>" + numberWithCommas(n.population) + "</td></tr>"
-            + "</table>";
-    }
-
-    function mouseOver(d) {
-        d3.select("#tooltip").transition().duration(200).style("opacity", .9);
-
-        d3.select("#tooltip").html(toolTip(FIPS[d.id], MHzbyCounty[d.id] || 'None')) 
-        .style("left", (d3.event.pageX - $("#carriers_list").width()) + "px") 
-        .style("top", (d3.event.pageY - 28) + "px");
-    }
-
-    function mouseOut() {
-        d3.select("#tooltip").transition().duration(500).style("opacity", 0);
-    }
-
-
-
-    function ready(error, us, f) {
-        if(error) console.error(error)
-
-        FIPS = f
-
-        svg.append("g")
-           .attr("class", "counties")
-          .selectAll("path")
-           .data(topojson.feature(us, us.objects.counties).features)
-          .enter().append("path")
-           .attr("class", function(d) { 
-                return quantize(MHzbyCounty[d.id] || 0); 
-            })
-          .attr("d", path)
-
-          .on("mouseover", mouseOver)
-          .on("mouseout", mouseOut)
-
-        svg.append("path")
-          .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
-          .attr("class", "states")
-          .attr("d", path);
-
-        mixpanel.track("Loaded map");
-
-    }
-
-    d3.select("#map").style("height", height + "px");
-
-    d3.select("#map").selectAll("path")
-    
-    // make legend
-
-    // var legend = d3.select('#legend')
-    //                 .append('ul')
-    //                 .attr('class', 'list-inline');
-
-    // var keys = legend.selectAll('li.key')
-    //     .data(quantize.range());
-
-
-    // keys.enter().append('li')
-    //     .attr('class', 'key')
-    //     .style('border-top-color', String)
-    //     .text(function(d) {
-    //         var r = quantize.range().invertExtent(d);
-    //         return r[0];
-    //     });
-
-
-}
 
 
 
@@ -379,7 +281,105 @@ function makeChart(bands) {
 
 }
 
+// create map of the USA with counties colored by amount of spectrum
+function makeMap(MHzbyCounty) {
+    var width = 640,
+    height = 400;
 
+    var FIPS;
+
+    var quantize = d3.scale.quantize()
+        .domain([0, 180])
+        .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
+
+    var projection = d3.geo.albersUsa()
+        .scale(640)
+        .translate([width / 2, height / 2]);
+
+    var path = d3.geo.path()
+        .projection(projection);
+
+    var svg = d3.select("#map").append("svg")
+        .attr("width", width)
+        .attr("height", height)
+
+    queue()
+        .defer(d3.json, "us.json")
+        .defer(d3.json, "FIPS.json")
+        .await(ready);
+
+    function toolTip(n, d){ /* function to create html content string in tooltip div. */
+        return "<h4>"+n.name.cname + ', ' + n.name.state +"</h4><table>" 
+            + "<tr><td>MHz</td><td>"+(d)+"</td></tr>"
+            + "<tr><td>Population</td><td>" + numberWithCommas(n.population) + "</td></tr>"
+            + "</table>";
+    }
+
+    function mouseOver(d) {
+        d3.select("#tooltip").transition().duration(200).style("opacity", .9);
+
+        d3.select("#tooltip").html(toolTip(FIPS[d.id], MHzbyCounty[d.id] || 'None')) 
+        .style("left", (d3.event.pageX - $("#carriers_list").width()) + "px") 
+        .style("top", (d3.event.pageY - 28) + "px");
+    }
+
+    function mouseOut() {
+        d3.select("#tooltip").transition().duration(500).style("opacity", 0);
+    }
+
+
+
+    function ready(error, us, f) {
+        if(error) console.error(error)
+
+        FIPS = f
+
+        svg.append("g")
+           .attr("class", "counties")
+          .selectAll("path")
+           .data(topojson.feature(us, us.objects.counties).features)
+          .enter().append("path")
+           .attr("class", function(d) { 
+                return quantize(MHzbyCounty[d.id] || 0); 
+            })
+          .attr("d", path)
+
+          .on("mouseover", mouseOver)
+          .on("mouseout", mouseOut)
+
+        svg.append("path")
+          .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+          .attr("class", "states")
+          .attr("d", path);
+
+        mixpanel.track("Loaded map");
+
+    }
+
+    d3.select("#map").style("height", height + "px");
+
+    d3.select("#map").selectAll("path")
+    
+    // make legend
+
+    // var legend = d3.select('#legend')
+    //                 .append('ul')
+    //                 .attr('class', 'list-inline');
+
+    // var keys = legend.selectAll('li.key')
+    //     .data(quantize.range());
+
+
+    // keys.enter().append('li')
+    //     .attr('class', 'key')
+    //     .style('border-top-color', String)
+    //     .text(function(d) {
+    //         var r = quantize.range().invertExtent(d);
+    //         return r[0];
+    //     });
+
+
+}
 
 
 
