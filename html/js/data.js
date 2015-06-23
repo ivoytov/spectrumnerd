@@ -1,7 +1,7 @@
 var api_url = '/api'
 
-var car = "Verizon Wireless"
-var maxSpectrumValue = 90
+var maxSpectrumValue = 90,
+    car = "Verizon Wireless"
 
 
 // helper function, formats #,##0.0 numbers
@@ -26,7 +26,10 @@ $(document).ready(function() {
 
             $('#carriers_list').append(liElement.append(hrefElement))
 
-         })      
+         })
+
+        
+        car = window.location.hash ? decodeURI(window.location.hash.substr(1)) : "Verizon Wireless"
 
         getCarrier(car)
         $("#carrier_name").text(car)

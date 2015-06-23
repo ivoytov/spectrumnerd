@@ -7,6 +7,8 @@ var guesses = [],
 
 var maxSpectrumValue = 90
 
+var topCarriers = ["Sprint","AT&T","T-Mobile","Verizon Wireless","Clearwire","DISH"]
+
 
 
 $(document).ready(function() {
@@ -14,6 +16,9 @@ $(document).ready(function() {
     // create the drop down list of carriers
     $.getJSON(api_url + "/getCarriers", function(cars) {
         carriers  = cars
+
+        // stack the odds so the top carriers get picked more often
+        for(var i=0;i<20;++i) carriers.push.apply(carriers, topCarriers)
 
        	playGame()
 
@@ -24,11 +29,19 @@ $(document).ready(function() {
 
     function processAnswer(e) {
 
-    	var resultRowElement = $('<tr>')
+        $(this).blur()
+
+    	
+        var resultRowElement = $('<tr>')
     	var carrierElement = $('<td>')
     	var resultElement = $('<td>')
+        var carrierLink = $('<a>', {
+                text: answer,
+                href:  'data.html#' + encodeURI(answer),
+                title: "Link to database"
+            })
 
-    	carrierElement.text(answer)
+    	// carrierElement.text(answer)
         score.total++
 
     	if(answer == $(this).text()) {
@@ -41,7 +54,7 @@ $(document).ready(function() {
     		newAlert('danger',"wrong, right answer: " + answer)
     	}
 
-    	resultRowElement.append(carrierElement)
+    	resultRowElement.append(carrierElement.append(carrierLink))
     					.append(resultElement)
     	$('#reportcard').append(resultRowElement)
 

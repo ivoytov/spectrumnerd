@@ -8,6 +8,10 @@
 				<title>Spectrum View</title>
 				<link rel="stylesheet" href="css/main.css" type="text/css"/>
 				<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
+				<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+
+
 		
 				<!-- Bootstrap core CSS -->
 				<link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -55,7 +59,7 @@
 			        <p class="lead">
 
 			        This tool is for every analyst who has tried to get a clear picture of how much spectrum each wireless carrier owns, and where. FCC tools are slow and don't include population statistics. Auction results are not integrated into anything. And because FCC changes its geographic definitions at every other auction, it's very hard to get a sense of what areas are actually covered by how much spectrum. I created this tool after being frustrated digging through FCC's hodge podge of websites, APIs, auction records and making a myriad of spreadsheets and Qlik dashboards to tie them together.</p>
-			        <p class="lead">This database is compiled from FCC's public spectrum API and combined with auction results from FCC's administered auctions. Spectrum is frequently traded amongst carriers and other players - this tool does not include private transaction data.</p>
+			        <p class="lead">This database is compiled from FCC's public spectrum API and combined with auction results from FCC's administered auctions. Spectrum is frequently traded amongst carriers and other players - this tool does not include private transaction data. Mobile Satellite Services (MSS) spectrum is not licensed by the FCC and is therefore not included in this tool. That mainly affects Inmarsat and LightSquared.</p>
 			        <p class="lead">
 			       	<img src="ilya.jpg" width="300" alt="ilya" align="left" />
 
@@ -67,21 +71,37 @@ My name is Ilya Voytov and I cover tech and telecom at Vector Capital. I would l
 			     		Contact info: <br>
 			     		<a href="https://www.linkedin.com/in/ilyavoytov">LinkedIn</a>
 			     	</p>
+			     	<div id="mc_embed_signup">
+<form action="//spectrumnerd.us11.list-manage.com/subscribe/post?u=5f89e97cce83083a689fad959&amp;id=632487fa8f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_5f89e97cce83083a689fad959_632487fa8f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
 			     	<p>
 			     		Technical info: <br>
-			     		Spectrum licenses updated as of July 7, 2014 (last time FCC updated their centralized database)<br>
-			     		Population estimates are current as of 2013 per US census.<br>
-			     		Auction Data included: #4, #5, #66, #73, #92, #95, #96
+			     		Spectrum licenses current as of July 7, 2014 (the last time FCC updated their centralized database).<br>
+			     		Population estimates are from the Census Bureau, as of 2013.<br>
+			     		FCC auctions included in the database: #4, #5, #66, #73, #92, #95, #96
 			     	</p>
 			     	<small>Copyright Ilya Voytov, 2015</small>
 			    </div>
 
     		</div><!-- /.container -->
-
-					
-				
-        
-				
 				
 				<!-- load scripts at the bottom of your page -->
 				<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js'></script>
@@ -104,8 +124,6 @@ My name is Ilya Voytov and I cover tech and telecom at Vector Capital. I would l
 				  ga('send', 'pageview');
 				  mixpanel.track("About page");
 				</script>
-
-				<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us11.list-manage.com","uuid":"5f89e97cce83083a689fad959","lid":"d4e1af8e36"}) })</script>
 
 		</body>
 </html>
