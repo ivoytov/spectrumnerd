@@ -26,6 +26,10 @@ $(document).ready(function() {
 
             $('#carriers_list').append(liElement.append(hrefElement))
 
+            var optionElement = $('<option>').attr('value',carriers[i]).text(carriers[i])
+            if(carriers[i] === car) optionElement.attr('selected','selected')
+            $('#carriers_select').append(optionElement)
+
          })
 
         
@@ -50,17 +54,14 @@ $(document).ready(function() {
 
     // handle clicks on carrier names in left hand column
     $("#carriers_list").on("click", "li", function(event) {
-        // hide the license table at the bottom - moving to new carrier
-        $("#licenses_div").hide()
-        $("#licenses tbody").empty()
+        $('#carriers_select').val($(this).text())
+        getCarrier($(this).text())
 
-        car = $(this).text()
 
-        $("#carrier_name").text(car)
-        getCarrier(car)
+    })
 
-        mixpanel.track("Changed carrier");
-
+    $('#carriers_select').change(function () {
+        getCarrier($('#carriers_select').val())
     })
 
 
@@ -74,6 +75,16 @@ var summaryList = $('#summary')
 
 
 function getCarrier(name) {
+
+    // hide the license table at the bottom - moving to new carrier
+    $("#licenses_div").hide()
+    $("#licenses tbody").empty()
+
+    car = name
+
+    $("#carrier_name").text(car)
+    mixpanel.track("Changed carrier");
+
     // create URI sanitized query variables
     var nameURI = encodeURIComponent(name)
 

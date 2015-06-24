@@ -5,7 +5,7 @@
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Spectrum Nerd</title>
+		<title>Spectrum Nerd Game</title>
 		<link rel="stylesheet" href="css/main.css" type="text/css"/>
 		<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
 
@@ -62,76 +62,49 @@
 					</div>
 				</nav>
 
-				<div class="container-fluid">
-					<div class="row">
-						<div class="col-sm-3 col-md-3 sidebar">
-							<ul id="carriers_list" class="nav nav-sidebar">
-							</ul>
-						</div>
-					</div>
-				</div>
 
+        <div class="col-md-7 main">
 
-        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-3 main">
-        	<select id="carriers_select"></select> 
-        	<h1 id="carrier_name" class="page-header"></h1>
+        	<p class="lead">Pick the carrier that matches the spectrum map below</p>
 
-        	<h2 class="sub-header">Population Covered by Spectrum Band</h2>
-        	<p>Click on a band to see the full list of FCC licenses. Full datasets can be accessed here: <a href="https://drive.google.com/open?id=1GmxeX8DzrUUFAQlIyE0SxEICJ07p00oci8jsEDdNpo4&amp;authuser=0" id="csv">list of spectrum licenses by county</a> or <a href="https://drive.google.com/open?id=1BPasnZmwKus8nroJBPo_zg6E3bmmazIxVsWpXgTLX0M&amp;authuser=0">list of spectrum licenses by carrier</a>.</p>
-        	<div id="chart"></div>
+        	<div class="btn-group" role="group" aria-label="carrier choice">
+  				<button type="button" id="car1" class="btn btn-default"></button>
+				<button type="button" id="car2" class="btn btn-default"></button>
+				<button type="button" id="car3" class="btn btn-default"></button>
 
-        	<h2 class="sub-header">Available Spectrum by County</h2>
+			</div>
+
+			<div id="alert-area"></div>
+
         	<div id="legend"></div>
         	<div id="tooltip"></div>
         	<div id="map"></div>
 
-        	<table id="summary" class="summary table table-striped clickable-row">
+	
+        	<small>Copyright Ilya Voytov, 2015</small>
+
+		</div>
+		<div class="col-md-5 main">
+			<h2 class="sub-header" id="score"></h2>
+
+			<table id="reportcard" class="summary table table-striped clickable-row">
         		<thead>
-					<th>Spectrum Band</th>
-					<th>MHz</th>
-					<th>Population Covered</th>
-					<th>Price Paid</th>
-					<th>$ / MHz-POP</th>
+					<th>Carrier</th>
+					<th>Answer</th>
 				</thead>
 				<tbody>
 				</tbody>
         	</table>
-
-					
-				
-        	<div id="licenses_div">
-        		<h2 id="licenses_title" class="sub-header"></h2>
-        		<p>Click on the Call Sign to go directly to FCC.gov's license page</p>
-				<div class="table-responsive">
-				<table id="licenses" class="licenses table table-striped">
-					<thead>
-						<th>Spectrum</th>
-						<th>Call Sign</th>
-						<th>Market Code</th>
-						<th>Market Description</th>
-						<th>Population</th>
-						<th>MHz</th>
-						<th>Price</th>
-						<th>$/MHz POP</th>
-						<th>Buyer</th>
-						<th>Auction</th>
-						<th>Radio Code</th>
-						<th>Radio Desc</th>
-						<th>Channel</th>
-						</thead>
-						<tbody></tbody>
-				</table>
-				</div>
-			</div>
-			<small>Copyright Ilya Voytov, 2015</small>
 		</div>
+
+
 				
 		<!-- load scripts at the bottom of your page -->
 		<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js'></script>
 		<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
 		<script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
-		<script src="js/data.js"></script>
+		<script src="js/game.js"></script>
 
 		<script>
 		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -143,6 +116,8 @@
 		  ga('send', 'pageview');
 
 		</script>
+
+
 
 	</body>
 </html>
