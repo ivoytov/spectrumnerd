@@ -68,7 +68,7 @@ function licenseQuery(api, callback) {
 		// no comparison is done for other items in channelBlock (just the first one)
 		console.log(JSON.stringify(json))
 
-		query.where('MHz').equals(calcMHz(json))
+		// query.where('MHz').equals(calcMHz(json))
 		query.where('channelBlock.lowerBand').equals(json[0].lowerBand)
 		query.where('channelBlock.upperBand').equals(json[0].upperBand)
 	}

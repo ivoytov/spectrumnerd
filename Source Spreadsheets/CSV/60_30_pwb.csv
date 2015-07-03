@@ -1,0 +1,10 @@
+Auction_id,Auction_Desc,round_num,bidder_id,bidder_name,bip_id,bid_rnd_num,net_bid_amt,bid_amt
+60,Lower 700 MHz Band,30,7016215,"Aloha Partners, L.P.",WZ-CMA169-C,19,130000,200000
+60,Lower 700 MHz Band,30,7016215,"Aloha Partners, L.P.",WZ-CMA202-C,21,113100,174000
+60,Lower 700 MHz Band,30,13560230,"Kinetik, Inc.",WZ-CMA727-C,27,42750,57000
+60,Lower 700 MHz Band,30,12929592,"FLASSH Communications, Inc",WZ-CMA729-C,25,4355,6700
+60,Lower 700 MHz Band,30,12929592,"FLASSH Communications, Inc",WZ-CMA723-C,28,14950,23000
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

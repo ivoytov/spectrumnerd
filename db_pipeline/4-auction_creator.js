@@ -9,9 +9,16 @@ Bid = mongoose.model('Bid')
 
 var fileList = [
     '../Source Spreadsheets/auction4.json',
-    '../Source Spreadsheets/auction5.json',
+    '../Source Spreadsheets/auction5.json', 
+    '../Source Spreadsheets/auction16.json', 
+    '../Source Spreadsheets/auction34.json',     
+    '../Source Spreadsheets/auction43.json',     
+    '../Source Spreadsheets/auction60.json',
+    '../Source Spreadsheets/auction65.json',
     '../Source Spreadsheets/auction66.json',
+    '../Source Spreadsheets/auction71.json',
     '../Source Spreadsheets/auction73.json',
+    '../Source Spreadsheets/auction78.json',
     '../Source Spreadsheets/auction92.json',
     '../Source Spreadsheets/auction95.json',
     '../Source Spreadsheets/auction96.json'
@@ -31,7 +38,7 @@ fileList.forEach( function(file) {
         if(err)
             console.error(err)
         
-        
+        debugger
         var preprocessDb = JSON.parse(data)
         
         var key, counter = 0;
@@ -55,13 +62,40 @@ fileList.forEach( function(file) {
                 net_pwb_amount
 
             if(src.Auction_id) {
-                auction_id = src.Auction_id,
-                auction_description = src.Auction_Desc,
-                item_name = src.bip_name,
-                item_description = src.bip_desc,
-                pwb_amount = src.price,
-                net_pwb_amount = src.price, // FIXME not actually net price
-                pw_bidder = src.prov_winner
+                debugger
+
+
+                auction_id = src.Auction_id
+                auction_description = src.Auction_Desc
+
+                switch(src.Auction_id) {
+                    case 60:
+                        item_name = src.bip_id
+                        pw_bidder = src.bidder_name
+                        pwb_amount = src.bid_amt
+                        net_pwb_amount = src.net_bid_amt
+                        break
+                    case 65:
+                    case 16:
+                    case 34:
+                    case 43:
+                    case 71:
+                        // Auctions that have a different nomenclature in source files
+                        pw_bidder = src.bidder_name
+                        pwb_amount = src.bid_amt
+                        net_pwb_amount = src.net_bid_amt
+                        item_name = src.bip_name
+                        item_description = src.bip_desc
+                        break
+                    default:
+                        item_name = src.bip_name
+                        pw_bidder = src.prov_winner
+                        pwb_amount = src.price
+                        net_pwb_amount = src.price // FIXME not actually net price
+                        item_description = src.bip_desc
+
+                }
+
             } else if(src.auction_id) {
                 auction_id = src.auction_id,
                 auction_description = src.auction_description,

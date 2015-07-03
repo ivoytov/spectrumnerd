@@ -1,0 +1,7 @@
+[
+{"Auction_id":60,"Auction_Desc":"Lower 700 MHz Band","round_num":30,"bidder_id":7016215,"bidder_name":"Aloha Partners, L.P.","bip_id":"WZ-CMA169-C","bid_rnd_num":19,"net_bid_amt":130000,"bid_amt":200000},
+{"Auction_id":60,"Auction_Desc":"Lower 700 MHz Band","round_num":30,"bidder_id":7016215,"bidder_name":"Aloha Partners, L.P.","bip_id":"WZ-CMA202-C","bid_rnd_num":21,"net_bid_amt":113100,"bid_amt":174000},
+{"Auction_id":60,"Auction_Desc":"Lower 700 MHz Band","round_num":30,"bidder_id":13560230,"bidder_name":"Kinetik, Inc.","bip_id":"WZ-CMA727-C","bid_rnd_num":27,"net_bid_amt":42750,"bid_amt":57000},
+{"Auction_id":60,"Auction_Desc":"Lower 700 MHz Band","round_num":30,"bidder_id":12929592,"bidder_name":"FLASSH Communications, Inc","bip_id":"WZ-CMA729-C","bid_rnd_num":25,"net_bid_amt":4355,"bid_amt":6700},
+{"Auction_id":60,"Auction_Desc":"Lower 700 MHz Band","round_num":30,"bidder_id":12929592,"bidder_name":"FLASSH Communications, Inc","bip_id":"WZ-CMA723-C","bid_rnd_num":28,"net_bid_amt":14950,"bid_amt":23000}
+]

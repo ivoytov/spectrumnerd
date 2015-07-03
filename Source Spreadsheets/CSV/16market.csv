@@ -1,0 +1,526 @@
+Auction_id,Auction_Desc,bip_id,EA,Block,bip_desc,bidder_name,% Disc.,Round of bid,bid_amt,net_bid_amt
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E010-A,E010,A,New York-No. New Jer.-Long Isl,NextelLice,0%,8,179000,179000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E160-A,E160,A,Los Angeles-Riverside-Orange C,NextelLice,0%,10,119000,119000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E064-A,E064,A,"Chicago-Gary-Kenosha, IL-IN-WI",NextelLice,0%,17,70000,70000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E163-A,E163,A,San Francisco-Oakland-San Jose,NextelLice,0%,6,60000,60000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E013-A,E013,A,"Washington-Baltimore, DC-MD-VA",NextelLice,0%,23,41000,41000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E003-A,E003,A,Boston-Worcester-Lawrence-Lowe,NextelLice,0%,16,143000,143000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E012-A,E012,A,Philadelphia-Wilmington-Atl. C,NextelLice,0%,71,133000,133000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E057-A,E057,A,"Detroit-Ann Arbor-Flint, MI",NextelLice,0%,71,76000,76000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E127-A,E127,A,"Dallas-Fort Worth, TX-AR-OK",NextelLice,0%,76,261000,261000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E131-A,E131,A,"Houston-Galveston-Brazoria, TX",NextelLice,0%,1,22839,22839
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E055-A,E055,A,"Cleveland-Akron, OH-PA",NextelLice,0%,51,142000,142000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E031-A,E031,A,"Miami-Fort Lauderdale, FL",NextelLice,0%,67,91000,91000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E040-A,E040,A,"Atlanta, GA-AL-NC",NextelLice,0%,80,87000,87000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E107-A,E107,A,"Minneapolis-St. Paul, MN-WI-IA",NextelLice,0%,47,37000,37000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E174-A,E174,A,Puerto Rico & Virgin Isl.,HighTechCo,25%,44,1577000,1182750
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E170-A,E170,A,"Seattle-Tacoma-Bremerton, WA",NextelLice,0%,36,74000,74000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E096-A,E096,A,"St. Louis, MO-IL",NextelLice,0%,18,73000,73000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E141-A,E141,A,"Denver-Boulder-Greeley, CO-KS-",NextelLice,0%,129,26000,26000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E053-A,E053,A,"Pittsburgh, PA-WV",NextelLice,0%,59,402000,402000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E030-A,E030,A,"Orlando, FL",NextelLice,0%,39,25000,25000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E067-A,E067,A,"Indianapolis, IN-IL",NextelLice,0%,17,38000,38000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E161-A,E161,A,"San Diego, CA",NextelLice,0%,5,25000,25000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E158-A,E158,A,"Phoenix-Mesa, AZ-NM",NextelLice,0%,18,18000,18000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E167-A,E167,A,"Portland-Salem, OR-WA",NextelLice,0%,162,197000,197000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E099-A,E099,A,"Kansas City, MO-KS",NextelLice,0%,160,24000,24000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E063-A,E063,A,"Milwaukee-Racine, WI",NextelLice,0%,136,24000,24000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E051-A,E051,A,"Columbus, OH",NextelLice,0%,15,63000,63000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E034-A,E034,A,Tampa-St. Petersburg-Clearwate,NextelLice,0%,59,20000,20000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E049-A,E049,A,"Cincinnati-Hamilton, OH-KY-IN",NextelLice,0%,75,25000,25000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E071-A,E071,A,"Nashville, TN-KY",NextelLice,0%,62,17000,17000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E164-A,E164,A,"Sacramento-Yolo, CA",NextelLice,0%,141,98000,98000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E006-A,E006,A,"Syracuse, NY-PA",NextelLice,0%,53,28000,28000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E134-A,E134,A,"San Antonio, TX",NextelLice,0%,79,56000,56000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E047-A,E047,A,"Lexington, KY-TN-VA-WV",NextelLice,0%,77,19000,19000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E073-A,E073,A,"Memphis, TN-AR-MS-KY",NextelLice,0%,42,40000,40000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E062-A,E062,A,"Grand Rapids-Muskegon-Holland,",NextelLice,0%,111,13000,13000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E152-A,E152,A,"Salt Lake City-Ogden, UT-ID",NextelLice,0%,41,216000,216000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E083-A,E083,A,"New Orleans, LA-MS",NextelLice,0%,133,21000,21000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E023-A,E023,A,"Charlotte-Gastonia-Rock Hill,",NextelLice,0%,174,31000,31000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E100-A,E100,A,"Des Moines, IA-IL-MO",NextelLice,0%,46,59000,59000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E018-A,E018,A,Greensboro-Winston-Salem-High,NextelLice,0%,53,79000,79000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E020-A,E020,A,Norfolk-Virginia Beach-Newport,NextelLice,0%,36,48000,48000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E029-A,E029,A,"Jacksonville, FL-GA",NextelLice,0%,71,129000,129000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E125-A,E125,A,"Oklahoma City, OK",NextelLice,0%,36,32000,32000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E008-A,E008,A,"Buffalo-Niagara Falls, NY-PA",NextelLice,0%,59,17000,17000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E007-A,E007,A,"Rochester, NY-PA",NextelLice,0%,109,15000,15000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E078-A,E078,A,"Birmingham, AL",SouthernCo,0%,81,205000,205000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E090-A,E090,A,"Little Rock-North Little Rock,",NextelLice,0%,33,231000,231000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E019-A,E019,A,"Raleigh-Durham-Chapel Hill, NC",NextelLice,0%,53,94000,94000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E077-A,E077,A,"Jackson, MS-AL-LA",NextelLice,0%,80,158000,158000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E070-A,E070,A,"Louisville, KY-IN",NextelLice,0%,154,16000,16000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E056-A,E056,A,"Toledo, OH",NextelLice,0%,91,15000,15000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E124-A,E124,A,"Tulsa, OK-KS",NextelLice,0%,138,21000,21000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E015-A,E015,A,"Richmond-Petersburg, VA",NextelLice,0%,73,87000,87000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E048-A,E048,A,"Charleston, WV-KY-OH",NextelLice,0%,35,14000,14000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E162-A,E162,A,"Fresno, CA",NextelLice,0%,162,24000,24000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E005-A,E005,A,"Albany-Schenectady-Troy, NY",NextelLice,0%,154,610000,610000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E050-A,E050,A,"Dayton-Springfield, OH",NextelLice,0%,91,12000,12000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E172-A,E172,A,"Honolulu, HI",MountainSM,35%,145,474000,308100
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E122-A,E122,A,"Wichita, KS-OK",NextelLice,0%,158,22000,22000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E041-A,E041,A,Greenville-Spartanburg-Anderso,NextelLice,0%,96,23000,23000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E011-A,E011,A,"Harrisburg-Lebanon-Carlisle, P",NextelLice,0%,176,22000,22000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E118-A,E118,A,"Omaha, NE-IA-MO",NextelLice,0%,157,35000,35000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E153-A,E153,A,"Las Vegas, NV-AZ-UT",NextelLice,0%,156,348000,348000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E130-A,E130,A,"Austin-San Marcos, TX",NextelLice,0%,21,53000,53000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E074-A,E074,A,"Huntsville, AL-TN",SouthernCo,0%,81,97000,97000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E065-A,E065,A,"Elkhart-Goshen, IN-MI",NextelLice,0%,123,33000,33000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E044-A,E044,A,"Knoxville, TN",NextelLice,0%,107,70000,70000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E104-A,E104,A,"Madison, WI-IA-IL",NextelLice,0%,46,104000,104000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E069-A,E069,A,"Evansville-Henderson, IN-KY-IL",NextelLice,0%,114,21000,21000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E024-A,E024,A,"Columbia, SC",NextelLice,0%,121,26000,26000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E157-A,E157,A,"El Paso, TX-NM",NextelLice,0%,91,43000,43000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E009-A,E009,A,"State College, PA",NextelLice,0%,107,61000,61000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E159-A,E159,A,"Tucson, AZ",NextelLice,0%,116,26000,26000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E156-A,E156,A,"Albuquerque, NM-AZ",NextelLice,0%,154,196000,196000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E017-A,E017,A,"Roanoke, VA-NC-WV",NextelLice,0%,106,107000,107000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E021-A,E021,A,"Greenville, NC",NextelLice,0%,114,81000,81000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E025-A,E025,A,"Wilmington, NC-SC",NextelLice,0%,32,20000,20000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E094-A,E094,A,"Springfield, MO",NextelLice,0%,53,114000,114000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E133-A,E133,A,"McAllen-Edinburg-Mission, TX",NextelLice,0%,144,23000,23000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E002-A,E002,A,"Portland, ME",NextelLice,0%,70,29000,29000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E147-A,E147,A,"Spokane, WA-ID",NextelLice,0%,152,287000,287000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E166-A,E166,A,"Eugene-Springfield, OR-CA",NevadaWire,35%,142,53000,34450
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E038-A,E038,A,"Macon, GA",NextelLice,0%,119,121000,121000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E066-A,E066,A,"Fort Wayne, IN",NextelLice,0%,122,35000,35000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E084-A,E084,A,"Baton Rouge, LA-MS",NextelLice,0%,167,20000,20000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E043-A,E043,A,"Chattanooga, TN-GA",NextelLice,0%,93,49000,49000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E059-A,E059,A,"Green Bay, WI-MI",NextelLice,0%,15,24000,24000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E033-A,E033,A,"Sarasota-Bradenton, FL",NextelLice,0%,122,43000,43000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E068-A,E068,A,"Champaign-Urbana, IL",NextelLice,0%,60,61000,61000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E035-A,E035,A,"Tallahassee, FL-GA",Porta-Phon,0%,231,485000,485000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E080-A,E080,A,"Mobile, AL",SouthernCo,0%,81,173000,173000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E075-A,E075,A,"Tupelo, MS-AL-TN",SouthernCo,0%,81,72000,72000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E004-A,E004,A,"Burlington, VT-NY",NextelLice,0%,70,84000,84000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E088-A,E088,A,"Shreveport-Bossier City, LA-AR",NextelLice,0%,164,11000,11000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E085-A,E085,A,"Lafayette, LA",NextelLice,0%,164,12000,12000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E028-A,E028,A,"Savannah, GA-SC",NextelLice,0%,88,43000,43000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E171-A,E171,A,"Anchorage, AK",NextelLice,0%,51,160000,160000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E102-A,E102,A,"Davenport-Moline-Rock Island,",NextelLice,0%,46,17000,17000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E169-A,E169,A,"Richland-Kennewick-Pasco, WA",NevadaWire,35%,167,55000,35750
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E026-A,E026,A,"Charleston-North Charleston, S",NextelLice,0%,176,20000,20000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E027-A,E027,A,"Augusta-Aiken, GA-SC",NextelLice,0%,91,135000,135000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E001-A,E001,A,"Bangor, ME",NextelLice,0%,70,28000,28000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E045-A,E045,A,Johnson City-Kingsport-Bristol,NextelLice,0%,178,12000,12000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E101-A,E101,A,"Peoria-Pekin, IL",SupremeRad,35%,35,66000,42900
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E086-A,E086,A,"Lake Charles, LA",NextelLice,0%,91,17000,17000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E081-A,E081,A,"Pensacola, FL",SouthernCo,0%,81,248000,248000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E054-A,E054,A,"Erie, PA",NextelLice,0%,91,10000,10000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E151-A,E151,A,"Reno, NV-CA",NevadaWire,35%,144,263000,170950
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E132-A,E132,A,"Corpus Christi, TX",NextelLice,0%,91,37000,37000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E097-A,E097,A,"Springfield, IL-MO",NextelLice,0%,59,68000,68000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E032-A,E032,A,"Fort Myers-Cape Coral, FL",NextelLice,0%,66,9900,9900
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E116-A,E116,A,"Sioux Falls, SD-IA-MN-NE",NextelLice,0%,46,39000,39000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E022-A,E022,A,"Fayetteville, NC",NextelLice,0%,65,14000,14000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E108-A,E108,A,"Wausau, WI",NextelLice,0%,29,20000,20000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E039-A,E039,A,"Columbus, GA-AL",Porta-Phon,0%,229,334000,334000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E138-A,E138,A,"Amarillo, TX-NM",SilverPalm,35%,166,22000,14300
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E046-A,E046,A,"Hickory-Morganton, NC-TN",NextelLice,0%,142,7900,7900
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E123-A,E123,A,"Topeka, KS",NextelLice,0%,172,9100,9100
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E079-A,E079,A,"Montgomery, AL",SouthernCo,0%,234,317000,317000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E087-A,E087,A,"Beaumont-Port Arthur, TX",NextelLice,0%,91,35000,35000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E037-A,E037,A,"Albany, GA",Porta-Phon,0%,233,218000,218000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E150-A,E150,A,"Boise City, ID-OR",NevadaWire,35%,172,224000,145600
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E135-A,E135,A,"Odessa-Midland, TX",NextelLice,0%,88,17000,17000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E143-A,E143,A,"Casper, WY-ID-UT",NevadaWire,35%,140,15000,9750
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E060-A,E060,A,"Appleton-Oshkosh-Neenah, WI",NextelLice,0%,19,28000,28000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E042-A,E042,A,"Asheville, NC",NextelLice,0%,178,12000,12000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E144-A,E144,A,"Billings, MT-WY",NevadaWire,35%,177,43000,27950
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E137-A,E137,A,"Lubbock, TX",NextelLice,0%,57,30000,30000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E113-A,E113,A,"Fargo-Moorhead, ND-MN",JamestownC,25%,38,118000,88500
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E052-A,E052,A,"Wheeling, WV-OH",NextelLice,0%,89,26000,26000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E119-A,E119,A,"Lincoln, NE",NextelLice,0%,168,14000,14000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E103-A,E103,A,"Cedar Rapids, IA",NextelLice,0%,46,16000,16000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E109-A,E109,A,"Duluth-Superior, MN-WI",NextelLice,0%,46,16000,16000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E082-A,E082,A,"Biloxi-Gulfport-Pascagoula, MS",SouthernCo,0%,81,72000,72000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E146-A,E146,A,"Missoula, MT",NevadaWire,35%,147,34000,22100
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E089-A,E089,A,"Monroe, LA",NextelLice,0%,153,19000,19000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E098-A,E098,A,"Columbia, MO",NextelLice,0%,41,232000,232000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E165-A,E165,A,"Redding, CA-OR",NevadaWire,35%,132,18000,11700
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E036-A,E036,A,"Dothan, AL-FL-GA",NextelLice,0%,234,232000,232000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E016-A,E016,A,"Staunton, VA-WV",NextelLice,0%,98,13000,13000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E154-A,E154,A,"Flagstaff, AZ-UT",NevadaWire,35%,134,35000,22750
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E106-A,E106,A,"Rochester, MN-IA-WI",NextelLice,0%,46,13000,13000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E014-A,E014,A,"Salisbury, MD-DE-VA",NextelLice,0%,158,42000,42000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E095-A,E095,A,"Jonesboro, AR-MO",Cellutech ,35%,167,7700,5005
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E091-A,E091,A,"Fort Smith, AR-OK",Cellutech ,35%,177,11000,7150
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E092-A,E092,A,Fayetteville-Springdale-Rogers,Cellutech ,35%,172,9700,6305
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E120-A,E120,A,"Grand Island, NE",NextelLice,0%,15,11000,11000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E148-A,E148,A,"Idaho Falls, ID-WY",NevadaWire,35%,170,106000,68900
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E076-A,E076,A,"Greenville, MS",Cellutech ,35%,165,10000,6500
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E140-A,E140,A,"Pueblo, CO-NM",NextelLice,0%,27,27000,27000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E110-A,E110,A,"Grand Forks, ND-MN",Mid-States,25%,28,30000,22500
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E117-A,E117,A,"Sioux City, IA-NE-SD",NextelLice,0%,46,23000,23000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E061-A,E061,A,"Traverse City, MI",NextelLice,0%,164,11000,11000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E093-A,E093,A,"Joplin, MO-KS-OK",NextelLice,0%,37,50000,50000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E058-A,E058,A,"Northern Michigan, MI",NextelLice,0%,91,11000,11000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E105-A,E105,A,"La Crosse, WI-MN",NextelLice,0%,46,33000,33000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E128-A,E128,A,"Abilene, TX",SilverPalm,35%,88,21000,13650
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E072-A,E072,A,"Paducah, KY-IL",NextelLice,0%,54,14000,14000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E139-A,E139,A,"Santa Fe, NM",NextelLice,0%,178,30000,30000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E115-A,E115,A,"Rapid City, SD-MT-ND-NE",NextelLice,0%,46,33000,33000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E129-A,E129,A,"San Angelo, TX",SilverPalm,35%,92,54000,35100
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E136-A,E136,A,"Hobbs, NM-TX",Cellutech ,35%,179,7300,4745
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E173-A,E173,A,Guam & Northern Mariana Isl.,NextelLice,0%,39,350000,350000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E168-A,E168,A,"Pendleton, OR-WA",NevadaWire,35%,167,59000,38350
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E112-A,E112,A,"Bismarck, ND-MT-SD",Mid-States,25%,37,32000,24000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E145-A,E145,A,"Great Falls, MT",NevadaWire,35%,140,30000,19500
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E155-A,E155,A,"Farmington, NM-CO",NevadaWire,35%,135,35000,22750
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E126-A,E126,A,"Western Oklahoma, OK",SilverPalm,35%,88,17000,11050
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E149-A,E149,A,"Twin Falls, ID",NevadaWire,35%,168,172000,111800
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E111-A,E111,A,"Minot, ND",Mid-States,25%,28,13000,9750
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E142-A,E142,A,"Scottsbluff, NE-WY",Cellutech ,35%,170,5800,3770
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E114-A,E114,A,"Aberdeen, SD",JamestownC,25%,32,18000,13500
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E121-A,E121,A,"North Platte, NE-CO",Cellutech ,35%,168,6400,4160
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E175-A,E175,A,American Samoa,Cellutech ,35%,179,9000,5850
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E010-B,E010,B,New York-No. New Jer.-Long Isl,NextelLice,0%,35,405000,405000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E160-B,E160,B,Los Angeles-Riverside-Orange C,NextelLice,0%,10,358000,358000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E064-B,E064,B,"Chicago-Gary-Kenosha, IL-IN-WI",NextelLice,0%,47,363000,363000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E163-B,E163,B,San Francisco-Oakland-San Jose,NextelLice,0%,20,137000,137000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E013-B,E013,B,"Washington-Baltimore, DC-MD-VA",NextelLice,0%,23,123000,123000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E003-B,E003,B,Boston-Worcester-Lawrence-Lowe,NextelLice,0%,23,323000,323000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E012-B,E012,B,Philadelphia-Wilmington-Atl. C,NextelLice,0%,1,103738,103738
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E057-B,E057,B,"Detroit-Ann Arbor-Flint, MI",NextelLice,0%,1,99404,99404
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E127-B,E127,B,"Dallas-Fort Worth, TX-AR-OK",NextelLice,0%,20,162000,162000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E131-B,E131,B,"Houston-Galveston-Brazoria, TX",NextelLice,0%,1,68516,68516
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E055-B,E055,B,"Cleveland-Akron, OH-PA",NextelLice,0%,47,161000,161000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E031-B,E031,B,"Miami-Fort Lauderdale, FL",NextelLice,0%,20,245000,245000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E040-B,E040,B,"Atlanta, GA-AL-NC",NextelLice,0%,80,129000,129000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E107-B,E107,B,"Minneapolis-St. Paul, MN-WI-IA",NextelLice,0%,47,586000,586000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E174-B,E174,B,Puerto Rico & Virgin Isl.,NextelLice,0%,31,852000,852000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E170-B,E170,B,"Seattle-Tacoma-Bremerton, WA",NextelLice,0%,36,224000,224000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E096-B,E096,B,"St. Louis, MO-IL",NextelLice,0%,16,90000,90000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E141-B,E141,B,"Denver-Boulder-Greeley, CO-KS-",NextelLice,0%,1,45468,45468
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E053-B,E053,B,"Pittsburgh, PA-WV",NextelLice,0%,51,360000,360000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E030-B,E030,B,"Orlando, FL",NextelLice,0%,1,42548,42548
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E067-B,E067,B,"Indianapolis, IN-IL",NextelLice,0%,16,143000,143000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E161-B,E161,B,"San Diego, CA",NextelLice,0%,77,45000,45000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E158-B,E158,B,"Phoenix-Mesa, AZ-NM",NextelLice,0%,1,35476,35476
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E167-B,E167,B,"Portland-Salem, OR-WA",NextelLice,0%,58,684000,684000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E099-B,E099,B,"Kansas City, MO-KS",NextelLice,0%,16,50000,50000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E063-B,E063,B,"Milwaukee-Racine, WI",NextelLice,0%,1,31794,31794
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E051-B,E051,B,"Columbus, OH",NextelLice,0%,16,140000,140000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E034-B,E034,B,Tampa-St. Petersburg-Clearwate,NextelLice,0%,146,1217000,1217000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E049-B,E049,B,"Cincinnati-Hamilton, OH-KY-IN",NextelLice,0%,75,53000,53000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E071-B,E071,B,"Nashville, TN-KY",NextelLice,0%,1,30035,30035
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E164-B,E164,B,"Sacramento-Yolo, CA",NextelLice,0%,61,146000,146000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E006-B,E006,B,"Syracuse, NY-PA",NextelLice,0%,32,32000,32000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E134-B,E134,B,"San Antonio, TX",NextelLice,0%,53,98000,98000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E047-B,E047,B,"Lexington, KY-TN-VA-WV",NextelLice,0%,90,130000,130000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E073-B,E073,B,"Memphis, TN-AR-MS-KY",NextelLice,0%,6,44000,44000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E062-B,E062,B,"Grand Rapids-Muskegon-Holland,",NextelLice,0%,1,25005,25005
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E152-B,E152,B,"Salt Lake City-Ogden, UT-ID",NextelLice,0%,133,605000,605000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E083-B,E083,B,"New Orleans, LA-MS",NextelLice,0%,6,43000,43000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E023-B,E023,B,"Charlotte-Gastonia-Rock Hill,",NextelLice,0%,218,72000,72000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E100-B,E100,B,"Des Moines, IA-IL-MO",NextelLice,0%,46,692000,692000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E018-B,E018,B,Greensboro-Winston-Salem-High,NextelLice,0%,22,41000,41000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E020-B,E020,B,Norfolk-Virginia Beach-Newport,NextelLice,0%,36,131000,131000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E029-B,E029,B,"Jacksonville, FL-GA",NextelLice,0%,158,362000,362000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E125-B,E125,B,"Oklahoma City, OK",NextelLice,0%,16,84000,84000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E008-B,E008,B,"Buffalo-Niagara Falls, NY-PA",NextelLice,0%,96,35000,35000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E007-B,E007,B,"Rochester, NY-PA",NextelLice,0%,34,114000,114000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E078-B,E078,B,"Birmingham, AL",NextelLice,0%,81,388000,388000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E090-B,E090,B,"Little Rock-North Little Rock,",NextelLice,0%,22,152000,152000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E019-B,E019,B,"Raleigh-Durham-Chapel Hill, NC",NextelLice,0%,57,154000,154000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E077-B,E077,B,"Jackson, MS-AL-LA",NextelLice,0%,224,118000,118000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E070-B,E070,B,"Louisville, KY-IN",NextelLice,0%,49,26000,26000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E056-B,E056,B,"Toledo, OH",NextelLice,0%,51,22000,22000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E124-B,E124,B,"Tulsa, OK-KS",NextelLice,0%,1,18895,18895
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E015-B,E015,B,"Richmond-Petersburg, VA",NextelLice,0%,16,85000,85000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E048-B,E048,B,"Charleston, WV-KY-OH",NextelLice,0%,63,26000,26000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E162-B,E162,B,"Fresno, CA",NextelLice,0%,127,23000,23000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E005-B,E005,B,"Albany-Schenectady-Troy, NY",NextelLice,0%,135,860000,860000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E050-B,E050,B,"Dayton-Springfield, OH",NextelLice,0%,1,16890,16890
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E172-B,E172,B,"Honolulu, HI",HawaiianSM,0%,67,279000,279000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E122-B,E122,B,"Wichita, KS-OK",NextelLice,0%,101,22000,22000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E041-B,E041,B,Greenville-Spartanburg-Anderso,NextelLice,0%,188,236000,236000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E011-B,E011,B,"Harrisburg-Lebanon-Carlisle, P",NextelLice,0%,57,24000,24000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E118-B,E118,B,"Omaha, NE-IA-MO",NextelLice,0%,46,372000,372000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E153-B,E153,B,"Las Vegas, NV-AZ-UT",NextelLice,0%,138,1220000,1220000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E130-B,E130,B,"Austin-San Marcos, TX",NextelLice,0%,53,199000,199000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E074-B,E074,B,"Huntsville, AL-TN",NextelLice,0%,80,37000,37000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E065-B,E065,B,"Elkhart-Goshen, IN-MI",NextelLice,0%,43,86000,86000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E044-B,E044,B,"Knoxville, TN",NextelLice,0%,35,22000,22000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E104-B,E104,B,"Madison, WI-IA-IL",NextelLice,0%,46,602000,602000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E069-B,E069,B,"Evansville-Henderson, IN-KY-IL",NextelLice,0%,21,63000,63000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E024-B,E024,B,"Columbia, SC",NextelLice,0%,218,228000,228000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E157-B,E157,B,"El Paso, TX-NM",NextelLice,0%,20,14000,14000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E009-B,E009,B,"State College, PA",NextelLice,0%,156,71000,71000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E159-B,E159,B,"Tucson, AZ",NextelLice,0%,11,18000,18000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E156-B,E156,B,"Albuquerque, NM-AZ",NextelLice,0%,137,214000,214000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E017-B,E017,B,"Roanoke, VA-NC-WV",NextelLice,0%,113,20000,20000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E021-B,E021,B,"Greenville, NC",NextelLice,0%,188,179000,179000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E025-B,E025,B,"Wilmington, NC-SC",NextelLice,0%,37,20000,20000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E094-B,E094,B,"Springfield, MO",NextelLice,0%,60,395000,395000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E133-B,E133,B,"McAllen-Edinburg-Mission, TX",NextelLice,0%,131,21000,21000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E002-B,E002,B,"Portland, ME",NextelLice,0%,98,117000,117000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E147-B,E147,B,"Spokane, WA-ID",NextelLice,0%,152,590000,590000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E166-B,E166,B,"Eugene-Springfield, OR-CA",NextelLice,0%,156,318000,318000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E038-B,E038,B,"Macon, GA",NextelLice,0%,226,206000,206000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E066-B,E066,B,"Fort Wayne, IN",NextelLice,0%,43,64000,64000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E084-B,E084,B,"Baton Rouge, LA-MS",NextelLice,0%,214,71000,71000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E043-B,E043,B,"Chattanooga, TN-GA",NextelLice,0%,202,132000,132000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E059-B,E059,B,"Green Bay, WI-MI",NextelLice,0%,19,65000,65000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E033-B,E033,B,"Sarasota-Bradenton, FL",NextelLice,0%,188,122000,122000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E068-B,E068,B,"Champaign-Urbana, IL",NextelLice,0%,51,50000,50000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E035-B,E035,B,"Tallahassee, FL-GA",NextelLice,0%,226,838000,838000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E080-B,E080,B,"Mobile, AL",NextelLice,0%,88,175000,175000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E075-B,E075,B,"Tupelo, MS-AL-TN",NextelLice,0%,224,52000,52000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E004-B,E004,B,"Burlington, VT-NY",NextelLice,0%,59,147000,147000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E088-B,E088,B,"Shreveport-Bossier City, LA-AR",NextelLice,0%,103,11000,11000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E085-B,E085,B,"Lafayette, LA",NextelLice,0%,224,28000,28000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E028-B,E028,B,"Savannah, GA-SC",NextelLice,0%,196,157000,157000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E171-B,E171,B,"Anchorage, AK",NextelLice,0%,45,323000,323000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E102-B,E102,B,"Davenport-Moline-Rock Island,",NextelLice,0%,46,222000,222000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E169-B,E169,B,"Richland-Kennewick-Pasco, WA",NextelLice,0%,68,234000,234000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E026-B,E026,B,"Charleston-North Charleston, S",NextelLice,0%,194,71000,71000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E027-B,E027,B,"Augusta-Aiken, GA-SC",NextelLice,0%,202,338000,338000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E001-B,E001,B,"Bangor, ME",NextelLice,0%,47,35000,35000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E045-B,E045,B,Johnson City-Kingsport-Bristol,NextelLice,0%,81,17000,17000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E101-B,E101,B,"Peoria-Pekin, IL",NextelLice,0%,38,159000,159000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E086-B,E086,B,"Lake Charles, LA",NextelLice,0%,85,30000,30000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E081-B,E081,B,"Pensacola, FL",NextelLice,0%,162,632000,632000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E054-B,E054,B,"Erie, PA",NextelLice,0%,162,17000,17000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E151-B,E151,B,"Reno, NV-CA",NextelLice,0%,162,1270000,1270000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E132-B,E132,B,"Corpus Christi, TX",NextelLice,0%,73,19000,19000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E097-B,E097,B,"Springfield, IL-MO",NextelLice,0%,41,42000,42000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E032-B,E032,B,"Fort Myers-Cape Coral, FL",NextelLice,0%,194,85000,85000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E116-B,E116,B,"Sioux Falls, SD-IA-MN-NE",NextelLice,0%,46,463000,463000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E022-B,E022,B,"Fayetteville, NC",NextelLice,0%,43,52000,52000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E108-B,E108,B,"Wausau, WI",NextelLice,0%,31,49000,49000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E039-B,E039,B,"Columbus, GA-AL",NextelLice,0%,228,936000,936000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E138-B,E138,B,"Amarillo, TX-NM",NextelLice,0%,71,37000,37000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E046-B,E046,B,"Hickory-Morganton, NC-TN",NextelLice,0%,76,12000,12000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E123-B,E123,B,"Topeka, KS",NextelLice,0%,138,20000,20000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E079-B,E079,B,"Montgomery, AL",NextelLice,0%,196,476000,476000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E087-B,E087,B,"Beaumont-Port Arthur, TX",NextelLice,0%,53,16000,16000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E037-B,E037,B,"Albany, GA",NextelLice,0%,232,1086000,1086000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E150-B,E150,B,"Boise City, ID-OR",NevadaWire,35%,160,331000,215150
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E135-B,E135,B,"Odessa-Midland, TX",NextelLice,0%,87,24000,24000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E143-B,E143,B,"Casper, WY-ID-UT",NextelLice,0%,159,262000,262000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E060-B,E060,B,"Appleton-Oshkosh-Neenah, WI",NextelLice,0%,25,42000,42000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E042-B,E042,B,"Asheville, NC",NextelLice,0%,146,594000,594000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E144-B,E144,B,"Billings, MT-WY",NextelLice,0%,148,206000,206000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E137-B,E137,B,"Lubbock, TX",NextelLice,0%,87,81000,81000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E113-B,E113,B,"Fargo-Moorhead, ND-MN",NextelLice,0%,29,244000,244000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E052-B,E052,B,"Wheeling, WV-OH",NextelLice,0%,54,33000,33000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E119-B,E119,B,"Lincoln, NE",NextelLice,0%,46,114000,114000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E103-B,E103,B,"Cedar Rapids, IA",NextelLice,0%,46,144000,144000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E109-B,E109,B,"Duluth-Superior, MN-WI",NextelLice,0%,46,108000,108000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E082-B,E082,B,"Biloxi-Gulfport-Pascagoula, MS",NextelLice,0%,119,139000,139000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E146-B,E146,B,"Missoula, MT",NextelLice,0%,148,272000,272000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E089-B,E089,B,"Monroe, LA",NextelLice,0%,165,20000,20000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E098-B,E098,B,"Columbia, MO",NextelLice,0%,62,531000,531000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E165-B,E165,B,"Redding, CA-OR",NextelLice,0%,160,269000,269000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E036-B,E036,B,"Dothan, AL-FL-GA",NextelLice,0%,228,797000,797000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E016-B,E016,B,"Staunton, VA-WV",NextelLice,0%,94,24000,24000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E154-B,E154,B,"Flagstaff, AZ-UT",NextelLice,0%,134,278000,278000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E106-B,E106,B,"Rochester, MN-IA-WI",NextelLice,0%,46,86000,86000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E014-B,E014,B,"Salisbury, MD-DE-VA",NextelLice,0%,146,239000,239000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E095-B,E095,B,"Jonesboro, AR-MO",NextelLice,0%,142,17000,17000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E091-B,E091,B,"Fort Smith, AR-OK",NextelLice,0%,167,16000,16000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E092-B,E092,B,Fayetteville-Springdale-Rogers,NextelLice,0%,120,14000,14000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E120-B,E120,B,"Grand Island, NE",NextelLice,0%,112,20000,20000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E148-B,E148,B,"Idaho Falls, ID-WY",NextelLice,0%,58,340000,340000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E076-B,E076,B,"Greenville, MS",NextelLice,0%,115,74000,74000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E140-B,E140,B,"Pueblo, CO-NM",NextelLice,0%,83,38000,38000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E110-B,E110,B,"Grand Forks, ND-MN",NextelLice,0%,26,73000,73000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E117-B,E117,B,"Sioux City, IA-NE-SD",NextelLice,0%,46,166000,166000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E061-B,E061,B,"Traverse City, MI",NextelLice,0%,163,19000,19000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E093-B,E093,B,"Joplin, MO-KS-OK",NextelLice,0%,19,13000,13000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E058-B,E058,B,"Northern Michigan, MI",NextelLice,0%,163,14000,14000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E105-B,E105,B,"La Crosse, WI-MN",NextelLice,0%,46,105000,105000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E128-B,E128,B,"Abilene, TX",NextelLice,0%,124,23000,23000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E072-B,E072,B,"Paducah, KY-IL",NextelLice,0%,130,24000,24000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E139-B,E139,B,"Santa Fe, NM",NextelLice,0%,140,196000,196000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E115-B,E115,B,"Rapid City, SD-MT-ND-NE",NextelLice,0%,46,189000,189000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E129-B,E129,B,"San Angelo, TX",NextelLice,0%,91,94000,94000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E136-B,E136,B,"Hobbs, NM-TX",NextelLice,0%,168,8500,8500
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E173-B,E173,B,Guam & Northern Mariana Isl.,          ,0%,46,0,0
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E168-B,E168,B,"Pendleton, OR-WA",NevadaWire,35%,162,169000,109850
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E112-B,E112,B,"Bismarck, ND-MT-SD",NextelLice,0%,23,42000,42000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E145-B,E145,B,"Great Falls, MT",NextelLice,0%,140,164000,164000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E155-B,E155,B,"Farmington, NM-CO",NextelLice,0%,130,199000,199000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E126-B,E126,B,"Western Oklahoma, OK",NextelLice,0%,83,17000,17000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E149-B,E149,B,"Twin Falls, ID",NextelLice,0%,58,244000,244000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E111-B,E111,B,"Minot, ND",NextelLice,0%,28,18000,18000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E142-B,E142,B,"Scottsbluff, NE-WY",NextelLice,0%,169,7300,7300
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E114-B,E114,B,"Aberdeen, SD",NextelLice,0%,46,153000,153000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E121-B,E121,B,"North Platte, NE-CO",NextelLice,0%,168,11000,11000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E175-B,E175,B,American Samoa,NextelLice,0%,169,9400,9400
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E010-C,E010,C,New York-No. New Jer.-Long Isl,NextelLice,0%,61,3479000,3479000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E160-C,E160,C,Los Angeles-Riverside-Orange C,NextelLice,0%,47,1351000,1351000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E064-C,E064,C,"Chicago-Gary-Kenosha, IL-IN-WI",NextelLice,0%,82,683000,683000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E163-C,E163,C,San Francisco-Oakland-San Jose,NextelLice,0%,37,509000,509000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E013-C,E013,C,"Washington-Baltimore, DC-MD-VA",NextelLice,0%,57,376000,376000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E003-C,E003,C,Boston-Worcester-Lawrence-Lowe,NextelLice,0%,31,325000,325000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E012-C,E012,C,Philadelphia-Wilmington-Atl. C,NextelLice,0%,57,449000,449000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E057-C,E057,C,"Detroit-Ann Arbor-Flint, MI",NextelLice,0%,79,1110000,1110000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E127-C,E127,C,"Dallas-Fort Worth, TX-AR-OK",NextelLice,0%,36,365000,365000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E131-C,E131,C,"Houston-Galveston-Brazoria, TX",NextelLice,0%,79,761000,761000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E055-C,E055,C,"Cleveland-Akron, OH-PA",NextelLice,0%,33,155000,155000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E031-C,E031,C,"Miami-Fort Lauderdale, FL",NextelLice,0%,49,254000,254000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E040-C,E040,C,"Atlanta, GA-AL-NC",NextelLice,0%,80,261000,261000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E107-C,E107,C,"Minneapolis-St. Paul, MN-WI-IA",NextelLice,0%,47,1032000,1032000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E174-C,E174,C,Puerto Rico & Virgin Isl.,NorthSight,35%,199,2418000,1571700
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E170-C,E170,C,"Seattle-Tacoma-Bremerton, WA",NextelLice,0%,57,133000,133000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E096-C,E096,C,"St. Louis, MO-IL",NextelLice,0%,17,180000,180000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E141-C,E141,C,"Denver-Boulder-Greeley, CO-KS-",NextelLice,0%,61,495000,495000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E053-C,E053,C,"Pittsburgh, PA-WV",NextelLice,0%,45,333000,333000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E030-C,E030,C,"Orlando, FL",NextelLice,0%,79,389000,389000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E067-C,E067,C,"Indianapolis, IN-IL",NextelLice,0%,7,208000,208000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E161-C,E161,C,"San Diego, CA",NextelLice,0%,79,414000,414000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E158-C,E158,C,"Phoenix-Mesa, AZ-NM",NextelLice,0%,45,134000,134000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E167-C,E167,C,"Portland-Salem, OR-WA",NextelLice,0%,54,1355000,1355000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E099-C,E099,C,"Kansas City, MO-KS",NextelLice,0%,16,100000,100000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E063-C,E063,C,"Milwaukee-Racine, WI",NextelLice,0%,79,354000,354000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E051-C,E051,C,"Columbus, OH",NextelLice,0%,16,282000,282000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E034-C,E034,C,Tampa-St. Petersburg-Clearwate,NextelLice,0%,59,97000,97000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E049-C,E049,C,"Cincinnati-Hamilton, OH-KY-IN",NextelLice,0%,65,88000,88000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E071-C,E071,C,"Nashville, TN-KY",NextelLice,0%,65,88000,88000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E164-C,E164,C,"Sacramento-Yolo, CA",NextelLice,0%,54,420000,420000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E006-C,E006,C,"Syracuse, NY-PA",NextelLice,0%,1,58039,58039
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E134-C,E134,C,"San Antonio, TX",NextelLice,0%,1,52260,52260
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E047-C,E047,C,"Lexington, KY-TN-VA-WV",NextelLice,0%,1,51940,51940
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E073-C,E073,C,"Memphis, TN-AR-MS-KY",NextelLice,0%,6,89000,89000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E062-C,E062,C,"Grand Rapids-Muskegon-Holland,",NextelLice,0%,1,50009,50009
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E152-C,E152,C,"Salt Lake City-Ogden, UT-ID",NextelLice,0%,51,441000,441000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E083-C,E083,C,"New Orleans, LA-MS",NextelLice,0%,6,85000,85000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E023-C,E023,C,"Charlotte-Gastonia-Rock Hill,",NextelLice,0%,63,59000,59000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E100-C,E100,C,"Des Moines, IA-IL-MO",NextelLice,0%,46,734000,734000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E018-C,E018,C,Greensboro-Winston-Salem-High,NextelLice,0%,22,82000,82000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E020-C,E020,C,Norfolk-Virginia Beach-Newport,NextelLice,0%,16,212000,212000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E029-C,E029,C,"Jacksonville, FL-GA",NextelLice,0%,6,82000,82000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E125-C,E125,C,"Oklahoma City, OK",NextelLice,0%,1,46522,46522
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E008-C,E008,C,"Buffalo-Niagara Falls, NY-PA",NextelLice,0%,1,45893,45893
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E007-C,E007,C,"Rochester, NY-PA",NextelLice,0%,1,43736,43736
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E078-C,E078,C,"Birmingham, AL",NextelLice,0%,80,122000,122000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E090-C,E090,C,"Little Rock-North Little Rock,",NextelLice,0%,1,43413,43413
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E019-C,E019,C,"Raleigh-Durham-Chapel Hill, NC",NextelLice,0%,22,73000,73000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E077-C,E077,C,"Jackson, MS-AL-LA",NextelLice,0%,80,113000,113000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E070-C,E070,C,"Louisville, KY-IN",NextelLice,0%,1,38736,38736
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E056-C,E056,C,"Toledo, OH",NextelLice,0%,1,38362,38362
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E124-C,E124,C,"Tulsa, OK-KS",NextelLice,0%,1,37790,37790
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E015-C,E015,C,"Richmond-Petersburg, VA",NextelLice,0%,16,165000,165000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E048-C,E048,C,"Charleston, WV-KY-OH",NextelLice,0%,1,35882,35882
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E162-C,E162,C,"Fresno, CA",NextelLice,0%,1,35070,35070
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E005-C,E005,C,"Albany-Schenectady-Troy, NY",NextelLice,0%,114,818000,818000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E050-C,E050,C,"Dayton-Springfield, OH",NextelLice,0%,1,33779,33779
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E172-C,E172,C,"Honolulu, HI",NextelLice,0%,82,534000,534000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E122-C,E122,C,"Wichita, KS-OK",NextelLice,0%,1,32827,32827
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E041-C,E041,C,Greenville-Spartanburg-Anderso,NextelLice,0%,22,56000,56000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E011-C,E011,C,"Harrisburg-Lebanon-Carlisle, P",NextelLice,0%,34,34000,34000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E118-C,E118,C,"Omaha, NE-IA-MO",NextelLice,0%,46,379000,379000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E153-C,E153,C,"Las Vegas, NV-AZ-UT",NextelLice,0%,129,899000,899000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E130-C,E130,C,"Austin-San Marcos, TX",NextelLice,0%,27,714000,714000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E074-C,E074,C,"Huntsville, AL-TN",NextelLice,0%,80,76000,76000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E065-C,E065,C,"Elkhart-Goshen, IN-MI",NextelLice,0%,43,161000,161000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E044-C,E044,C,"Knoxville, TN",NextelLice,0%,216,36000,36000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E104-C,E104,C,"Madison, WI-IA-IL",NextelLice,0%,46,615000,615000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E069-C,E069,C,"Evansville-Henderson, IN-KY-IL",NextelLice,0%,20,103000,103000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E024-C,E024,C,"Columbia, SC",NextelLice,0%,43,157000,157000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E157-C,E157,C,"El Paso, TX-NM",NextelLice,0%,1,24226,24226
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E009-C,E009,C,"State College, PA",NextelLice,0%,49,39000,39000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E159-C,E159,C,"Tucson, AZ",NextelLice,0%,1,23826,23826
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E156-C,E156,C,"Albuquerque, NM-AZ",NextelLice,0%,99,443000,443000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E017-C,E017,C,"Roanoke, VA-NC-WV",NextelLice,0%,57,37000,37000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E021-C,E021,C,"Greenville, NC",NextelLice,0%,222,197000,197000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E025-C,E025,C,"Wilmington, NC-SC",NextelLice,0%,194,110000,110000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E094-C,E094,C,"Springfield, MO",NextelLice,0%,6,42000,42000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E133-C,E133,C,"McAllen-Edinburg-Mission, TX",NextelLice,0%,1,21057,21057
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E002-C,E002,C,"Portland, ME",NextelLice,0%,51,45000,45000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E147-C,E147,C,"Spokane, WA-ID",NextelLice,0%,109,760000,760000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E166-C,E166,C,"Eugene-Springfield, OR-CA",NextelLice,0%,131,393000,393000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E038-C,E038,C,"Macon, GA",NextelLice,0%,160,232000,232000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E066-C,E066,C,"Fort Wayne, IN",NextelLice,0%,43,166000,166000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E084-C,E084,C,"Baton Rouge, LA-MS",NextelLice,0%,6,35000,35000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E043-C,E043,C,"Chattanooga, TN-GA",NextelLice,0%,202,274000,274000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E059-C,E059,C,"Green Bay, WI-MI",NextelLice,0%,31,173000,173000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E033-C,E033,C,"Sarasota-Bradenton, FL",NextelLice,0%,146,82000,82000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E068-C,E068,C,"Champaign-Urbana, IL",NextelLice,0%,11,38000,38000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E035-C,E035,C,"Tallahassee, FL-GA",NextelLice,0%,230,1351000,1351000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E080-C,E080,C,"Mobile, AL",NextelLice,0%,95,212000,212000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E075-C,E075,C,"Tupelo, MS-AL-TN",NextelLice,0%,80,48000,48000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E004-C,E004,C,"Burlington, VT-NY",NextelLice,0%,49,278000,278000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E088-C,E088,C,"Shreveport-Bossier City, LA-AR",NextelLice,0%,214,92000,92000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E085-C,E085,C,"Lafayette, LA",NextelLice,0%,99,22000,22000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E028-C,E028,C,"Savannah, GA-SC",NextelLice,0%,107,210000,210000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E171-C,E171,C,"Anchorage, AK",NextelLice,0%,34,698000,698000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E102-C,E102,C,"Davenport-Moline-Rock Island,",NextelLice,0%,46,231000,231000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E169-C,E169,C,"Richland-Kennewick-Pasco, WA",NextelLice,0%,109,562000,562000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E026-C,E026,C,"Charleston-North Charleston, S",NextelLice,0%,160,38000,38000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E027-C,E027,C,"Augusta-Aiken, GA-SC",NextelLice,0%,107,302000,302000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E001-C,E001,C,"Bangor, ME",NextelLice,0%,33,31000,31000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E045-C,E045,C,Johnson City-Kingsport-Bristol,NextelLice,0%,91,173000,173000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E101-C,E101,C,"Peoria-Pekin, IL",NextelLice,0%,30,238000,238000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E086-C,E086,C,"Lake Charles, LA",NextelLice,0%,119,33000,33000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E081-C,E081,C,"Pensacola, FL",NextelLice,0%,150,491000,491000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E054-C,E054,C,"Erie, PA",NextelLice,0%,140,25000,25000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E151-C,E151,C,"Reno, NV-CA",NextelLice,0%,152,2735000,2735000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E132-C,E132,C,"Corpus Christi, TX",NextelLice,0%,71,34000,34000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E097-C,E097,C,"Springfield, IL-MO",NextelLice,0%,47,58000,58000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E032-C,E032,C,"Fort Myers-Cape Coral, FL",NextelLice,0%,222,228000,228000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E116-C,E116,C,"Sioux Falls, SD-IA-MN-NE",NextelLice,0%,46,367000,367000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E022-C,E022,C,"Fayetteville, NC",NextelLice,0%,43,95000,95000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E108-C,E108,C,"Wausau, WI",NextelLice,0%,15,32000,32000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E039-C,E039,C,"Columbus, GA-AL",NextelLice,0%,162,986000,986000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E138-C,E138,C,"Amarillo, TX-NM",NextelLice,0%,64,21000,21000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E046-C,E046,C,"Hickory-Morganton, NC-TN",NextelLice,0%,152,28000,28000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E123-C,E123,C,"Topeka, KS",NextelLice,0%,123,23000,23000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E079-C,E079,C,"Montgomery, AL",NextelLice,0%,156,770000,770000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E087-C,E087,C,"Beaumont-Port Arthur, TX",NextelLice,0%,136,17000,17000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E037-C,E037,C,"Albany, GA",NextelLice,0%,113,676000,676000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E150-C,E150,C,"Boise City, ID-OR",NextelLice,0%,109,638000,638000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E135-C,E135,C,"Odessa-Midland, TX",NextelLice,0%,85,38000,38000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E143-C,E143,C,"Casper, WY-ID-UT",NextelLice,0%,101,397000,397000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E060-C,E060,C,"Appleton-Oshkosh-Neenah, WI",NextelLice,0%,31,102000,102000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E042-C,E042,C,"Asheville, NC",NextelLice,0%,216,31000,31000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E144-C,E144,C,"Billings, MT-WY",NextelLice,0%,166,763000,763000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E137-C,E137,C,"Lubbock, TX",NextelLice,0%,83,77000,77000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E113-C,E113,C,"Fargo-Moorhead, ND-MN",NextelLice,0%,27,245000,245000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E052-C,E052,C,"Wheeling, WV-OH",NextelLice,0%,51,63000,63000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E119-C,E119,C,"Lincoln, NE",NextelLice,0%,46,156000,156000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E103-C,E103,C,"Cedar Rapids, IA",NextelLice,0%,46,167000,167000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E109-C,E109,C,"Duluth-Superior, MN-WI",NextelLice,0%,46,142000,142000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E082-C,E082,C,"Biloxi-Gulfport-Pascagoula, MS",NextelLice,0%,91,117000,117000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E146-C,E146,C,"Missoula, MT",NextelLice,0%,101,591000,591000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E089-C,E089,C,"Monroe, LA",NextelLice,0%,214,103000,103000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E098-C,E098,C,"Columbia, MO",NextelLice,0%,43,647000,647000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E165-C,E165,C,"Redding, CA-OR",NextelLice,0%,160,647000,647000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E036-C,E036,C,"Dothan, AL-FL-GA",NextelLice,0%,232,624000,624000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E016-C,E016,C,"Staunton, VA-WV",NextelLice,0%,73,24000,24000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E154-C,E154,C,"Flagstaff, AZ-UT",NextelLice,0%,95,312000,312000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E106-C,E106,C,"Rochester, MN-IA-WI",NextelLice,0%,46,103000,103000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E014-C,E014,C,"Salisbury, MD-DE-VA",NextelLice,0%,158,62000,62000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E095-C,E095,C,"Jonesboro, AR-MO",NextelLice,0%,142,15000,15000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E091-C,E091,C,"Fort Smith, AR-OK",NextelLice,0%,144,15000,15000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E092-C,E092,C,Fayetteville-Springdale-Rogers,NextelLice,0%,156,22000,22000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E120-C,E120,C,"Grand Island, NE",NextelLice,0%,58,10000,10000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E148-C,E148,C,"Idaho Falls, ID-WY",NextelLice,0%,101,611000,611000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E076-C,E076,C,"Greenville, MS",NextelLice,0%,119,24000,24000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E140-C,E140,C,"Pueblo, CO-NM",NextelLice,0%,27,60000,60000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E110-C,E110,C,"Grand Forks, ND-MN",NextelLice,0%,25,110000,110000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E117-C,E117,C,"Sioux City, IA-NE-SD",NextelLice,0%,46,198000,198000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E061-C,E061,C,"Traverse City, MI",NextelLice,0%,159,23000,23000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E093-C,E093,C,"Joplin, MO-KS-OK",NextelLice,0%,135,20000,20000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E058-C,E058,C,"Northern Michigan, MI",NextelLice,0%,154,23000,23000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E105-C,E105,C,"La Crosse, WI-MN",NextelLice,0%,46,117000,117000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E128-C,E128,C,"Abilene, TX",NextelLice,0%,119,24000,24000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E072-C,E072,C,"Paducah, KY-IL",NextelLice,0%,74,23000,23000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E139-C,E139,C,"Santa Fe, NM",NextelLice,0%,139,288000,288000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E115-C,E115,C,"Rapid City, SD-MT-ND-NE",NextelLice,0%,46,175000,175000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E129-C,E129,C,"San Angelo, TX",NextelLice,0%,93,67000,67000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E136-C,E136,C,"Hobbs, NM-TX",NextelLice,0%,172,12000,12000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E173-C,E173,C,Guam & Northern Mariana Isl.,ComPacfic ,35%,36,736000,478400
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E168-C,E168,C,"Pendleton, OR-WA",NextelLice,0%,109,291000,291000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E112-C,E112,C,"Bismarck, ND-MT-SD",NextelLice,0%,28,81000,81000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E145-C,E145,C,"Great Falls, MT",NextelLice,0%,130,353000,353000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E155-C,E155,C,"Farmington, NM-CO",NextelLice,0%,95,236000,236000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E126-C,E126,C,"Western Oklahoma, OK",NextelLice,0%,118,20000,20000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E149-C,E149,C,"Twin Falls, ID",NextelLice,0%,101,485000,485000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E111-C,E111,C,"Minot, ND",NextelLice,0%,26,26000,26000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E142-C,E142,C,"Scottsbluff, NE-WY",NextelLice,0%,166,10000,10000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E114-C,E114,C,"Aberdeen, SD",NextelLice,0%,46,98000,98000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E121-C,E121,C,"North Platte, NE-CO",NextelLice,0%,160,10000,10000
+16,800 MHz Specialized Mobile Radio Service (SMR),YC-E175-C,E175,C,American Samoa,NextelLice,0%,60,8000,8000
