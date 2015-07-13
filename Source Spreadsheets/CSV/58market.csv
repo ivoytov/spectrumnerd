@@ -1,0 +1,243 @@
+Auction_id,Auction_Desc,bip_id,Major Grouping,Minor Grouping,Block,Submarket,License Size (Mhz),bip_desc,BUs,Population,Number of Bids,bidder_name,Round of High Bid,Increments of Bid,bid_amt,Bidding Credit,net_bid_amt
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA262-C5,MTA002,BTA262,C5,0,10,"Los Angeles, CA","8,196,000.00","16,391,590.00",0,"Royal Street Communications, LLC",6,0,374530000,0.25,280897500.00
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA394-F,MTA019,BTA394,F,0,10,"St. Louis, MO","1,437,000.00","2,873,395.00",0,Cellco Partnership d/b/a Verizon Wireless,42,0,141983000,0.00,141983000.00
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA196-C3,MTA014,BTA196,C3,0,10,"Houston, TX","2,523,000.00","5,045,022.00",0,"Vista PCS, LLC",15,0,103104000,0.00,103104000.00
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA196-C4,MTA014,BTA196,C4,0,10,"Houston, TX","2,523,000.00","5,045,022.00",0,"Cricket Licensee (Reauction), Inc.",13,0,94742000,0.00,94742000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA402-C5,MTA002,BTA402,C5,0,10,"San Diego, CA","1,407,000.00","2,813,833.00",0,Cellco Partnership d/b/a Verizon Wireless,13,0,61405000,0.00,61405000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA402-C4,MTA002,BTA402,C4,0,10,"San Diego, CA","1,407,000.00","2,813,833.00",0,"Cricket Licensee (Reauction), Inc.",12,0,55829000,0.00,55829000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA074-C5,MTA006,BTA074,C5,0,10,"Charlotte-Gastonia, NC","1,039,000.00","2,078,083.00",0,Cellco Partnership d/b/a Verizon Wireless,32,0,50315000,0.00,50315000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA084-C3,MTA016,BTA084,C3,0,10,"Cleveland-Akron, OH","1,497,000.00","2,993,610.00",0,"Cook Inlet/VS GSM VII PCS, LLC",53,0,49135000,0.00,49135000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA084-C5,MTA016,BTA084,C5,0,10,"Cleveland-Akron, OH","1,497,000.00","2,993,610.00",0,Cellco Partnership d/b/a Verizon Wireless,52,0,48036000,0.00,48036000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA324-C4,MTA023,BTA324,C4,0,10,"Norfolk-Virginia Beach, VA","892,000.00","1,784,356.00",0,"Edge Mobile, LLC",50,0,38612000,0.00,38612000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA324-C3,MTA023,BTA324,C3,0,10,"Norfolk-Virginia Beach, VA","892,000.00","1,784,356.00",0,"Vista PCS, LLC",47,0,36804000,0.00,36804000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA413-C3,MTA024,BTA413,C3,0,10,"Seattle-Tacoma, WA","1,616,000.00","3,232,492.00",0,"Vista PCS, LLC",13,0,35709000,0.00,35709000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA084-C4,MTA016,BTA084,C4,0,10,"Cleveland-Akron, OH","1,497,000.00","2,993,610.00",0,"CSM Wireless, LLC",51,0,45938000,0.25,34453500
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA329-C3,MTA041,BTA329,C3,0,10,"Oklahoma City, OK","717,000.00","1,434,827.00",0,"Vista PCS, LLC",44,0,34135000,0.00,34135000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA074-C4,MTA006,BTA074,C4,0,10,"Charlotte-Gastonia, NC","1,039,000.00","2,078,083.00",0,"Vista PCS, LLC",34,0,33361000,0.00,33361000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA329-C4,MTA041,BTA329,C4,0,10,"Oklahoma City, OK","717,000.00","1,434,827.00",0,"Edge Mobile, LLC",43,0,32910000,0.00,32910000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA074-C3,MTA006,BTA074,C3,0,10,"Charlotte-Gastonia, NC","1,039,000.00","2,078,083.00",0,"Carroll Wireless, LP",33,0,32293000,0.00,32293000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA374-C3,MTA023,BTA374,C3,0,10,"Richmond-Petersburg, VA","628,000.00","1,256,479.00",0,"Cook Inlet/VS GSM VII PCS, LLC",57,0,30410000,0.00,30410000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA324-C5,MTA023,BTA324,C5,0,10,"Norfolk-Virginia Beach, VA","892,000.00","1,784,356.00",0,"Wirefree Partners III, LLC",49,0,39647000,0.25,29735250
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA374-C4,MTA023,BTA374,C4,0,10,"Richmond-Petersburg, VA","628,000.00","1,256,479.00",0,"Edge Mobile, LLC",56,0,28365000,0.00,28365000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA174-C5,MTA006,BTA174,C5,0,10,"Greensboro, NC","727,000.00","1,454,066.00",0,Cellco Partnership d/b/a Verizon Wireless,36,0,28338000,0.00,28338000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA413-C5,MTA024,BTA413,C5,0,10,"Seattle-Tacoma, WA","1,616,000.00","3,232,492.00",0,"Wirefree Partners III, LLC",14,0,37033000,0.25,27774750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA329-C5,MTA041,BTA329,C5,0,10,"Oklahoma City, OK","717,000.00","1,434,827.00",0,"Carroll Wireless, LP",45,0,36681000,0.25,27510750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA413-C4,MTA024,BTA413,C4,0,10,"Seattle-Tacoma, WA","1,616,000.00","3,232,492.00",0,"Cook Inlet/VS GSM VII PCS, LLC",12,0,35547000,0.25,26660250
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA297-F,MTA020,BTA297,F,0,10,"Milwaukee, WI","925,000.00","1,849,490.00",0,"Carroll Wireless, LP",54,0,29494000,0.25,22120500
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA374-C5,MTA023,BTA374,C5,0,10,"Richmond-Petersburg, VA","628,000.00","1,256,479.00",0,"Wirefree Partners III, LLC",45,0,28773000,0.25,21579750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA081-C3,MTA018,BTA081,C3,0,10,"Cincinnati, OH","1,085,000.00","2,170,768.00",0,"Vista PCS, LLC",32,0,21312000,0.00,21312000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA081-C4,MTA018,BTA081,C4,0,10,"Cincinnati, OH","1,085,000.00","2,170,768.00",0,"Alaska Native Broadband 1 License, LLC",31,0,20242000,0.00,20242000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA358-C5,MTA030,BTA358,C5,0,10,"Portland, OR","1,057,000.00","2,114,640.00",0,"CSM Wireless, LLC",24,0,25580000,0.25,19185000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA081-C5,MTA018,BTA081,C5,0,10,"Cincinnati, OH","1,085,000.00","2,170,768.00",0,"Wirefree Partners III, LLC",28,0,24841000,0.25,18630750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA174-C4,MTA006,BTA174,C4,0,10,"Greensboro, NC","727,000.00","1,454,066.00",0,"Wirefree Partners III, LLC",37,0,18238000,0.00,18238000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA174-C3,MTA006,BTA174,C3,0,10,"Greensboro, NC","727,000.00","1,454,066.00",0,"Carroll Wireless, LP",43,0,17707000,0.00,17707000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA298-C3,MTA012,BTA298,C3,0,10,"Minneapolis-St. Paul, MN","1,647,000.00","3,293,598.00",0,"Edge Mobile, LLC",1,0,16468000,0.00,16468000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA401-C4,MTA033,BTA401,C4,0,10,"San Antonio, TX","928,000.00","1,856,320.00",0,"Alaska Native Broadband 1 License, LLC",42,0,16047000,0.00,16047000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA401-C3,MTA033,BTA401,C3,0,10,"San Antonio, TX","928,000.00","1,856,320.00",0,"Cook Inlet/VS GSM VII PCS, LLC",41,0,15822000,0.00,15822000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA298-C5,MTA012,BTA298,C5,0,10,"Minneapolis-St. Paul, MN","1,647,000.00","3,293,598.00",0,"Carroll Wireless, LP",6,0,21009000,0.25,15756750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA110-C5,MTA022,BTA110,C5,0,10,"Denver, CO","1,356,000.00","2,712,488.00",0,"Edge Mobile, LLC",2,0,15596000,0.00,15596000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA298-C4,MTA012,BTA298,C4,0,10,"Minneapolis-St. Paul, MN","1,647,000.00","3,293,598.00",0,"Cook Inlet/VS GSM VII PCS, LLC",2,0,20585000,0.25,15438750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA401-C5,MTA033,BTA401,C5,0,10,"San Antonio, TX","928,000.00","1,856,320.00",0,"Punxsutawney Communications, LLC",19,0,19334000,0.25,14500500
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA350-C3,MTA021,BTA350,C3,0,10,"Pittsburgh, PA","1,236,000.00","2,471,759.00",0,"Edge Mobile, LLC",3,0,14213000,0.00,14213000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA226-C5,MTA034,BTA226,C5,0,10,"Kansas City, MO","1,025,000.00","2,049,447.00",0,"Cricket Licensee (Reauction), Inc.",57,0,13522000,0.00,13522000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA095-C3,MTA038,BTA095,C3,0,10,"Columbus, OH","846,000.00","1,692,240.00",0,"Vista PCS, LLC",54,0,12752000,0.00,12752000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA095-C4,MTA038,BTA095,C4,0,10,"Columbus, OH","846,000.00","1,692,240.00",0,"CSM Wireless, LLC",52,0,12440000,0.00,12440000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA350-C5,MTA021,BTA350,C5,0,10,"Pittsburgh, PA","1,236,000.00","2,471,759.00",0,"Edge Mobile, LLC",2,0,12359000,0.00,12359000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA350-C4,MTA021,BTA350,C4,0,10,"Pittsburgh, PA","1,236,000.00","2,471,759.00",0,"Vista PCS, LLC",2,0,12359000,0.00,12359000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA226-C4,MTA034,BTA226,C4,0,10,"Kansas City, MO","1,025,000.00","2,049,447.00",0,"Edge Mobile, LLC",48,0,11835000,0.00,11835000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA110-C4,MTA022,BTA110,C4,0,10,"Denver, CO","1,356,000.00","2,712,488.00",0,"Cook Inlet/VS GSM VII PCS, LLC",12,0,15766000,0.25,11824500
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA226-C3,MTA034,BTA226,C3,0,10,"Kansas City, MO","1,025,000.00","2,049,447.00",0,"Cook Inlet/VS GSM VII PCS, LLC",4,0,11528000,0.00,11528000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA027-C3,MTA007,BTA027,C3,0,10,"Austin, TX","663,000.00","1,325,029.00",0,"Alaska Native Broadband 1 License, LLC",38,0,11291000,0.00,11291000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA128-C3,MTA039,BTA128,C3,0,10,"El Paso, TX","374,000.00","748,239.00",0,"Alaska Native Broadband 1 License, LLC",36,0,11177000,0.00,11177000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA027-C5,MTA007,BTA027,C5,0,10,"Austin, TX","663,000.00","1,325,029.00",0,"Wirefree Partners III, LLC",52,0,13674000,0.25,10255500
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA027-C4,MTA007,BTA027,C4,0,10,"Austin, TX","663,000.00","1,325,029.00",0,"Cook Inlet/VS GSM VII PCS, LLC",36,0,9706000,0.00,9706000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA095-C5,MTA038,BTA095,C5,0,10,"Columbus, OH","846,000.00","1,692,240.00",0,"Wirefree Partners III, LLC",52,0,12859000,0.25,9644250
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA263-C5,MTA026,BTA263,C5,0,10,"Louisville, KY","743,000.00","1,486,048.00",0,Cellco Partnership d/b/a Verizon Wireless,25,0,8550000,0.00,8550000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA229-C1,MTA044,BTA229,C1,0,15,"Kingsport, TN-Johnson City, TN","531,000.00","707,899.00",0,"Vista PCS, LLC",53,0,8121000,0.00,8121000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA428-C5,MTA019,BTA428,C5,0,10,"Springfield, MO","330,000.00","660,151.00",0,Cellco Partnership d/b/a Verizon Wireless,56,0,8110000,0.00,8110000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA204-C4,MTA031,BTA204,C4,0,10,"Indianapolis, IN","776,000.00","1,552,963.00",0,"Carroll Wireless, LP",31,0,8026000,0.00,8026000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA204-C3,MTA031,BTA204,C3,0,10,"Indianapolis, IN","776,000.00","1,552,963.00",0,"Cook Inlet/VS GSM VII PCS, LLC",30,0,7961000,0.00,7961000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA204-C5,MTA031,BTA204,C5,0,10,"Indianapolis, IN","776,000.00","1,552,963.00",0,"CSM Wireless, LLC",53,0,9998000,0.25,7498500
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA428-C4,MTA019,BTA428,C4,0,10,"Springfield, MO","330,000.00","660,151.00",0,"Cook Inlet/VS GSM VII PCS, LLC",42,0,6962000,0.00,6962000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA336-C4,MTA013,BTA336,C4,0,10,"Orlando, FL","849,000.00","1,697,906.00",0,"Royal Street Communications, LLC",15,0,6566000,0.00,6566000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA336-C5,MTA013,BTA336,C5,0,10,"Orlando, FL","849,000.00","1,697,906.00",0,"Wirefree Partners III, LLC",14,0,8260000,0.25,6195000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA336-C3,MTA013,BTA336,C3,0,10,"Orlando, FL","849,000.00","1,697,906.00",0,"Cook Inlet/VS GSM VII PCS, LLC",14,0,5806000,0.00,5806000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA007-C5,MTA001,BTA007,C5,0,10,"Albany-Schenectady, NY","524,000.00","1,047,324.00",0,Cellco Partnership d/b/a Verizon Wireless,7,0,4816000,0.00,4816000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA263-C3,MTA026,BTA263,C3,0,10,"Louisville, KY","743,000.00","1,486,048.00",0,"Cook Inlet/VS GSM VII PCS, LLC",32,0,4797000,0.00,4797000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA263-C4,MTA026,BTA263,C4,0,10,"Louisville, KY","743,000.00","1,486,048.00",0,"Alaska Native Broadband 1 License, LLC",30,0,4442000,0.00,4442000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA212-C4,MTA037,BTA212,C4,0,10,"Jacksonville, FL","679,000.00","1,358,825.00",0,"Royal Street Communications, LLC",44,0,4026000,0.00,4026000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA364-C4,MTA008,BTA364,C4,0,10,"Providence-Pawtucket, RI-","791,000.00","1,582,997.00",0,"Cook Inlet/VS GSM VII PCS, LLC",2,0,3957000,0.00,3957000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA364-C3,MTA008,BTA364,C3,0,10,"Providence-Pawtucket, RI-","791,000.00","1,582,997.00",0,"Vista PCS, LLC",1,0,3957000,0.00,3957000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA212-C5,MTA037,BTA212,C5,0,10,"Jacksonville, FL","679,000.00","1,358,825.00",0,Peter T. Akemann,45,0,5143000,0.25,3857250
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA212-C3,MTA037,BTA212,C3,0,10,"Jacksonville, FL","679,000.00","1,358,825.00",0,"Cook Inlet/VS GSM VII PCS, LLC",3,0,3822000,0.00,3822000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA364-C5,MTA008,BTA364,C5,0,10,"Providence-Pawtucket, RI-","791,000.00","1,582,997.00",0,"Punxsutawney Communications, LLC",21,0,5061000,0.25,3795750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA007-C3,MTA001,BTA007,C3,0,10,"Albany-Schenectady, NY","524,000.00","1,047,324.00",0,"Cook Inlet/VS GSM VII PCS, LLC",12,0,3509000,0.00,3509000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA318-C4,MTA001,BTA318,C4,0,10,"New Haven-Waterbury, CT","503,000.00","1,006,201.00",0,"Cook Inlet/VS GSM VII PCS, LLC",79,0,3445000,0.00,3445000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA007-C4,MTA001,BTA007,C4,0,10,"Albany-Schenectady, NY","524,000.00","1,047,324.00",0,"Vista PCS, LLC",14,0,3360000,0.00,3360000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA252-C5,MTA026,BTA252,C5,0,10,"Lexington, KY","464,000.00","927,633.00",0,Cellco Partnership d/b/a Verizon Wireless,38,0,3313000,0.00,3313000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA318-C3,MTA001,BTA318,C3,0,10,"New Haven-Waterbury, CT","503,000.00","1,006,201.00",0,"Vista PCS, LLC",77,0,3217000,0.00,3217000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA179-C4,MTA010,BTA179,C4,0,10,Hagerstown MD-Chambersburg PA,"183,000.00","366,345.00",0,"Vista PCS, LLC",72,0,3205000,0.00,3205000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA106-C4,MTA018,BTA106,C4,0,10,"Dayton-Springfield, OH","610,000.00","1,219,933.00",0,"Edge Mobile, LLC",7,0,3050000,0.00,3050000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA106-C3,MTA018,BTA106,C3,0,10,"Dayton-Springfield, OH","610,000.00","1,219,933.00",0,"Vista PCS, LLC",1,0,3050000,0.00,3050000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA318-C5,MTA001,BTA318,C5,0,10,"New Haven-Waterbury, CT","503,000.00","1,006,201.00",0,"Spotlight Media Corp., Inc.",90,0,3903000,0.25,2927250
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA268-C3,MTA033,BTA268,C3,0,10,"McAllen, TX","312,000.00","623,060.00",0,"Cook Inlet/VS GSM VII PCS, LLC",16,0,2814000,0.00,2814000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA179-C5,MTA010,BTA179,C5,0,10,Hagerstown MD-Chambersburg PA,"183,000.00","366,345.00",0,"Cook Inlet/VS GSM VII PCS, LLC",73,0,3713000,0.25,2784750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA441-C5,MTA007,BTA441,C5,0,10,"Temple-Killeen, TX","177,000.00","354,952.00",0,"Cricket Licensee (Reauction), Inc.",38,0,2781000,0.00,2781000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA010-C4,MTA001,BTA010,C4,0,10,"Allentown-Bethlehem-Easton, PA","370,000.00","740,395.00",0,"Vista PCS, LLC",87,0,2699000,0.00,2699000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA268-C5,MTA033,BTA268,C5,0,10,"McAllen, TX","312,000.00","623,060.00",0,"Wirefree Partners III, LLC",52,0,3566000,0.25,2674500
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA441-C4,MTA007,BTA441,C4,0,10,"Temple-Killeen, TX","177,000.00","354,952.00",0,"Cook Inlet/VS GSM VII PCS, LLC",39,0,2608000,0.00,2608000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA106-C5,MTA018,BTA106,C5,0,10,"Dayton-Springfield, OH","610,000.00","1,219,933.00",0,"Wirefree Partners III, LLC",6,0,3393000,0.25,2544750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA376-C5,MTA023,BTA376,C5,0,10,"Roanoke, VA","332,000.00","664,313.00",0,"Edge Mobile, LLC",89,0,2509000,0.00,2509000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA252-C4,MTA026,BTA252,C4,0,10,"Lexington, KY","464,000.00","927,633.00",0,"Alaska Native Broadband 1 License, LLC",25,0,2435000,0.00,2435000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA010-C5,MTA001,BTA010,C5,0,10,"Allentown-Bethlehem-Easton, PA","370,000.00","740,395.00",0,"Cook Inlet/VS GSM VII PCS, LLC",85,0,3210000,0.25,2407500
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA268-C4,MTA033,BTA268,C4,0,10,"McAllen, TX","312,000.00","623,060.00",0,"Punxsutawney Communications, LLC",14,0,2370000,0.00,2370000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA252-C3,MTA026,BTA252,C3,0,10,"Lexington, KY","464,000.00","927,633.00",0,"Cook Inlet/VS GSM VII PCS, LLC",3,0,2319000,0.00,2319000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA357-C5,MTA008,BTA357,C5,0,10,"Portland-Brunswick, ME","261,000.00","521,184.00",0,Cellco Partnership d/b/a Verizon Wireless,64,0,2105000,0.00,2105000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA376-C4,MTA023,BTA376,C4,0,10,"Roanoke, VA","332,000.00","664,313.00",0,"Vista PCS, LLC",49,0,1947000,0.00,1947000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA376-C3,MTA023,BTA376,C3,0,10,"Roanoke, VA","332,000.00","664,313.00",0,"Cook Inlet/VS GSM VII PCS, LLC",50,0,1945000,0.00,1945000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA480-C4,MTA008,BTA480,C4,0,10,"Worcester - Fitchburg, MA","375,000.00","750,963.00",0,"Punxsutawney Communications, LLC",58,0,1877000,0.00,1877000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA480-C3,MTA008,BTA480,C3,0,10,"Worcester - Fitchburg, MA","375,000.00","750,963.00",0,"Vista PCS, LLC",1,0,1877000,0.00,1877000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA412-C4,MTA001,BTA412,C4,0,10,"Scranton-Wilkes-Barre, PA","336,000.00","672,498.00",0,"Cook Inlet/VS GSM VII PCS, LLC",23,0,1786000,0.00,1786000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA274-C5,MTA008,BTA274,C5,0,10,"Manchester-Nashua-Concord, NH","309,000.00","617,057.00",0,Cellco Partnership d/b/a Verizon Wireless,17,0,1742000,0.00,1742000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA357-C4,MTA008,BTA357,C4,0,10,"Portland-Brunswick, ME","261,000.00","521,184.00",0,"Carroll Wireless, LP",66,0,1682000,0.00,1682000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA412-C3,MTA001,BTA412,C3,0,10,"Scranton-Wilkes-Barre, PA","336,000.00","672,498.00",0,"Vista PCS, LLC",1,0,1681000,0.00,1681000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA020-C4,MTA006,BTA020,C4,0,10,"Asheville-Hendersonville, NC","304,000.00","608,250.00",0,"Vista PCS, LLC",49,0,1597000,0.00,1597000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA020-C3,MTA006,BTA020,C3,0,10,"Asheville-Hendersonville, NC","304,000.00","608,250.00",0,"Carroll Wireless, LP",48,0,1597000,0.00,1597000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA408-C5,MTA013,BTA408,C5,0,10,"Sarasota-Bradenton, FL","311,000.00","622,168.00",0,"Edge Mobile, LLC",4,0,1555000,0.00,1555000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA274-C4,MTA008,BTA274,C4,0,10,"Manchester-Nashua-Concord, NH","309,000.00","617,057.00",0,"Cook Inlet/VS GSM VII PCS, LLC",66,0,1543000,0.00,1543000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA249-E,MTA008,BTA249,E,0,10,"Lebanon-Claremont, NH","90,000.00","179,619.00",0,"Vermont Telephone Company, Inc.",41,0,1509000,0.00,1509000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA412-C5,MTA001,BTA412,C5,0,10,"Scranton-Wilkes-Barre, PA","336,000.00","672,498.00",0,"Spotlight Media Corp., Inc.",26,0,1998000,0.25,1498500
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA089-C3,MTA022,BTA089,C3,0,10,"Colorado Springs, CO","269,000.00","537,484.00",0,"Alaska Native Broadband 1 License, LLC",28,0,1482000,0.00,1482000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA089-C4,MTA022,BTA089,C4,0,10,"Colorado Springs, CO","269,000.00","537,484.00",0,"Edge Mobile, LLC",15,0,1411000,0.00,1411000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA480-C5,MTA008,BTA480,C5,0,10,"Worcester - Fitchburg, MA","375,000.00","750,963.00",0,"Cook Inlet/VS GSM VII PCS, LLC",9,0,1877000,0.25,1407750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA135-C3,MTA026,BTA135,C3,0,10,"Evansville, IN","262,000.00","523,510.00",0,"Vista PCS, LLC",61,0,1309000,0.00,1309000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA089-C5,MTA022,BTA089,C5,0,10,"Colorado Springs, CO","269,000.00","537,484.00",0,Peter T. Akemann,27,0,1649000,0.25,1236750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA090-F,MTA019,BTA090,F,0,10,"Columbia, MO","108,000.00","216,756.00",0,Cellco Partnership d/b/a Verizon Wireless,63,0,1155000,0.00,1155000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA451-F,MTA036,BTA451,F,0,10,"Twin Falls, ID","81,000.00","162,397.00",0,"Edge Mobile, LLC",7,0,1134000,0.00,1134000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA366-E,MTA022,BTA366,E,0,10,"Pueblo, CO (Partial Market)","65,000.00","130,554.00",0,"N.E. Colorado Wireless Technologies, Inc.",66,0,1065000,0.00,1065000
+58,"Broadband PCS - C, D, E, F Blocks",CW-MTA050-A,NWA255,MTA050,A,0,30,Guam-Northern Mariana Islands,"336,000.00","224,026.00",0,"GTE Pacifica, Inc. d/b/a Verizon Pacifica",1,0,1008000,0.00,1008000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA235-C5,MTA031,BTA235,C5,0,10,"Lafayette, IN","138,000.00","275,303.00",0,Centennial Michiana License Company LLC,46,0,949000,0.00,949000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA353-F,MTA036,BTA353,F,0,10,"Pocatello, ID","50,000.00","100,943.00",0,"Edge Mobile, LLC",12,0,944000,0.00,944000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA361-C5,MTA001,BTA361,C5,0,10,"Poughkeepsie-Kingston, NY","229,000.00","457,899.00",0,"Edge Mobile, LLC",40,0,875000,0.00,875000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA056-C4,MTA033,BTA056,C4,0,10,"Brownsville-Harlingen, TX","178,000.00","355,309.00",0,"Cook Inlet/VS GSM VII PCS, LLC",36,0,835000,0.00,835000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA491-F,MTA025,BTA491,F,0,10,U.S. Virgin Islands,"54,000.00","108,612.00",0,"Wirefree Partners III, LLC",40,0,1104000,0.25,828000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA266-F,MTA023,BTA266,F,0,10,"Lynchburg, VA","81,000.00","161,946.00",0,Cellco Partnership d/b/a Verizon Wireless,58,0,809000,0.00,809000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA215-C3,MTA035,BTA215,C3,0,10,"Jamestown, NY-Warren, PA","92,000.00","183,613.00",0,Cellco Partnership d/b/a Verizon Wireless,19,0,805000,0.00,805000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA043-C1,MTA001,BTA043,C1,0,15,"Binghamton, NY","259,000.00","345,959.00",0,"Spotlight Media Corp., Inc.",8,0,778000,0.00,778000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA056-C3,MTA033,BTA056,C3,0,10,"Brownsville-Harlingen, TX","178,000.00","355,309.00",0,"Punxsutawney Communications, LLC",58,0,769000,0.00,769000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA239-C4,MTA013,BTA239,C4,0,10,"Lakeland-Winter Haven, FL","242,000.00","483,924.00",0,"Royal Street Communications, LLC",15,0,762000,0.00,762000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA289-C4,MTA013,BTA289,C4,0,10,"Melbourne-Titusville, FL","238,000.00","476,230.00",0,"Royal Street Communications, LLC",15,0,714000,0.00,714000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA138-C1,MTA012,BTA138,C1,0,15,"Fargo, ND","237,000.00","316,537.00",0,"Vista PCS, LLC",18,0,712000,0.00,712000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA361-C4,MTA001,BTA361,C4,0,10,"Poughkeepsie-Kingston, NY","229,000.00","457,899.00",0,"Vista PCS, LLC",1,0,687000,0.00,687000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA239-C5,MTA013,BTA239,C5,0,10,"Lakeland-Winter Haven, FL","242,000.00","483,924.00",0,"Wirefree Partners III, LLC",14,0,904000,0.25,678000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA289-C5,MTA013,BTA289,C5,0,10,"Melbourne-Titusville, FL","238,000.00","476,230.00",0,"Wirefree Partners III, LLC",14,0,890000,0.25,667500
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA059-C4,MTA014,BTA059,C4,0,10,"Bryan-College Station, TX","92,000.00","184,885.00",0,"Alaska Native Broadband 1 License, LLC",78,0,658000,0.00,658000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA298-D,MTA012,BTA298,D,0,10,"Minneapolis-St. Paul, MN (Partial Market)","95,000.00","190,881.00",0,Cellco Partnership d/b/a Verizon Wireless,29,0,656000,0.00,656000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA159-C5,MTA037,BTA159,C5,0,10,"Gainesville, FL","160,000.00","320,199.00",0,"Royal Street Communications, LLC",67,0,845000,0.25,633750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA159-C4,MTA037,BTA159,C4,0,10,"Gainesville, FL","160,000.00","320,199.00",0,"Cook Inlet/VS GSM VII PCS, LLC",40,0,626000,0.00,626000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA416-C1,MTA016,BTA416,C1,0,15,"Sharon, PA","90,000.00","120,293.00",0,"Cook Inlet/VS GSM VII PCS, LLC",7,0,579000,0.00,579000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA059-C3,MTA014,BTA059,C3,0,10,"Bryan-College Station, TX","92,000.00","184,885.00",0,"Cook Inlet/VS GSM VII PCS, LLC",73,0,575000,0.00,575000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA385-E,MTA030,BTA385,E,0,7,"Roseburg, OR","35,000.00","100,399.00",0,"Edge Mobile, LLC",14,0,565000,0.00,565000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA319-C3,MTA001,BTA319,C3,0,10,"New London-Norwich, CT","184,000.00","368,179.00",0,"Vista PCS, LLC",1,0,552000,0.00,552000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA319-C4,MTA001,BTA319,C4,0,10,"New London-Norwich, CT","184,000.00","368,179.00",0,"Edge Mobile, LLC",5,0,552000,0.00,552000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA189-C4,MTA006,BTA189,C4,0,10,"Hickory-Lenoir-Morganton, NC","171,000.00","341,851.00",0,"Vista PCS, LLC",47,0,539000,0.00,539000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA189-C3,MTA006,BTA189,C3,0,10,"Hickory-Lenoir-Morganton, NC","171,000.00","341,851.00",0,"Carroll Wireless, LP",43,0,539000,0.00,539000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA059-C5,MTA014,BTA059,C5,0,10,"Bryan-College Station, TX","92,000.00","184,885.00",0,Sungilt Corporation Inc.,45,0,693000,0.25,519750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA104-F,MTA023,BTA104,F,0,10,"Danville, VA","86,000.00","171,012.00",0,"Carroll Wireless, LP",64,0,685000,0.25,513750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA331-C5,MTA024,BTA331,C5,0,10,"Olympia-Centralia, WA","163,000.00","325,360.00",0,Cellco Partnership d/b/a Verizon Wireless,38,0,512000,0.00,512000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA047-C4,MTA031,BTA047,C4,0,10,"Bloomington-Bedford, IN","120,000.00","240,734.00",0,"Carroll Wireless, LP",46,0,494000,0.00,494000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA047-C3,MTA031,BTA047,C3,0,10,"Bloomington-Bedford, IN","120,000.00","240,734.00",0,"Vista PCS, LLC",47,0,493000,0.00,493000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA331-C4,MTA024,BTA331,C4,0,10,"Olympia-Centralia, WA","163,000.00","325,360.00",0,"Cook Inlet/VS GSM VII PCS, LLC",7,0,488000,0.00,488000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA331-C3,MTA024,BTA331,C3,0,10,"Olympia-Centralia, WA","163,000.00","325,360.00",0,"Edge Mobile, LLC",5,0,488000,0.00,488000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA110-E,MTA022,BTA110,E,0,9.44,"Denver, CO (Partial Market)","13,000.00","26,586.00",0,"N.E. Colorado Wireless Technologies, Inc.",55,0,487000,0.00,487000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA008-E,MTA039,BTA008,E,0,8.23,"Albuquerque, NM (Partial Market)","39,000.00","94,253.00",0,Cellco Partnership d/b/a Verizon Wireless,57,0,478000,0.00,478000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA096-C1,MTA043,BTA096,C1,0,15,"Cookeville, TN","104,000.00","138,089.00",0,"Vista PCS, LLC",70,0,474000,0.00,474000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA166-C1,MTA012,BTA166,C1,0,15,"Grand Forks, ND","152,000.00","203,087.00",0,"Vista PCS, LLC",2,0,457000,0.00,457000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA244-C3,MTA039,BTA244,C3,0,10,"Las Cruces, NM","125,000.00","249,902.00",0,"Alaska Native Broadband 1 License, LLC",64,0,447000,0.00,447000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA244-C4,MTA039,BTA244,C4,0,10,"Las Cruces, NM","125,000.00","249,902.00",0,"Vista PCS, LLC",65,0,446000,0.00,446000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA319-C5,MTA001,BTA319,C5,0,10,"New London-Norwich, CT","184,000.00","368,179.00",0,"Punxsutawney Communications, LLC",58,0,580000,0.25,435000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA146-C1,MTA029,BTA146,C1,0,15,"Florence, AL","143,000.00","191,015.00",0,Peter T. Akemann,2,0,430000,0.00,430000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA284-C1,MTA023,BTA284,C1,0,15,"Martinsville, VA","70,000.00","92,753.00",0,"Vista PCS, LLC",53,0,421000,0.00,421000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA235-C4,MTA031,BTA235,C4,0,10,"Lafayette, IN","138,000.00","275,303.00",0,"Carroll Wireless, LP",4,0,413000,0.00,413000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA235-C3,MTA031,BTA235,C3,0,10,"Lafayette, IN","138,000.00","275,303.00",0,"Cook Inlet/VS GSM VII PCS, LLC",1,0,413000,0.00,413000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA149-C3,MTA022,BTA149,C3,0,10,"Fort Collins-Loveland, CO","126,000.00","251,494.00",0,Union Telephone Company,12,0,396000,0.00,396000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA149-C4,MTA022,BTA149,C4,0,10,"Fort Collins-Loveland, CO","126,000.00","251,494.00",0,"Edge Mobile, LLC",11,0,396000,0.00,396000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA244-C5,MTA039,BTA244,C5,0,10,"Las Cruces, NM","125,000.00","249,902.00",0,"Wirefree Partners III, LLC",62,0,516000,0.25,387000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA189-C5,MTA006,BTA189,C5,0,10,"Hickory-Lenoir-Morganton, NC","171,000.00","341,851.00",0,Lafayette Communications Company L.L.C.,11,0,513000,0.25,384750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA220-C4,MTA034,BTA220,C4,0,10,"Joplin, MO-Miami, OK","124,000.00","247,343.00",0,"Vista PCS, LLC",1,0,371000,0.00,371000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA358-E,MTA030,BTA358,E,0,7,"Portland, OR (Partial Market)","35,000.00","100,208.00",0,Sungilt Corporation Inc.,66,0,369000,0.00,369000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA047-C5,MTA031,BTA047,C5,0,10,"Bloomington-Bedford, IN","120,000.00","240,734.00",0,Cellco Partnership d/b/a Verizon Wireless,1,0,361000,0.00,361000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA430-C1,MTA023,BTA430,C1,0,15,"Staunton-Waynesboro, VA","84,000.00","111,524.00",0,"Carroll Wireless, LP",89,0,354000,0.00,354000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA098-C1,MTA026,BTA098,C1,0,15,"Corbin, KY","109,000.00","144,931.00",0,"Vista PCS, LLC",1,0,326000,0.00,326000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA149-C5,MTA022,BTA149,C5,0,10,"Fort Collins-Loveland, CO","126,000.00","251,494.00",0,"N.E. Colorado Wireless Technologies, Inc.",1,0,377000,0.15,320450
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA038-F,MTA030,BTA038,F,0,10,"Bend, OR","77,000.00","153,558.00",0,"Edge Mobile, LLC",71,0,310000,0.00,310000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA391-D,MTA012,BTA391,D,0,7,"St. Cloud, MN (Partial Market)","11,000.00","31,712.00",0,Cellco Partnership d/b/a Verizon Wireless,71,0,308000,0.00,308000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA287-C1,MTA016,BTA287,C1,0,15,"Meadville, PA","68,000.00","90,366.00",0,"Cook Inlet/VS GSM VII PCS, LLC",48,0,299000,0.00,299000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA142-C1,MTA012,BTA142,C1,0,15,"Fergus Falls, MN","98,000.00","131,271.00",0,"Vista PCS, LLC",17,0,295000,0.00,295000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA117-C1,MTA021,BTA117,C1,0,15,"Du Bois-Clearfield, PA","97,000.00","129,314.00",0,"Vista PCS, LLC",61,0,291000,0.00,291000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA231-F,MTA030,BTA231,F,0,10,"Klamath Falls, OR","40,000.00","80,646.00",0,Lynch 3G Communications Corporation,17,0,289000,0.00,289000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA047-F,MTA031,BTA047,F,0,10,"Bloomington-Bedford, IN","120,000.00","240,734.00",0,"Cook Inlet/VS GSM VII PCS, LLC",1,0,361000,0.25,270750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA280-F,MTA031,BTA280,F,0,10,"Marion, IN","54,000.00","108,363.00",0,"Carroll Wireless, LP",52,0,356000,0.25,267000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA295-C1,MTA044,BTA295,C1,0,15,"Middlesboro-Harlan, KY","89,000.00","118,401.00",0,"Cook Inlet/VS GSM VII PCS, LLC",2,0,266000,0.00,266000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA332-D,MTA045,BTA332,D,0,10,"Omaha, NE (Partial Market)","49,000.00","97,773.00",0,Cellco Partnership d/b/a Verizon Wireless,17,0,264000,0.00,264000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA317-C1,MTA021,BTA317,C1,0,15,"New Castle, PA","71,000.00","94,643.00",0,"CSM Wireless, LLC",59,0,262000,0.00,262000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA036-C3,MTA024,BTA036,C3,0,10,"Bellingham, WA","83,000.00","166,814.00",0,"Edge Mobile, LLC",5,0,250000,0.00,250000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA036-C4,MTA024,BTA036,C4,0,10,"Bellingham, WA","83,000.00","166,814.00",0,"Cook Inlet/VS GSM VII PCS, LLC",7,0,250000,0.00,250000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA328-C1,MTA021,BTA328,C1,0,15,"Oil City - Franklin, PA","78,000.00","104,276.00",0,JDS Wireless LLC,4,0,235000,0.00,235000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA093-C3,MTA031,BTA093,C3,0,10,"Columbus, IN","78,000.00","155,281.00",0,"Vista PCS, LLC",61,0,233000,0.00,233000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA093-C4,MTA031,BTA093,C4,0,10,"Columbus, IN","78,000.00","155,281.00",0,"Carroll Wireless, LP",38,0,233000,0.00,233000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA460-E,MTA042,BTA460,E,0,7,"Walla Walla, WA-Pendleton, OR (Partial Market)","53,000.00","152,588.00",0,"Carroll Wireless, LP",53,0,228000,0.00,228000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA231-E,MTA030,BTA231,E,0,7,"Klamath Falls, OR (Partial Market)","25,000.00","71,197.00",0,Cellco Partnership d/b/a Verizon Wireless,43,0,224000,0.00,224000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA162-E,MTA039,BTA162,E,0,10,"Gallup, NM","72,000.00","144,221.00",0,"Wirefree Partners III, LLC",10,0,216000,0.00,216000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA282-E,MTA020,BTA282,E,0,10,"Marquette, MI","37,000.00","74,496.00",0,Lynch 3G Communications Corporation,18,0,211000,0.00,211000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA414-C1,MTA034,BTA414,C1,0,15,"Sedalia, MO","69,000.00","92,562.00",0,"Vista PCS, LLC",2,0,208000,0.00,208000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA203-C1,MTA021,BTA203,C1,0,15,"Indiana, PA","67,000.00","89,605.00",0,"Vista PCS, LLC",17,0,202000,0.00,202000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA470-C4,MTA019,BTA470,C4,0,10,"West Plains, MO","39,000.00","77,090.00",0,"Carroll Wireless, LP",25,0,252000,0.25,189000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA036-C5,MTA024,BTA036,C5,0,10,"Bellingham, WA","83,000.00","166,814.00",0,"Cook Inlet/VS GSM VII PCS, LLC",57,0,250000,0.25,187500
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA261-C5,MTA030,BTA261,C5,0,10,"Longview, WA","48,000.00","96,772.00",0,Sungilt Corporation Inc.,42,0,243000,0.25,182250
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA409-E,MTA005,BTA409,E,0,10,"Sault Ste. Marie, MI","29,000.00","57,510.00",0,Cellco Partnership d/b/a Verizon Wireless,44,0,182000,0.00,182000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA093-C5,MTA031,BTA093,C5,0,10,"Columbus, IN","78,000.00","155,281.00",0,"CSM Wireless, LLC",60,0,233000,0.25,174750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA328-F,MTA021,BTA328,F,0,10,"Oil City - Franklin, PA","52,000.00","104,276.00",0,"Spotlight Media Corp., Inc.",69,0,233000,0.25,174750
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA386-F,MTA039,BTA386,F,0,10,"Roswell, NM","40,000.00","80,793.00",0,"Wirefree Partners III, LLC",66,0,226000,0.25,169500
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA261-C4,MTA030,BTA261,C4,0,10,"Longview, WA","48,000.00","96,772.00",0,"Vista PCS, LLC",69,0,163000,0.00,163000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA261-C3,MTA030,BTA261,C3,0,10,"Longview, WA","48,000.00","96,772.00",0,Peter T. Akemann,70,0,152000,0.00,152000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA477-D,MTA012,BTA477,D,0,7,"Willmar-Marshall, MN","44,000.00","126,335.00",0,Cellco Partnership d/b/a Verizon Wireless,3,0,133000,0.00,133000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA378-D,MTA012,BTA378,D,0,7,"Rochester-Austin-Albert Lea, MN (Partial Market)","7,600.00","21,610.00",0,Cellco Partnership d/b/a Verizon Wireless,71,0,131000,0.00,131000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA395-E,MTA030,BTA395,E,0,7.23,"Salem-Albany-Corvallis, OR (Partial Market)","40,000.00","111,614.00",0,Cellco Partnership d/b/a Verizon Wireless,3,0,121000,0.00,121000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA279-E,MTA020,BTA279,E,0,10,"Marinette, WI-Menominee, MI","34,000.00","68,710.00",0,"NSIGHTTEL WIRELESS, LLC",9,0,108000,0.00,108000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA207-E,MTA012,BTA207,E,0,10,"Ironwood, MI","16,000.00","32,049.00",0,"NSIGHTTEL WIRELESS, LLC",72,0,98000,0.00,98000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA409-D,MTA005,BTA409,D,0,10,"Sault Ste. Marie, MI","29,000.00","57,510.00",0,"NSIGHTTEL WIRELESS, LLC",45,0,95000,0.00,95000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA207-D,MTA012,BTA207,D,0,10,"Ironwood, MI","16,000.00","32,049.00",0,Cellco Partnership d/b/a Verizon Wireless,73,0,88000,0.00,88000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA178-F,MTA006,BTA178,F,0,10,"Greenwood, SC","38,000.00","76,229.00",0,The Eezinet Corporation,72,0,114000,0.25,85500
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA329-D,MTA041,BTA329,D,0,10,"Oklahoma City, OK (Partial Market)","11,000.00","21,735.00",0,The Eezinet Corporation,10,0,81000,0.00,81000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA194-E,MTA020,BTA194,E,0,10,"Houghton, MI","24,000.00","47,063.00",0,"NSIGHTTEL WIRELESS, LLC",7,0,71000,0.00,71000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA206-E,MTA020,BTA206,E,0,10,"Iron Mountain, MI","23,000.00","45,698.00",0,"NSIGHTTEL WIRELESS, LLC",5,0,69000,0.00,69000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA038-E,MTA030,BTA038,E,0,7,"Bend, OR (Partial Market)","6,700.00","19,182.00",0,The Eezinet Corporation,65,0,43000,0.00,43000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA167-D,MTA045,BTA167,D,0,10,"Grand Island-Kearney, NE (Partial Market)","6,300.00","12,505.00",0,The Eezinet Corporation,2,0,23000,0.00,23000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA411-D,MTA022,BTA411,D,0,10,"Scottsbluff, NE (Partial Market)","4,200.00","8,431.00",0,The Eezinet Corporation,2,0,16000,0.00,16000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA050-E,MTA036,BTA050,E,0,7,"Boise-Nampa, ID (Partial Market)","2,300.00","6,708.00",0,The Eezinet Corporation,65,0,13000,0.00,13000
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA166-F,MTA012,BTA166,F,0,10,"Grand Forks, ND","102,000.00","203,087.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA493-E,MTA050,BTA493,E,0,10,Northern Mariana Islands,"35,000.00","69,221.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA492-C4,MTA051,BTA492,C4,0,10,American Samoa,"29,000.00","57,291.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA289-C3,MTA013,BTA289,C3,0,10,"Melbourne-Titusville, FL","238,000.00","476,230.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA492-F,MTA051,BTA492,F,0,10,American Samoa,"29,000.00","57,291.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA492-D,MTA051,BTA492,D,0,10,American Samoa,"29,000.00","57,291.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA020-C5,MTA006,BTA020,C5,0,10,"Asheville-Hendersonville, NC","304,000.00","608,250.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA492-E,MTA051,BTA492,E,0,10,American Samoa,"29,000.00","57,291.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA492-C5,MTA051,BTA492,C5,0,10,American Samoa,"29,000.00","57,291.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA330-C3,MTA035,BTA330,C3,0,10,"Olean, NY-Bradford, PA","119,000.00","238,984.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA098-F,MTA026,BTA098,F,0,10,"Corbin, KY","72,000.00","144,931.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA194-F,MTA020,BTA194,F,0,10,"Houghton, MI","24,000.00","47,063.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA349-C5,MTA034,BTA349,C5,0,10,"Pittsburg-Parsons, KS","46,000.00","92,459.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA349-C4,MTA034,BTA349,C4,0,10,"Pittsburg-Parsons, KS","46,000.00","92,459.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA349-C3,MTA034,BTA349,C3,0,10,"Pittsburg-Parsons, KS","46,000.00","92,459.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA054-C1,MTA012,BTA054,C1,0,15,"Brainerd, MN","73,000.00","97,550.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA220-C5,MTA034,BTA220,C5,0,10,"Joplin, MO-Miami, OK","124,000.00","247,343.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA218-F,MTA021,BTA218,F,0,10,"Johnstown, PA","116,000.00","232,621.00",0,FCC,39,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA056-C5,MTA033,BTA056,C5,0,10,"Brownsville-Harlingen, TX","178,000.00","355,309.00",0,FCC,17,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA054-F,MTA012,BTA054,F,0,10,"Brainerd, MN","49,000.00","97,550.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-MTA051-A,NWA255,MTA051,A,0,30,American Samoa,"86,000.00","57,291.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA127-C1,MTA001,BTA127,C1,0,15,"Elmira-Corning-Hornell, NY","235,000.00","313,154.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA135-C4,MTA026,BTA135,C4,0,10,"Evansville, IN","262,000.00","523,510.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA135-C5,MTA026,BTA135,C5,0,10,"Evansville, IN","262,000.00","523,510.00",0,FCC,0,0,0,0.00,0
+58,"Broadband PCS - C, D, E, F Blocks",CW-BTA492-C3,MTA051,BTA492,C3,0,10,American Samoa,"29,000.00","57,291.00",0,FCC,0,0,0,0.00,0

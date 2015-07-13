@@ -431,6 +431,7 @@ function clickBand(channelBlock) {
             var callSignElement = $("<td>")
             var callSignLink = $('<a>', {
                 text: data.callSign,
+                target: '_blank',
                 href: "http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=" + data.id,
                 title: "Link to FCC.gov"
             })

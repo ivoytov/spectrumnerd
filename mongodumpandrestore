@@ -1,2 +1,3 @@
 mongodump -o ../dump
+mongo ds031551.mongolab.com:31551/heroku_app36469845 -u heroku_app36469845 -p lb05jpst7nohis664veej0gbiv --eval "db.dropDatabase()"
 mongorestore -h ds031551.mongolab.com:31551 -d heroku_app36469845 -u heroku_app36469845 -p lb05jpst7nohis664veej0gbiv ../dump/spectrumdb/
