@@ -340,13 +340,11 @@ function makePlot(bids) {
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     // add the tooltip area to the webpage
-    var tooltip = d3.select("#plot-tooltip")
-        .attr("class", "tooltip")
-        .style("opacity", 0);
+    var tooltip = d3.select("#tooltip")
 
 
     // don't want dots overlapping axis, so add in buffer to data domain
-  xScale.domain([0,5000]);
+  xScale.domain([0,Math.max(d3.max(bids, xValue),5000)]);
   yScale.domain([0,10]);
 
   // x-axis
@@ -389,7 +387,7 @@ function makePlot(bids) {
           tooltip.html(d.bid.item.desc + "<br/>" + numberWithCommas(Math.round(xValue(d)))
             + " pop/sq mile, " + currency(yValue(d)) + " $/Mhz-POP <br/>"
             + "Auction " + d.bid.auction.id + ": " + d.bid.auction.desc )
-               .style("left", (d3.event.pageX + 5) + "px")
+               .style("left", (d3.event.pageX - $("#carriers_list").width() + 5) + "px")
                .style("top", (d3.event.pageY - 28) + "px");
       })
       .on("mouseout", function(d) {
