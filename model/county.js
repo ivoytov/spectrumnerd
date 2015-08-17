@@ -4,6 +4,8 @@ var countySchema = mongoose.Schema({
     id: Number,
     name: { cname: String, state: String},
     population: {type: Number, default: 0},
+    area: {land: Number, water: Number },
+    density: Number,
     cma: Number,
     bta: Number,
     mta: Number,

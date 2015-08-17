@@ -1,0 +1,741 @@
+Auction_id,Auction_Desc,bip_id,bid_desc,bidder_name,bid_amt,net_bid_amt
+44,Lower 700 MHz Band,WZ-CMA002-C,"Los Angeles-Anaheim, CA","Aloha Partners, L.P.",8299000,5394350
+44,Lower 700 MHz Band,WZ-EAG706-D,Pacific,"Aloha Partners, L.P.",6216000,4662000
+44,Lower 700 MHz Band,WZ-CMA001-C,"New York-Newark, NY-NJ","Cavalier Group, LLC",6915000,4494750
+44,Lower 700 MHz Band,WZ-CMA020-C,"Seattle-Everett, WA",Vulcan Spectrum LLC,3964000,3964000
+44,Lower 700 MHz Band,WZ-CMA030-C,"Portland, OR-WA",Vulcan Spectrum LLC,2301000,2301000
+44,Lower 700 MHz Band,WZ-CMA018-C,"San Diego, CA","Aloha Partners, L.P.",3334000,2167100
+44,Lower 700 MHz Band,WZ-CMA007-C,"San Francisco-Oakland, CA","Aloha Partners, L.P.",3325000,2161250
+44,Lower 700 MHz Band,WZ-CMA008-C,"Washington, DC-MD-VA","DataCom Wireless, L.L.C.",2648000,1721200
+44,Lower 700 MHz Band,WZ-CMA082-C,"Tacoma, WA",Vulcan Spectrum LLC,1718000,1718000
+44,Lower 700 MHz Band,WZ-CMA003-C,"Chicago, IL","DataCom Wireless, L.L.C.",2396000,1557400
+44,Lower 700 MHz Band,WZ-CMA075-C,"Austin, TX",LIN Television Corporation,1378000,1378000
+44,Lower 700 MHz Band,WZ-CMA027-C,"San Jose, CA",David M. Gates,1898000,1233700
+44,Lower 700 MHz Band,WZ-CMA039-C,"Salt Lake City-Ogden, UT",Union Telephone Company,1218000,1218000
+44,Lower 700 MHz Band,WZ-CMA012-C,"Miami-Fort Lauderdale, FL","Harbor Wireless, LLC",1676000,1089400
+44,Lower 700 MHz Band,WZ-CMA009-C,"Dallas-Fort Worth, TX","Aloha Partners, L.P.",1500000,975000
+44,Lower 700 MHz Band,WZ-CMA109-C,"Spokane, WA",Whidbey Telephone Company,1137000,966450
+44,Lower 700 MHz Band,WZ-CMA004-C,"Philadelphia, PA","Cavalier Group, LLC",1457000,947050
+44,Lower 700 MHz Band,WZ-CMA017-C,"Atlanta, GA","Aloha Partners, L.P.",1447000,940550
+44,Lower 700 MHz Band,WZ-CMA093-C,"Las Vegas, NV","Aloha Partners, L.P.",1446000,939900
+44,Lower 700 MHz Band,WZ-CMA693-C,Washington 1 - Clallam,Vulcan Spectrum LLC,914000,914000
+44,Lower 700 MHz Band,WZ-CMA015-C,"Minneapolis-St. Paul, MN-WI",Redwood County Telephone Company,1186000,889500
+44,Lower 700 MHz Band,WZ-CMA005-C,"Detroit-Ann Arbor, MI","Aloha Partners, L.P.",1359000,883350
+44,Lower 700 MHz Band,WZ-CMA006-C,"Boston-Brockton-Lowell, MA-NH","Cavalier Group, LLC",1330000,864500
+44,Lower 700 MHz Band,WZ-CMA026-C,"Phoenix, AZ","Aloha Partners, L.P.",1324000,860600
+44,Lower 700 MHz Band,WZ-CMA010-C,"Houston, TX","Aloha Partners, L.P.",1291000,839150
+44,Lower 700 MHz Band,WZ-CMA148-C,"Salem, OR",Vulcan Spectrum LLC,753000,753000
+44,Lower 700 MHz Band,WZ-CMA135-C,"Eugene-Springfield, OR",Vulcan Spectrum LLC,750000,750000
+44,Lower 700 MHz Band,WZ-CMA013-C,"Pittsburgh, PA","PGTV, Inc.",1139000,740350
+44,Lower 700 MHz Band,WZ-CMA350-C,Colorado 3 - Garfield,Union Telephone Company,687000,687000
+44,Lower 700 MHz Band,WZ-CMA393-C,Idaho 6 - Clark,Union Telephone Company,572000,572000
+44,Lower 700 MHz Band,WZ-CMA159-C,"Provo-Orem, UT",Union Telephone Company,553000,553000
+44,Lower 700 MHz Band,WZ-CMA720-C,Wyoming 3 - Lincoln,Union Telephone Company,522000,522000
+44,Lower 700 MHz Band,WZ-CMA035-C,"Sacramento, CA","Aloha Partners, L.P.",778000,505700
+44,Lower 700 MHz Band,WZ-CMA022-C,"Tampa-St. Petersburg, FL","Aloha Partners, L.P.",750000,487500
+44,Lower 700 MHz Band,WZ-CMA038-C,"Providence-Warwick, RI",LIN Television Corporation,486000,486000
+44,Lower 700 MHz Band,WZ-CMA032-C,"Hartford-Bristol, CT",LIN Television Corporation,483000,483000
+44,Lower 700 MHz Band,WZ-CMA191-C,"Yakima, WA",Vulcan Spectrum LLC,482000,482000
+44,Lower 700 MHz Band,WZ-CMA011-C,"St. Louis, MO-IL","Aloha Partners, L.P.",727000,472550
+44,Lower 700 MHz Band,WZ-CMA242-C,"Olympia, WA",Vulcan Spectrum LLC,470000,470000
+44,Lower 700 MHz Band,WZ-CMA014-C,"Baltimore, MD","Aloha Partners, L.P.",704000,457600
+44,Lower 700 MHz Band,WZ-CMA042-C,Bridgeport-Stamford-Danbury CT,LIN Television Corporation,457000,457000
+44,Lower 700 MHz Band,WZ-CMA019-C,"Denver-Boulder, CO","Aloha Partners, L.P.",703000,456950
+44,Lower 700 MHz Band,WZ-CMA047-C,"Greensboro-Winston-Salem, NC",Lexcom Telephone Company,453000,453000
+44,Lower 700 MHz Band,WZ-CMA212-C,"Bremerton, WA",Vulcan Spectrum LLC,430000,430000
+44,Lower 700 MHz Band,WZ-CMA214-C,"Richland-Kennewick-Pasco, WA",Vulcan Spectrum LLC,430000,430000
+44,Lower 700 MHz Band,WZ-CMA124-C,"Santa Barbara, CA",Lynch 3G Communications Corporation,421000,421000
+44,Lower 700 MHz Band,WZ-CMA049-C,New Haven-Waterbury-Meriden CT,LIN Television Corporation,416000,416000
+44,Lower 700 MHz Band,WZ-CMA270-C,"Bellingham, WA",Vulcan Spectrum LLC,404000,404000
+44,Lower 700 MHz Band,WZ-CMA441-C,Kansas 14 - Reno,"KanOkla Telephone Association, Inc.",467000,396950
+44,Lower 700 MHz Band,WZ-CMA024-C,"Kansas City, MO-KS","Aloha Partners, L.P.",610000,396500
+44,Lower 700 MHz Band,WZ-CMA060-C,"Orlando, FL","Harbor Wireless, LLC",593000,385450
+44,Lower 700 MHz Band,WZ-CMA016-C,"Cleveland, OH","Aloha Partners, L.P.",549000,356850
+44,Lower 700 MHz Band,WZ-CMA677-C,Utah 5 - Daggett,"MilkyWay Broadband, LLC",527000,342550
+44,Lower 700 MHz Band,WZ-CMA171-C,"Reno, NV",Lynch 3G Communications Corporation,341000,341000
+44,Lower 700 MHz Band,WZ-CMA072-C,"West Palm Beach-Boca Raton, FL","Harbor Wireless, LLC",516000,335400
+44,Lower 700 MHz Band,WZ-CMA609-C,Oregon 4 - Lincoln,Vulcan Spectrum LLC,325000,325000
+44,Lower 700 MHz Band,WZ-CMA021-C,"Milwaukee, WI",Redwood County Telephone Company,430000,322500
+44,Lower 700 MHz Band,WZ-CMA089-C,"Wichita, KS","Banks Broadcasting, Inc.",355000,301750
+44,Lower 700 MHz Band,WZ-CMA610-C,Oregon 5 - Coos,Vulcan Spectrum LLC,299000,299000
+44,Lower 700 MHz Band,WZ-CMA023-C,"Cincinnati, OH-KY-IN","Aloha Partners, L.P.",436000,283400
+44,Lower 700 MHz Band,WZ-CMA431-C,Kansas 4 - Marshall,"Blue Valley Tele-Communications, Inc.",375000,281250
+44,Lower 700 MHz Band,WZ-CMA073-C,"Oxnard-Simi Valley-Ventura, CA","Aloha Partners, L.P.",425000,276250
+44,Lower 700 MHz Band,WZ-CMA523-C,Montana 1 - Lincoln,Ronan Telephone Company,364000,273000
+44,Lower 700 MHz Band,WZ-CMA527-C,Montana 5 - Mineral,Ronan Telephone Company,361000,270750
+44,Lower 700 MHz Band,WZ-CMA608-C,Oregon 3 - Umatilla,Vulcan Spectrum LLC,266000,266000
+44,Lower 700 MHz Band,WZ-CMA698-C,Washington 6 - Pacific,Vulcan Spectrum LLC,260000,260000
+44,Lower 700 MHz Band,WZ-CMA033-C,"San Antonio, TX","Aloha Partners, L.P.",391000,254150
+44,Lower 700 MHz Band,WZ-CMA029-C,"New Orleans, LA","Aloha Partners, L.P.",384000,249600
+44,Lower 700 MHz Band,WZ-CMA028-C,"Indianapolis, IN","Aloha Partners, L.P.",375000,243750
+44,Lower 700 MHz Band,WZ-CMA031-C,"Columbus, OH","Aloha Partners, L.P.",365000,237250
+44,Lower 700 MHz Band,WZ-CMA061-C,"Charlotte-Gastonia, NC","Harbor Wireless, LLC",364000,236600
+44,Lower 700 MHz Band,WZ-CMA580-C,North Dakota 1 - Divide,"NEMONT COMMUNICATIONS, INC.",274000,232900
+44,Lower 700 MHz Band,WZ-CMA041-C,"Birmingham, AL","Corr Wireless Communications, LLC",309000,231750
+44,Lower 700 MHz Band,WZ-CMA558-C,New Mexico 6 - Lincoln,"PVT Networks, Inc.",308000,231000
+44,Lower 700 MHz Band,WZ-CMA339-C,California 4 - Madera,The Ponderosa Telephone Co.,258000,219300
+44,Lower 700 MHz Band,WZ-CMA229-C,"Medford, OR",Vulcan Spectrum LLC,216000,216000
+44,Lower 700 MHz Band,WZ-CMA071-C,"Raleigh-Durham, NC","Capitol Broadcasting Company, Inc.",210000,210000
+44,Lower 700 MHz Band,WZ-CMA088-C,"Chattanooga, TN-GA","Corr Wireless Communications, LLC",278000,208500
+44,Lower 700 MHz Band,WZ-CMA607-C,Oregon 2 - Hood River,Vulcan Spectrum LLC,207000,207000
+44,Lower 700 MHz Band,WZ-CMA721-C,Wyoming 4 - Niobrara,Union Telephone Company,201000,201000
+44,Lower 700 MHz Band,WZ-CMA111-C,"Vallejo-Fairfield-Napa, CA","Aloha Partners, L.P.",302000,196300
+44,Lower 700 MHz Band,WZ-CMA046-C,"Nashville-Davidson, TN","Aloha Partners, L.P.",296000,192400
+44,Lower 700 MHz Band,WZ-CMA036-C,"Memphis, TN-AR-MS","Aloha Partners, L.P.",295000,191750
+44,Lower 700 MHz Band,WZ-CMA043-C,"Norfolk-Virginia Beach, VA-NC","Aloha Partners, L.P.",293000,190450
+44,Lower 700 MHz Band,WZ-CMA051-C,"Jacksonville, FL","MilkyWay Broadband, LLC",292000,189800
+44,Lower 700 MHz Band,WZ-CMA074-C,"Fresno, CA","Aloha Partners, L.P.",289000,187850
+44,Lower 700 MHz Band,WZ-CMA354-C,Colorado 7 - Saguache,Union Telephone Company,186000,186000
+44,Lower 700 MHz Band,WZ-CMA076-C,"New Bedford-Fall River, MA",LIN Television Corporation,184000,184000
+44,Lower 700 MHz Band,WZ-CMA696-C,Washington 4 - Grays Harbor,Vulcan Spectrum LLC,184000,184000
+44,Lower 700 MHz Band,WZ-CMA697-C,Washington 5 - Kittitas,Vulcan Spectrum LLC,182000,182000
+44,Lower 700 MHz Band,WZ-CMA050-C,"Honolulu, HI","Aloha Partners, L.P.",279000,181350
+44,Lower 700 MHz Band,WZ-CMA045-C,"Oklahoma City, OK","Aloha Partners, L.P.",279000,181350
+44,Lower 700 MHz Band,WZ-CMA063-C,"Springfield-Holyoke, MA",LIN Television Corporation,181000,181000
+44,Lower 700 MHz Band,WZ-CMA037-C,"Louisville, KY-IN","Aloha Partners, L.P.",269000,174850
+44,Lower 700 MHz Band,WZ-CMA119-C,"Evansville, IN-KY","Bluegrass Cellular, Inc.",166000,166000
+44,Lower 700 MHz Band,WZ-CMA700-C,Washington 8 - Whitman,Whidbey Telephone Company,195000,165750
+44,Lower 700 MHz Band,WZ-CMA040-C,"Dayton, OH","Aloha Partners, L.P.",253000,164450
+44,Lower 700 MHz Band,WZ-CMA077-C,"Tucson, AZ","Aloha Partners, L.P.",248000,161200
+44,Lower 700 MHz Band,WZ-CMA606-C,Oregon 1 - Clatsop,Vulcan Spectrum LLC,161000,161000
+44,Lower 700 MHz Band,WZ-CMA080-C,"Baton Rouge, LA","SJI, Inc.",158000,158000
+44,Lower 700 MHz Band,WZ-CMA694-C,Washington 2 - Okanogan,Vulcan Spectrum LLC,157000,157000
+44,Lower 700 MHz Band,WZ-CMA667-C,Texas 16 - Burleson,LIN Television Corporation,156000,156000
+44,Lower 700 MHz Band,WZ-CMA448-C,Kentucky 6 - Madison,"East Kentucky Network, LLC",146000,146000
+44,Lower 700 MHz Band,WZ-CMA057-C,"Tulsa, OK","Aloha Partners, L.P.",223000,144950
+44,Lower 700 MHz Band,WZ-CMA059-C,"Richmond, VA","Aloha Partners, L.P.",222000,144300
+44,Lower 700 MHz Band,WZ-CMA137-C,"Melbourne-Titusville, FL","Harbor Wireless, LLC",220000,143000
+44,Lower 700 MHz Band,WZ-CMA611-C,Oregon 6 - Crook,Vulcan Spectrum LLC,140000,140000
+44,Lower 700 MHz Band,WZ-CMA062-C,"New Brunswick-Perth Amboy, NJ",David M. Gates,212000,137800
+44,Lower 700 MHz Band,WZ-CMA215-C,"Chico, CA","Aloha Partners, L.P.",209000,135850
+44,Lower 700 MHz Band,WZ-CMA551-C,New Jersey 2 - Ocean,"Lackawaxen Long Distance Company, Inc.",130000,130000
+44,Lower 700 MHz Band,WZ-CMA490-C,Minnesota 9 - Pipestone,Redwood County Telephone Company,172000,129000
+44,Lower 700 MHz Band,WZ-CMA167-C,"Sarasota, FL","MilkyWay Broadband, LLC",197000,128050
+44,Lower 700 MHz Band,WZ-CMA675-C,Utah 3 - Juab,"MilkyWay Broadband, LLC",197000,128050
+44,Lower 700 MHz Band,WZ-CMA067-C,"Greenville-Spartanburg, SC","Harbor Wireless, LLC",192000,124800
+44,Lower 700 MHz Band,WZ-CMA081-C,"El Paso, TX",David M. Gates,186000,120900
+44,Lower 700 MHz Band,WZ-CMA210-C,"Fort Collins-Loveland, CO","Aloha Partners, L.P.",184000,119600
+44,Lower 700 MHz Band,WZ-CMA514-C,Missouri 11 - Moniteau,"Chariton Valley Communication Corporation, Inc.",140000,119000
+44,Lower 700 MHz Band,WZ-CMA102-C,"Des Moines, IA",Lynch 3G Communications Corporation,118000,118000
+44,Lower 700 MHz Band,WZ-CMA065-C,"Omaha, NE-IA","MilkyWay Broadband, LLC",180000,117000
+44,Lower 700 MHz Band,WZ-CMA125-C,"Appleton-Oskosh-Neenah, WI","3G COMM, LLC",179000,116350
+44,Lower 700 MHz Band,WZ-CMA116-C,"Lexington-Fayette, KY","East Kentucky Network, LLC",116000,116000
+44,Lower 700 MHz Band,WZ-CMA579-C,North Carolina 15 - Cabarrus,"CT Communications, Inc.",115000,115000
+44,Lower 700 MHz Band,WZ-CMA682-C,Virginia 2 - Tazewell,Citizens Telephone Cooperative,151000,113250
+44,Lower 700 MHz Band,WZ-CMA069-C,"Wilmington, DE-NJ-MD","MilkyWay Broadband, LLC",174000,113100
+44,Lower 700 MHz Band,WZ-CMA101-C,"Beaumont-Port Arthur, TX",Cameron Communications Corporation,108000,108000
+44,Lower 700 MHz Band,WZ-CMA556-C,New Mexico 4 - Santa Fe,"Plateau Telecommunications, Inc.",108000,108000
+44,Lower 700 MHz Band,WZ-CMA306-C,Gulf of Mexico,"Harbor Wireless, LLC",166000,107900
+44,Lower 700 MHz Band,WZ-CMA070-C,"Long Branch-Asbury Park, NJ","Harbor Wireless, LLC",166000,107900
+44,Lower 700 MHz Band,WZ-CMA510-C,Missouri 7 - Saline,Missouri RSA No. 7 L.P. dba Mid-Missouri Cellular,107000,107000
+44,Lower 700 MHz Band,WZ-CMA097-C,"Bakersfield, CA","Aloha Partners, L.P.",163000,105950
+44,Lower 700 MHz Band,WZ-CMA086-C,"Albuquerque, NM","Aloha Partners, L.P.",163000,105950
+44,Lower 700 MHz Band,WZ-CMA254-C,"Redding, CA","Aloha Partners, L.P.",162000,105300
+44,Lower 700 MHz Band,WZ-CMA160-C,"Killeen-Temple, TX",LIN Television Corporation,105000,105000
+44,Lower 700 MHz Band,WZ-CMA098-C,"Davenport-Rock Island, IA-IL",Lynch 3G Communications Corporation,105000,105000
+44,Lower 700 MHz Band,WZ-CMA083-C,"Mobile, AL","MilkyWay Broadband, LLC",161000,104650
+44,Lower 700 MHz Band,WZ-CMA114-C,"Lakeland-Winter Haven, FL","MilkyWay Broadband, LLC",159000,103350
+44,Lower 700 MHz Band,WZ-CMA673-C,Utah 1 - Box Elder,Union Telephone Company,103000,103000
+44,Lower 700 MHz Band,WZ-CMA336-C,California 1 - Del Norte,"Aloha Partners, L.P.",158000,102700
+44,Lower 700 MHz Band,WZ-CMA094-C,"Saginaw-Bay City-Midland, MI","AGRI-VALLEY COMMUNICATIONS, INC.",120000,102000
+44,Lower 700 MHz Band,WZ-CMA344-C,California 9 - Mendocino,"Aloha Partners, L.P.",156000,101400
+44,Lower 700 MHz Band,WZ-CMA458-C,Louisiana 5 - Beauregard,"Kaplan Telephone Company, Inc.",134000,100500
+44,Lower 700 MHz Band,WZ-CMA278-C,"Columbia, MO","Chariton Valley Communication Corporation, Inc.",118000,100300
+44,Lower 700 MHz Band,WZ-CMA092-C,"Little Rock, AR","Aloha Partners, L.P.",154000,100100
+44,Lower 700 MHz Band,WZ-CMA401-C,Illinois 8 - Washington,First Cellular of Southern Illinois,99000,99000
+44,Lower 700 MHz Band,WZ-CMA090-C,"Charleston, SC","MilkyWay Broadband, LLC",152000,98800
+44,Lower 700 MHz Band,WZ-CMA263-C,"Wausau, WI","CENTRAL WISCONSIN COMMUNICATIONS, INC.",116000,98600
+44,Lower 700 MHz Band,WZ-CMA107-C,"Stockton, CA",David M. Gates,151000,98150
+44,Lower 700 MHz Band,WZ-CMA079-C,"Knoxville, TN","Aloha Partners, L.P.",151000,98150
+44,Lower 700 MHz Band,WZ-CMA146-C,"Daytona Beach, FL","MilkyWay Broadband, LLC",146000,94900
+44,Lower 700 MHz Band,WZ-CMA110-C,"Huntington-Ashland, WV-KY-OH","East Kentucky Network, LLC",94000,94000
+44,Lower 700 MHz Band,WZ-CMA370-C,Florida 11 - Monroe,"Harbor Wireless, LLC",142000,92300
+44,Lower 700 MHz Band,WZ-CMA674-C,Utah 2 - Morgan,Union Telephone Company,90000,90000
+44,Lower 700 MHz Band,WZ-CMA182-C,"Fayetteville-Springdale, AR","Allcom Communications, Inc.",120000,90000
+44,Lower 700 MHz Band,WZ-CMA540-C,Nebraska 8 - Chase,Mobius Communications Company,119000,89250
+44,Lower 700 MHz Band,WZ-CMA095-C,"Columbia, SC","Aloha Partners, L.P.",136000,88400
+44,Lower 700 MHz Band,WZ-CMA139-C,"Montgomery, AL","Public Service Wireless Services, Inc.",88000,88000
+44,Lower 700 MHz Band,WZ-CMA445-C,Kentucky 3 - Meade,"Bluegrass Cellular, Inc.",88000,88000
+44,Lower 700 MHz Band,WZ-CMA117-C,"Colorado Springs, CO","Aloha Partners, L.P.",135000,87750
+44,Lower 700 MHz Band,WZ-CMA658-C,Texas 7 - Fannin,"Peoples Telephone Cooperative, Inc.",103000,87550
+44,Lower 700 MHz Band,WZ-CMA274-C,"Yuba City, CA","Aloha Partners, L.P.",134000,87100
+44,Lower 700 MHz Band,WZ-CMA106-C,"Jackson, MS","Cavalier Group, LLC",131000,85150
+44,Lower 700 MHz Band,WZ-CMA104-C,"Newport News-Hampton, VA",Scott Reiter,130000,84500
+44,Lower 700 MHz Band,WZ-CMA563-C,New York 5 - Otsego,"MTC North, Inc.",112000,84000
+44,Lower 700 MHz Band,WZ-CMA572-C,North Carolina 8 - Northampton,"Capitol Broadcasting Company, Inc.",83000,83000
+44,Lower 700 MHz Band,WZ-CMA243-C,"Greeley, CO",Eastern Colorado Wireless Partnership,83000,83000
+44,Lower 700 MHz Band,WZ-CMA113-C,"Madison, WI",Redwood County Telephone Company,110000,82500
+44,Lower 700 MHz Band,WZ-CMA348-C,Colorado 1 - Moffat,Union Telephone Company,82000,82000
+44,Lower 700 MHz Band,WZ-CMA149-C,"Fayetteville, NC","Capitol Broadcasting Company, Inc.",82000,82000
+44,Lower 700 MHz Band,WZ-CMA174-C,"Lafayette, LA","Kaplan Telephone Company, Inc.",108000,81000
+44,Lower 700 MHz Band,WZ-CMA115-C,"Utica-Rome, NY","Holland Wireless, L.L.C.",95000,80750
+44,Lower 700 MHz Band,WZ-CMA435-C,Kansas 8 - Ellsworth,"The Tri-county Telephone Association, Inc.",107000,80250
+44,Lower 700 MHz Band,WZ-CMA571-C,North Carolina 7 - Rockingham,"Capitol Broadcasting Company, Inc.",80000,80000
+44,Lower 700 MHz Band,WZ-CMA388-C,Idaho 1 - Boundary,Whidbey Telephone Company,94000,79900
+44,Lower 700 MHz Band,WZ-CMA716-C,Wisconsin 9 - Columbia,Redwood County Telephone Company,106000,79500
+44,Lower 700 MHz Band,WZ-CMA123-C,"Santa Rosa-Petaluma, CA","Aloha Partners, L.P.",122000,79300
+44,Lower 700 MHz Band,WZ-CMA468-C,Maryland 2 - Kent,"MilkyWay Broadband, LLC",120000,78000
+44,Lower 700 MHz Band,WZ-CMA666-C,Texas 15 - Concho,LIN Television Corporation,78000,78000
+44,Lower 700 MHz Band,WZ-CMA108-C,"Augusta, GA-SC","Aloha Partners, L.P.",119000,77350
+44,Lower 700 MHz Band,WZ-CMA142-C,"Modesto, CA","Aloha Partners, L.P.",117000,76050
+44,Lower 700 MHz Band,WZ-CMA154-C,"New London-Norwich, CT",LIN Television Corporation,76000,76000
+44,Lower 700 MHz Band,WZ-CMA574-C,North Carolina 10 - Harnett,"Capitol Broadcasting Company, Inc.",76000,76000
+44,Lower 700 MHz Band,WZ-CMA127-C,"Pensacola, FL","MilkyWay Broadband, LLC",116000,75400
+44,Lower 700 MHz Band,WZ-CMA530-C,Montana 8 - Beaverhead,Ronan Telephone Company,99000,74250
+44,Lower 700 MHz Band,WZ-CMA164-C,"Fort Myers, FL","MilkyWay Broadband, LLC",114000,74100
+44,Lower 700 MHz Band,WZ-CMA661-C,Texas 10 - Navarro,"Peoples Telephone Cooperative, Inc.",87000,73950
+44,Lower 700 MHz Band,WZ-CMA121-C,"Trenton, NJ",David M. Gates,113000,73450
+44,Lower 700 MHz Band,WZ-CMA363-C,Florida 4 - Citrus,"MilkyWay Broadband, LLC",113000,73450
+44,Lower 700 MHz Band,WZ-CMA153-C,"Columbus, GA-AL","Public Service Wireless Services, Inc.",73000,73000
+44,Lower 700 MHz Band,WZ-CMA126-C,"Salinas-Seaside-Monterey, CA","Aloha Partners, L.P.",112000,72800
+44,Lower 700 MHz Band,WZ-CMA161-C,"Lubbock, TX","XIT Telecommunications & Technology, Ltd.",85000,72250
+44,Lower 700 MHz Band,WZ-CMA208-C,"Fort Pierce, FL","Harbor Wireless, LLC",111000,72150
+44,Lower 700 MHz Band,WZ-CMA410-C,Indiana 8 - Brown,"Bluegrass Cellular, Inc.",72000,72000
+44,Lower 700 MHz Band,WZ-CMA307-C,Alabama 1 - Franklin,"Corr Wireless Communications, LLC",95000,71250
+44,Lower 700 MHz Band,WZ-CMA400-C,Illinois 7 - Vermilion,First Cellular of Southern Illinois,71000,71000
+44,Lower 700 MHz Band,WZ-CMA488-C,Minnesota 7 - Chippewa,Redwood County Telephone Company,93000,69750
+44,Lower 700 MHz Band,WZ-CMA446-C,Kentucky 4 - Spencer,"Bluegrass Cellular, Inc.",69000,69000
+44,Lower 700 MHz Band,WZ-CMA662-C,Texas 11 - Cherokee,"Peoples Telephone Cooperative, Inc.",81000,68850
+44,Lower 700 MHz Band,WZ-CMA714-C,Wisconsin 7 - Wood,"CENTRAL WISCONSIN COMMUNICATIONS, INC.",81000,68850
+44,Lower 700 MHz Band,WZ-CMA471-C,Massachusetts 2 - Barnstable,LIN Television Corporation,68000,68000
+44,Lower 700 MHz Band,WZ-CMA577-C,North Carolina 13 - Greene,"Capitol Broadcasting Company, Inc.",68000,68000
+44,Lower 700 MHz Band,WZ-CMA360-C,Florida 1 - Collier,"MilkyWay Broadband, LLC",104000,67600
+44,Lower 700 MHz Band,WZ-CMA197-C,"Lake Charles, LA",Cameron Communications Corporation,67000,67000
+44,Lower 700 MHz Band,WZ-CMA581-C,North Dakota 2 - Bottineau,North Dakota Network Co.,67000,67000
+44,Lower 700 MHz Band,WZ-CMA668-C,Texas 17 - Newton,Cameron Communications Corporation,67000,67000
+44,Lower 700 MHz Band,WZ-CMA166-C,"Hickory, NC","CT Communications, Inc.",67000,67000
+44,Lower 700 MHz Band,WZ-CMA629-C,South Carolina 5 - Georgetown,"Capitol Broadcasting Company, Inc.",67000,67000
+44,Lower 700 MHz Band,WZ-CMA511-C,Missouri 8 - Callaway,Kingdom Telephone Company,66000,66000
+44,Lower 700 MHz Band,WZ-CMA285-C,"Las Cruces, NM",Lynch 3G Communications Corporation,66000,66000
+44,Lower 700 MHz Band,WZ-CMA133-C,"Manchester-Nashua, NH",McElroy Electronics Corporation,101000,65650
+44,Lower 700 MHz Band,WZ-CMA138-C,"Macon-Warner Robins, GA","ComSouth Tellular, Inc.",87000,65250
+44,Lower 700 MHz Band,WZ-CMA409-C,Indiana 7 - Owen,"Bluegrass Cellular, Inc.",64000,64000
+44,Lower 700 MHz Band,WZ-CMA351-C,Colorado 4 - Park,Union Telephone Company,64000,64000
+44,Lower 700 MHz Band,WZ-CMA375-C,Georgia 5 - Haralson,"Lackawaxen Long Distance Company, Inc.",63000,63000
+44,Lower 700 MHz Band,WZ-CMA221-C,"Fargo-Moorehead, ND-MN","Dickey Rural Services, Inc.",74000,62900
+44,Lower 700 MHz Band,WZ-CMA134-C,"Atlantic City, NJ","MilkyWay Broadband, LLC",96000,62400
+44,Lower 700 MHz Band,WZ-CMA173-C,"Biloxi-Gulfport, MS","MilkyWay Broadband, LLC",96000,62400
+44,Lower 700 MHz Band,WZ-CMA575-C,North Carolina 11 - Hoke,"Capitol Broadcasting Company, Inc.",62000,62000
+44,Lower 700 MHz Band,WZ-CMA533-C,Nebraska 1 - Sioux,Mobius Communications Company,82000,61500
+44,Lower 700 MHz Band,WZ-CMA150-C,"Visalia-Tulare-Porterville, CA","Aloha Partners, L.P.",94000,61100
+44,Lower 700 MHz Band,WZ-CMA459-C,Louisiana 6 - Iberville,"Star Telephone Company, Inc.",61000,61000
+44,Lower 700 MHz Band,WZ-CMA289-C,"Rapid City, SD","Kennebec Telephone Company, Inc.",92000,59800
+44,Lower 700 MHz Band,WZ-CMA144-C,"Orange County, NY","Aloha Partners, L.P.",92000,59800
+44,Lower 700 MHz Band,WZ-CMA299-C,"Casper, WY",Union Telephone Company,59000,59000
+44,Lower 700 MHz Band,WZ-CMA399-C,Illinois 6 - Montgomery,First Cellular of Southern Illinois,59000,59000
+44,Lower 700 MHz Band,WZ-CMA451-C,Kentucky 9 - Elliott,"East Kentucky Network, LLC",59000,59000
+44,Lower 700 MHz Band,WZ-CMA151-C,"Poughkeepsie, NY","GTC Wireless, Inc.",78000,58500
+44,Lower 700 MHz Band,WZ-CMA654-C,Texas 3 - Parmer,"Plateau Telecommunications, Inc.",58000,58000
+44,Lower 700 MHz Band,WZ-CMA636-C,South Dakota 3 - McPherson,"Kennebec Telephone Company, Inc.",88000,57200
+44,Lower 700 MHz Band,WZ-CMA494-C,Mississippi 2 - Benton,"Waller, Inc.",76000,57000
+44,Lower 700 MHz Band,WZ-CMA176-C,"Springfield, IL",First Cellular of Southern Illinois,57000,57000
+44,Lower 700 MHz Band,WZ-CMA478-C,Michigan 7 - Newaygo,"AGRI-VALLEY COMMUNICATIONS, INC.",67000,56950
+44,Lower 700 MHz Band,WZ-CMA513-C,Missouri 10 - Benton,"Chariton Valley Communication Corporation, Inc.",67000,56950
+44,Lower 700 MHz Band,WZ-CMA706-C,West Virginia 6 - Lincoln,"East Kentucky Network, LLC",56000,56000
+44,Lower 700 MHz Band,WZ-CMA630-C,South Carolina 6 - Clarendon,"FTC Management Group, Inc.",56000,56000
+44,Lower 700 MHz Band,WZ-CMA633-C,South Carolina 9 - Lancaster,"CT Communications, Inc.",56000,56000
+44,Lower 700 MHz Band,WZ-CMA131-C,"Rockford, IL","McBride Spectrum Partners I, LLC",85000,55250
+44,Lower 700 MHz Band,WZ-CMA168-C,"Tallahassee, FL","MilkyWay Broadband, LLC",85000,55250
+44,Lower 700 MHz Band,WZ-CMA376-C,Georgia 6 - Spalding,"Public Service Wireless Services, Inc.",55000,55000
+44,Lower 700 MHz Band,WZ-CMA507-C,Missouri 4 - De Kalb,"Grand River Communications, Inc.",55000,55000
+44,Lower 700 MHz Band,WZ-CMA184-C,"Houma-Thibodaux, LA",David M. Gates,84000,54600
+44,Lower 700 MHz Band,WZ-CMA141-C,"Duluth, MN-WI","CHEQUAMEGON TELEPHONE COOPERATIVE, INC.",72000,54000
+44,Lower 700 MHz Band,WZ-CMA489-C,Minnesota 8 - Lac qui Parle,Redwood County Telephone Company,72000,54000
+44,Lower 700 MHz Band,WZ-CMA660-C,Texas 9 - Runnels,LIN Television Corporation,53000,53000
+44,Lower 700 MHz Band,WZ-CMA156-C,"Portsmouth-Rochester, NH-ME",McElroy Electronics Corporation,81000,52650
+44,Lower 700 MHz Band,WZ-CMA373-C,Georgia 3 - Chattooga,"Corr Wireless Communications, LLC",70000,52500
+44,Lower 700 MHz Band,WZ-CMA357-C,Connecticut 1 - Litchfield,LIN Television Corporation,52000,52000
+44,Lower 700 MHz Band,WZ-CMA196-C,"Champaign-Urbana-Rantoul, IL",First Cellular of Southern Illinois,52000,52000
+44,Lower 700 MHz Band,WZ-CMA157-C,"Roanoke, VA",Citizens Telephone Cooperative,69000,51750
+44,Lower 700 MHz Band,WZ-CMA372-C,Georgia 2 - Dawson,"Aloha Partners, L.P.",79000,51350
+44,Lower 700 MHz Band,WZ-CMA460-C,Louisiana 7 - West Feliciana,"SJI, Inc.",51000,51000
+44,Lower 700 MHz Band,WZ-CMA676-C,Utah 4 - Beaver,Union Telephone Company,51000,51000
+44,Lower 700 MHz Band,WZ-CMA209-C,Clarksville-Hopkinsville TN-KY,"Bluegrass Cellular, Inc.",51000,51000
+44,Lower 700 MHz Band,WZ-CMA491-C,Minnesota 10 - Le Sueur,Redwood County Telephone Company,68000,51000
+44,Lower 700 MHz Band,WZ-CMA537-C,Nebraska 5 - Boone,Northeast Nebraska Telephone Company,68000,51000
+44,Lower 700 MHz Band,WZ-CMA218-C,"Wilmington, NC","Capitol Broadcasting Company, Inc.",51000,51000
+44,Lower 700 MHz Band,WZ-CMA598-C,Oklahoma 3 - Grant,"KanOkla Telephone Association, Inc.",60000,51000
+44,Lower 700 MHz Band,WZ-CMA715-C,Wisconsin 8 - Vernon,Redwood County Telephone Company,67000,50250
+44,Lower 700 MHz Band,WZ-CMA522-C,Missouri 19 - Stoddard,BPS Telephone Company,59000,50150
+44,Lower 700 MHz Band,WZ-CMA155-C,"Savannah, GA","MilkyWay Broadband, LLC",77000,50050
+44,Lower 700 MHz Band,WZ-CMA453-C,Kentucky 11 - Clay,"East Kentucky Network, LLC",50000,50000
+44,Lower 700 MHz Band,WZ-CMA369-C,Florida 10 -  Walton,"MilkyWay Broadband, LLC",76000,49400
+44,Lower 700 MHz Band,WZ-CMA528-C,Montana 6 - Deer Lodge,"TRIANGLE COMMUNICATION SYSTEM, INC.",58000,49300
+44,Lower 700 MHz Band,WZ-CMA323-C,Arizona 6 - Graham,"San Carlos Apache Telecommunications Utility, Inc.",49000,49000
+44,Lower 700 MHz Band,WZ-CMA188-C,"Amarillo, TX","XIT Telecommunications & Technology, Ltd.",56000,47600
+44,Lower 700 MHz Band,WZ-CMA508-C,Missouri 5 - Linn,"Chariton Valley Communication Corporation, Inc.",56000,47600
+44,Lower 700 MHz Band,WZ-CMA449-C,Kentucky 7 - Trimble,"Bluegrass Cellular, Inc.",47000,47000
+44,Lower 700 MHz Band,WZ-CMA456-C,Louisiana 3 - De Soto,Cameron Communications Corporation,47000,47000
+44,Lower 700 MHz Band,WZ-CMA322-C,Arizona 5 - Gila,"San Carlos Apache Telecommunications Utility, Inc.",47000,47000
+44,Lower 700 MHz Band,WZ-CMA175-C,"Santa Cruz, CA","Aloha Partners, L.P.",72000,46800
+44,Lower 700 MHz Band,WZ-CMA170-C,"Galveston-Texas City, TX","Harbor Wireless, LLC",72000,46800
+44,Lower 700 MHz Band,WZ-CMA599-C,Oklahoma 4 - Nowata,"Craw-Kan Telephone Cooperative, Inc.",55000,46750
+44,Lower 700 MHz Band,WZ-CMA311-C,Alabama 5 - Cleburne,"Corr Wireless Communications, LLC",62000,46500
+44,Lower 700 MHz Band,WZ-CMA402-C,Illinois 9 - Clay,First Cellular of Southern Illinois,46000,46000
+44,Lower 700 MHz Band,WZ-CMA541-C,Nebraska 9 - Adams,"Glenwood Telephone Membership, Corporation",61000,45750
+44,Lower 700 MHz Band,WZ-CMA361-C,Florida 2 - Glades,"Harbor Wireless, LLC",70000,45500
+44,Lower 700 MHz Band,WZ-CMA659-C,Texas 8 - Gaines,"Poka Lambro Telecommunications, Ltd.",53000,45050
+44,Lower 700 MHz Band,WZ-CMA222-C,"Tuscaloosa, AL","Corr Wireless Communications, LLC",60000,45000
+44,Lower 700 MHz Band,WZ-CMA205-C,"Alexandria, LA",Cameron Communications Corporation,45000,45000
+44,Lower 700 MHz Band,WZ-CMA492-C,Minnesota 11 - Goodhue,Redwood County Telephone Company,60000,45000
+44,Lower 700 MHz Band,WZ-CMA343-C,California 8 - Tehama,"Aloha Partners, L.P.",69000,44850
+44,Lower 700 MHz Band,WZ-CMA371-C,Georgia 1 - Whitfield,"Corr Wireless Communications, LLC",59000,44250
+44,Lower 700 MHz Band,WZ-CMA683-C,Virginia 3 - Giles,Citizens Telephone Cooperative,59000,44250
+44,Lower 700 MHz Band,WZ-CMA340-C,California 5 - San Luis Obispo,"Aloha Partners, L.P.",68000,44200
+44,Lower 700 MHz Band,WZ-CMA509-C,Missouri 6 - Marion,"Chariton Valley Communication Corporation, Inc.",52000,44200
+44,Lower 700 MHz Band,WZ-CMA447-C,Kentucky 5 - Barren,"Bluegrass Cellular, Inc.",44000,44000
+44,Lower 700 MHz Band,WZ-CMA452-C,Kentucky 10 - Powell,"East Kentucky Network, LLC",44000,44000
+44,Lower 700 MHz Band,WZ-CMA681-C,Virginia 1 - Lee,"East Kentucky Network, LLC",44000,44000
+44,Lower 700 MHz Band,WZ-CMA186-C,"Green Bay, WI",Star Wireless LLC,67000,43550
+44,Lower 700 MHz Band,WZ-CMA359-C,Delaware 1 - Kent,"MilkyWay Broadband, LLC",67000,43550
+44,Lower 700 MHz Band,WZ-CMA179-C,"Topeka, KS","Rainbow Telephone Cooperative Association, Inc.",58000,43500
+44,Lower 700 MHz Band,WZ-CMA198-C,"St. Cloud, MN",Redwood County Telephone Company,57000,42750
+44,Lower 700 MHz Band,WZ-CMA276-C,"Grand Forks, ND-MN","Dickey Rural Services, Inc.",50000,42500
+44,Lower 700 MHz Band,WZ-CMA641-C,South Dakota 8 - Kingsbury,"Kennebec Telephone Company, Inc.",65000,42250
+44,Lower 700 MHz Band,WZ-CMA570-C,North Carolina 6 - Chatham,"Capitol Broadcasting Company, Inc.",42000,42000
+44,Lower 700 MHz Band,WZ-CMA213-C,"Pittsfield, MA",LIN Television Corporation,42000,42000
+44,Lower 700 MHz Band,WZ-CMA172-C,"Lincoln, NE","MilkyWay Broadband, LLC",64000,41600
+44,Lower 700 MHz Band,WZ-CMA211-C,"Bradenton, FL","MilkyWay Broadband, LLC",64000,41600
+44,Lower 700 MHz Band,WZ-CMA695-C,Washington 3 - Ferry,Vulcan Spectrum LLC,41000,41000
+44,Lower 700 MHz Band,WZ-CMA421-C,Iowa 10 - Humboldt,Webster-Calhoun Cooperative Telephone Association,54000,40500
+44,Lower 700 MHz Band,WZ-CMA406-C,Indiana 4 - Miami,Swayzee Telephone Company,54000,40500
+44,Lower 700 MHz Band,WZ-CMA189-C,"Racine, WI",Redwood County Telephone Company,53000,39750
+44,Lower 700 MHz Band,WZ-CMA539-C,Nebraska 7 - Hall,"Glenwood Telephone Membership, Corporation",53000,39750
+44,Lower 700 MHz Band,WZ-CMA319-C,Arizona 2 - Coconino,"Aloha Partners, L.P.",61000,39650
+44,Lower 700 MHz Band,WZ-CMA192-C,"Gainesville, FL","MilkyWay Broadband, LLC",61000,39650
+44,Lower 700 MHz Band,WZ-CMA442-C,Kansas 15 - Elk,"Craw-Kan Telephone Cooperative, Inc.",46000,39100
+44,Lower 700 MHz Band,WZ-CMA250-C,"Bloomington-Normal, IL",First Cellular of Southern Illinois,39000,39000
+44,Lower 700 MHz Band,WZ-CMA671-C,Texas 20 - Wilson,"Guadalupe Valley Communications Systems, L.P.",39000,39000
+44,Lower 700 MHz Band,WZ-CMA717-C,Wisconsin 10 - Door,Star Wireless LLC,59000,38350
+44,Lower 700 MHz Band,WZ-CMA241-C,"Pueblo, CO","Beulahland Communications, Inc.",59000,38350
+44,Lower 700 MHz Band,WZ-CMA582-C,North Dakota 3 - Barnes,"Dickey Rural Services, Inc.",45000,38250
+44,Lower 700 MHz Band,WZ-CMA232-C,"Eau Claire, WI","CTC Telcom, Inc.",51000,38250
+44,Lower 700 MHz Band,WZ-CMA444-C,Kentucky 2 - Union,"Bluegrass Cellular, Inc.",38000,38000
+44,Lower 700 MHz Band,WZ-CMA245-C,"Ocala, FL","MilkyWay Broadband, LLC",58000,37700
+44,Lower 700 MHz Band,WZ-CMA637-C,South Dakota 4 - Marshall,"Kennebec Telephone Company, Inc.",58000,37700
+44,Lower 700 MHz Band,WZ-CMA436-C,Kansas 9 - Morris,"The Tri-county Telephone Association, Inc.",50000,37500
+44,Lower 700 MHz Band,WZ-CMA684-C,Virginia 4 - Bedford,Citizens Telephone Cooperative,49000,36750
+44,Lower 700 MHz Band,WZ-CMA493-C,Mississippi 1 - Tunica,"Waller, Inc.",49000,36750
+44,Lower 700 MHz Band,WZ-CMA474-C,Michigan 3 - Emmet,"AGRI-VALLEY COMMUNICATIONS, INC.",43000,36550
+44,Lower 700 MHz Band,WZ-CMA713-C,Wisconsin 6 - Trempealeau,"Tri-County Communications, Inc.",36000,36000
+44,Lower 700 MHz Band,WZ-CMA382-C,Georgia 12 - Liberty,"MilkyWay Broadband, LLC",55000,35750
+44,Lower 700 MHz Band,WZ-CMA265-C,"Fort Walton Beach, FL","MilkyWay Broadband, LLC",55000,35750
+44,Lower 700 MHz Band,WZ-CMA349-C,Colorado 2 - Logan,Eastern Colorado Wireless Partnership,35000,35000
+44,Lower 700 MHz Band,WZ-CMA576-C,North Carolina 12 - Sampson,"Capitol Broadcasting Company, Inc.",35000,35000
+44,Lower 700 MHz Band,WZ-CMA567-C,North Carolina 3 - Ashe,"WSS, L.L.C.",46000,34500
+44,Lower 700 MHz Band,WZ-CMA566-C,North Carolina 2 - Yancey,"WSS, L.L.C.",46000,34500
+44,Lower 700 MHz Band,WZ-CMA503-C,Mississippi 11 - Lamar,"Cavalier Group, LLC",53000,34450
+44,Lower 700 MHz Band,WZ-CMA239-C,"Joplin, MO","Craw-Kan Telephone Cooperative, Inc.",40000,34000
+44,Lower 700 MHz Band,WZ-CMA450-C,Kentucky 8 - Mason,"East Kentucky Network, LLC",34000,34000
+44,Lower 700 MHz Band,WZ-CMA623-C,Pennsylvania 12 - Lebanon,"Lackawaxen Long Distance Company, Inc.",34000,34000
+44,Lower 700 MHz Band,WZ-CMA264-C,"Florence, SC","FTC Management Group, Inc.",34000,34000
+44,Lower 700 MHz Band,WZ-CMA261-C,"Albany, GA","Public Service Wireless Services, Inc.",34000,34000
+44,Lower 700 MHz Band,WZ-CMA732-C,Guam,Guam Cellular and Paging,40000,34000
+44,Lower 700 MHz Band,WZ-CMA644-C,Tennessee 2 - Cannon,"Advantage Cellular Systems, Inc.",45000,33750
+44,Lower 700 MHz Band,WZ-CMA529-C,Montana 7 - Fergus,"TRIANGLE COMMUNICATION SYSTEM, INC.",39000,33150
+44,Lower 700 MHz Band,WZ-CMA481-C,Michigan 10 - Tuscola,"AGRI-VALLEY COMMUNICATIONS, INC.",39000,33150
+44,Lower 700 MHz Band,WZ-CMA195-C,"Cedar Rapids, IA",Star Wireless LLC,51000,33150
+44,Lower 700 MHz Band,WZ-CMA477-C,Michigan 6 - Roscommon,"AGRI-VALLEY COMMUNICATIONS, INC.",39000,33150
+44,Lower 700 MHz Band,WZ-CMA648-C,Tennessee 6 - Giles,"Corr Wireless Communications, LLC",44000,33000
+44,Lower 700 MHz Band,WZ-CMA405-C,Indiana 3 - Huntington,Swayzee Telephone Company,44000,33000
+44,Lower 700 MHz Band,WZ-CMA517-C,Missouri 14 - Barton,McDonald County Telephone Company,44000,33000
+44,Lower 700 MHz Band,WZ-CMA535-C,Nebraska 3 - Knox,Northeast Nebraska Telephone Company,44000,33000
+44,Lower 700 MHz Band,WZ-CMA268-C,"Billings, MT",Cable & Communications Corporation,38000,32300
+44,Lower 700 MHz Band,WZ-CMA280-C,"Burlington, NC","Capitol Broadcasting Company, Inc.",32000,32000
+44,Lower 700 MHz Band,WZ-CMA313-C,Alabama 7 - Butler,"MilkyWay Broadband, LLC",49000,31850
+44,Lower 700 MHz Band,WZ-CMA692-C,Virginia 12 - Caroline,"MilkyWay Broadband, LLC",49000,31850
+44,Lower 700 MHz Band,WZ-CMA380-C,Georgia 10 - Bleckley,"ComSouth Tellular, Inc.",42000,31500
+44,Lower 700 MHz Band,WZ-CMA216-C,"Janesville-Beloit, WI",Redwood County Telephone Company,42000,31500
+44,Lower 700 MHz Band,WZ-CMA308-C,Alabama 2 - Jackson,"FARMERS CELLULAR TELEPHONE, INC.",37000,31450
+44,Lower 700 MHz Band,WZ-CMA475-C,Michigan 4 - Cheboygan,"AGRI-VALLEY COMMUNICATIONS, INC.",37000,31450
+44,Lower 700 MHz Band,WZ-CMA358-C,Connecticut 2 - Windham,LIN Television Corporation,31000,31000
+44,Lower 700 MHz Band,WZ-CMA461-C,Louisiana 8 - St. James,"SJI, Inc.",31000,31000
+44,Lower 700 MHz Band,WZ-CMA234-C,"Athens, GA","Harbor Wireless, LLC",47000,30550
+44,Lower 700 MHz Band,WZ-CMA542-C,Nebraska 10 - Cass,"Glenwood Telephone Membership, Corporation",40000,30000
+44,Lower 700 MHz Band,WZ-CMA362-C,Florida 3 - Hardee,"MilkyWay Broadband, LLC",46000,29900
+44,Lower 700 MHz Band,WZ-CMA632-C,South Carolina 8 - Hampton,"MilkyWay Broadband, LLC",46000,29900
+44,Lower 700 MHz Band,WZ-CMA374-C,Georgia 4 - Jasper,"DYCOM HOLDING, INC.",35000,29750
+44,Lower 700 MHz Band,WZ-CMA515-C,Missouri 12 - Maries,"Chariton Valley Communication Corporation, Inc.",35000,29750
+44,Lower 700 MHz Band,WZ-CMA226-C,"Florence, AL","Corr Wireless Communications, LLC",39000,29250
+44,Lower 700 MHz Band,WZ-CMA275-C,"St. Joseph, MO","Grand River Communications, Inc.",29000,29000
+44,Lower 700 MHz Band,WZ-CMA284-C,"Elmira, NY",Lynch 3G Communications Corporation,29000,29000
+44,Lower 700 MHz Band,WZ-CMA423-C,Iowa 12 - Winneshiek,"Alpine Communications, L.C.",34000,28900
+44,Lower 700 MHz Band,WZ-CMA337-C,California 2 - Modoc,"Aloha Partners, L.P.",44000,28600
+44,Lower 700 MHz Band,WZ-CMA283-C,"Panama City, FL","MilkyWay Broadband, LLC",44000,28600
+44,Lower 700 MHz Band,WZ-CMA244-C,"Kenosha, WI",Redwood County Telephone Company,38000,28500
+44,Lower 700 MHz Band,WZ-CMA719-C,Wyoming 2 - Sheridan,Union Telephone Company,28000,28000
+44,Lower 700 MHz Band,WZ-CMA496-C,Mississippi 4 - Yalobusha,"Waller, Inc.",37000,27750
+44,Lower 700 MHz Band,WZ-CMA554-C,New Mexico 2 - Colfax,"Northern New Mexico Telecom, Inc.",42000,27300
+44,Lower 700 MHz Band,WZ-CMA473-C,Michigan 2 - Alger,"AGRI-VALLEY COMMUNICATIONS, INC.",32000,27200
+44,Lower 700 MHz Band,WZ-CMA414-C,Iowa 3 - Monroe,"Grand River Communications, Inc.",27000,27000
+44,Lower 700 MHz Band,WZ-CMA298-C,"Bismarck, ND",BEK Communications Cooperative,36000,27000
+44,Lower 700 MHz Band,WZ-CMA228-C,"Vineland-Millville, NJ","MilkyWay Broadband, LLC",41000,26650
+44,Lower 700 MHz Band,WZ-CMA364-C,Florida 5 - Putnam,"MilkyWay Broadband, LLC",41000,26650
+44,Lower 700 MHz Band,WZ-CMA653-C,Texas 2 - Hansford,"XIT Telecommunications & Technology, Ltd.",31000,26350
+44,Lower 700 MHz Band,WZ-CMA437-C,Kansas 10 - Franklin,"Craw-Kan Telephone Cooperative, Inc.",31000,26350
+44,Lower 700 MHz Band,WZ-CMA512-C,Missouri 9 - Bates,"Craw-Kan Telephone Cooperative, Inc.",31000,26350
+44,Lower 700 MHz Band,WZ-CMA315-C,Alaska 1 - Wade Hampton,"Arctic Slope Telecommunications and Cellular, Inc.",35000,26250
+44,Lower 700 MHz Band,WZ-CMA718-C,Wyoming 1 - Park,Union Telephone Company,26000,26000
+44,Lower 700 MHz Band,WZ-CMA624-C,Rhode Island 1 - Newport,LIN Television Corporation,26000,26000
+44,Lower 700 MHz Band,WZ-CMA432-C,Kansas 5 - Brown,"Rainbow Telephone Cooperative Association, Inc.",34000,25500
+44,Lower 700 MHz Band,WZ-CMA256-C,"Charlottesville, VA","DataCom Wireless, L.L.C.",39000,25350
+44,Lower 700 MHz Band,WZ-CMA246-C,"Dothan, AL","MilkyWay Broadband, LLC",39000,25350
+44,Lower 700 MHz Band,WZ-CMA217-C,"Anderson, IN","MilkyWay Broadband, LLC",39000,25350
+44,Lower 700 MHz Band,WZ-CMA552-C,New Jersey 3 - Sussex,"Cavalier Group, LLC",39000,25350
+44,Lower 700 MHz Band,WZ-CMA338-C,California 3 - Alpine,"Aloha Partners, L.P.",38000,24700
+44,Lower 700 MHz Band,WZ-CMA346-C,California 11 - El Dorado,"Aloha Partners, L.P.",38000,24700
+44,Lower 700 MHz Band,WZ-CMA390-C,Idaho 3 - Lemhi,"Banks Broadcasting, Inc.",29000,24650
+44,Lower 700 MHz Band,WZ-CMA267-C,"Sioux Falls, SD","Kennebec Telephone Company, Inc.",37000,24050
+44,Lower 700 MHz Band,WZ-CMA288-C,"Rochester, MN",Redwood County Telephone Company,32000,24000
+44,Lower 700 MHz Band,WZ-CMA506-C,Missouri 3 - Schuyler,Mark Twain Communications Company,24000,24000
+44,Lower 700 MHz Band,WZ-CMA564-C,New York 6 - Columbia,"GTC Wireless, Inc.",32000,24000
+44,Lower 700 MHz Band,WZ-CMA321-C,Arizona 4 - Yuma,David M. Gates,36000,23400
+44,Lower 700 MHz Band,WZ-CMA545-C,Nevada 3 - Storey,"Aloha Partners, L.P.",36000,23400
+44,Lower 700 MHz Band,WZ-CMA387-C,Hawaii 3 - Hawaii,"Aloha Partners, L.P.",36000,23400
+44,Lower 700 MHz Band,WZ-CMA534-C,Nebraska 2 - Cherry,Mobius Communications Company,31000,23250
+44,Lower 700 MHz Band,WZ-CMA330-C,Arkansas 7 - Pope,"Yell County Telephone Company, Inc.",31000,23250
+44,Lower 700 MHz Band,WZ-CMA708-C,Wisconsin 1 - Burnett,"CTC Telcom, Inc.",31000,23250
+44,Lower 700 MHz Band,WZ-CMA277-C,"Sheboygan, WI",Redwood County Telephone Company,31000,23250
+44,Lower 700 MHz Band,WZ-CMA538-C,Nebraska 6 - Keith,Mobius Communications Company,31000,23250
+44,Lower 700 MHz Band,WZ-CMA312-C,Alabama 6 - Washington,"MilkyWay Broadband, LLC",35000,22750
+44,Lower 700 MHz Band,WZ-CMA252-C,"Pascagoula, MI","MilkyWay Broadband, LLC",35000,22750
+44,Lower 700 MHz Band,WZ-CMA230-C,"Decatur, IL","McBride Spectrum Partners I, LLC",35000,22750
+44,Lower 700 MHz Band,WZ-CMA294-C,"San Angelo, TX","C&W Enterprises, Inc.",30000,22500
+44,Lower 700 MHz Band,WZ-CMA711-C,Wisconsin 4 - Marinette,Star Wireless LLC,34000,22100
+44,Lower 700 MHz Band,WZ-CMA555-C,New Mexico 3 - Catron,Lynch 3G Communications Corporation,22000,22000
+44,Lower 700 MHz Band,WZ-CMA300-C,"Victoria, TX","Guadalupe Valley Communications Systems, L.P.",22000,22000
+44,Lower 700 MHz Band,WZ-CMA290-C,"La Crosse, WI",Redwood County Telephone Company,29000,21750
+44,Lower 700 MHz Band,WZ-CMA342-C,California 7 - Imperial,"Aloha Partners, L.P.",33000,21450
+44,Lower 700 MHz Band,WZ-CMA470-C,Massachusetts 1 - Franklin,LIN Television Corporation,21000,21000
+44,Lower 700 MHz Band,WZ-CMA317-C,Alaska 3 - Haines,City of Ketchikan dba Ketchikan Public Utilities,21000,21000
+44,Lower 700 MHz Band,WZ-CMA699-C,Washington 7 - Skamania,Vulcan Spectrum LLC,21000,21000
+44,Lower 700 MHz Band,WZ-CMA550-C,New Jersey 1 - Hunterdon,"Cavalier Group, LLC",32000,20800
+44,Lower 700 MHz Band,WZ-CMA438-C,Kansas 11 - Hamilton,"Pioneer Telephone Association, Inc.",24000,20400
+44,Lower 700 MHz Band,WZ-CMA656-C,Texas 5 - Hardeman,"Poka Lambro Telecommunications, Ltd.",24000,20400
+44,Lower 700 MHz Band,WZ-CMA712-C,Wisconsin 5 - Pierce,"West Wisconsin Telcom Cooperative, Inc.",27000,20250
+44,Lower 700 MHz Band,WZ-CMA616-C,Pennsylvania 5 - Wayne,"Lackawaxen Long Distance Company, Inc.",20000,20000
+44,Lower 700 MHz Band,WZ-CMA297-C,"Great Falls, MT",Montana Spectrum Alliance,23000,19550
+44,Lower 700 MHz Band,WZ-CMA524-C,Montana 2 - Toole,"TRIANGLE COMMUNICATION SYSTEM, INC.",23000,19550
+44,Lower 700 MHz Band,WZ-CMA525-C,Montana 3 - Phillips,Cable & Communications Corporation,23000,19550
+44,Lower 700 MHz Band,WZ-CMA386-C,Hawai 2 - Maui,"Aloha Partners, L.P.",30000,19500
+44,Lower 700 MHz Band,WZ-CMA347-C,California 12 - Kings,"Aloha Partners, L.P.",30000,19500
+44,Lower 700 MHz Band,WZ-CMA412-C,Iowa 1 - Mills,"Grand River Communications, Inc.",19000,19000
+44,Lower 700 MHz Band,WZ-CMA271-C,"Kokomo, IN","MilkyWay Broadband, LLC",29000,18850
+44,Lower 700 MHz Band,WZ-CMA518-C,Missouri 15 - Stone,"Harbor Wireless, LLC",29000,18850
+44,Lower 700 MHz Band,WZ-CMA301-C,"Lawrence, KS","Rainbow Telephone Cooperative Association, Inc.",25000,18750
+44,Lower 700 MHz Band,WZ-CMA434-C,Kansas 7 - Trego,"H&B Communications, Inc.",25000,18750
+44,Lower 700 MHz Band,WZ-CMA318-C,Arizona 1 - Mohave,"Aloha Partners, L.P.",28000,18200
+44,Lower 700 MHz Band,WZ-CMA398-C,Illinois 5 - Mason,"McBride Spectrum Partners I, LLC",28000,18200
+44,Lower 700 MHz Band,WZ-CMA657-C,Texas 6 - Jack,Nortex Communications Company,24000,18000
+44,Lower 700 MHz Band,WZ-CMA709-C,Wisconsin 2 - Bayfield,"CHEQUAMEGON TELEPHONE COOPERATIVE, INC.",24000,18000
+44,Lower 700 MHz Band,WZ-CMA353-C,Colorado 6 - San Miguel,"Farmers Telephone Company, Inc.",18000,18000
+44,Lower 700 MHz Band,WZ-CMA642-C,South Dakota 9 - Hanson,"Kennebec Telephone Company, Inc.",27000,17550
+44,Lower 700 MHz Band,WZ-CMA366-C,Florida 7 - Hamilton,"MilkyWay Broadband, LLC",27000,17550
+44,Lower 700 MHz Band,WZ-CMA367-C,Florida 8 - Jefferson,"MilkyWay Broadband, LLC",27000,17550
+44,Lower 700 MHz Band,WZ-CMA355-C,Colorado 8 - Kiowa,Eastern Colorado Wireless Partnership,17000,17000
+44,Lower 700 MHz Band,WZ-CMA536-C,Nebraska 4 - Grant,"Great Plains Communications, Inc",17000,17000
+44,Lower 700 MHz Band,WZ-CMA345-C,California 10 - Sierra,"Aloha Partners, L.P.",25000,16250
+44,Lower 700 MHz Band,WZ-CMA526-C,Montana 4 - Daniels,Cable & Communications Corporation,19000,16150
+44,Lower 700 MHz Band,WZ-CMA557-C,New Mexico 5 - Grant,Lynch 3G Communications Corporation,16000,16000
+44,Lower 700 MHz Band,WZ-CMA418-C,Iowa 7 - Audubon,"Grand River Communications, Inc.",16000,16000
+44,Lower 700 MHz Band,WZ-CMA413-C,Iowa 2 - Union,"Grand River Communications, Inc.",15000,15000
+44,Lower 700 MHz Band,WZ-CMA730-C,Virgin Islands 1 - St. Thomas,"Aloha Partners, L.P.",23000,14950
+44,Lower 700 MHz Band,WZ-CMA302-C,"Enid, OK","KanOkla Telephone Association, Inc.",17000,14450
+44,Lower 700 MHz Band,WZ-CMA731-C,Virgin Islands 2 - St. Croix,"Aloha Partners, L.P.",22000,14300
+44,Lower 700 MHz Band,WZ-CMA584-C,North Dakota 5 - Kidder,BEK Communications Cooperative,19000,14250
+44,Lower 700 MHz Band,WZ-CMA420-C,Iowa 9 - Ida,Webster-Calhoun Cooperative Telephone Association,19000,14250
+44,Lower 700 MHz Band,WZ-CMA652-C,Texas 1 - Dallam,"XIT Telecommunications & Technology, Ltd.",16000,13600
+44,Lower 700 MHz Band,WZ-CMA504-C,Missouri 1 - Atchison,"Grand River Communications, Inc.",13000,13000
+44,Lower 700 MHz Band,WZ-CMA640-C,South Dakota 7 - Sully,"Kennebec Telephone Company, Inc.",20000,13000
+44,Lower 700 MHz Band,WZ-CMA638-C,South Dakota 5 - Custer,"Kennebec Telephone Company, Inc.",20000,13000
+44,Lower 700 MHz Band,WZ-CMA597-C,Oklahoma 2 - Harper,"KanOkla Telephone Association, Inc.",15000,12750
+44,Lower 700 MHz Band,WZ-CMA430-C,Kansas 3 - Jewell,"Blue Valley Tele-Communications, Inc.",16000,12000
+44,Lower 700 MHz Band,WZ-CMA428-C,Kansas 1 - Cheyenne,S&T Communications Inc,15000,11250
+44,Lower 700 MHz Band,WZ-CMA531-C,Montana 9 - Carbon,"NEMONT COMMUNICATIONS, INC.",13000,11050
+44,Lower 700 MHz Band,WZ-CMA368-C,Florida 9 - Calhoun,"MilkyWay Broadband, LLC",17000,11050
+44,Lower 700 MHz Band,WZ-CMA655-C,Texas 4 - Briscoe,"Poka Lambro Telecommunications, Ltd.",13000,11050
+44,Lower 700 MHz Band,WZ-CMA419-C,Iowa 8 - Monona,"MilkyWay Broadband, LLC",16000,10400
+44,Lower 700 MHz Band,WZ-CMA722-C,Wyoming 5 - Converse,Union Telephone Company,10000,10000
+44,Lower 700 MHz Band,WZ-CMA505-C,Missouri 2 - Harrison,"Grand River Communications, Inc.",10000,10000
+44,Lower 700 MHz Band,WZ-CMA385-C,Hawaii 1 - Kauai,"Aloha Partners, L.P.",15000,9750
+44,Lower 700 MHz Band,WZ-CMA665-C,Texas 14 - Loving,"MilkyWay Broadband, LLC",15000,9750
+44,Lower 700 MHz Band,WZ-CMA439-C,Kansas 12 - Hodgeman,"United Telephone Association, Inc.",13000,9750
+44,Lower 700 MHz Band,WZ-CMA365-C,Florida 6 - Dixie,"MilkyWay Broadband, LLC",14000,9100
+44,Lower 700 MHz Band,WZ-CMA462-C,Louisiana 9 - Plaquemines,"SJI, Inc.",9000,9000
+44,Lower 700 MHz Band,WZ-CMA352-C,Colorado 5 - Elbert,Eastern Colorado Wireless Partnership,8100,8100
+44,Lower 700 MHz Band,WZ-CMA544-C,Nevada 2 - Lander,"Aloha Partners, L.P.",12000,7800
+44,Lower 700 MHz Band,WZ-CMA639-C,South Dakota 6 - Haakon,"Kennebec Telephone Company, Inc.",12000,7800
+44,Lower 700 MHz Band,WZ-CMA596-C,Oklahoma 1 - Cimarron,"Panhandle Telecommunication Systems, Inc.",7700,7700
+44,Lower 700 MHz Band,WZ-CMA356-C,Colorado 9 - Costilla,BLANCA TELEPHONE COMPANY,10000,7500
+44,Lower 700 MHz Band,WZ-CMA429-C,Kansas 2 - Norton,"United Telephone Association, Inc.",9600,7200
+44,Lower 700 MHz Band,WZ-CMA543-C,Nevada 1 - Humboldt,"Aloha Partners, L.P.",11000,7150
+44,Lower 700 MHz Band,WZ-CMA440-C,Kansas 13 - Edwards,"United Telephone Association, Inc.",9200,6900
+44,Lower 700 MHz Band,WZ-CMA433-C,Kansas 6 - Wallace,S&T Communications Inc,8700,6525
+44,Lower 700 MHz Band,WZ-CMA634-C,South Dakota 1 - Harding,"Kennebec Telephone Company, Inc.",10000,6500
+44,Lower 700 MHz Band,WZ-CMA678-C,Utah 6 - Piute,"MilkyWay Broadband, LLC",10000,6500
+44,Lower 700 MHz Band,WZ-CMA304-C,"Joliet, IL","McBride Spectrum Partners I, LLC",9700,6305
+44,Lower 700 MHz Band,WZ-CMA664-C,Texas 13 - Reeves,"MilkyWay Broadband, LLC",9600,6240
+44,Lower 700 MHz Band,WZ-CMA672-C,Texas 21 - Chambers,Cameron Communications Corporation,6000,6000
+44,Lower 700 MHz Band,WZ-CMA341-C,California 6 - Mono,"Aloha Partners, L.P.",8500,5525
+44,Lower 700 MHz Band,WZ-CMA532-C,Montana 10 - Prairie,Cable & Communications Corporation,5900,5015
+44,Lower 700 MHz Band,WZ-CMA546-C,Nevada 4 - Mineral,"Aloha Partners, L.P.",7700,5005
+44,Lower 700 MHz Band,WZ-CMA663-C,Texas 12 - Hudspeth,"MilkyWay Broadband, LLC",7100,4615
+44,Lower 700 MHz Band,WZ-CMA635-C,South Dakota 2 - Corson,"Kennebec Telephone Company, Inc.",7000,4550
+44,Lower 700 MHz Band,WZ-CMA650-C,Tennessee 8 - Johnson,"Aloha Partners, L.P.",4100,2665
+44,Lower 700 MHz Band,WZ-CMA547-C,Nevada 5 - White Pine,"Aloha Partners, L.P.",3900,2535
+44,Lower 700 MHz Band,WZ-CMA559-C,New York 1 - Jefferson,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA562-C,New York 4 - Yates,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA591-C,Ohio 7 - Tuscarawas,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA592-C,Ohio 8 - Clinton,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA593-C,Ohio 9 - Ross,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA594-C,Ohio 10 - Perry,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA595-C,Ohio 11 - Columbiana,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA105-C,"Lancaster, PA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA561-C,New York 3 - Chautauqua,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA560-C,New York 2 - Franklin,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA586-C,Ohio 2 - Sandusky,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA136-C,"Lorain-Elyria, OH",FCC,0,0
+44,Lower 700 MHz Band,WZ-EAG704-D,Great Lakes,FCC,0,0
+44,Lower 700 MHz Band,WZ-EAG702-D,Mid-Atlantic,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA600-C,Oklahoma 5 - Roger Mills,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA100-C,"Shreveport, LA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA128-C,"McAllen-Edinburg-Mission, TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA099-C,"York, PA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA601-C,Oklahoma 6 - Seminole,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA602-C,Oklahoma 7 - Beckham,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA096-C,"Fort Wayne, IN",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA103-C,"Peoria, IL",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA569-C,North Carolina 5 - Anson,FCC,0,0
+44,Lower 700 MHz Band,WZ-EAG705-D,Central / Mountain,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA603-C,Oklahoma 8 - Jackson,FCC,0,0
+44,Lower 700 MHz Band,WZ-EAG703-D,Southeast,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA122-C,"Binghamton, NY",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA132-C,"Kalamazoo, MI",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA583-C,North Dakota 4 - McKenzie,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA573-C,North Carolina 9 - Camden,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA120-C,"Huntsville, AL",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA590-C,Ohio 6 - Morrow,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA585-C,Ohio 1 - Williams,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA112-C,"Corpus Christi, TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA568-C,North Carolina 4 - Henderson,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA129-C,"South Bend-Mishawaka, IN",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA130-C,"Erie, PA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA578-C,North Carolina 14 - Pitt,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA565-C,North Carolina 1 - Cherokee,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA587-C,Ohio 3 - Ashtabula,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA588-C,Ohio 4 - Mercer,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA589-C,Ohio 5 - Hancock,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA733-C,American Samoa,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA118-C,"Reading, PA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA053-C,"Syracuse, NY",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA705-C,West Virginia 5 - Tucker,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA707-C,West Virginia 7 - Raleigh,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA048-C,"Toledo, OH-MI",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA651-C,Tennessee 9 - Maury,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA710-C,Wisconsin 3 - Vilas,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA618-C,Pennsylvania 7 - Jefferson,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA052-C,"Akron, OH",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA703-C,West Virginia 3 - Monongalia,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA054-C,"Gary-Hammond-East Chicago, IN",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA055-C,"Worchester-Leominster, MA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA056-C,"Northeast Pennsylvania, PA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA647-C,Tennessee 5 - Fayette,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA058-C,"Allentown-Bethlehem, PA-NJ",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA646-C,Tennessee 4 - Hamblen,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA649-C,Tennessee 7 - Bledsoe,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA025-C,"Buffalo, NY",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA688-C,Virginia 8 - Amelia,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA686-C,Virginia 6 - Highland,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA685-C,Virginia 5 - Bath,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA689-C,Virginia 9 - Greensville,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA680-C,Vermont 2 - Addison,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA679-C,Vermont 1 - Franklin,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA704-C,West Virginia 4 - Grant,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA034-C,"Rochester, NY",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA044-C,"Albany-Schenectady-Troy, NY",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA670-C,Texas 19 - Atascosa,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA691-C,Virginia 11 - Madison,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA669-C,Texas 18 - Edwards,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA701-C,West Virginia 1 - Mason,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA702-C,West Virginia 2 - Wetzel,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA180-C,"Springfield, OH",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA690-C,Virginia 10 - Frederick,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA087-C,"Canton, OH",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA645-C,Tennessee 3 - Macon,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA621-C,Pennsylvania 10 - Bedford,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA620-C,Pennsylvania 9 - Greene,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA687-C,Virginia 7 - Buckingham,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA619-C,Pennsylvania 8 - Union,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA617-C,Pennsylvania 6 - Lawrence,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA622-C,Pennsylvania 11 - Huntington,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA085-C,"Johnson City-Kingsport, TN-VA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA625-C,South Carolina 1 - Oconee,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA615-C,Pennsylvania 4 - Bradford,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA614-C,Pennsylvania 3 - Potter,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA613-C,Pennsylvania 2 - McKean,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA091-C,"San Juan-Caguas, PR",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA612-C,Pennsylvania 1 - Crawford,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA605-C,Oklahoma 10 - Haskell,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA084-C,"Harrisburg, PA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA729-C,Puerto Rico 7 - Culebra,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA604-C,Oklahoma 9 - Garvin,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA723-C,Puerto Rico 1 - Rincon,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA724-C,Puerto Rico 2 - Adjuntas,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA064-C,"Grand Rapids, MI",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA725-C,Puerto Rico 3 - Ciales,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA726-C,Puerto Rico 4 - Aibonito,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA078-C,"Lansing-East Lansing, MI",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA728-C,Puerto Rico 6 - Vieques,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA643-C,Tennessee 1 - Lake,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA066-C,"Youngstown-Warren, OH",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA068-C,"Flint, MI",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA631-C,South Carolina 7 - Calhoun,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA628-C,South Carolina 4 - Chesterfiel,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA627-C,South Carolina 3 - Cherokee,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA626-C,South Carolina 2 - Laurens,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA727-C,Puerto Rico 5 - Ceiba,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA286-C,"Dubuque, IA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA408-C,Indiana 6 - Randolph,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA273-C,"Kankakee, IL",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA417-C,Iowa 6 - Iowa,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA279-C,"Lewiston-Auburn, ME",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA416-C,Iowa 5 - Jackson,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA281-C,"Laredo, TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA422-C,Iowa 11 - Hardin,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA415-C,Iowa 4 - Muscatine,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA269-C,"Cumberland, MD-WV",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA287-C,"Bryan-College Station, TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA411-C,Indiana 9 - Decatur,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA291-C,"Pine Bluff, AR",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA292-C,"Sherman-Denison, TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA293-C,"Owensboro, KY",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA295-C,"Midland, TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA178-C,"Wheeling, WV-OH",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA282-C,"Bloomington, IN",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA259-C,"State College, PA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA247-C,"Lafayette, IN",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA248-C,"Burlington, VT",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA249-C,"Anniston, AL",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA251-C,"Williamsport, PA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA253-C,"Sioux City, IA-NE",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA255-C,"Odessa, TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA272-C,"Gadsden, AL",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA258-C,"Jacksonville, NC",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA407-C,Indiana 5 - Warren,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA260-C,"Lawton, OK",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA262-C,"Danville, VA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA427-C,Iowa 16 - Lyon,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA426-C,Iowa 15 - Dickinson,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA425-C,Iowa 14 - Kossuth,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA266-C,"Glens Falls, NY",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA424-C,Iowa 13 - Mitchell,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA257-C,"Hagerstown, MD",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA389-C,Idaho 2 - Idaho,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA296-C,"Iowa City, IA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA329-C,Arkansas 6 - Cleburne,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA331-C,Arkansas 8 - Franklin,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA332-C,Arkansas 9 - Polk,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA333-C,Arkansas 10 - Garland,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA334-C,Arkansas 11 - Hempstead,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA327-C,Arkansas 4 - Clay,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA391-C,Idaho 4 - Elmore,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA326-C,Arkansas 3 - Sharp,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA384-C,Georgia 14 - Worth,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA383-C,Georgia 13 - Early,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA381-C,Georgia 11 - Toombs,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA379-C,Georgia 9 - Marion,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA378-C,Georgia 8 - Warren,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA377-C,Georgia 7 - Hancock,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA734-C,Northern Mariana Islands,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA335-C,Arkansas 12 - Ouachita,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA314-C,Alabama 8 - Lee,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA303-C,"Aurora-Elgin, IL",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA305-C,"Alton-Granite City, IL",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA404-C,Indiana 2 - Kosciusko,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA403-C,Indiana 1 - Newton,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA309-C,Alabama 3 - Lamar,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA310-C,Alabama 4 - Bibb,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA328-C,Arkansas 5 - Cross,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA396-C,Illinois 3 - Mercer,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA237-C,"Tyler, TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA316-C,Alaska 2 - Bethel,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA395-C,Illinois 2 - Bureau,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA320-C,Arizona 3 - Navajo,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA394-C,Illinois 1 - Jo Davie,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA392-C,Idaho 5 - Butte,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA324-C,Arkansas 1 - Madison,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA325-C,Arkansas 2 - Marion,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA397-C,Illinois 4 - Adams,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA498-C,Mississippi 6 - Montgomery,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA240-C,"Texarkana, AR-TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA181-C,"Muskegon, MI",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA501-C,Mississippi 9 - Copiah,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA183-C,"Asheville, NC",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA500-C,Mississippi 8 - Claiborne,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA185-C,"Terre Haute, IN",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA502-C,Mississippi 10 - Smith,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA187-C,"Anchorage, AK",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA177-C,"Battle Creek, MI",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA497-C,Mississippi 5 - Washington,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA190-C,"Boise City, ID",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA495-C,Mississippi 3 - Bolivar,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA487-C,Minnesota 6 - Hubbard,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA193-C,"Benton Harbor, MI",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA194-C,"Waco, TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA486-C,Minnesota 5 - Wilkin,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA499-C,Mississippi 7 - Leake,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA162-C,"Brownsville-Harlingen, TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA553-C,New Mexico 1 - San Juan,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA143-C,"Johnstown, PA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA145-C,"Hamilton-Middletown, OH",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA549-C,New Hampshire 2 - Carroll,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA147-C,"Ponce, PR",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA548-C,New Hampshire 1 - Coos,FCC,0,0
+44,Lower 700 MHz Band,WZ-EAG701-D,Northeast,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA158-C,"Lima, OH",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA483-C,Minnesota 2 - Lake of the Wood,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA163-C,"Springfield, MO",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA165-C,Fort Smith AR-OK,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA521-C,Missouri 18 - Perry,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA520-C,Missouri 17 - Shannon,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA169-C,"Mayaguez, PR",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA519-C,Missouri 16 - Laclede,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA516-C,Missouri 13 - Washington,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA152-C,"Portland, ME",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA455-C,Louisiana 2 - Morehouse,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA219-C,"Monroe, LA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA220-C,"Abilene, TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA463-C,Maine 1 - Oxford,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA223-C,"Elkhart-Goshen, IN",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA224-C,"Bangor, ME",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA225-C,"Altoona, PA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA485-C,Minnesota 4 - Lake,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA227-C,"Anderson, SC",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA466-C,Maine 4 - Washington,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA454-C,Louisiana 1 - Claiborne,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA231-C,"Mansfield, OH",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA443-C,Kentucky 1 - Fulton,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA233-C,"Wichita Falls, TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA235-C,"Petersburg-Hopewell, VA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA236-C,"Muncie, IN",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA140-C,"Charleston, WV",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA457-C,Louisiana 4 - Caldwell,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA207-C,"Jackson, MI",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA238-C,"Sharon, PA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA199-C,"Steubenville-Weirton, OH-WV",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA200-C,"Parkersburg-Marietta, OH-WV",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA201-C,"Waterloo-Cedar Falls, IA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA202-C,"Arecibo, PR",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA203-C,"Lynchburg, VA",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA204-C,"Aguadilla, PR",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA464-C,Maine 2 - Somerset,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA206-C,"Longview-Marshall, TX",FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA465-C,Maine 3 - Kennebec,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA480-C,Michigan 9 - Cass,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA479-C,Michigan 8 - Allegan,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA476-C,Michigan 5 - Manistee,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA472-C,Michigan 1 - Gogebic,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA469-C,Maryland 3 - Frederick,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA467-C,Maryland 1 - Garrett,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA484-C,Minnesota 3 - Koochiching,FCC,0,0
+44,Lower 700 MHz Band,WZ-CMA482-C,Minnesota 1 - Kittson,FCC,0,0

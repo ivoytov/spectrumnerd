@@ -8,6 +8,7 @@ var licenseSchema = Schema({
     marketCode: String,
     marketDesc: String,
     population: {type: Number, index: true, default: 0},
+    area: Number,
     counties: Array,
     MHz: Number,
     channel: String,
@@ -23,7 +24,12 @@ licenseSchema.virtual('MHzPOPs').get(function() {
 
 licenseSchema.virtual('pricePerPOP').get(function(argument) {
     if(this.bid == null) return null
-    return this.bid.amount.net / this.MHzPOPs
+    return this.bid.amount.gross / this.MHzPOPs
+})
+
+licenseSchema.virtual('density').get(function(argument) {
+    if(this.area == null) return null
+    return this.population / this.area
 })
 
 licenseSchema.methods.list = function () {

@@ -1,0 +1,257 @@
+Auction_id,Auction_Desc,bid_id,bip_desc,bidder_name,bid_amt,net_bid_amt
+49,Lower 700 MHz Band,WZ-EAG703-D,Southeast,QUALCOMM Incorporated,9458000,9458000
+49,Lower 700 MHz Band,WZ-EAG701-D,Northeast,QUALCOMM Incorporated,8246000,8246000
+49,Lower 700 MHz Band,WZ-EAG705-D,Central / Mountain,QUALCOMM Incorporated,7845000,7845000
+49,Lower 700 MHz Band,WZ-EAG704-D,Great Lakes,QUALCOMM Incorporated,6629000,6629000
+49,Lower 700 MHz Band,WZ-EAG702-D,Mid-Atlantic,QUALCOMM Incorporated,5858000,5858000
+49,Lower 700 MHz Band,WZ-CMA044-C,"Albany-Schenectady-Troy, NY","Vermont Telephone Company, Inc.",1099000,934150
+49,Lower 700 MHz Band,WZ-CMA034-C,"Rochester, NY","Aloha Partners II, L.P.",862000,560300
+49,Lower 700 MHz Band,WZ-CMA064-C,"Grand Rapids, MI",LIN Television Corporation,447000,447000
+49,Lower 700 MHz Band,WZ-CMA025-C,"Buffalo, NY","Cavalier Group, LLC",639000,415350
+49,Lower 700 MHz Band,WZ-CMA055-C,"Worchester-Leominster, MA",Viacel Corporation,620000,403000
+49,Lower 700 MHz Band,WZ-CMA048-C,"Toledo, OH-MI","Aloha Partners II, L.P.",586000,380900
+49,Lower 700 MHz Band,WZ-CMA053-C,"Syracuse, NY","Aloha Partners II, L.P.",536000,348400
+49,Lower 700 MHz Band,WZ-CMA105-C,"Lancaster, PA","D&E Investments, Inc.",327000,327000
+49,Lower 700 MHz Band,WZ-CMA091-C,"San Juan-Caguas, PR","Aloha Partners II, L.P.",471000,306150
+49,Lower 700 MHz Band,WZ-CMA118-C,"Reading, PA","D&E Investments, Inc.",282000,282000
+49,Lower 700 MHz Band,WZ-CMA181-C,"Muskegon, MI",LIN Television Corporation,266000,266000
+49,Lower 700 MHz Band,WZ-CMA589-C,Ohio 5 - Hancock,"Lima Directional Paging Co., Inc.",351000,263250
+49,Lower 700 MHz Band,WZ-CMA190-C,"Boise City, ID","Banks Broadcasting, Inc.",341000,255750
+49,Lower 700 MHz Band,WZ-CMA680-C,Vermont 2 - Addison,"Vermont Telephone Company, Inc.",291000,247350
+49,Lower 700 MHz Band,WZ-CMA679-C,Vermont 1 - Franklin,"Vermont Telephone Company, Inc.",282000,239700
+49,Lower 700 MHz Band,WZ-CMA078-C,"Lansing-East Lansing, MI","AGRI-VALLEY COMMUNICATIONS, INC.",279000,237150
+49,Lower 700 MHz Band,WZ-CMA561-C,New York 3 - Chautauqua,Lynch 3G Comminications Corporation,232000,232000
+49,Lower 700 MHz Band,WZ-CMA152-C,"Portland, ME",Whidbey Telephone Company,270000,229500
+49,Lower 700 MHz Band,WZ-CMA480-C,Michigan 9 - Cass,LIN Television Corporation,225000,225000
+49,Lower 700 MHz Band,WZ-CMA052-C,"Akron, OH","Aloha Partners II, L.P.",346000,224900
+49,Lower 700 MHz Band,WZ-CMA158-C,"Lima, OH","Lima Directional Paging Co., Inc.",277000,207750
+49,Lower 700 MHz Band,WZ-CMA586-C,Ohio 2 - Sandusky,"Aloha Partners II, L.P.",311000,202150
+49,Lower 700 MHz Band,WZ-CMA553-C,New Mexico 1 - San Juan,Lynch 3G Comminications Corporation,192000,192000
+49,Lower 700 MHz Band,WZ-CMA128-C,"McAllen-Edinburg-Mission, TX","Aloha Partners II, L.P.",293000,190450
+49,Lower 700 MHz Band,WZ-CMA084-C,"Harrisburg, PA","Cavalier Group, LLC",293000,190450
+49,Lower 700 MHz Band,WZ-CMA099-C,"York, PA","Cavalier Group, LLC",278000,180700
+49,Lower 700 MHz Band,WZ-CMA096-C,"Fort Wayne, IN",LIN Television Corporation,179000,179000
+49,Lower 700 MHz Band,WZ-CMA601-C,Oklahoma 6 - Seminole,"Aloha Partners II, L.P.",257000,167050
+49,Lower 700 MHz Band,WZ-CMA404-C,Indiana 2 - Kosciusko,LIN Television Corporation,167000,167000
+49,Lower 700 MHz Band,WZ-CMA165-C,Fort Smith AR-OK,"Aloha Partners II, L.P.",256000,166400
+49,Lower 700 MHz Band,WZ-CMA112-C,"Corpus Christi, TX","Aloha Partners II, L.P.",251000,163150
+49,Lower 700 MHz Band,WZ-CMA588-C,Ohio 4 - Mercer,"Aloha Partners II, L.P.",249000,161850
+49,Lower 700 MHz Band,WZ-CMA669-C,Texas 18 - Edwards,"Valley Telephone Cooperative, Inc.",190000,161500
+49,Lower 700 MHz Band,WZ-CMA670-C,Texas 19 - Atascosa,"Valley Telephone Cooperative, Inc.",189000,160650
+49,Lower 700 MHz Band,WZ-CMA187-C,"Anchorage, AK",Whidbey Telephone Company,181000,153850
+49,Lower 700 MHz Band,WZ-CMA248-C,"Burlington, VT","Vermont Telephone Company, Inc.",179000,152150
+49,Lower 700 MHz Band,WZ-CMA100-C,"Shreveport, LA","Aloha Partners II, L.P.",229000,148850
+49,Lower 700 MHz Band,WZ-CMA194-C,"Waco, TX",LIN Television Corporation,140000,140000
+49,Lower 700 MHz Band,WZ-CMA058-C,"Allentown-Bethlehem, PA-NJ","Cavalier Group, LLC",213000,138450
+49,Lower 700 MHz Band,WZ-CMA585-C,Ohio 1 - Williams,LIN Television Corporation,135000,135000
+49,Lower 700 MHz Band,WZ-CMA425-C,Iowa 14 - Kossuth,WCTA Wireless Inc.,157000,133450
+49,Lower 700 MHz Band,WZ-CMA120-C,"Huntsville, AL","Corr Wireless Communications, LLC",153000,130050
+49,Lower 700 MHz Band,WZ-CMA281-C,"Laredo, TX","Valley Telephone Cooperative, Inc.",152000,129200
+49,Lower 700 MHz Band,WZ-CMA163-C,"Springfield, MO",BPS Telephone Company,151000,128350
+49,Lower 700 MHz Band,WZ-CMA286-C,"Dubuque, IA",Lynch 3G Comminications Corporation,128000,128000
+49,Lower 700 MHz Band,WZ-CMA177-C,"Battle Creek, MI",LIN Television Corporation,126000,126000
+49,Lower 700 MHz Band,WZ-CMA391-C,Idaho 4 - Elmore,"Banks Broadcasting, Inc.",166000,124500
+49,Lower 700 MHz Band,WZ-CMA056-C,"Northeast Pennsylvania, PA","Cavalier Group, LLC",187000,121550
+49,Lower 700 MHz Band,WZ-CMA068-C,"Flint, MI","Aloha Partners II, L.P.",181000,117650
+49,Lower 700 MHz Band,WZ-CMA395-C,Illinois 2 - Bureau,"Aloha Partners II, L.P.",181000,117650
+49,Lower 700 MHz Band,WZ-CMA206-C,"Longview-Marshall, TX","Peoples Telephone Cooperative, Inc.",132000,112200
+49,Lower 700 MHz Band,WZ-CMA397-C,Illinois 4 - Adams,"Adams Telcom, Inc.",147000,110250
+49,Lower 700 MHz Band,WZ-CMA201-C,"Waterloo-Cedar Falls, IA","KM Communications, Inc.",127000,107950
+49,Lower 700 MHz Band,WZ-CMA162-C,"Brownsville-Harlingen, TX","Aloha Partners II, L.P.",163000,105950
+49,Lower 700 MHz Band,WZ-CMA476-C,Michigan 5 - Manistee,"AGRI-VALLEY COMMUNICATIONS, INC.",123000,104550
+49,Lower 700 MHz Band,WZ-CMA560-C,New York 2 - Franklin,"Westelcom Network, Inc.",135000,101250
+49,Lower 700 MHz Band,WZ-CMA054-C,"Gary-Hammond-East Chicago, IN","Aloha Partners II, L.P.",155000,100750
+49,Lower 700 MHz Band,WZ-CMA237-C,"Tyler, TX","Peoples Telephone Cooperative, Inc.",115000,97750
+49,Lower 700 MHz Band,WZ-CMA465-C,Maine 3 - Kennebec,Whidbey Telephone Company,115000,97750
+49,Lower 700 MHz Band,WZ-CMA396-C,Illinois 3 - Mercer,"Adams Telcom, Inc.",122000,91500
+49,Lower 700 MHz Band,WZ-CMA223-C,"Elkhart-Goshen, IN",LIN Television Corporation,91000,91000
+49,Lower 700 MHz Band,WZ-CMA559-C,New York 1 - Jefferson,"Westelcom Network, Inc.",121000,90750
+49,Lower 700 MHz Band,WZ-CMA392-C,Idaho 5 - Butte,"Banks Broadcasting, Inc.",115000,86250
+49,Lower 700 MHz Band,WZ-CMA240-C,"Texarkana, AR-TX","Peoples Telephone Cooperative, Inc.",99000,84150
+49,Lower 700 MHz Band,WZ-CMA259-C,"State College, PA","D&E Investments, Inc.",84000,84000
+49,Lower 700 MHz Band,WZ-CMA327-C,Arkansas 4 - Clay,"Aloha Partners II, L.P.",128000,83200
+49,Lower 700 MHz Band,WZ-CMA132-C,"Kalamazoo, MI",LIN Television Corporation,82000,82000
+49,Lower 700 MHz Band,WZ-CMA590-C,Ohio 6 - Morrow,"Aloha Partners II, L.P.",122000,79300
+49,Lower 700 MHz Band,WZ-CMA424-C,Iowa 13 - Mitchell,"KM Communications, Inc.",92000,78200
+49,Lower 700 MHz Band,WZ-CMA292-C,"Sherman-Denison, TX","Aloha Partners II, L.P.",120000,78000
+49,Lower 700 MHz Band,WZ-CMA394-C,Illinois 1 - Jo Davie,"Cavalier Group, LLC",117000,76050
+49,Lower 700 MHz Band,WZ-CMA220-C,"Abilene, TX","Aloha Partners II, L.P.",111000,72150
+49,Lower 700 MHz Band,WZ-CMA427-C,Iowa 16 - Lyon,Wireless Network Management,96000,72000
+49,Lower 700 MHz Band,WZ-CMA225-C,"Altoona, PA","D&E Investments, Inc.",71000,71000
+49,Lower 700 MHz Band,WZ-CMA516-C,Missouri 13 - Washington,BPS Telephone Company,81000,68850
+49,Lower 700 MHz Band,WZ-CMA472-C,Michigan 1 - Gogebic,Lynch 3G Comminications Corporation,68000,68000
+49,Lower 700 MHz Band,WZ-CMA255-C,"Odessa, TX","United Telephone Association, Inc.",90000,67500
+49,Lower 700 MHz Band,WZ-CMA233-C,"Wichita Falls, TX","Aloha Partners II, L.P.",103000,66950
+49,Lower 700 MHz Band,WZ-CMA085-C,"Johnson City-Kingsport, TN-VA","Aloha Partners II, L.P.",101000,65650
+49,Lower 700 MHz Band,WZ-CMA087-C,"Canton, OH","Aloha Partners II, L.P.",101000,65650
+49,Lower 700 MHz Band,WZ-CMA619-C,Pennsylvania 8 - Union,"Cavalier Group, LLC",100000,65000
+49,Lower 700 MHz Band,WZ-CMA602-C,Oklahoma 7 - Beckham,"Pioneer Telephone Cooperative, Inc.",64000,64000
+49,Lower 700 MHz Band,WZ-CMA251-C,"Williamsport, PA","D&E Investments, Inc.",64000,64000
+49,Lower 700 MHz Band,WZ-CMA207-C,"Jackson, MI","Aloha Partners II, L.P.",97000,63050
+49,Lower 700 MHz Band,WZ-CMA224-C,"Bangor, ME",Whidbey Telephone Company,74000,62900
+49,Lower 700 MHz Band,WZ-CMA548-C,New Hampshire 1 - Coos,"Aloha Partners II, L.P.",96000,62400
+49,Lower 700 MHz Band,WZ-CMA103-C,"Peoria, IL","Cavalier Group, LLC",95000,61750
+49,Lower 700 MHz Band,WZ-CMA690-C,Virginia 10 - Frederick,"DataCom Wireless, L.L.C.",92000,59800
+49,Lower 700 MHz Band,WZ-CMA411-C,Indiana 9 - Decatur,"Aloha Partners II, L.P.",91000,59150
+49,Lower 700 MHz Band,WZ-CMA335-C,Arkansas 12 - Ouachita,"Aloha Partners II, L.P.",91000,59150
+49,Lower 700 MHz Band,WZ-CMA066-C,"Youngstown-Warren, OH","Aloha Partners II, L.P.",90000,58500
+49,Lower 700 MHz Band,WZ-CMA314-C,Alabama 8 - Lee,"Cavalier Group, LLC",89000,57850
+49,Lower 700 MHz Band,WZ-CMA129-C,"South Bend-Mishawaka, IN","Aloha Partners II, L.P.",86000,55900
+49,Lower 700 MHz Band,WZ-CMA487-C,Minnesota 6 - Hubbard,"United Telephone Association, Inc.",74000,55500
+49,Lower 700 MHz Band,WZ-CMA266-C,"Glens Falls, NY","Vermont Telephone Company, Inc.",65000,55250
+49,Lower 700 MHz Band,WZ-CMA247-C,"Lafayette, IN",LIN Television Corporation,55000,55000
+49,Lower 700 MHz Band,WZ-CMA604-C,Oklahoma 9 - Garvin,"Aloha Partners II, L.P.",82000,53300
+49,Lower 700 MHz Band,WZ-CMA219-C,"Monroe, LA",Delta Media Corporation,82000,53300
+49,Lower 700 MHz Band,WZ-CMA320-C,Arizona 3 - Navajo,"Aloha Partners II, L.P.",81000,52650
+49,Lower 700 MHz Band,WZ-CMA136-C,"Lorain-Elyria, OH","Aloha Partners II, L.P.",81000,52650
+49,Lower 700 MHz Band,WZ-CMA180-C,"Springfield, OH","Aloha Partners II, L.P.",81000,52650
+49,Lower 700 MHz Band,WZ-CMA260-C,"Lawton, OK","United Telephone Association, Inc.",70000,52500
+49,Lower 700 MHz Band,WZ-CMA295-C,"Midland, TX","United Telephone Association, Inc.",70000,52500
+49,Lower 700 MHz Band,WZ-CMA130-C,"Erie, PA","Cavalier Group, LLC",79000,51350
+49,Lower 700 MHz Band,WZ-CMA734-C,Northern Mariana Islands,"KM Communications, Inc.",60000,51000
+49,Lower 700 MHz Band,WZ-CMA287-C,"Bryan-College Station, TX","Aloha Partners II, L.P.",76000,49400
+49,Lower 700 MHz Band,WZ-CMA185-C,"Terre Haute, IN","Aloha Partners II, L.P.",75000,48750
+49,Lower 700 MHz Band,WZ-CMA310-C,Alabama 4 - Bibb,"Cavalier Group, LLC",74000,48100
+49,Lower 700 MHz Band,WZ-CMA617-C,Pennsylvania 6 - Lawrence,"Cavalier Group, LLC",74000,48100
+49,Lower 700 MHz Band,WZ-CMA145-C,"Hamilton-Middletown, OH","Aloha Partners II, L.P.",73000,47450
+49,Lower 700 MHz Band,WZ-CMA691-C,Virginia 11 - Madison,"DataCom Wireless, L.L.C.",73000,47450
+49,Lower 700 MHz Band,WZ-CMA389-C,Idaho 2 - Idaho,"Banks Broadcasting, Inc.",62000,46500
+49,Lower 700 MHz Band,WZ-CMA464-C,Maine 2 - Somerset,Whidbey Telephone Company,53000,45050
+49,Lower 700 MHz Band,WZ-CMA236-C,"Muncie, IN",LIN Television Corporation,45000,45000
+49,Lower 700 MHz Band,WZ-CMA549-C,New Hampshire 2 - Carroll,"Cavalier Group, LLC",67000,43550
+49,Lower 700 MHz Band,WZ-CMA333-C,Arkansas 10 - Garland,"Aloha Partners II, L.P.",67000,43550
+49,Lower 700 MHz Band,WZ-CMA521-C,Missouri 18 - Perry,BPS Telephone Company,51000,43350
+49,Lower 700 MHz Band,WZ-CMA486-C,Minnesota 5 - Wilkin,"Red River Rural Telephone Association, Inc.",51000,43350
+49,Lower 700 MHz Band,WZ-CMA231-C,"Mansfield, OH","Lima Directional Paging Co., Inc.",57000,42750
+49,Lower 700 MHz Band,WZ-CMA253-C,"Sioux City, IA-NE",Kennebec Telephone Company,65000,42250
+49,Lower 700 MHz Band,WZ-CMA455-C,Louisiana 2 - Morehouse,Delta Media Corporation,61000,39650
+49,Lower 700 MHz Band,WZ-CMA645-C,Tennessee 3 - Macon,"Aloha Partners II, L.P.",61000,39650
+49,Lower 700 MHz Band,WZ-CMA454-C,Louisiana 1 - Claiborne,Delta Media Corporation,61000,39650
+49,Lower 700 MHz Band,WZ-CMA147-C,"Ponce, PR","Aloha Partners II, L.P.",59000,38350
+49,Lower 700 MHz Band,WZ-CMA647-C,Tennessee 5 - Fayette,"Aloha Partners II, L.P.",58000,37700
+49,Lower 700 MHz Band,WZ-CMA309-C,Alabama 3 - Lamar,"Cavalier Group, LLC",57000,37050
+49,Lower 700 MHz Band,WZ-CMA612-C,Pennsylvania 1 - Crawford,"Cavalier Group, LLC",56000,36400
+49,Lower 700 MHz Band,WZ-CMA291-C,"Pine Bluff, AR","Aloha Partners II, L.P.",54000,35100
+49,Lower 700 MHz Band,WZ-CMA578-C,North Carolina 14 - Pitt,"CAPITOL BROADCASTING COMPANY, INC.",35000,35000
+49,Lower 700 MHz Band,WZ-CMA325-C,Arkansas 2 - Marion,"United Telephone Association, Inc.",46000,34500
+49,Lower 700 MHz Band,WZ-CMA122-C,"Binghamton, NY","Cavalier Group, LLC",52000,33800
+49,Lower 700 MHz Band,WZ-CMA562-C,New York 4 - Yates,"Cavalier Group, LLC",52000,33800
+49,Lower 700 MHz Band,WZ-CMA643-C,Tennessee 1 - Lake,"Aloha Partners II, L.P.",51000,33150
+49,Lower 700 MHz Band,WZ-CMA140-C,"Charleston, WV",David M. Gates,51000,33150
+49,Lower 700 MHz Band,WZ-CMA384-C,Georgia 14 - Worth,"Cavalier Group, LLC",50000,32500
+49,Lower 700 MHz Band,WZ-CMA282-C,"Bloomington, IN","Aloha Partners II, L.P.",50000,32500
+49,Lower 700 MHz Band,WZ-CMA463-C,Maine 1 - Oxford,Whidbey Telephone Company,38000,32300
+49,Lower 700 MHz Band,WZ-CMA469-C,Maryland 3 - Frederick,"Aloha Partners II, L.P.",49000,31850
+49,Lower 700 MHz Band,WZ-CMA203-C,"Lynchburg, VA","Aloha Partners II, L.P.",49000,31850
+49,Lower 700 MHz Band,WZ-CMA626-C,South Carolina 2 - Laurens,"Cavalier Group, LLC",49000,31850
+49,Lower 700 MHz Band,WZ-CMA520-C,Missouri 17 - Shannon,BPS Telephone Company,37000,31450
+49,Lower 700 MHz Band,WZ-CMA466-C,Maine 4 - Washington,Whidbey Telephone Company,37000,31450
+49,Lower 700 MHz Band,WZ-CMA565-C,North Carolina 1 - Cherokee,"Aloha Partners II, L.P.",48000,31200
+49,Lower 700 MHz Band,WZ-CMA618-C,Pennsylvania 7 - Jefferson,"Cavalier Group, LLC",48000,31200
+49,Lower 700 MHz Band,WZ-CMA378-C,Georgia 8 - Warren,"Aloha Partners II, L.P.",48000,31200
+49,Lower 700 MHz Band,WZ-CMA249-C,"Anniston, AL","Corr Wireless Communications, LLC",36000,30600
+49,Lower 700 MHz Band,WZ-CMA568-C,North Carolina 4 - Henderson,"Cavalier Group, LLC",47000,30550
+49,Lower 700 MHz Band,WZ-CMA329-C,Arkansas 6 - Cleburne,"Aloha Partners II, L.P.",47000,30550
+49,Lower 700 MHz Band,WZ-CMA328-C,Arkansas 5 - Cross,"Aloha Partners II, L.P.",47000,30550
+49,Lower 700 MHz Band,WZ-CMA603-C,Oklahoma 8 - Jackson,"Pioneer Telephone Cooperative, Inc.",30000,30000
+49,Lower 700 MHz Band,WZ-CMA646-C,Tennessee 4 - Hamblen,"Aloha Partners II, L.P.",45000,29250
+49,Lower 700 MHz Band,WZ-CMA377-C,Georgia 7 - Hancock,"Aloha Partners II, L.P.",45000,29250
+49,Lower 700 MHz Band,WZ-CMA272-C,"Gadsden, AL","Corr Wireless Communications, LLC",34000,28900
+49,Lower 700 MHz Band,WZ-CMA457-C,Louisiana 4 - Caldwell,Delta Media Corporation,44000,28600
+49,Lower 700 MHz Band,WZ-CMA593-C,Ohio 9 - Ross,"Aloha Partners II, L.P.",44000,28600
+49,Lower 700 MHz Band,WZ-CMA519-C,Missouri 16 - Laclede,BPS Telephone Company,33000,28050
+49,Lower 700 MHz Band,WZ-CMA600-C,Oklahoma 5 - Roger Mills,"Pioneer Telephone Cooperative, Inc.",28000,28000
+49,Lower 700 MHz Band,WZ-CMA417-C,Iowa 6 - Iowa,"Grand River Communications, Inc.",32000,27200
+49,Lower 700 MHz Band,WZ-CMA569-C,North Carolina 5 - Anson,"CAPITOL BROADCASTING COMPANY, INC.",27000,27000
+49,Lower 700 MHz Band,WZ-CMA193-C,"Benton Harbor, MI","Aloha Partners II, L.P.",41000,26650
+49,Lower 700 MHz Band,WZ-CMA707-C,West Virginia 7 - Raleigh,David M. Gates,41000,26650
+49,Lower 700 MHz Band,WZ-CMA631-C,South Carolina 7 - Calhoun,"Aloha Partners II, L.P.",41000,26650
+49,Lower 700 MHz Band,WZ-CMA591-C,Ohio 7 - Tuscarawas,"Aloha Partners II, L.P.",40000,26000
+49,Lower 700 MHz Band,WZ-CMA326-C,Arkansas 3 - Sharp,"United Telephone Association, Inc.",34000,25500
+49,Lower 700 MHz Band,WZ-CMA183-C,"Asheville, NC","Aloha Partners II, L.P.",39000,25350
+49,Lower 700 MHz Band,WZ-CMA273-C,"Kankakee, IL","McBride Spectrum Partners II, LLC",39000,25350
+49,Lower 700 MHz Band,WZ-CMA649-C,Tennessee 7 - Bledsoe,"Aloha Partners II, L.P.",39000,25350
+49,Lower 700 MHz Band,WZ-CMA293-C,"Owensboro, KY","Bluegrass Cellular, Inc.",25000,25000
+49,Lower 700 MHz Band,WZ-CMA324-C,Arkansas 1 - Madison,"Aloha Partners II, L.P.",38000,24700
+49,Lower 700 MHz Band,WZ-CMA143-C,"Johnstown, PA","Cavalier Group, LLC",37000,24050
+49,Lower 700 MHz Band,WZ-CMA331-C,Arkansas 8 - Franklin,"Aloha Partners II, L.P.",36000,23400
+49,Lower 700 MHz Band,WZ-CMA258-C,"Jacksonville, NC","CAPITOL BROADCASTING COMPANY, INC.",23000,23000
+49,Lower 700 MHz Band,WZ-CMA703-C,West Virginia 3 - Monongalia,David M. Gates,34000,22100
+49,Lower 700 MHz Band,WZ-CMA334-C,Arkansas 11 - Hempstead,"Aloha Partners II, L.P.",34000,22100
+49,Lower 700 MHz Band,WZ-CMA415-C,Iowa 4 - Muscatine,"Grand River Communications, Inc.",26000,22100
+49,Lower 700 MHz Band,WZ-CMA724-C,Puerto Rico 2 - Adjuntas,"Aloha Partners II, L.P.",34000,22100
+49,Lower 700 MHz Band,WZ-CMA227-C,"Anderson, SC","Aloha Partners II, L.P.",34000,22100
+49,Lower 700 MHz Band,WZ-CMA479-C,Michigan 8 - Allegan,LIN Television Corporation,22000,22000
+49,Lower 700 MHz Band,WZ-CMA726-C,Puerto Rico 4 - Aibonito,"Aloha Partners II, L.P.",32000,20800
+49,Lower 700 MHz Band,WZ-CMA592-C,Ohio 8 - Clinton,"Aloha Partners II, L.P.",30000,19500
+49,Lower 700 MHz Band,WZ-CMA621-C,Pennsylvania 10 - Bedford,"Cavalier Group, LLC",30000,19500
+49,Lower 700 MHz Band,WZ-CMA620-C,Pennsylvania 9 - Greene,"Cavalier Group, LLC",30000,19500
+49,Lower 700 MHz Band,WZ-CMA381-C,Georgia 11 - Toombs,"Cavalier Group, LLC",30000,19500
+49,Lower 700 MHz Band,WZ-CMA498-C,Mississippi 6 - Montgomery,"Cavalier Group, LLC",30000,19500
+49,Lower 700 MHz Band,WZ-CMA499-C,Mississippi 7 - Leake,"Cavalier Group, LLC",30000,19500
+49,Lower 700 MHz Band,WZ-CMA257-C,"Hagerstown, MD","Aloha Partners II, L.P.",30000,19500
+49,Lower 700 MHz Band,WZ-CMA408-C,Indiana 6 - Randolph,"Aloha Partners II, L.P.",29000,18850
+49,Lower 700 MHz Band,WZ-CMA403-C,Indiana 1 - Newton,"Aloha Partners II, L.P.",29000,18850
+49,Lower 700 MHz Band,WZ-CMA594-C,Ohio 10 - Perry,"Aloha Partners II, L.P.",29000,18850
+49,Lower 700 MHz Band,WZ-CMA296-C,"Iowa City, IA","Grand River Communications, Inc.",22000,18700
+49,Lower 700 MHz Band,WZ-CMA416-C,Iowa 5 - Jackson,"Grand River Communications, Inc.",22000,18700
+49,Lower 700 MHz Band,WZ-CMA614-C,Pennsylvania 3 - Potter,"Cavalier Group, LLC",28000,18200
+49,Lower 700 MHz Band,WZ-CMA178-C,"Wheeling, WV-OH","Cavalier Group, LLC",28000,18200
+49,Lower 700 MHz Band,WZ-CMA686-C,Virginia 6 - Highland,"DataCom Wireless, L.L.C.",28000,18200
+49,Lower 700 MHz Band,WZ-CMA484-C,Minnesota 3 - Koochiching,"United Telephone Association, Inc.",24000,18000
+49,Lower 700 MHz Band,WZ-CMA628-C,South Carolina 4 - Chesterfiel,"Cavalier Group, LLC",27000,17550
+49,Lower 700 MHz Band,WZ-CMA200-C,"Parkersburg-Marietta, OH-WV","United Telephone Association, Inc.",23000,17250
+49,Lower 700 MHz Band,WZ-CMA704-C,West Virginia 4 - Grant,David M. Gates,26000,16900
+49,Lower 700 MHz Band,WZ-CMA379-C,Georgia 9 - Marion,"Cavalier Group, LLC",26000,16900
+49,Lower 700 MHz Band,WZ-CMA279-C,"Lewiston-Auburn, ME","Aloha Partners II, L.P.",25000,16250
+49,Lower 700 MHz Band,WZ-CMA573-C,North Carolina 9 - Camden,"CAPITOL BROADCASTING COMPANY, INC.",16000,16000
+49,Lower 700 MHz Band,WZ-CMA495-C,Mississippi 3 - Bolivar,"Cavalier Group, LLC",24000,15600
+49,Lower 700 MHz Band,WZ-CMA204-C,"Aguadilla, PR","Aloha Partners II, L.P.",24000,15600
+49,Lower 700 MHz Band,WZ-CMA502-C,Mississippi 10 - Smith,"Cavalier Group, LLC",24000,15600
+49,Lower 700 MHz Band,WZ-CMA238-C,"Sharon, PA","Cavalier Group, LLC",24000,15600
+49,Lower 700 MHz Band,WZ-CMA500-C,Mississippi 8 - Claiborne,"Cavalier Group, LLC",24000,15600
+49,Lower 700 MHz Band,WZ-CMA497-C,Mississippi 5 - Washington,"Cavalier Group, LLC",24000,15600
+49,Lower 700 MHz Band,WZ-CMA422-C,Iowa 11 - Hardin,"Cavalier Group, LLC",24000,15600
+49,Lower 700 MHz Band,WZ-CMA613-C,Pennsylvania 2 - McKean,"Cavalier Group, LLC",24000,15600
+49,Lower 700 MHz Band,WZ-CMA583-C,North Dakota 4 - McKenzie,Kennebec Telephone Company,23000,14950
+49,Lower 700 MHz Band,WZ-CMA383-C,Georgia 13 - Early,"Cavalier Group, LLC",23000,14950
+49,Lower 700 MHz Band,WZ-CMA443-C,Kentucky 1 - Fulton,"Aloha Partners II, L.P.",23000,14950
+49,Lower 700 MHz Band,WZ-CMA316-C,Alaska 2 - Bethel,"Aloha Partners II, L.P.",22000,14300
+49,Lower 700 MHz Band,WZ-CMA625-C,South Carolina 1 - Oconee,"Aloha Partners II, L.P.",22000,14300
+49,Lower 700 MHz Band,WZ-CMA199-C,"Steubenville-Weirton, OH-WV","Aloha Partners II, L.P.",21000,13650
+49,Lower 700 MHz Band,WZ-CMA687-C,Virginia 7 - Buckingham,"DataCom Wireless, L.L.C.",21000,13650
+49,Lower 700 MHz Band,WZ-CMA426-C,Iowa 15 - Dickinson,Wireless Network Management,18000,13500
+49,Lower 700 MHz Band,WZ-CMA482-C,Minnesota 1 - Kittson,"United Telephone Association, Inc.",18000,13500
+49,Lower 700 MHz Band,WZ-CMA501-C,Mississippi 9 - Copiah,"Cavalier Group, LLC",20000,13000
+49,Lower 700 MHz Band,WZ-CMA705-C,West Virginia 5 - Tucker,David M. Gates,19000,12350
+49,Lower 700 MHz Band,WZ-CMA615-C,Pennsylvania 4 - Bradford,"Cavalier Group, LLC",19000,12350
+49,Lower 700 MHz Band,WZ-CMA622-C,Pennsylvania 11 - Huntington,"Cavalier Group, LLC",19000,12350
+49,Lower 700 MHz Band,WZ-CMA595-C,Ohio 11 - Columbiana,"Aloha Partners II, L.P.",19000,12350
+49,Lower 700 MHz Band,WZ-CMA303-C,"Aurora-Elgin, IL","Cavalier Group, LLC",19000,12350
+49,Lower 700 MHz Band,WZ-CMA685-C,Virginia 5 - Bath,"Aloha Partners II, L.P.",18000,11700
+49,Lower 700 MHz Band,WZ-CMA725-C,Puerto Rico 3 - Ciales,"Aloha Partners II, L.P.",18000,11700
+49,Lower 700 MHz Band,WZ-CMA332-C,Arkansas 9 - Polk,"Aloha Partners II, L.P.",18000,11700
+49,Lower 700 MHz Band,WZ-CMA710-C,Wisconsin 3 - Vilas,"Acumen Technologies, Inc.",17000,11050
+49,Lower 700 MHz Band,WZ-CMA651-C,Tennessee 9 - Maury,"Aloha Partners II, L.P.",17000,11050
+49,Lower 700 MHz Band,WZ-CMA627-C,South Carolina 3 - Cherokee,"Cavalier Group, LLC",17000,11050
+49,Lower 700 MHz Band,WZ-CMA587-C,Ohio 3 - Ashtabula,"Aloha Partners II, L.P.",16000,10400
+49,Lower 700 MHz Band,WZ-CMA269-C,"Cumberland, MD-WV","Aloha Partners II, L.P.",16000,10400
+49,Lower 700 MHz Band,WZ-CMA235-C,"Petersburg-Hopewell, VA","Aloha Partners II, L.P.",16000,10400
+49,Lower 700 MHz Band,WZ-CMA483-C,Minnesota 2 - Lake of the Wood,RED LAKE BAND OF CHIPPEWA INDIANS,9800,9800
+49,Lower 700 MHz Band,WZ-CMA262-C,"Danville, VA","Aloha Partners II, L.P.",15000,9750
+49,Lower 700 MHz Band,WZ-CMA407-C,Indiana 5 - Warren,"Aloha Partners II, L.P.",15000,9750
+49,Lower 700 MHz Band,WZ-CMA689-C,Virginia 9 - Greensville,"Aloha Partners II, L.P.",13000,8450
+49,Lower 700 MHz Band,WZ-CMA305-C,"Alton-Granite City, IL","Aloha Partners II, L.P.",13000,8450
+49,Lower 700 MHz Band,WZ-CMA605-C,Oklahoma 10 - Haskell,"Aloha Partners II, L.P.",12000,7800
+49,Lower 700 MHz Band,WZ-CMA688-C,Virginia 8 - Amelia,"Aloha Partners II, L.P.",11000,7150
+49,Lower 700 MHz Band,WZ-CMA733-C,American Samoa,American Samoa Telecommunications Authority,6900,6900
+49,Lower 700 MHz Band,WZ-CMA701-C,West Virginia 1 - Mason,David M. Gates,9700,6305
+49,Lower 700 MHz Band,WZ-CMA702-C,West Virginia 2 - Wetzel,David M. Gates,9700,6305
+49,Lower 700 MHz Band,WZ-CMA485-C,Minnesota 4 - Lake,"United Telephone Association, Inc.",6000,4500
+49,Lower 700 MHz Band,WZ-CMA467-C,Maryland 1 - Garrett,"Aloha Partners II, L.P.",4600,2990
+49,Lower 700 MHz Band,WZ-CMA728-C,Puerto Rico 6 - Vieques,Viacel Corporation,1400,910
+49,Lower 700 MHz Band,WZ-CMA202-C,"Arecibo, PR",FCC,0,0
+49,Lower 700 MHz Band,WZ-CMA723-C,Puerto Rico 1 - Rincon,FCC,0,0
+49,Lower 700 MHz Band,WZ-CMA169-C,"Mayaguez, PR",FCC,0,0
+49,Lower 700 MHz Band,WZ-CMA727-C,Puerto Rico 5 - Ceiba,FCC,0,0
+49,Lower 700 MHz Band,WZ-CMA729-C,Puerto Rico 7 - Culebra,FCC,0,0

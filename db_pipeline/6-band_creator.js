@@ -20,7 +20,7 @@ function summaryQuery(name, callback) {
 	{$project: { commonName:1, 'channelBlock.lowerBand':1, 'channelBlock.upperBand':1
 		, counties:1, MHz:1, bid:1}},
 	{$unwind: '$counties'},
-	{$group: {_id: { carrier: '$commonName', cb: '$channelBlock', bid: '$bid.amount.net'
+	{$group: {_id: { carrier: '$commonName', cb: '$channelBlock', bid: '$bid.amount.gross'
 		, MHz: '$MHz', allcounties: '$counties'}}},
 	{$group: {_id: { carrier: '$_id.carrier', cb: '$_id.cb', price: '$_id.bid'
 		, MHz: '$_id.MHz'}, pops: {$sum: '$_id.allcounties.population'}
@@ -93,7 +93,7 @@ License.distinct("commonName", function(err, carriers) {
 
 						if(JSON.stringify(counties[i]._id) === JSON.stringify(item._id)) {
 							band_county_list = counties[i].counties
-							console.log("Found " + JSON.stringify(item._id))
+							// console.log("Found " + JSON.stringify(item._id))
 						}
 					}
 

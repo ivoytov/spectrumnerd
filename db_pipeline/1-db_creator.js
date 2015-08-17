@@ -28,7 +28,7 @@ fs.readFile('../Source Spreadsheets/output.json', 'utf8', function doneReading (
         // create license with required fields
         var lic = new License({
             id: src["\$"].id,
-            commonName: src.commonName,
+            commonName: ( src.commonName ? src.commonName : src.licenseeName ),
             callSign: src.callSign,
             marketCode: src.marketCode,
             marketDesc: src.marketDesc,

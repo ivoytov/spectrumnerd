@@ -155,6 +155,10 @@ body {
   shape-rendering: crispEdges;
 }
 
+.dot {
+  stroke: #000;
+}
+
 .x.axis path {
   display: none;
 }
@@ -165,7 +169,7 @@ body {
   path:hover{
     fill-opacity:0.5;
   }
-  #tooltip {   
+  .tooltip {   
     position: absolute;           
     text-align: center;
     padding: 20px;             
@@ -176,11 +180,11 @@ body {
     border-radius: 2px;           
     pointer-events: none;         
   }
-  #tooltip h4{
+  .tooltip h4{
     margin:0;
     font-size:14px;
   }
-  #tooltip{
+  .tooltip{
     background:rgba(0,0,0,0.9);
     border:1px solid grey;
     border-radius:5px;
@@ -190,17 +194,17 @@ body {
     color:white;
     opacity:0;
   }
-  #tooltip table{
+  .tooltip table{
     table-layout:fixed;
   }
-  #tooltip tr td{
+  .tooltip tr td{
     padding:0;
     margin:0;
   }
-  #tooltip tr td:nth-child(1){
+  .tooltip tr td:nth-child(1){
     width:50px;
   }
-  #tooltip tr td:nth-child(2){
+  .tooltip tr td:nth-child(2){
     text-align:center;
   }
 

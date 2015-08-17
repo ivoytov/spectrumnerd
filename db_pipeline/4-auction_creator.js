@@ -14,6 +14,8 @@ var fileList = [
     '../Source Spreadsheets/auction34.json',    
     '../Source Spreadsheets/auction35.json',      
     '../Source Spreadsheets/auction43.json', 
+    '../Source Spreadsheets/auction44.json', 
+    '../Source Spreadsheets/auction49.json', 
     '../Source Spreadsheets/auction58.json',     
     '../Source Spreadsheets/auction60.json',
     '../Source Spreadsheets/auction65.json',
@@ -72,17 +74,20 @@ fileList.forEach( function(file) {
 
                 switch(src.Auction_id) {
                     case 60:
+                    case 16:
+                    case 35:
+                    case 43:
+                    case 44:
+                    case 49:
+                    case 58:
                         item_name = src.bip_id
                         pw_bidder = src.bidder_name
                         pwb_amount = src.bid_amt
                         net_pwb_amount = src.net_bid_amt
+                        item_description = src.bip_desc
                         break
                     case 65:
-                    case 16:
                     case 34:
-                    case 35:
-                    case 43:
-                    case 58:
                     case 71:
                         // Auctions that have a different nomenclature in source files
                         pw_bidder = src.bidder_name

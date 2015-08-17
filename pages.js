@@ -109,6 +109,17 @@ getBands = function(name, callback) {
 	})
 } 
 
+// get all auction bids by a carrier - used for the scatter plot
+function getDensity(name, callback) {
+	License.find({commonName: name})
+		.where('bid').exists()
+		.select('-_id population area density bid marketDesc MHz')
+		.sort('bid.auction.id')
+		.exec(function (err, bids) {
+		callback(err, bids)
+	})
+}
+
 
 // find all counties making up a market code, requires a market code
 // FIXME replace this case switch with polymorphic code
@@ -174,6 +185,16 @@ exports.index = function (req, res) {
 		})
 	} else if(qry.pathname === '/api/getBands') {
 		getBands(qry.query.commonName, function(err, result) {
+			if (err) return console.error(err)
+			res.send(JSON.stringify(result))
+		})
+	} else if(qry.pathname === '/api/getBids') {
+		getBids(qry.query.FIPS, function(err, result) {
+			if (err) return console.error(err)
+			resl.send(JSON.stringify(result))
+		})
+	} else if(qry.pathname === '/api/getDensity') {
+		getDensity(qry.query.commonName, function (err, result) {
 			if (err) return console.error(err)
 			res.send(JSON.stringify(result))
 		})

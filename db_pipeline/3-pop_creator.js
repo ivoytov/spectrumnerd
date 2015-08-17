@@ -21,14 +21,18 @@ function countyPopBldr(marketCode, lic) {
 
 		var population = 0
 		lic.counties.length = 0	
+		var area = 0
 		
 		for (var i=0; i<counties.length; ++i) {
 			var cty = counties[i]
 
 			population += cty.population
+			area += (cty.area.land == null ? 0 : cty.area.land)
+			// if(cty.area.land == null) console.log('county missing area, id: ' + cty.id)
 			lic.counties.push(cty)
 		}
 		lic.population = population
+		lic.area = area
 		// console.log("License "+lic.callSign + " with market code " + lic.marketCode 
 		// 	+ " has population of " + numberWithCommas(population))
 
